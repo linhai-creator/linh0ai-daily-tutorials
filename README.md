@@ -61,6 +61,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 2. Đọc các bài đã đăng:
    - [Day 1 — Giới thiệu 0ai.vn + So sánh model](./days/day-01.md)
    - [Day 2 — Đăng ký + Credit Strategy + Dashboard](./days/day-02.md)
+   - [Day 3 — Anatomy of a Prompt: 5 thành phần cốt lõi](./days/day-03.md)
 3. Tham khảo [PRICING.md](./PRICING.md) khi cần chọn gói
 4. Mỗi ngày dành **15-30 phút** đọc + thực hành
 5. Tham gia thảo luận tại [Issues](../../issues) hoặc [Discussions](../../discussions)
