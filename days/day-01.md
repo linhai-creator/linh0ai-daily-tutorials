@@ -40,7 +40,9 @@ Vào **[0ai.vn](https://0ai.vn)** → đăng ký bằng Google (nhanh nhất).
 Sau khi đăng nhập, ở menu chính chọn **Tạo ảnh** (Image Generation).
 
 ### Bước 3: Chọn model
-Mới bắt đầu thì cứ chọn **Flux Schnell** — nhanh, ít tốn credit, đủ đẹp để khởi động.
+Mới bắt đầu thì cứ chọn **Nano Banana 2** — model mạnh nhất hiện tại trên 0ai.vn, hiểu prompt cực tốt và xuất ảnh chân thực. 
+
+Nếu credit có hạn hoặc muốn tạo nhanh nhiều ảnh để brainstorm → chọn **Image2** (nhẹ, ổn định) hoặc **Flux Schnell** (siêu nhanh).
 
 ### Bước 4: Nhập prompt mẫu
 Copy prompt này (đã có trong [`/prompts/day-01.txt`](../prompts/day-01.txt)):
