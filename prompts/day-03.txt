@@ -1,0 +1,77 @@
+# Day 3 — Sample Prompts: 10 Levels từ Dở Đến Tốt
+# File: prompts/day-03.txt
+# Topic: Vietnamese woman portrait
+# Models tested: Nano Banana 2, Image 2
+
+# ─────────────────────────────────────
+# 🔴 LEVEL 1: Quá đơn giản
+
+a woman
+
+# ─────────────────────────────────────
+# 🟠 LEVEL 2: Có chi tiết hơn nhưng vague
+
+a beautiful Vietnamese woman
+
+# ─────────────────────────────────────
+# 🟡 LEVEL 3: Thêm tuổi và setting
+
+a Vietnamese woman in her 20s, in a coffee shop
+
+# ─────────────────────────────────────
+# 🟢 LEVEL 4: Thêm STYLE (photorealistic)
+
+a Vietnamese woman in her 20s, in a coffee shop, photorealistic
+
+# ─────────────────────────────────────
+# 🟢 LEVEL 5: Thêm COMPOSITION (close-up)
+
+close-up portrait of a Vietnamese woman in her 20s, in a coffee shop, photorealistic
+
+# ─────────────────────────────────────
+# 🔵 LEVEL 6: Thêm LIGHTING (golden hour)
+
+close-up portrait of a Vietnamese woman in her 20s, in a coffee shop, photorealistic, golden hour lighting
+
+# ─────────────────────────────────────
+# 🔵 LEVEL 7: Mô tả chi tiết về người (tóc, áo dài, vintage shop)
+
+close-up portrait of a young Vietnamese woman with long black hair, wearing white áo dài, in a vintage coffee shop, photorealistic, golden hour lighting
+
+# ─────────────────────────────────────
+# 🟣 LEVEL 8: Thêm BIỂU CẢM
+
+close-up portrait of a young Vietnamese woman with long black hair, wearing white áo dài, gentle smile looking softly at camera, in a vintage coffee shop, photorealistic, golden hour lighting
+
+# ─────────────────────────────────────
+# 🟣 LEVEL 9: Thêm QUALITY TAGS
+
+close-up portrait of a young Vietnamese woman with long black hair, wearing white áo dài, gentle smile looking softly at camera, in a vintage coffee shop, photorealistic, golden hour lighting, sharp focus, bokeh background, 4K, professional photography
+
+# ─────────────────────────────────────
+# 🏆 LEVEL 10: MASTER PROMPT — Tất cả hợp lại
+
+Cinematic close-up portrait of a young Vietnamese woman in her early 20s, long flowing black hair, wearing elegant white áo dài, gentle smile with eyes looking softly at camera, sitting by the window of a vintage Hanoi coffee shop, warm afternoon golden hour light streaming through window, shallow depth of field with creamy bokeh background, shot on 85mm lens, professional editorial photography, ultra sharp focus, 4K, photorealistic, masterpiece
+
+# ─────────────────────────────────────
+# 💡 TIPS KHI TEST:
+# 
+# 1. Test cùng 1 prompt 4 lần → pick ảnh đẹp nhất (random seed)
+# 2. So sánh 2 model NBN2 vs Image 2 để thấy "gu" khác nhau
+# 3. Thử thay đổi LEVEL 10 — đổi golden hour → blue hour hoặc neon
+# 4. Lưu prompt nào ra ảnh đẹp vào file riêng để tái sử dụng
+
+# ─────────────────────────────────────
+# 🎁 BONUS: Template thay thế
+# 
+# - Đổi "Vietnamese woman" → "Vietnamese man with short hair"
+# - Đổi "white áo dài" → "casual streetwear" / "business suit"
+# - Đổi "coffee shop" → "rice paddy field" / "Hanoi old town" / "Saigon rooftop"
+# - Đổi "golden hour" → "blue hour" / "rainy day" / "neon night"
+
+# ─────────────────────────────────────
+# Recommended settings:
+# Model:        Nano Banana 2 hoặc Image 2
+# Aspect ratio: 4:5 (Facebook portrait) hoặc 1:1 (Instagram)
+# Quality:      Highest available
+# Generations:  4 ảnh/lần để pick
