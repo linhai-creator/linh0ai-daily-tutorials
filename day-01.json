@@ -1,0 +1,61 @@
+{
+  "day": 1,
+  "title": "Giới thiệu 0ai.vn — Bức ảnh đầu tiên",
+  "level": "newbie",
+  "type": "image",
+  "model": {
+    "primary": "flux-schnell",
+    "alternatives": ["flux-dev", "seedream"]
+  },
+  "prompts": [
+    {
+      "id": "d1-p1",
+      "language": "en",
+      "text": "A cozy Vietnamese coffee shop in the early morning, warm sunlight streaming through the window, a cup of cà phê sữa đá on the wooden table, vintage aesthetic, soft bokeh background, photorealistic, high detail",
+      "negative_prompt": "blurry, low quality, distorted, cartoon, illustration",
+      "settings": {
+        "aspect_ratio": "1:1",
+        "steps": 4,
+        "guidance_scale": 3.5,
+        "seed": null
+      },
+      "tags": ["coffee", "vietnam", "morning", "photorealistic"]
+    },
+    {
+      "id": "d1-p2",
+      "language": "vi",
+      "text": "Quán cà phê Việt Nam ấm cúng vào buổi sáng sớm, ánh nắng ấm chiếu qua cửa sổ, một ly cà phê sữa đá trên bàn gỗ, phong cách vintage, hậu cảnh mờ nghệ thuật, ảnh chân thực, độ chi tiết cao",
+      "negative_prompt": "mờ, chất lượng thấp, biến dạng, hoạt hình",
+      "settings": {
+        "aspect_ratio": "1:1",
+        "steps": 4,
+        "guidance_scale": 3.5,
+        "seed": null
+      },
+      "tags": ["coffee", "vietnam", "morning", "photorealistic"],
+      "note": "Test xem Flux Schnell hiểu tiếng Việt tốt cỡ nào"
+    },
+    {
+      "id": "d1-p3-var",
+      "language": "en",
+      "variation_of": "d1-p1",
+      "change": "coffee shop → phở restaurant",
+      "text": "A traditional Vietnamese phở restaurant interior at dawn, steam rising from a bowl of phở bò, dim warm lighting, wooden chopsticks, herbs on the side, cinematic photo, shallow depth of field",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "steps": 4,
+        "guidance_scale": 3.5
+      },
+      "tags": ["pho", "vietnam", "food", "cinematic"]
+    }
+  ],
+  "challenge": {
+    "description": "Đổi 1 thứ trong prompt và thử lại — đổi món ăn, thời gian trong ngày, hoặc chất liệu bàn",
+    "examples": [
+      "coffee shop → bún bò restaurant",
+      "early morning → midnight",
+      "wooden table → bamboo mat"
+    ]
+  },
+  "next_day": 2
+}

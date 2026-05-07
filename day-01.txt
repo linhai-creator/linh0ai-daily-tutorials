@@ -1,0 +1,21 @@
+# Day 1 — Sample Prompts
+# File: prompts/day-01.txt
+
+## Prompt #1 (English) — Recommended for first try
+A cozy Vietnamese coffee shop in the early morning, warm sunlight streaming through the window, a cup of cà phê sữa đá on the wooden table, vintage aesthetic, soft bokeh background, photorealistic, high detail
+
+## Prompt #2 (Vietnamese version)
+Quán cà phê Việt Nam ấm cúng vào buổi sáng sớm, ánh nắng ấm chiếu qua cửa sổ, một ly cà phê sữa đá trên bàn gỗ, phong cách vintage, hậu cảnh mờ nghệ thuật, ảnh chân thực, độ chi tiết cao
+
+## Prompt #3 (Variation: Phở instead)
+A traditional Vietnamese phở restaurant interior at dawn, steam rising from a bowl of phở bò, dim warm lighting, wooden chopsticks, herbs on the side, cinematic photo, shallow depth of field
+
+## Prompt #4 (Variation: Evening mood)
+A cozy Vietnamese coffee shop in the late evening, warm yellow lamp light, raindrops on window, a cup of cà phê sữa đá on the marble table, moody atmosphere, photorealistic
+
+# ─────────────────────────────────────
+# Recommended settings:
+# Model:        Flux Schnell
+# Aspect ratio: 1:1 (Instagram) or 4:5 (Facebook feed)
+# Steps:        4 (default for Schnell)
+# Seed:         random
