@@ -2,7 +2,7 @@
 
 > Hành trình 30 ngày học cách dùng **0ai.vn** để tạo ảnh trên nhiều model khác nhau và làm video bằng **Seedance 2.0** — từ con số 0 đến tự tin sản xuất nội dung.
 
-[![Stars](https://img.shields.io/github/stars/your-username/0ai-daily?style=social)](https://github.com/your-username/0ai-daily)
+[![Stars](https://img.shields.io/github/stars/daclinhpy1998-source/linh0ai-daily-tutorials?style=social)](https://github.com/daclinhpy1998-source/linh0ai-daily-tutorials)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -83,7 +83,7 @@ Mỗi `day-XX.md` đều theo template:
 
 - 🌐 [0ai.vn](https://0ai.vn) — Nền tảng chính
 - 📚 [Prompt Library](./prompts) — Thư viện prompt theo model
-- 🎥 [Playlist video demo](#) — *(thêm link YouTube/TikTok của bạn)*
+- 🎥 [Kênh YouTube](https://www.youtube.com/@daclinh0ai) — Video demo từng bài
 - 💬 [Cộng đồng Facebook](#) — *(thêm link group nếu có)*
 
 ---
@@ -100,5 +100,5 @@ MIT — dùng tự do, ghi nguồn nếu repost.
 
 ---
 
-**Tác giả:** *(tên của bạn)* — *(link Facebook/Twitter/Email)*
+**Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
 **Cập nhật lần cuối:** Tháng 5/2026
