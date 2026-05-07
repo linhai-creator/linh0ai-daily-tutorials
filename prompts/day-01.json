@@ -4,8 +4,9 @@
   "level": "newbie",
   "type": "image",
   "model": {
-    "primary": "flux-schnell",
-    "alternatives": ["flux-dev", "seedream"]
+    "primary": "nano-banana-2",
+    "alternatives": ["image2", "flux-schnell"]
+},
   },
   "prompts": [
     {
