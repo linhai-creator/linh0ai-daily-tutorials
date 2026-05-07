@@ -23,13 +23,13 @@ Sau bài này, bạn sẽ:
 ### Bước 1: Vào trang chủ
 Mở [0ai.vn](https://0ai.vn) → click **"Đăng nhập"** ở góc phải.
 
-![Trang chủ 0ai.vn](../assets/images/day02-homepage.png)
+![Trang chủ 0ai.vn](../assets/images/day02-homepage.png.png)
 
 ### Bước 2: Chọn "Đăng nhập với Google"
 
 Cách nhanh nhất — 1 click là xong.
 
-![Popup đăng nhập](../assets/images/day02-signup.png)
+![Popup đăng nhập](../assets/images/day02-signup.png.png)
 
 ### Bước 3: Chọn tài khoản Google → Done
 
@@ -65,7 +65,7 @@ Trong 3 tuần đầu, bạn sẽ:
 
 #### 💎 Recommend cho người mới: **Ultra Member — 1.000.000đ → 1.100.000 Credits**
 
-![Credit packages](../assets/images/pricing-credit.png)
+![Credit packages](../assets/images/pricing-credit.png.png)
 
 | Tiêu chí | Chi tiết |
 |----------|----------|
@@ -141,13 +141,13 @@ Bạn đang ở đâu?
 
 ### Tổng quan giao diện
 
-![Dashboard tổng quan](../assets/images/day02-dashboard.png)
+![Dashboard tổng quan](../assets/images/day02-dashboard.png.png)
 
 Dashboard 0ai.vn chia làm **5 khu vực chính**:
 
 ### ① Sidebar / Menu chính (bên trái)
 
-![Menu sidebar](../assets/images/day02-menu.png)
+![Menu sidebar](../assets/images/day02-menu.png.png)
 
 - 🎨 **Tạo ảnh** — nơi work chính, 80% thời gian sẽ ở đây
 - 🎬 **Tạo video** — Seedance, Kling, VEO, Grok...
@@ -157,7 +157,7 @@ Dashboard 0ai.vn chia làm **5 khu vực chính**:
 
 ### ② Khu vực tạo ảnh
 
-![Khu vực tạo ảnh](../assets/images/day02-create-image.png)
+![Khu vực tạo ảnh](../assets/images/day02-create-image.png.png)
 
 4 thành phần chính:
 
@@ -168,7 +168,7 @@ Dashboard 0ai.vn chia làm **5 khu vực chính**:
 
 ### ③ Gallery — Lịch sử
 
-![Gallery](../assets/images/day02-gallery.png)
+![Gallery](../assets/images/day02-gallery.png.png)
 
 - **Filter** theo model / theo ngày
 - **Tải về** từng ảnh hoặc batch
@@ -177,7 +177,7 @@ Dashboard 0ai.vn chia làm **5 khu vực chính**:
 
 ### ④ Gói & Billing
 
-![Billing page](../assets/images/day02-credit.png)
+![Billing page](../assets/images/day02-credit.png.png)
 
 - Theo dõi credit/quota còn lại
 - Mua thêm credit / nâng cấp gói
@@ -185,7 +185,7 @@ Dashboard 0ai.vn chia làm **5 khu vực chính**:
 
 ### ⑤ Profile / Settings
 
-![Profile](../assets/images/day02-profile.png)
+![Profile](../assets/images/day02-profile.png.png)
 
 Đổi avatar, ngôn ngữ, theme (dark/light), advanced settings.
 
