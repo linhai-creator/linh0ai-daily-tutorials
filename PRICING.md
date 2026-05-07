@@ -35,7 +35,7 @@ Không có thời gian đọc hết? Đây là **3 gói đáng tiền nhất**:
 
 ## 🎁 Nhóm A — Credit (Pay-as-you-go)
 
-![Credit packages](./assets/images/pricing-credit.png)
+![Credit packages](./assets/images/pricing-credit.png.png)
 
 **Cơ chế:** Mua credit trước, tiêu đến đâu trừ đến đó. **Credit hết hạn sau 3 tháng.**
 
@@ -67,7 +67,7 @@ Không có thời gian đọc hết? Đây là **3 gói đáng tiền nhất**:
 
 Phù hợp khi bạn cần **cả ảnh và video** trong cùng 1 gói.
 
-![All-in plans](./assets/images/pricing-all-in.png)
+![All-in plans](./assets/images/pricing-all-in.png.png)
 
 ### B1. Combo Tiết Kiệm (có quota)
 
@@ -93,7 +93,7 @@ Phù hợp khi bạn cần **cả ảnh và video** trong cùng 1 gói.
 
 Tập trung vào video với **Veo 3.1, Grok Heavy, Kling**. Nếu bạn làm chủ yếu video, nhóm này rẻ vô đối.
 
-![Video Focused plans](./assets/images/pricing-video-veo-grok.png)
+![Video Focused plans](./assets/images/pricing-video-veo-grok.png.png)
 
 | Gói | Giá/tháng | Video/tháng | Ảnh/tháng | Đồng thời |
 |-----|-----------|-------------|-----------|-----------|
@@ -121,7 +121,7 @@ So sánh:
 
 Chuyên cho **Seedance 2.0 Omni** — model video flagship của ByteDance.
 
-![Seedance 2 plans](./assets/images/pricing-seedance.png)
+![Seedance 2 plans](./assets/images/pricing-seedance.png.png)
 
 | Gói | Giá/tháng | Seedance Omni miễn phí | Ảnh/tháng | Đồng thời |
 |-----|-----------|--------------------------|-----------|-----------|
@@ -146,7 +146,7 @@ Chuyên cho **Seedance 2.0 Omni** — model video flagship của ByteDance.
 
 Cho người **chỉ làm ảnh**, không cần video. Đây là nhóm có gói **rẻ nhất** (200k!).
 
-![Image only plans](./assets/images/pricing-image-only.png)
+![Image only plans](./assets/images/pricing-image-only.png.png)
 
 ### E1. Có quota
 
