@@ -58,13 +58,12 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 ## 🚀 Bắt đầu thế nào?
 
 1. ⭐ Star repo này để không bỏ lỡ bài mới
-2. 2. Đọc các bài đã đăng:
-   - [Day 1 — Giới thiệu 0ai.vn](./days/day-01.md)
-   - [Day 2 — Đăng ký, Credit & Dashboard](./days/day-02.md)
+2. Đọc các bài đã đăng:
+   - [Day 1 — Giới thiệu 0ai.vn + So sánh model](./days/day-01.md)
+   - [Day 2 — Đăng ký + Credit Strategy + Dashboard](./days/day-02.md)
 3. Tham khảo [PRICING.md](./PRICING.md) khi cần chọn gói
-3. Mỗi ngày dành **15-30 phút** đọc + thực hành
-4. Tham gia thảo luận tại [Issues](../../issues) hoặc [Discussions](../../discussions)
-
+4. Mỗi ngày dành **15-30 phút** đọc + thực hành
+5. Tham gia thảo luận tại [Issues](../../issues) hoặc [Discussions](../../discussions)
 ---
 
 ## 📦 Format mỗi bài
@@ -85,10 +84,12 @@ Mỗi `day-XX.md` đều theo template:
 ## 🔗 Tài nguyên
 
 - 🌐 [0ai.vn](https://0ai.vn) — Nền tảng chính
-- 📚 [Prompt Library](./prompts) — Thư viện prompt theo model
-- 🎥 [Kênh YouTube](https://www.youtube.com/@daclinh0ai) — Video demo từng bài
-- 💬 [Cộng đồng Facebook](#) — *(thêm link group nếu có)*
 - 💰 [Pricing Guide](./PRICING.md) — So sánh chi tiết 22 gói + 6 mức Credit
+- 📚 [Prompt Library](./prompts) — Thư viện prompt theo model
+- 🎥 [YouTube Channel](https://www.youtube.com/@daclinh0ai) — Video demo từng bài
+- 📘 [Facebook](https://facebook.com/daclinh.tran) — Theo dõi cập nhật hằng ngày
+- 🐦 [X / Twitter](https://x.com/Daclinh0AI) — Quick updates EN
+- 🤖 [Project Context](./PROJECT-CONTEXT.md) — Dành cho AI assistants (nếu bạn fork repo)
 
 ---
 
