@@ -110,8 +110,8 @@ Mình đã test **4 prompt khác nhau** trên cả 2 model, mỗi prompt sinh 4 
 
 | Tiêu chí | Nano Banana 2 | Image 2 |
 |----------|:---:|:---:|
-| Tốc độ render | *(ghi chú khi test)* | *(ghi chú khi test)* |
-| Credit / ảnh | *(ghi chú khi test)* | *(ghi chú khi test)* |
+| Tốc độ render |2 phút | 1 phút hơn |
+| Credit / ảnh | 800 credit | 900 credit |
 | Hiểu tiếng Việt | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | Chi tiết ảnh | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | Phù hợp cho | Ảnh thương mại, chân dung, cảnh phức tạp | Brainstorm, tạo nhanh nhiều version |
