@@ -14,8 +14,23 @@ A traditional Vietnamese phở restaurant interior at dawn, steam rising from a 
 A cozy Vietnamese coffee shop in the late evening, warm yellow lamp light, raindrops on window, a cup of cà phê sữa đá on the marble table, moody atmosphere, photorealistic
 
 # ─────────────────────────────────────
-# Recommended settings:
-# Model:        Flux Schnell
-# Aspect ratio: 1:1 (Instagram) or 4:5 (Facebook feed)
-# Steps:        4 (default for Schnell)
+# Recommended models on 0ai.vn:
+#
+# 🥇 Nano Banana 2 (recommended)
+#    - Mạnh nhất hiện tại, hiểu prompt tốt, ảnh chân thực
+#    - Phù hợp: ảnh sản phẩm, chân dung, scene phức tạp
+#    - Hiểu tiếng Việt khá tốt
+#
+# 🥈 Image2 (alternative)
+#    - Nhanh, ổn định, kết quả nhất quán
+#    - Phù hợp: brainstorm ý tưởng, test prompt nhanh
+#
+# 🥉 Flux Schnell (backup)
+#    - Tốc độ cao, ít tốn credit
+#    - Dùng khi cần tạo nhiều ảnh thử nghiệm
+#
+# ─────────────────────────────────────
+# Settings cho ảnh đầu tay:
+# Aspect ratio: 1:1 (Instagram) hoặc 4:5 (Facebook feed)
+# Quality:      cao (high quality nếu có option)
 # Seed:         random
