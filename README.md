@@ -40,7 +40,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 7** | Tổng kết tuần 1 + Mini Challenge | 🟢🔵 | [📖 Đọc](./days/day-07.md) |
 | ... | *Xem [CURRICULUM.md](./CURRICULUM.md) cho lộ trình 30 ngày đầy đủ* | | |
 
-📊 [Pricing Guide](./PRICING.md) · 📚 [Curriculum đầy đủ](./CURRICULUM.md) · 📝 [Changelog](./CHANGELOG.md) · 💬 [Nhóm Zalo](https://zalo.me/g/caqqva644) · 🐛 [Báo lỗi](../../issues)
+📊 [Pricing Guide](./PRICING.md) · 📚 [Curriculum đầy đủ](./CURRICULUM.md) · 📝 [Changelog](./CHANGELOG.md) · 💬 [Nhóm Zalo][https://zalo.me/g/umthmp096] · 🐛 [Báo lỗi](../../issues)
 
 ---
 
@@ -73,7 +73,7 @@ Repo được cập nhật **mỗi ngày trong 30 ngày**.
 Nếu bạn làm theo bài học nhưng bị **lỗi ảnh, lỗi prompt** hoặc **chưa hiểu model nào nên dùng**:
 
 ### Cách 1: Nhóm Zalo (recommend — trả lời nhanh)
-👉 [💬 Tham gia nhóm Zalo](https://zalo.me/g/caqqva644)
+👉 [💬 Tham gia nhóm Zalo](https://zalo.me/g/umthmp096)
 
 ### Cách 2: GitHub Issues (chính thức, lưu lại được)
 👉 Vào tab **`Issues`** → bấm **`New Issue`**
@@ -130,7 +130,7 @@ Mỗi `day-XX.md` đều theo template:
 - 💰 [Pricing Guide](./PRICING.md) — So sánh chi tiết 22 gói + 6 mức Credit
 - 📚 [Prompt Library](./prompts) — Thư viện prompt theo bài
 - 📝 [Changelog](./CHANGELOG.md) — Lịch sử cập nhật
-- 💬 [Nhóm Zalo](https://zalo.me/g/caqqva644) — Cộng đồng học AI hằng ngày
+- 💬 [Nhóm Zalo](https://zalo.me/g/umthmp096) — Cộng đồng học AI hằng ngày
 - 📘 [Facebook](https://facebook.com/daclinh.tran) — Theo dõi bài đăng
 - 🎥 [YouTube](https://www.youtube.com/@daclinh0ai) — Video demo
 - 🐦 [X / Twitter](https://x.com/Daclinh0AI) — Quick updates EN
