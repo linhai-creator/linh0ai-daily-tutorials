@@ -34,7 +34,7 @@ Trong mỗi bài có **prompt mẫu sẵn** — chỉ cần copy.
 Vào [0ai.vn](https://0ai.vn) → đăng nhập bằng Google → paste prompt → Generate.
 
 ### 6️⃣ Gặp khó khăn? Hỏi mình
-- 💬 [Nhóm Zalo](#) — hỏi nhanh
+- 💬 [Nhóm Zalo](https://zalo.me/g/umthmp096) — hỏi nhanh
 - 🐛 [GitHub Issues](../../issues) — báo lỗi hoặc đề xuất
 
 ---
@@ -98,7 +98,7 @@ A: Có thể, nhưng các bài có liên kết với nhau. Day 8-14 dựa trên 
 A: 100% miễn phí. Chi phí duy nhất là tiền nạp credit cho 0ai.vn để thực hành.
 
 **Q: Có nhóm cộng đồng không?**
-A: Có — [Nhóm Zalo](https://zalo.me/g/caqqva644) để hỏi đáp realtime.
+A: Có — [Nhóm Zalo](https://zalo.me/g/umthmp096) để hỏi đáp realtime.
 
 ---
 
