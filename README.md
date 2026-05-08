@@ -74,7 +74,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 
 📊 [Pricing Guide](./PRICING.md) · 📚 [Curriculum đầy đủ](./CURRICULUM.md) · 💬 [Nhóm Zalo](https://zalo.me/g/caqqva644) · 🐛 [Báo lỗi](https://github.com/linhai-creator/linh0ai-daily-tutorials/issues)
 5. 💬 Tham gia cộng đồng:
-   - [Nhóm Zalo][([https://zalo.me/g/YOUR-LINK-HERE](https://zalo.me/g/caqqva644))](https://zalo.me/g/caqqva644) — Hỏi đáp & chia sẻ ảnh hằng ngày
+   - [Nhóm Zalo](https://zalo.me/g/caqqva644) — Hỏi đáp & chia sẻ ảnh hằng ngày
    - Báo lỗi hoặc đề xuất nội dung
 ---
 
