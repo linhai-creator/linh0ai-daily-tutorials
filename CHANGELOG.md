@@ -4,7 +4,17 @@
 
 ---
 
-## [Day 4] — 2026-05-08
+## [Day 5] — 2026-05-08
+
+### ✨ Thêm mới
+- **Day 5 — Prompt tiếng Việt vs tiếng Anh** ([đọc](./days/day-05.md))
+- 12 ảnh demo: 3 chủ đề × 2 ngôn ngữ × 2 model
+- File `prompts/day-05.txt` — thư viện 9 prompt VI/EN/Hybrid
+- Decision matrix chọn ngôn ngữ theo tình huống
+- Bí kíp HYBRID — kết hợp Việt + Anh tối ưu
+
+### 🔧 Cải thiện
+- Update README — Day 5 vào danh sách bài đã đăng
 
 ### ✨ Thêm mới
 - **Day 4 — Aspect Ratio, Resolution & Settings Cơ Bản** ([đọc](./days/day-04.md))
@@ -69,7 +79,6 @@
 ## 🔮 Sắp Có
 
 ### Tuần 1 (đang làm)
-- [ ] Day 5 — Prompt tiếng Việt vs tiếng Anh
 - [ ] Day 6 — Negative prompt & quality tags
 - [ ] Day 7 — Tổng kết tuần 1 + Mini Challenge
 
@@ -96,7 +105,7 @@
 ## 📊 Tiến độ tổng
 
 ```
-█████░░░░░░░░░░░░░░░░░░░░░░░░░  4/30 ngày (13%)
+██████░░░░░░░░░░░░░░░░░░░░░░░░  5/30 ngày (17%)
 ```
 
 **Started:** 2026-05-07
