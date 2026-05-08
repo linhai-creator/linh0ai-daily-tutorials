@@ -1,146 +1,344 @@
-# 📚 Lộ Trình 30 Ngày — 0ai.vn Daily Tutorials
+# 📚 CURRICULUM — 0ai.vn Daily Tutorials 30 Ngày
 
-> **Mục tiêu:** Sau 30 ngày, bạn có thể tự tin tạo ảnh trên nhiều model AI và làm video ngắn bằng Seedance 2.0 cho công việc / kinh doanh / sáng tạo cá nhân.
-
-**Quy ước level:**
-- 🟢 = Newbie (người mới)
-- 🔵 = Intermediate (trung cấp)
-- 🟣 = Advanced (nâng cao)
+> **Phiên bản 2.0** — Cập nhật ngày 08/05/2026
+> **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
+> **Status:** Tuần 1 ✅ | Tuần 2 🔄 | Tuần 3-4 📋 Planned
 
 ---
 
-## 🌱 TUẦN 1 — Nền Tảng (Day 1-7)
+## 🎯 Mục tiêu khóa học
 
-### Day 1 — Giới thiệu 0ai.vn: Vì sao một nền tảng tổng hợp lại tiện hơn? 🟢
-Tour nhanh nền tảng, so sánh với việc dùng riêng từng tool (Midjourney, ChatGPT, Runway). Demo: tạo ảnh đầu tiên trong 2 phút.
-
-### Day 2 — Đăng ký, gói credit, navigate giao diện 🟢
-Hướng dẫn từng bước đăng ký tài khoản, hiểu hệ thống credit (gói nào hợp lý), thao tác cơ bản trên dashboard.
-
-### Day 3 — Anatomy of a Prompt: 5 thành phần cốt lõi 🟢🔵
-Cấu trúc chuẩn: **Subject + Style + Composition + Lighting + Quality tags**. Áp dụng cho mọi model. Phân tích 10 prompt từ dở → tốt.
-
-### Day 4 — Aspect ratio, resolution & các thông số cơ bản 🟢
-Khi nào dùng 1:1, 9:16, 16:9, 4:5? Cách chọn cho TikTok, Instagram, Facebook, banner web.
-
-### Day 5 — Prompt tiếng Việt vs tiếng Anh — khi nào dùng cái nào? 🔵
-Test thực tế: cùng 1 ý tưởng, 2 ngôn ngữ, kết quả khác nhau ra sao trên từng model.
-
-### Day 6 — Negative prompt & quality tags — bí kíp lọc lỗi 🔵
-Danh sách negative prompt "đa năng", quality tags theo style, ví dụ trước/sau khi áp dụng.
-
-### Day 7 — Tổng kết tuần 1 + Mini Challenge 🟢🔵
-Recap, FAQ, **Bài tập:** tự tạo 1 bộ 5 ảnh theo theme tự chọn — share kết quả lên Issues.
+Sau 30 ngày, bạn sẽ:
+- ✅ Sử dụng thành thạo **3 model image flagship** trên 0ai.vn (Seedream 4.5, NBN2, GPT Image 2)
+- ✅ Làm chủ **5 kỹ năng cốt lõi** của AI image generation (prompt, composition, lighting, color, camera)
+- ✅ Tạo được **video AI** với Seedance 2.0
+- ✅ Có **portfolio thực tế** ~250+ ảnh và 5+ video tự tạo
+- ✅ Biết **chiến lược chi phí** để tiết kiệm credit tối đa
+- ✅ Hoàn thành **case study quảng cáo 30 giây** thực hành
 
 ---
 
-## 🎨 TUẦN 2 — Image Models Phần 1 (Day 8-14)
+## 🗺️ Bản đồ 30 ngày (Overview)
 
-### Day 8 — Flux Schnell: tốc độ là vũ khí 🟢
-Khi cần ảnh nhanh, brainstorm ý tưởng. Use case: thử nghiệm prompt trước khi chạy model xịn hơn.
+| Tuần | Chủ đề chính | Tinh thần | Status |
+|------|-------------|-----------|--------|
+| **Tuần 1** | Foundation — Làm quen 0ai.vn | "Học từ đầu cùng nhau" | ✅ **Done** |
+| **Tuần 2** | Master Skills — Kỹ năng cốt lõi | "Hiểu sâu mới làm pro" | 🔄 In progress |
+| **Tuần 3** | Image Workflows — Quy trình thực hành | "Áp dụng vào dự án thật" | 📋 Planned |
+| **Tuần 4** | Video AI — Seedance 2.0 | "Bước sang thế giới video" | 📋 Planned |
+| **Day 29-30** | Case Study + Tổng kết | "Project cuối + chia tay" | 📋 Planned |
 
-### Day 9 — Flux Dev: cân bằng chất lượng & chi phí 🔵
-Sweet spot cho ảnh hằng ngày. So sánh head-to-head với Schnell.
-
-### Day 10 — Flux Pro: ảnh thương mại chất lượng cao 🔵🟣
-Khi nào trả thêm credit để dùng Pro? Test ảnh chân dung, sản phẩm, kiến trúc.
-
-### Day 11 — Nano Banana (Gemini Image): vua chỉnh sửa ảnh 🟢
-Giới thiệu, điểm mạnh: hiểu ảnh đầu vào cực tốt. Demo: thay nền, đổi quần áo, xóa vật thể.
-
-### Day 12 — Nano Banana — Character Consistency 🔵
-Giữ nguyên một nhân vật qua nhiều cảnh khác nhau (cực hữu ích cho truyện/comic/quảng cáo).
-
-### Day 13 — Seedream: ảnh chân thực kiểu "as photo" 🔵
-Mạnh về da người, ánh sáng tự nhiên, ảnh sản phẩm. Khi nào chọn Seedream thay vì Flux.
-
-### Day 14 — So sánh 4 model đã học: chọn đúng cho từng nhu cầu 🟢🔵
-Cheatsheet 1 trang: Flux Schnell/Dev/Pro vs Nano Banana vs Seedream — strengths, weaknesses, giá credit.
+**Tổng credit dự kiến cả khóa:** ~80,000-100,000 credit (~7-9% gói Ultra Member 1tr)
 
 ---
 
-## 🚀 TUẦN 3 — Image Models Phần 2 + Kỹ Thuật Nâng Cao (Day 15-21)
+## 🟢 Tuần 1 — Foundation (Day 1-7) ✅ DONE
 
-### Day 15 — Qwen-Image: model hiểu tiếng Việt & text trong ảnh 🔵
-Đặc biệt mạnh khi cần chữ tiếng Việt trong poster, ảnh banner.
+> **Mục tiêu tuần:** Quen với 0ai.vn, hiểu prompt cơ bản, biết test 2 model NBN2 + GPT Image 2
 
-### Day 16 — Ideogram: vua poster, banner, typography 🔵
-Khi cần ảnh có chữ chuẩn (tiêu đề, slogan, logo concept). Test các style typography.
+| Day | Tiêu đề | Skill chính | Số ảnh | Status |
+|-----|---------|-------------|--------|--------|
+| **1** | Giới thiệu 0ai.vn + So sánh NBN2 vs GPT Image 2 | First impression | 8 | ✅ |
+| **2** | Đăng ký + Credit Strategy + Tour Dashboard | Setup | 13 | ✅ |
+| **3** | Anatomy of a Prompt — 5 thành phần | Prompt cơ bản | 20 | ✅ |
+| **4** | Aspect Ratio, Resolution & Settings | Setting cơ bản | 12 | ✅ |
+| **5** | Prompt Tiếng Việt vs Tiếng Anh | Ngôn ngữ | 12 | ✅ |
+| **6** | Negative Prompt & Quality Tags | Negative prompt | 20 | ✅ |
+| **7** | Tổng kết Tuần 1 + Mini Challenge "Phong cảnh VN" | Recap + Launch challenge | 5 | ✅ |
 
-### Day 17 — Recraft / SDXL: phong cách nghệ thuật & illustration 🔵
-Vector style, flat illustration, anime, watercolor. Use case minh họa blog, ebook, slide.
+**Tổng tuần 1:** ~85+ ảnh | Đã đăng đủ 7 bài
 
-### Day 18 — Image-to-Image: biến đổi ảnh có sẵn 🔵
-Upload ảnh → đổi style / đổi mùa / đổi thời tiết / đổi chất liệu. Strength parameter quan trọng thế nào.
-
-### Day 19 — Inpainting & Outpainting — sửa chính xác từng vùng 🟣
-Xóa vật thể trong ảnh, mở rộng khung ảnh, thêm chi tiết vào vùng cụ thể.
-
-### Day 20 — Upscale & Enhance: nâng độ phân giải lên 4K 🔵
-Khi nào upscale, các option, tránh artifact. Phù hợp in ấn, ảnh thương mại.
-
-### Day 21 — Case Study: Bộ ảnh sản phẩm cho shop online 🟣
-**Case study đầy đủ A-Z**: 1 sản phẩm → 6 góc chụp → ảnh nền trắng + ảnh lifestyle + banner. Workflow 3 model phối hợp.
+📍 **Folder:** [days/](./days/)
 
 ---
 
-## 🎬 TUẦN 4 — Seedance 2.0 Video (Day 22-28)
+## 🔵 Tuần 2 — Master Skills (Day 8-14) 🔄 IN PROGRESS
 
-### Day 22 — Giới thiệu Seedance 2.0: vì sao đáng học? 🟢
-So sánh nhanh với Veo 3, Kling, Sora. Strengths của Seedance 2.0 (chất lượng motion, độ ổn định, giá).
+> **Mục tiêu tuần:** Master 1 model độc đáo (Seedream 4.5) + 5 kỹ năng cốt lõi của photography pro để áp dụng cho mọi model.
+>
+> **Tinh thần:** Sau Tuần 1 đã biết "tool", Tuần 2 học "skill" — ai nắm chắc lighting/composition/color sẽ tạo ảnh đẹp dù dùng model nào.
 
-### Day 23 — Text-to-Video cơ bản: clip đầu tiên 🟢
-Cấu trúc prompt video: **Subject + Action + Environment + Camera + Mood**. Tạo clip 5s đầu tay.
+### Day 8 — Seedream 4.5 Deep Dive 🔄
+> *Model độc đáo cho chân dung & sản phẩm thương mại*
 
-### Day 24 — Image-to-Video: bắt đầu từ ảnh tĩnh 🟢🔵
-Workflow phổ biến nhất: tạo ảnh xịn bằng Flux/Nano Banana → đưa vào Seedance để "thổi hồn".
+**Mục tiêu:**
+- Hiểu Seedream 4.5 mạnh/yếu so với NBN2 + GPT Image 2
+- Học prompt strategy riêng cho Seedream (sweet spot 30-100 từ, hierarchy ngôn ngữ 中文 > Hybrid > VN thuần)
+- Test 9 ảnh A/B/C (3 chủ đề × 3 model)
 
-### Day 25 — Camera Movements: pan, zoom, dolly, tracking, orbit 🔵
-Bộ từ vựng camera trong prompt. Cùng cảnh nhưng đổi camera → cảm xúc khác hẳn.
+**Skill nổi bật:** Character consistency với 14 reference images
+**Test:** 9 ảnh chính + 1 bonus tiếng Trung
+**Credit dự kiến:** ~5,300 credit
 
-### Day 26 — Character & Scene Consistency giữa nhiều clip 🟣
-Kỹ thuật khó nhất: làm sao cùng 1 nhân vật xuất hiện ở 5 cảnh khác nhau mà không "biến hình".
-
-### Day 27 — Ghép nhiều clip thành scene dài 🟣
-Workflow: storyboard → tạo từng shot → ghép trong CapCut/Premiere. Logic về match cut, jump cut.
-
-### Day 28 — Lồng âm thanh: voiceover, nhạc nền, sound effect 🔵
-Tools đi kèm: ElevenLabs cho voice, Suno cho nhạc, free SFX libraries. Đồng bộ audio-video.
+📄 [days/day-08.md](./days/day-08.md)
 
 ---
 
-## 🏆 TUẦN 5 — Case Study & Tổng Kết (Day 29-30)
+### Day 9 — Prompt Engineering nâng cao 📋
+> *Từ "biết prompt" lên "prompt như senior"*
 
-### Day 29 — Case Study: Quảng cáo sản phẩm 30 giây từ A đến Z 🟣
-Brief thật → idea → script → storyboard → tạo ảnh → tạo video → ghép → xuất. Full pipeline trong 1 bài.
+**Mục tiêu:**
+- Mở rộng công thức 5 thành phần (Day 3) lên **7 thành phần** (Subject + Style + Composition + Lighting + Color + Camera + Mood)
+- Học **weighted prompts** — đặt trọng số cho keyword quan trọng
+- Học **prompt chains** — chuỗi prompt liên hoàn cho consistency
 
-### Day 30 — Tổng kết hành trình + Roadmap học tiếp 🟢🔵🟣
-Cheatsheet toàn bộ 30 ngày, roadmap nâng cao tiếp theo (ComfyUI, LoRA, Runway Act-One...), cách kiếm tiền với kỹ năng này.
+**Skill nổi bật:**
+- Cú pháp `(keyword:1.3)` để nhấn mạnh
+- Cú pháp `[A | B]` để alternate giữa 2 concept
+- Negative prompt có trọng số
 
----
+**Test:** ~12 ảnh — 3 prompt × 2 cấp độ (cơ bản vs nâng cao) × 2 model
+**Credit dự kiến:** ~5,000 credit
 
-## 📊 Phân bổ độ khó theo ngày
-
-```
-Tuần 1:  🟢🟢🟢🟢🔵🔵🔵
-Tuần 2:  🟢🔵🔵🟢🔵🔵🟢
-Tuần 3:  🔵🔵🔵🔵🟣🔵🟣
-Tuần 4:  🟢🟢🔵🔵🟣🟣🔵
-Cuối:    🟣🟢
-```
-
-Đường cong khó dễ kiểu **leo thang chậm** — newbie không bị ngộp, advanced vẫn có challenge.
+**Insight Linh dự kiến:** Weighted prompt giảm 50% lỗi prompt-không-được-thực-hiện
 
 ---
 
-## 💡 Mẹo dùng giáo trình này
+### Day 10 — Composition & Framing 📋
+> *Bố cục đẹp = ảnh đẹp dù model nào*
 
-- ✅ Đăng đều 1 bài/ngày — sự đều đặn quan trọng hơn độ dài
-- ✅ Mỗi bài kèm video demo 30-60s (TikTok/Reels/YouTube Shorts) → cross-post
-- ✅ File prompt mẫu để trong `/prompts/{model}/day-XX.json` để người đọc copy nhanh
-- ✅ Cuối mỗi tuần có 1 challenge → tăng tương tác cộng đồng
-- ✅ Tag mỗi bài với hashtag riêng (#0aiDay01, #0aiDay02...) để dễ tìm
+**Mục tiêu:**
+- Hiểu **5 quy tắc composition** kinh điển: Rule of Thirds, Golden Ratio, Leading Lines, Symmetry, Negative Space
+- Học prompt từng quy tắc cụ thể
+- Áp dụng "Foreground / Midground / Background" cho ảnh có chiều sâu
+
+**Skill nổi bật:**
+- Keyword: `rule of thirds composition`, `centered symmetric`, `leading line composition`
+- Khi nào dùng `low angle` vs `high angle` vs `dutch angle`
+- Cách tạo ảnh có **3 lớp chiều sâu** rõ ràng
+
+**Test:** ~15 ảnh — 5 quy tắc × 3 chủ đề (chân dung, cảnh, sản phẩm)
+**Credit dự kiến:** ~6,000 credit
+
+**Insight Linh dự kiến:** Đa số ảnh AI bị "flat" vì thiếu foreground/midground → fix 1 từ khóa là khác hẳn
 
 ---
 
-**Quay lại** [`README.md`](./README.md)
+### Day 11 — Lighting Mastery 📋
+> *70% chất lượng ảnh đến từ ánh sáng*
+
+**Mục tiêu:**
+- Master **6 loại ánh sáng** chính: Golden Hour, Blue Hour, Studio Softbox, Rim Light, Rembrandt, Neon/Cyberpunk
+- Hiểu hướng ánh sáng (front, side, back, top, bottom) ảnh hưởng cảm xúc thế nào
+- Biết khi nào dùng **hard light** vs **soft light**
+
+**Skill nổi bật:**
+- Prompt template cho mỗi loại lighting
+- Combo: lighting + mood (ấm áp, lạnh lùng, bí ẩn, drama)
+- Cách fix ảnh AI bị "ánh sáng phẳng"
+
+**Test:** ~18 ảnh — 6 lighting × 3 chủ đề
+**Credit dự kiến:** ~7,000 credit
+
+**Insight Linh dự kiến:** "Cinematic lighting" + "rim light" = combo viral cho ảnh nhân vật
+
+---
+
+### Day 12 — Color Theory & Mood 📋
+> *Tone màu kể câu chuyện trước cả nội dung*
+
+**Mục tiêu:**
+- Hiểu **color wheel** và 4 schema chính: Complementary, Analogous, Triadic, Monochrome
+- Biết warm vs cool tone tạo cảm xúc gì
+- Học prompt **specific color palette** (Wes Anderson pastel, Blade Runner cyberpunk, Studio Ghibli soft...)
+
+**Skill nổi bật:**
+- Keyword: `color grading`, `tone palette`, tên các phong cách điện ảnh
+- Cách tạo **bộ ảnh nhất quán** về color (cho campaign)
+- Color psychology — đỏ kích hoạt, xanh thư giãn, vàng vui vẻ...
+
+**Test:** ~12 ảnh — 4 color schema × 3 chủ đề (cùng prompt, đổi color)
+**Credit dự kiến:** ~5,000 credit
+
+**Insight Linh dự kiến:** Đổi 1 color keyword có thể biến ảnh "đẹp bình thường" thành "đẹp như poster phim"
+
+---
+
+### Day 13 — Camera & Lens trong Prompt 📋
+> *Prompt như đang chỉ đạo nhiếp ảnh gia thật*
+
+**Mục tiêu:**
+- Hiểu sự khác biệt **focal length**: 24mm (cảnh rộng), 35mm (đường phố), 50mm (chuẩn), 85mm (chân dung), 200mm (zoom)
+- Master **f-stop**: f/1.4 (DOF nông, bokeh) vs f/8 (DOF sâu, sắc nét toàn cảnh)
+- Học các effect: motion blur, lens flare, fish-eye, tilt-shift
+
+**Skill nổi bật:**
+- Prompt template: `shot on Sony A7IV, 85mm f/1.4, ISO 400`
+- Khi nào dùng wide-angle, khi nào dùng telephoto
+- Cách prompt **bokeh quality** (creamy bokeh, swirly bokeh)
+
+**Test:** ~15 ảnh — 5 lens × 3 chủ đề
+**Credit dự kiến:** ~6,000 credit
+
+**Insight Linh dự kiến:** Thêm "shot on [model camera cụ thể]" tăng realism 30% mà ít người Việt biết
+
+---
+
+### Day 14 — Tổng kết Tuần 2 + Chấm Mini Challenge 📋
+> *Áp dụng 5 skills vào 1 bài thực hành lớn*
+
+**Mục tiêu:**
+- **Phần 1 — Tổng kết Tuần 2:** Cheatsheet 1 trang gói 5 skills (Prompt + Composition + Lighting + Color + Camera)
+- **Phần 2 — Capstone challenge:** 1 ảnh tổng hợp dùng cả 5 skills (prompt + breakdown chi tiết)
+- **Phần 3 — Chấm Mini Challenge "Phong cảnh Việt Nam":** Top 3 + mention community
+- **Phần 4 — Launch Mini Challenge mới:** "Tái hiện 1 cảnh phim Việt" (deadline Day 21)
+
+**Skill nổi bật:** Tổng hợp + Storytelling
+**Test:** ~10 ảnh — 1 capstone + 9 best-of từ Tuần 2
+**Credit dự kiến:** ~3,000 credit
+
+**Insight Linh dự kiến:** 1 ảnh áp dụng đủ 5 skills sẽ ngang ảnh stock trả phí
+
+---
+
+**📊 Tổng tuần 2 dự kiến:**
+- ~91 ảnh (9 + 12 + 15 + 18 + 12 + 15 + 10)
+- ~37,300 credit (~3.4% gói Ultra Member)
+- 7 bài tutorial
+- 1 Mini Challenge đóng + 1 Mini Challenge mở
+
+---
+
+## 🟣 Tuần 3 — Image Workflows (Day 15-21) 📋 PLANNED
+
+> **Mục tiêu tuần:** Đi từ "tạo 1 ảnh" lên "quy trình làm việc thật" — image-to-image, sửa ảnh, upscale, case study sản phẩm.
+
+| Day | Tiêu đề | Trọng tâm |
+|-----|---------|-----------|
+| **15** | Image-to-Image basics | Upload ảnh, prompt biến đổi |
+| **16** | Inpainting & Outpainting | Sửa 1 phần / mở rộng ảnh |
+| **17** | Upscale & Super-resolution | Nâng độ phân giải lên 4K, 8K |
+| **18** | Style Transfer nâng cao | Lấy style từ ảnh A áp lên ảnh B |
+| **19** | Case Study: Ảnh sản phẩm cho shop online | Workflow thật từ A-Z |
+| **20** | Case Study: Ảnh chân dung profile | Workflow LinkedIn/CV/dating |
+| **21** | Tổng kết Tuần 3 + Chấm Challenge "Cảnh phim VN" | Recap + Launch challenge mới |
+
+**Credit dự kiến tuần 3:** ~25,000 credit
+
+---
+
+## 🟠 Tuần 4 — Video AI với Seedance 2.0 (Day 22-28) 📋 PLANNED
+
+> **Mục tiêu tuần:** Bước sang thế giới video AI — Seedance 2.0 + so sánh với VEO 3.1, Kling.
+
+| Day | Tiêu đề | Trọng tâm |
+|-----|---------|-----------|
+| **22** | Giới thiệu Seedance 2.0 + Video AI ecosystem | First video |
+| **23** | Text-to-video cơ bản | Prompt video đầu tiên |
+| **24** | Image-to-video — animate ảnh tĩnh | Cho ảnh "sống dậy" |
+| **25** | Camera movement trong video | Pan, zoom, tracking shot |
+| **26** | Character consistency trong video | Giữ nhân vật qua nhiều scene |
+| **27** | So sánh Seedance vs VEO 3.1 vs Kling | Chọn model video đúng |
+| **28** | Tổng kết Tuần 4 + Mini Challenge "Video Việt Nam" | Recap + Launch |
+
+**Credit dự kiến tuần 4:** ~40,000-60,000 credit (video tốn nhiều hơn ảnh)
+
+---
+
+## 🏆 Day 29-30 — Capstone Project + Tổng kết 📋 PLANNED
+
+### Day 29 — Case Study: Quảng cáo 30 giây
+> *Project tổng hợp tất cả skills 28 ngày*
+
+**Deliverable:** 1 video quảng cáo 30s hoàn chỉnh cho 1 sản phẩm thật (Linh tự chọn hoặc community vote)
+**Bao gồm:** ~10 ảnh storyboard + 5 video clip + ghép lại
+**Credit dự kiến:** ~15,000 credit
+
+### Day 30 — Tổng kết hành trình + Roadmap tiếp theo
+- Tổng kết 30 ngày — số liệu, insight, lesson learned
+- Top 10 tips không bao giờ dạy trong tutorial khác
+- Hướng đi tiếp theo cho người muốn pro hơn
+- Thank you community + roadmap "30 ngày tiếp theo" nếu có
+
+---
+
+## 🏆 Mini Challenges Schedule
+
+| Tên Challenge | Launch | Deadline | Chấm | Phần thưởng |
+|---------------|--------|----------|------|-------------|
+| **#1 — Phong cảnh Việt Nam** | Day 7 | Day 13 | Day 14 | Top 3 mention trong Day 14 |
+| **#2 — Tái hiện cảnh phim Việt** | Day 14 | Day 20 | Day 21 | Top 3 mention + invite cộng đồng |
+| **#3 — Video Việt Nam** | Day 28 | Day 29 | Day 30 | Top 3 + spotlight trong tổng kết |
+
+---
+
+## 📊 Mục tiêu KPIs 30 ngày
+
+- [ ] Đăng đủ **30 bài** đều đặn (đang 7/30, ~23%)
+- [ ] **100+ stars** trên GitHub repo
+- [ ] **1.000+ followers** Facebook fanpage
+- [ ] **500+ followers** X (Twitter)
+- [ ] **50+ người** tương tác đều trong Zalo group
+- [ ] **5+ bài viral** (>100 reactions)
+- [ ] Cộng đồng có **30+ submission** cho 3 Mini Challenges
+- [ ] Tổng cộng tạo **~250+ ảnh** + **5+ video** trong khóa
+
+---
+
+## 🎤 Tone & Style Guidelines
+
+Mọi bài tutorial đều theo:
+- ✅ **Friendly, conversational** — không academic
+- ✅ **Honest** — không tô vẽ, sẵn sàng nói tool có nhược điểm
+- ✅ **Practical first** — mọi tip phải actionable ngay
+- ✅ **Bilingual prompt** — luôn cho cả EN + VN version (hoặc CN nếu phù hợp)
+- ✅ **Có data thực tế** — số liệu từ test thật, không bịa
+- ✅ **Insight ít người dạy** — bí kíp pro mới cho người Việt
+- ✅ **Vietnamese first**, friendly, energetic emoji 🔥💪🚀
+
+---
+
+## 🛠️ Format Template Mỗi Bài
+
+Mỗi `day-XX.md` follow cấu trúc:
+
+1. Header (Title, Level 🟢🔵🟣, Time đọc/thực hành, ngày X/30)
+2. Mục tiêu hôm nay (3-5 bullets)
+3. Nội dung chính chia 3-7 phần
+4. Demo trực quan với ảnh comparison
+5. Cheatsheet 1 trang (nếu phù hợp)
+6. Thử thách hôm nay (3 cấp độ: 🟢 Newbie / 🔵 Intermediate / 🟣 Pro)
+7. FAQ (4-6 câu)
+8. Recap + Day tiếp theo
+9. Footer navigation + hashtags
+
+---
+
+## 🤝 Đóng góp curriculum
+
+Curriculum này là **living document** — sẽ được điều chỉnh dựa trên feedback cộng đồng.
+
+Nếu bạn có:
+- 💡 **Đề xuất chuyên đề mới** cho Tuần 2/3/4
+- 🐛 **Phát hiện thông tin sai** trong bài đã đăng
+- 📊 **Data test khác** với Linh (rất quan trọng!)
+- 🎯 **Use case bạn muốn thấy** được cover
+
+→ Mở **Issue** trên repo, hoặc nhắn vào [Zalo group](https://zalo.me/g/umthmp096), hoặc comment dưới bài Facebook.
+
+---
+
+## 📍 Resources
+
+- 🌐 **0ai.vn:** https://0ai.vn
+- 📖 **Models cheatsheet:** [MODELS-CHEATSHEET.md](./MODELS-CHEATSHEET.md)
+- 💰 **Pricing chi tiết (22 gói):** [PRICING.md](./PRICING.md)
+- 📝 **Tất cả bài đã viết:** [days/](./days/)
+- 🚀 **Bắt đầu từ đâu?** [START-HERE.md](./START-HERE.md)
+- 📋 **Changelog:** [CHANGELOG.md](./CHANGELOG.md)
+
+---
+
+## 📅 Update log
+
+| Phiên bản | Ngày | Thay đổi |
+|-----------|------|----------|
+| **v2.0** | 08/05/2026 | 🔄 Đổi Tuần 2 từ "Test các model mới" sang "Master Skills" (5 chuyên đề kỹ năng + 1 model deep-dive). Lý do: content kỹ năng evergreen hơn, không bị outdated. |
+| **v1.5** | ~06/05/2026 | Đổi Tuần 2 từ "Flux series" sang "Test Seedream 5/Z-Image/NBN Pro/Kling" (vì 0ai.vn không có Flux). |
+| **v1.0** | ~28/04/2026 | Curriculum gốc — Tuần 1 Foundation, Tuần 2 Flux series, Tuần 3 Workflows, Tuần 4 Video. |
+
+---
+
+*Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
+
+*Cập nhật lần cuối: 08/05/2026 | Phiên bản 2.0*
