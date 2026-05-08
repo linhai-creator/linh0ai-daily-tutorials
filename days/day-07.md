@@ -91,7 +91,7 @@ Mình chọn ra 5 ảnh đẹp nhất từ ~85 ảnh đã tạo trong tuần. Đ
 
 ### 🥇 #1: Chân dung Master Prompt (Day 3)
 
-![Best 1 - Master prompt portrait](../assets/images/day03-p10-NBN2.png)
+![Best 1 - Master prompt portrait](../assets/images/day03-p10-NBN2.png.png)
 
 **Day:** 3 — Anatomy of a Prompt (Level 10)
 **Model:** Nano Banana 2
