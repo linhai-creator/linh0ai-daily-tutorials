@@ -1,0 +1,129 @@
+# Day 6 — Negative Prompt & Quality Tags Cheatsheet
+# File: prompts/day-06.txt
+
+# ═══════════════════════════════════════════════════════
+# 🛡️ UNIVERSAL NEGATIVE PROMPT (paste vào mọi ảnh)
+# ═══════════════════════════════════════════════════════
+
+blurry, low quality, distorted, deformed, ugly, bad anatomy, extra limbs, missing limbs, mutated hands, extra fingers, text, watermark, signature, cropped, jpeg artifacts, oversaturated, grain, noise
+
+
+# ═══════════════════════════════════════════════════════
+# 👤 NEGATIVE — CHÂN DUNG NGƯỜI
+# ═══════════════════════════════════════════════════════
+# Thêm vào sau Universal Negative
+
+bad face, asymmetric eyes, weird teeth, plastic skin, doll-like, uncanny valley, bad proportions, wrong anatomy, weird hands
+
+
+# ═══════════════════════════════════════════════════════
+# 🌅 NEGATIVE — CẢNH / PHONG CẢNH
+# ═══════════════════════════════════════════════════════
+
+overexposed, underexposed, harsh shadows, lens flare, light bleeding, unrealistic colors, posterized, washed out
+
+
+# ═══════════════════════════════════════════════════════
+# 🍜 NEGATIVE — SẢN PHẨM / FOOD
+# ═══════════════════════════════════════════════════════
+
+messy, cluttered, distracting background, blurry product, soft focus, out of focus, unrealistic, fake plastic, toy-like
+
+
+# ═══════════════════════════════════════════════════════
+# 🎨 NEGATIVE — ANIME / ILLUSTRATION
+# ═══════════════════════════════════════════════════════
+# Khi muốn anime, tránh AI lai realistic
+
+realistic, photo, 3D render, photographic, hyper-realistic, deformed faces, broken anatomy
+
+
+# ═══════════════════════════════════════════════════════
+# 🌸 NEGATIVE — ART / OIL PAINTING
+# ═══════════════════════════════════════════════════════
+
+photo, photographic, realistic, 3D, digital art, computer generated, AI generated
+
+
+# ═══════════════════════════════════════════════════════
+# ⭐ QUALITY TAGS — PHOTOREALISTIC
+# ═══════════════════════════════════════════════════════
+
+photorealistic, ultra realistic, sharp focus, ultra detailed, professional photography, shot on Sony A7 IV, 85mm lens, 4K, 8K, masterpiece, best quality, intricate details
+
+
+# ═══════════════════════════════════════════════════════
+# 🎬 QUALITY TAGS — CINEMATIC
+# ═══════════════════════════════════════════════════════
+
+cinematic, film grain, color grading, atmospheric, moody lighting, shallow depth of field, anamorphic lens, wide screen, professional cinematography
+
+
+# ═══════════════════════════════════════════════════════
+# 📔 QUALITY TAGS — EDITORIAL (FASHION/MAGAZINE)
+# ═══════════════════════════════════════════════════════
+
+editorial photography, fashion magazine, Vogue style, high fashion, dramatic lighting, professional studio, glossy finish, magazine cover quality
+
+
+# ═══════════════════════════════════════════════════════
+# 🎨 QUALITY TAGS — ANIME / MANGA
+# ═══════════════════════════════════════════════════════
+
+anime style, manga, detailed line art, vibrant colors, cel shading, Studio Ghibli style, Makoto Shinkai aesthetic, high quality anime, masterpiece
+
+
+# ═══════════════════════════════════════════════════════
+# 🖼️ QUALITY TAGS — OIL PAINTING / FINE ART
+# ═══════════════════════════════════════════════════════
+
+oil painting, brush strokes, impasto texture, fine art, museum quality, gallery exhibition, classical style, Rembrandt lighting, Renaissance art
+
+
+# ═══════════════════════════════════════════════════════
+# 🎮 QUALITY TAGS — 3D RENDER
+# ═══════════════════════════════════════════════════════
+
+3D render, octane render, unreal engine 5, ray tracing, volumetric lighting, photorealistic 3D, ultra detailed, subsurface scattering, cinematic 3D
+
+
+# ═══════════════════════════════════════════════════════
+# 🏆 MASTER TEMPLATE — DÙNG ALL-IN CHO ẢNH NGƯỜI
+# ═══════════════════════════════════════════════════════
+
+# POSITIVE PROMPT:
+# [chủ thể tiếng Việt] + [biểu cảm/action] + [setting] + [style + quality tags tiếng Anh]
+# 
+# Ví dụ:
+# Phụ nữ Việt 25 tuổi mặc áo dài trắng, biểu cảm dịu dàng, ngồi tại quán cà phê vintage Hà Nội, cinematic close-up portrait, golden hour lighting, shallow depth of field, bokeh background, 85mm lens, professional editorial photography, sharp focus, 4K, photorealistic, masterpiece
+
+# NEGATIVE PROMPT:
+blurry, low quality, distorted, deformed, ugly, bad anatomy, extra limbs, missing limbs, mutated hands, extra fingers, text, watermark, signature, cropped, jpeg artifacts, plastic skin, asymmetric eyes, doll-like, uncanny valley, bad proportions
+
+
+# ═══════════════════════════════════════════════════════
+# 💡 TIPS NÂNG CAO
+# ═══════════════════════════════════════════════════════
+
+# 1. Negative prompt > Quality tags về độ hiệu quả
+#    → Thêm 5 negative phổ biến = ảnh đẹp hơn 30%
+#    → Thêm 10 quality tags = ảnh đẹp hơn 10%
+# 
+# 2. Quality tags có "thứ tự ưu tiên"
+#    → Đặt tag quan trọng TRƯỚC
+#    → "masterpiece, 4K" > "4K, masterpiece"
+# 
+# 3. Đừng quá tải negative prompt
+#    → 10-25 từ là sweet spot
+#    → 50+ từ → AI confused, có thể tệ hơn
+# 
+# 4. Save snippet trên máy
+#    → Dùng AutoHotkey, Espanso, hoặc Notes
+#    → 1 click paste = tiết kiệm 5 phút mỗi ngày
+
+# ═══════════════════════════════════════════════════════
+# Recommended workflow:
+# 1. Mở 0ai.vn → chọn model
+# 2. Paste positive prompt vào ô PROMPT
+# 3. Paste negative template vào ô NEGATIVE PROMPT
+# 4. Generate 4 ảnh → pick ảnh đẹp nhất
