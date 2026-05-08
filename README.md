@@ -40,7 +40,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 7** | Tổng kết tuần 1 + Mini Challenge | 🟢🔵 | [📖 Đọc](./days/day-07.md) |
 | ... | *Xem [CURRICULUM.md](./CURRICULUM.md) cho lộ trình 30 ngày đầy đủ* | | |
 
-📊 [Pricing Guide](./PRICING.md) · 📚 [Curriculum đầy đủ](./CURRICULUM.md) · 📝 [Changelog](./CHANGELOG.md) · 💬 [Nhóm Zalo][https://zalo.me/g/umthmp096] · 🐛 [Báo lỗi](../../issues)
+📊 [Pricing Guide](./PRICING.md) · 📚 [Curriculum đầy đủ](./CURRICULUM.md) · 📝 [Changelog](./CHANGELOG.md) · 💬 [Nhóm Zalo](https://zalo.me/g/umthmp096) · 🐛 [Báo lỗi](../../issues)
 
 ---
 
