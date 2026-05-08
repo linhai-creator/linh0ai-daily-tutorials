@@ -1,0 +1,146 @@
+# 🎯 Day 8 — Seedream 4.5 (Chân dung & Da người)
+# Prompts test: 3 chủ đề × 3 models = 9 ảnh
+# Models: Seedream 4.5 | Nano Banana 2 | GPT Image 2
+
+# ⚠️ LƯU Ý PROMPT SEEDREAM 4.5:
+# - Sweet spot: 30-100 từ (ngắn hơn các model khác)
+# - Sensitive to prompt structure: keyword đầu được nhấn mạnh nhất
+# - Đặt SUBJECT (chủ thể) lên đầu, sau đó STYLE → COMPOSITION → LIGHTING
+# - Prompt tiếng Trung cho kết quả TỐT NHẤT (model train chính bằng data Trung)
+# - Hybrid VI+EN là default cho người Việt không biết tiếng Trung
+
+# 💰 GIÁ MIN/ẢNH TRÊN 0AI.VN (tính đến Day 8):
+# - Seedream 4.5: 350 credit  ← rẻ nhất
+# - Nano Banana 2: 400 credit
+# - GPT Image 2: 900 credit  ← đắt nhất, nhưng nhanh + chất lượng tốt nhất
+# Tổng test 9 ảnh: 3×350 + 3×400 + 3×900 = 4,950 credit (~5k VND)
+
+# ═══════════════════════════════════════════════════════════
+# TEST 1 — CHÂN DUNG (PORTRAIT) ⭐ Trọng tâm Day 8
+# ═══════════════════════════════════════════════════════════
+# Mục tiêu: Đánh giá khả năng render DA NGƯỜI, lỗ chân lông,
+# ánh sáng cinematic — Seedream 4.5 nổi tiếng về chân dung biểu cảm
+# cuốn hút theo phong cách tạp chí thời trang.
+
+# 🇻🇳 Tiếng Việt:
+Chân dung cận mặt một phụ nữ Việt Nam 28 tuổi, da rám nắng tự nhiên có
+lỗ chân lông thấy rõ, vài tàn nhang nhẹ trên gò má, mắt nâu sâu, lông mi
+tự nhiên, tóc đen dài buộc lỏng. Ánh sáng cửa sổ buổi chiều vàng dịu
+chiếu xiên từ trái, bóng đổ mềm trên má phải. Background quán cà phê mờ.
+Phong cách photorealistic, ống kính 85mm f/1.4, độ sâu trường ảnh nông.
+Tỷ lệ 3:4.
+
+# 🇬🇧 English (hybrid recommended — gọn 60-80 từ):
+Close-up portrait of a 28-year-old Vietnamese woman, natural sun-kissed
+skin with visible pores, light freckles, deep brown eyes, natural lashes,
+long black hair loosely tied. Soft golden hour window light from left,
+gentle shadow falloff on right cheek. Blurred coffee shop bokeh background.
+Photorealistic, 85mm f/1.4, shallow depth of field.
+
+# Settings 0ai.vn:
+# - Aspect ratio: 3:4
+# - Resolution: 2K (Seedream 4.5 native gần 4K, 2K đủ thấy lỗ chân lông)
+# - Negative prompt: plastic skin, oversaturated, cartoon, deformed eyes,
+#   smooth airbrushed face, watermark, low quality
+
+# Chi phí test này:
+# - Seedream 4.5: 350 credit
+# - NBN2: 400 credit  
+# - GPT Image 2: 900 credit
+# Tổng: 1,650 credit
+
+# ═══════════════════════════════════════════════════════════
+# TEST 2 — PHONG CẢNH (LANDSCAPE)
+# ═══════════════════════════════════════════════════════════
+# Mục tiêu: Test cinematic lighting (USP của Seedream 4.5),
+# chiều sâu không gian, tone màu.
+# (Bonus: ăn nhập với Mini Challenge "Phong cảnh Việt Nam")
+
+# 🇻🇳 Tiếng Việt:
+Ruộng bậc thang Mù Cang Chải mùa lúa chín vàng, sương mù nhẹ trên ruộng,
+vài người H'Mông mặc trang phục truyền thống đi gặt phía xa. Bình minh
+vàng rực xuyên mây, núi trùng điệp phía sau. Phong cách National
+Geographic, độ chi tiết cao, tone ấm tự nhiên, cinematic.
+Tỷ lệ 21:9.
+
+# 🇬🇧 English:
+Mu Cang Chai rice terraces at golden harvest, soft morning mist over
+fields, distant H'Mong farmers in traditional clothing harvesting rice.
+Golden sunrise piercing clouds, layered mountains backdrop. National
+Geographic style, ultra-detailed, warm natural color grading, cinematic.
+
+# Settings 0ai.vn:
+# - Aspect ratio: 21:9
+# - Resolution: 2K
+# - Negative prompt: oversaturated, fake colors, blurry, painting style
+# Tổng: 1,650 credit
+
+# ═══════════════════════════════════════════════════════════
+# TEST 3 — SẢN PHẨM (PRODUCT)
+# ═══════════════════════════════════════════════════════════
+# Mục tiêu: Test render chất liệu (kim loại, kính, da, đá),
+# ánh sáng studio — Seedream 4.5 nổi tiếng về realistic textures.
+
+# 🇻🇳 Tiếng Việt:
+Đồng hồ nam dây da nâu, mặt số trắng kim vàng hồng, vỏ thép không gỉ.
+Đặt nghiêng 45° trên đá cẩm thạch trắng vân xám. Ánh sáng studio softbox
+trên-phải, phản chiếu nhẹ trên kính sapphire. Lá xanh mờ phía sau.
+Ảnh thương mại cao cấp, chi tiết sắc nét, độ sâu trường ảnh nông.
+Tỷ lệ 1:1.
+
+# 🇬🇧 English:
+Luxury men's watch, brown leather strap, white dial with rose gold hands,
+stainless steel case. 45-degree angle on white marble with gray veining.
+Studio softbox lighting from upper right, subtle sapphire glass reflection.
+Soft green leaves bokeh background. Luxury product photography,
+tack-sharp details, shallow DOF.
+
+# Settings 0ai.vn:
+# - Aspect ratio: 1:1
+# - Resolution: 2K
+# - Negative prompt: cluttered background, harsh shadows, plastic look,
+#   blurry, watermark
+# Tổng: 1,650 credit
+
+# ═══════════════════════════════════════════════════════════
+# 🔑 GHI CHÚ KHI TEST
+# ═══════════════════════════════════════════════════════════
+# 1. Dùng CÙNG 1 prompt cho cả 3 model — kiểm soát biến số
+# 2. Dùng CÙNG aspect ratio và resolution
+# 3. Mỗi prompt chạy 1 lần — KHÔNG cherry-pick
+# 4. Đặt tên file:
+#    - day-08-seedream-portrait.png  (Seedream 4.5)
+#    - day-08-nbn2-portrait.png
+#    - day-08-image2-portrait.png
+#    - (tương tự landscape, product)
+# 5. Khi review, focus vào:
+#    - Chân dung: Da có "plastic" không? Lỗ chân lông? Mắt tự nhiên?
+#    - Cảnh: Cinematic lighting có đẹp không? 21:9 sử dụng tốt?
+#    - Sản phẩm: Phản chiếu kim loại/kính có thật? Texture da có tự nhiên?
+# 6. So sánh tốc độ: bấm đồng hồ xem model nào generate nhanh nhất
+#    (Linh đã thấy GPT Image 2 nhanh nhất, sẽ verify lại trong test này)
+
+# ═══════════════════════════════════════════════════════════
+# 💰 CHI PHÍ TỔNG: 4,950 CREDIT (~5K VND)
+# ═══════════════════════════════════════════════════════════
+# - Seedream 4.5: 3 ảnh × 350 = 1,050 credit
+# - NBN2:         3 ảnh × 400 = 1,200 credit
+# - GPT Image 2:  3 ảnh × 900 = 2,700 credit
+# Tương đương ~0.45% gói Ultra Member 1 triệu (1.1tr credits)
+
+# ═══════════════════════════════════════════════════════════
+# 💡 BONUS: Prompt test khó cho Seedream 4.5 (optional)
+# ═══════════════════════════════════════════════════════════
+# Test text rendering tiếng Việt có dấu (USP số 1 của Seedream 4.5):
+A vintage Vietnamese coffee shop sign reading "Cà Phê Sài Gòn 1975",
+hand-painted on weathered wood, soft afternoon light, photorealistic.
+
+# Test prompt tiếng Trung (Seedream 4.5 train chính bằng data TQ → mạnh nhất):
+一位28岁的越南女性特写肖像，自然小麦色肌肤，毛孔清晰可见，颧骨上有淡淡的雀斑，
+深棕色的眼睛，自然的睫毛，黑色长发松松地扎起。下午温柔的金色窗光从左侧斜照，
+右脸颊柔和的阴影。背景是模糊的咖啡馆。摄影写实风格，85mm f/1.4，浅景深。
+
+# Test character consistency (USP số 2):
+# (Cần upload 1 ảnh chân dung làm reference, rồi prompt:)
+Same person in different setting: walking on Hanoi street at sunset,
+keep face structure and skin tone identical, casual outfit.
