@@ -182,9 +182,6 @@ Sẵn sàng tạo ảnh AI đầu tiên của bạn? Làm theo 4 bước:
 ---
 
 ## 📄 License
----
-
-## 📄 License
 
 MIT — dùng tự do, ghi nguồn nếu repost.
 
