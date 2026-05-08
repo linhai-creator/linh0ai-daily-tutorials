@@ -103,15 +103,17 @@ editorial photography, ultra sharp focus, 4K, photorealistic, masterpiece
 
 ---
 
-### 🟪 Ratio 4:5 (Đứng) — 1080×1350
+### 🟪 Ratio 4:5 NBN2 / 4:3 Image 2 (Đứng vừa)
 
 **Use case:** Instagram feed (engagement cao nhất), Facebook feed
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![4:5 NBN2](../assets/images/day04-4x5-NBN2.png) | ![4:5 Image2](../assets/images/day04-4x5-image2.png) |
+| ![4:5 NBN2](../assets/images/day04-4x5-NBN2.png) | ![4:5 Image2](../assets/images/day04-4x3-image2.png) |
 
 **Phân tích:** Đứng vừa phải → có thêm chi tiết áo dài, không quá "cropped". **Đây là ratio bạn nên dùng nhiều nhất** nếu làm content social cá nhân.
+
+> 💡 **Phát hiện thú vị:** Image 2 trên 0ai.vn không hỗ trợ ratio 4:5 — phải dùng **4:3** (gần tương đương). Day 14 sẽ có cheatsheet đầy đủ về ratio support của từng model.
 
 ---
 
