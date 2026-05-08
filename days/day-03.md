@@ -135,7 +135,7 @@ a woman
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 1 NBN2](../assets/images/day03-p01-NBN2.png) | ![Level 1 Image2](../assets/images/day03-p01-image2.png) |
+| ![Level 1 NBN2](../assets/images/day03-p01-NBN2.jpg) | ![Level 1 Image2](../assets/images/day03-p01-image2.png) |
 
 **Bài học:** Quá ngắn → AI tự "decide" mọi thứ → kết quả random, không kiểm soát được.
 
@@ -150,7 +150,7 @@ a beautiful Vietnamese woman
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 2 NBN2](../assets/images/day03-p02-NBN2.png) | ![Level 2 Image2](../assets/images/day03-p02-image2.png) |
+| ![Level 2 NBN2](../assets/images/day03-p02-NBN2.jpg) | ![Level 2 Image2](../assets/images/day03-p02-image2.png) |
 
 **Bài học:** Từ "beautiful" quá chung chung. AI đoán mò vẻ đẹp theo training data → có thể không phải gu của bạn.
 
@@ -165,7 +165,7 @@ a Vietnamese woman in her 20s, in a coffee shop
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 3 NBN2](../assets/images/day03-p03-NBN2.png) | ![Level 3 Image2](../assets/images/day03-p03-image2.png) |
+| ![Level 3 NBN2](../assets/images/day03-p03-NBN2.jpg) | ![Level 3 Image2](../assets/images/day03-p03-image2.png) |
 
 **Bài học:** Thêm **WHERE** giúp ảnh có context. Tuổi tác tránh AI vẽ quá già/quá trẻ.
 
@@ -180,7 +180,7 @@ a Vietnamese woman in her 20s, in a coffee shop, photorealistic
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 4 NBN2](../assets/images/day03-p04-NBN2.png) | ![Level 4 Image2](../assets/images/day03-p04-image2.png) |
+| ![Level 4 NBN2](../assets/images/day03-p04-NBN2.jpg) | ![Level 4 Image2](../assets/images/day03-p04-image2.png) |
 
 **Bài học:** **Photorealistic** kéo ảnh từ "AI art" về "ảnh chụp". Đây là 1 từ tạo khác biệt rất lớn.
 
@@ -195,7 +195,7 @@ close-up portrait of a Vietnamese woman in her 20s, in a coffee shop, photoreali
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 5 NBN2](../assets/images/day03-p05-NBN2.png) | ![Level 5 Image2](../assets/images/day03-p05-image2.png) |
+| ![Level 5 NBN2](../assets/images/day03-p05-NBN2.jpg) | ![Level 5 Image2](../assets/images/day03-p05-image2.png) |
 
 **Bài học:** **Close-up portrait** quyết định tầm vóc khung hình. Khác hẳn full-body shot.
 
@@ -210,7 +210,7 @@ close-up portrait of a Vietnamese woman in her 20s, in a coffee shop, photoreali
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 6 NBN2](../assets/images/day03-p06-NBN2.png) | ![Level 6 Image2](../assets/images/day03-p06-image2.png) |
+| ![Level 6 NBN2](../assets/images/day03-p06-NBN2.jpg) | ![Level 6 Image2](../assets/images/day03-p06-image2.png) |
 
 **Bài học:** **Ánh sáng = mood**. Golden hour cho ấm áp, lãng mạn. Nếu đổi sang "neon lighting" thì sẽ cyberpunk hẳn.
 
@@ -225,7 +225,7 @@ close-up portrait of a young Vietnamese woman with long black hair, wearing whit
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 7 NBN2](../assets/images/day03-p07-NBN2.png) | ![Level 7 Image2](../assets/images/day03-p07-image2.png) |
+| ![Level 7 NBN2](../assets/images/day03-p07-NBN2.jpg) | ![Level 7 Image2](../assets/images/day03-p07-image2.png) |
 
 **Bài học:** **Tóc, trang phục** = nhân vật có "danh tính". Áo dài là chi tiết Việt Nam đậm chất → AI hiểu là người Việt thật, không phải người Á chung chung.
 
@@ -240,7 +240,7 @@ close-up portrait of a young Vietnamese woman with long black hair, wearing whit
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 8 NBN2](../assets/images/day03-p08-NBN2.png) | ![Level 8 Image2](../assets/images/day03-p08-image2.png) |
+| ![Level 8 NBN2](../assets/images/day03-p08-NBN2.jpg) | ![Level 8 Image2](../assets/images/day03-p08-image2.png) |
 
 **Bài học:** **Biểu cảm = HỒN của ảnh chân dung**. Cùng người nhưng "smile" vs "serious" khác nhau hoàn toàn về cảm giác.
 
@@ -255,7 +255,7 @@ close-up portrait of a young Vietnamese woman with long black hair, wearing whit
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 9 NBN2](../assets/images/day03-p09-NBN2.png) | ![Level 9 Image2](../assets/images/day03-p09-image2.png) |
+| ![Level 9 NBN2](../assets/images/day03-p09-NBN2.jpg) | ![Level 9 Image2](../assets/images/day03-p09-image2.png) |
 
 **Bài học:** **Quality tags** giúp ảnh "boost" lên level cao hơn. Bokeh + sharp focus = nhìn pro hẳn.
 
@@ -270,7 +270,7 @@ Cinematic close-up portrait of a young Vietnamese woman in her early 20s, long f
 
 | Nano Banana 2 | Image 2 |
 |:---:|:---:|
-| ![Level 10 NBN2](../assets/images/day03-p10-NBN2.png) | ![Level 10 Image2](../assets/images/day03-p10-image2.png) |
+| ![Level 10 NBN2](../assets/images/day03-p10-NBN2.jpg) | ![Level 10 Image2](../assets/images/day03-p10-image2.png) |
 
 **Bài học:** Khi đầy đủ **5 thành phần + chi tiết cụ thể + lens + cinematic touch** → bạn có ảnh quality của photographer chuyên nghiệp.
 
