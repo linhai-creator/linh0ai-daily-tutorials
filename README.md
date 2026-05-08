@@ -3,6 +3,8 @@
 ![Banner](./assets/images/banner.png)
 
 > Hành trình 30 ngày học cách dùng **0ai.vn** để tạo ảnh trên nhiều model khác nhau và làm video bằng **Seedance 2.0** — từ con số 0 đến tự tin sản xuất nội dung.
+>
+> 💡 **Bạn không cần biết code.** Chỉ cần đọc bài, copy prompt và thực hành trực tiếp trên 0ai.vn.
 
 [![Stars](https://img.shields.io/github/stars/linhai-creator/linh0ai-daily-tutorials?style=social)](https://github.com/linhai-creator/linh0ai-daily-tutorials)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -15,11 +17,27 @@
 
 ## 📌 Repo này dành cho ai?
 
+
 | Level | Bạn sẽ học được |
 |-------|-----------------|
 | 🟢 **Người mới** | Đăng ký 0ai.vn, viết prompt cơ bản, hiểu sự khác nhau giữa các model, tạo ảnh đầu tiên |
 | 🔵 **Trung cấp** | Tối ưu prompt cho từng model, chỉnh sửa ảnh, làm video ngắn với Seedance 2.0 |
 | 🟣 **Nâng cao** | Workflow đa model, character consistency, ghép video thành sản phẩm hoàn chỉnh |
+
+## 🎯 Học xong bạn sẽ làm được gì?
+
+Sau 30 ngày, bạn sẽ biết:
+
+- 🎨 Tạo ảnh AI bằng nhiều model khác nhau trên 0ai.vn (Nano Banana 2, Image 2, Flux, Seedream, Z-Image...)
+- ✍️ Viết prompt rõ ràng, dễ kiểm soát kết quả — không còn "đoán mò"
+- 🎬 Tạo video AI bằng Seedance 2.0 (text-to-video, image-to-video)
+- 🖼️ Biến 1 ảnh thành video ngắn (image-to-video workflow)
+- 📋 Làm storyboard 4x4 cho video AI dài hơi
+- 🎯 Chọn đúng model theo từng nhu cầu (chân dung / sản phẩm / cảnh / animation)
+- 🚀 Tự xây workflow tạo content AI cho TikTok, Facebook, YouTube, banner web
+- 💰 Tối ưu chi phí — biết khi nào nạp Credit, khi nào dùng Subscription
+
+→ **Tóm lại:** Sau 30 ngày, bạn có thể **kiếm tiền từ kỹ năng AI tạo ảnh/video** — làm cho khách, build content shop online, hoặc làm freelance creator.
 
 Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào thì đọc kỹ phần đó, lướt nhanh phần khác.
 
@@ -144,6 +162,26 @@ Bạn có prompt hay, kết quả đẹp, hoặc phát hiện lỗi?
 - 🐛 [Mở Issue](../../issues) báo lỗi hoặc đề xuất
 - 📤 Share repo cho bạn bè cần học AI
 
+---
+
+## 🚀 Bắt đầu thực hành ngay
+
+Sẵn sàng tạo ảnh AI đầu tiên của bạn? Làm theo 4 bước:
+
+1. ✨ Vào [**0ai.vn**](https://0ai.vn) → Đăng nhập bằng Google
+2. 📖 Chọn bài học trong thư mục [`days`](./days)
+3. 📋 Copy prompt mẫu trong thư mục [`prompts`](./prompts)
+4. 🎨 Tạo ảnh / video đầu tiên của bạn!
+
+🌐 **Nền tảng thực hành:** [https://0ai.vn](https://0ai.vn)
+📍 **Bắt đầu học:** [START-HERE.md](./START-HERE.md)
+💬 **Cộng đồng hỗ trợ:** [Nhóm Zalo](https://zalo.me/g/umthmp096)
+
+> 💡 **Bí kíp thành công:** Đừng chỉ đọc — hãy **làm theo từng ngày**. Mỗi bài chỉ mất 30-45 phút thực hành. Sau 30 ngày, bạn sẽ ngạc nhiên về những gì mình tạo ra được.
+
+---
+
+## 📄 License
 ---
 
 ## 📄 License
