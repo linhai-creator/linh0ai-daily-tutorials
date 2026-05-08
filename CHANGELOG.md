@@ -3,6 +3,20 @@
 > Theo dõi tiến độ phát triển của repo. Repo được cập nhật mỗi ngày trong 30 ngày.
 
 ---
+
+## [Day 7] — 2026-05-08
+
+### ✨ Thêm mới
+- **Day 7 — Tổng kết Tuần 1 + Mini Challenge** ([đọc](./days/day-07.md))
+- 🏆 Mini Challenge "Phong cảnh Việt Nam" — community challenge đầu tiên
+- 7 bài học lớn từ Day 1-6
+- 5 ảnh "Best of Week 1" (reuse từ Day 1, 3, 4, 5, 6)
+- FAQ tổng hợp 10 câu phổ biến
+- Roadmap Tuần 2 (Day 8-14)
+
+### 🎉 Milestone
+- **Tuần 1 HOÀN THÀNH** — 23% hành trình 30 ngày
+- Sẵn sàng cho Tuần 2: Image Models Deep Dive
 ## [Day 6] — 2026-05-08
 
 ### ✨ Thêm mới
@@ -89,12 +103,16 @@
 
 ## 🔮 Sắp Có
 
-### Tuần 1 (đang làm)
-- [ ] Day 7 — Tổng kết tuần 1 + Mini Challenge
+### Tuần 1 ✅ HOÀN THÀNH (Day 1-7)
 
-### Tuần 2 (Day 8-14)
-- [ ] Deep dive 5 model image (Flux, Nano Banana, Seedream, Z-Image, Ideogram)
-- [ ] Cheatsheet so sánh model
+### Tuần 2 (sắp tới)
+- [ ] Day 8 — Flux Schnell (tốc độ)
+- [ ] Day 9 — Flux Dev (cân bằng)
+- [ ] Day 10 — Flux Pro (chất lượng cao)
+- [ ] Day 11 — Nano Banana 2 deep dive
+- [ ] Day 12 — Nano Banana Pro & character consistency
+- [ ] Day 13 — Seedream
+- [ ] Day 14 — So sánh + cheatsheet
 
 ### Tuần 3 (Day 15-21)
 - [ ] Image-to-image, inpainting, outpainting
@@ -115,7 +133,7 @@
 ## 📊 Tiến độ tổng
 
 ```
-██████░░░░░░░░░░░░░░░░░░░░░░░░  6/30 ngày (20%)
+███████░░░░░░░░░░░░░░░░░░░░░░░  7/30 ngày (23%)
 ```
 
 **Started:** 2026-05-07
