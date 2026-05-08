@@ -57,15 +57,22 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 
 ---
 
-## 🚀 Bắt đầu thế nào?
+## 🚀 Bắt đầu học tại đây
 
-1. ⭐ Star repo này để không bỏ lỡ bài mới
-2. Đọc các bài đã đăng:
-   - [Day 1 — Giới thiệu 0ai.vn + So sánh model](./days/day-01.md)
-   - [Day 2 — Đăng ký + Credit Strategy + Dashboard](./days/day-02.md)
-   - [Day 3 — Anatomy of a Prompt: 5 thành phần cốt lõi](./days/day-03.md)
-3. Tham khảo [PRICING.md](./PRICING.md) khi cần chọn gói
-4. Mỗi ngày dành **15-30 phút** đọc + thực hành
+⭐ **Star repo** để không bỏ lỡ bài mới · 📌 Mỗi ngày dành 15-30 phút đọc + thực hành
+
+| Ngày | Chủ đề | Level | Link |
+|:---:|---|:---:|:---:|
+| **Day 1** | Giới thiệu 0ai.vn + So sánh Nano Banana 2 vs Image 2 | 🟢 | [📖 Đọc](./days/day-01.md) |
+| **Day 2** | Đăng ký + Chiến lược dùng Credit + Tour Dashboard | 🟢 | [📖 Đọc](./days/day-02.md) |
+| **Day 3** | Anatomy of a Prompt — 5 thành phần cốt lõi | 🟢🔵 | [📖 Đọc](./days/day-03.md) |
+| Day 4 | Aspect ratio, resolution & các thông số cơ bản | 🟢 | 🔜 Sắp có |
+| Day 5 | Prompt tiếng Việt vs tiếng Anh | 🔵 | 🔜 Sắp có |
+| Day 6 | Negative prompt & quality tags | 🔵 | 🔜 Sắp có |
+| Day 7 | Tổng kết tuần 1 + Mini Challenge | 🟢🔵 | 🔜 Sắp có |
+| ... | *Xem [CURRICULUM.md](./CURRICULUM.md) cho lộ trình 30 ngày đầy đủ* | | |
+
+📊 [Pricing Guide](./PRICING.md) · 📚 [Curriculum đầy đủ](./CURRICULUM.md) · 💬 [Nhóm Zalo](https://zalo.me/g/caqqva644) · 🐛 [Báo lỗi](https://github.com/linhai-creator/linh0ai-daily-tutorials/issues)
 5. 💬 Tham gia cộng đồng:
    - [Nhóm Zalo][([https://zalo.me/g/YOUR-LINK-HERE](https://zalo.me/g/caqqva644))](https://zalo.me/g/caqqva644) — Hỏi đáp & chia sẻ ảnh hằng ngày
    - Báo lỗi hoặc đề xuất nội dung
