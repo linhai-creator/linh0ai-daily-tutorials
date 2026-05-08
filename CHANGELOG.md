@@ -13,6 +13,10 @@
 - 5 ảnh "Best of Week 1" (reuse từ Day 1, 3, 4, 5, 6)
 - FAQ tổng hợp 10 câu phổ biến
 - Roadmap Tuần 2 (Day 8-14)
+### 🔧 Cải thiện
+- README: thêm dòng "Không cần biết code" để giảm barrier to entry
+- README: thêm section "Học xong làm được gì?" với 8 outcomes cụ thể
+- README: thêm CTA "Bắt đầu thực hành" với 4 bước action rõ ràng
 
 ### 🎉 Milestone
 - **Tuần 1 HOÀN THÀNH** — 23% hành trình 30 ngày
