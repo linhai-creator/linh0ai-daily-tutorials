@@ -36,7 +36,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 3** | Anatomy of a Prompt — 5 thành phần cốt lõi | 🟢🔵 | [📖 Đọc](./days/day-03.md) |
 | **Day 4** | Aspect ratio, resolution & các thông số cơ bản | 🟢 | [📖 Đọc](./days/day-04.md) |
 | **Day 5** | Prompt tiếng Việt vs tiếng Anh | 🔵 | [📖 Đọc](./days/day-05.md) |
-| Day 6 | Negative prompt & | **Day 6** | Negative prompt & quality tags | 🔵 | [📖 Đọc](./days/day-06.md) |
+| **Day 6** | Negative prompt & quality tags | 🔵 | [📖 Đọc](./days/day-06.md) |
 | Day 7 | Tổng kết tuần 1 + Mini Challenge | 🟢🔵 | 🔜 Sắp có |
 | ... | *Xem [CURRICULUM.md](./CURRICULUM.md) cho lộ trình 30 ngày đầy đủ* | | |
 
