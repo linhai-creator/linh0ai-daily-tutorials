@@ -64,7 +64,9 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
    - [Day 3 — Anatomy of a Prompt: 5 thành phần cốt lõi](./days/day-03.md)
 3. Tham khảo [PRICING.md](./PRICING.md) khi cần chọn gói
 4. Mỗi ngày dành **15-30 phút** đọc + thực hành
-5. Tham gia thảo luận tại [Issues](../../issues) hoặc [Discussions](../../discussions)
+5. 💬 Tham gia cộng đồng:
+   - [Nhóm Zalo][([https://zalo.me/g/YOUR-LINK-HERE](https://zalo.me/g/caqqva644))](https://zalo.me/g/caqqva644) — Hỏi đáp & chia sẻ ảnh hằng ngày
+   - Báo lỗi hoặc đề xuất nội dung
 ---
 
 ## 📦 Format mỗi bài
