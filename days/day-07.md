@@ -263,7 +263,7 @@ Bạn là một trong những người đầu tiên đi cùng mình hành trình
 
 - ⭐ **Star repo** nếu chưa
 - 📤 **Share** cho 1 người bạn đang học AI
-- 💬 **Tham gia [Nhóm Zalo](#)** để cùng học
+- 💬 **Tham gia [Nhóm Zalo](https://zalo.me/g/umthmp096)** để cùng học
 - 🎯 **Tham gia Mini Challenge** — kể cả 1 ảnh cũng được
 
 ### Hành trình còn dài
