@@ -1,3 +1,5 @@
+![0ai.vn Daily Tutorials Banner](./assets/images/banner.png)
+
 # 🎨 0ai.vn Daily Tutorials — 30 Ngày Làm Chủ AI Tạo Ảnh & Video
 
 > Hành trình 30 ngày học cách dùng **0ai.vn** để tạo ảnh trên nhiều model khác nhau và làm video bằng **Seedance 2.0** — từ con số 0 đến tự tin sản xuất nội dung.
