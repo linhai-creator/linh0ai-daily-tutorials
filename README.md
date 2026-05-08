@@ -37,7 +37,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 4** | Aspect ratio, resolution & các thông số cơ bản | 🟢 | [📖 Đọc](./days/day-04.md) |
 | **Day 5** | Prompt tiếng Việt vs tiếng Anh | 🔵 | [📖 Đọc](./days/day-05.md) |
 | **Day 6** | Negative prompt & quality tags | 🔵 | [📖 Đọc](./days/day-06.md) |
-| Day 7 | Tổng kết tuần 1 + Mini Challenge | 🟢🔵 | 🔜 Sắp có |
+| **Day 7** | Tổng kết tuần 1 + Mini Challenge | 🟢🔵 | [📖 Đọc](./days/day-07.md) |
 | ... | *Xem [CURRICULUM.md](./CURRICULUM.md) cho lộ trình 30 ngày đầy đủ* | | |
 
 📊 [Pricing Guide](./PRICING.md) · 📚 [Curriculum đầy đủ](./CURRICULUM.md) · 📝 [Changelog](./CHANGELOG.md) · 💬 [Nhóm Zalo](https://zalo.me/g/caqqva644) · 🐛 [Báo lỗi](../../issues)
