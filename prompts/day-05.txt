@@ -1,0 +1,77 @@
+# Day 5 — Sample Prompts: Việt vs Anh vs Hybrid
+# File: prompts/day-05.txt
+# Topics: Người + Cảnh + Sản phẩm
+# Models tested: Nano Banana 2, Image 2
+
+# ═══════════════════════════════════════════════════════
+# 🎨 CHỦ ĐỀ 1: CHÂN DUNG NGƯỜI VIỆT
+# ═══════════════════════════════════════════════════════
+
+# 🇻🇳 Tiếng Việt:
+Phụ nữ Việt 25 tuổi tóc dài đen, mặc áo dài trắng, ngồi trong quán cà phê vintage Hà Nội, ánh nắng vàng buổi chiều, phong cách điện ảnh
+
+# 🇬🇧 Tiếng Anh:
+25-year-old Vietnamese woman with long black hair, wearing white áo dài, sitting in vintage Hanoi coffee shop, golden afternoon light, cinematic style
+
+# 🏆 HYBRID (RECOMMEND):
+Phụ nữ Việt 25 tuổi mặc áo dài trắng, ngồi tại quán cà phê vintage Hà Nội, cinematic close-up portrait, golden hour lighting, shallow depth of field, bokeh background, 85mm lens, professional editorial photography, sharp focus, 4K, photorealistic, masterpiece
+
+
+# ═══════════════════════════════════════════════════════
+# 🌅 CHỦ ĐỀ 2: PHỐ CỔ HỘI AN
+# ═══════════════════════════════════════════════════════
+
+# 🇻🇳 Tiếng Việt:
+Phố cổ Hội An vào buổi tối, đèn lồng đỏ thắp sáng, người dân địa phương đi bộ trên phố, mặt nước phản chiếu ánh đèn, không khí ấm cúng, ảnh chân thực
+
+# 🇬🇧 Tiếng Anh:
+Hoi An ancient town at night, red lanterns illuminated, locals walking on the street, water reflections of lights, warm atmosphere, photorealistic
+
+# 🏆 HYBRID (RECOMMEND):
+Phố cổ Hội An vào buổi tối, đèn lồng đỏ thắp sáng, người dân địa phương đi bộ, water reflections, warm cinematic lighting, photorealistic, ultra detailed, 4K, masterpiece
+
+
+# ═══════════════════════════════════════════════════════
+# 🍜 CHỦ ĐỀ 3: PHỞ BÒ HÀ NỘI
+# ═══════════════════════════════════════════════════════
+
+# 🇻🇳 Tiếng Việt:
+Bát phở bò đặc biệt Hà Nội, nước dùng trong, thịt bò tươi, hành lá cắt nhỏ, hơi nước bốc lên, đĩa rau thơm bên cạnh, chụp từ trên xuống, ảnh sản phẩm chuyên nghiệp
+
+# 🇬🇧 Tiếng Anh:
+Special Hanoi beef pho bowl, clear broth, fresh beef slices, chopped green onions, steam rising, fresh herbs plate on the side, top-down view, professional product photography
+
+# 🏆 HYBRID (RECOMMEND):
+Bát phở bò đặc biệt Hà Nội, fresh beef slices, steam rising, fresh herbs, top-down food photography, soft natural lighting, shallow depth of field, sharp focus, 4K, professional, mouth-watering
+
+
+# ═══════════════════════════════════════════════════════
+# 💡 BÍ KÍP HYBRID
+# ═══════════════════════════════════════════════════════
+
+# CÔNG THỨC:
+# [Subject văn hóa Việt: tiếng VIỆT] + [Style + Quality: tiếng ANH]
+#
+# CỤ THỂ:
+# - Văn hóa, địa danh, món ăn Việt → tiếng VIỆT
+# - Camera, lighting, style, quality → tiếng ANH
+
+# DANH SÁCH TỪ TIẾNG VIỆT NÊN GIỮ:
+# áo dài, áo bà ba, nón lá, đèn lồng
+# phở, bún, bánh mì, cà phê sữa đá
+# Hội An, Hà Nội, Sài Gòn, Hạ Long, Sapa
+# phố cổ, chợ, đền, chùa, lăng
+
+# DANH SÁCH TAG TIẾNG ANH ĐỂ THUỘC:
+# - Style: cinematic, photorealistic, editorial
+# - Quality: 4K, sharp focus, ultra detailed, masterpiece
+# - Lighting: golden hour, soft natural light, dramatic
+# - Composition: close-up, top-down view, rule of thirds
+# - Camera: 85mm lens, shallow depth of field, bokeh
+
+# ═══════════════════════════════════════════════════════
+# Recommended settings:
+# Model:        Nano Banana 2 hoặc Image 2
+# Aspect ratio: 4:5 (Người), 16:9 (Cảnh), 1:1 (Sản phẩm)
+# Quality:      Highest available
+# Generations:  4 ảnh/lần để pick
