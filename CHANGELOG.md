@@ -3,7 +3,18 @@
 > Theo dõi tiến độ phát triển của repo. Repo được cập nhật mỗi ngày trong 30 ngày.
 
 ---
+## [Day 6] — 2026-05-08
 
+### ✨ Thêm mới
+- **Day 6 — Negative Prompt & Quality Tags** ([đọc](./days/day-06.md))
+- 20 ảnh demo: 5 cặp trước/sau × 2 model (NBN2 + Image2)
+- File `prompts/day-06.txt` — cheatsheet đầy đủ negative + quality tags
+- Universal Negative Prompt template (paste cho mọi ảnh)
+- Quality tags theo 6 style (Photorealistic, Cinematic, Editorial, Anime, Oil Painting, 3D)
+- Insight: Cải thiện 30% chất lượng ảnh chỉ với negative prompt
+
+### 🔧 Cải thiện
+- Update README — Day 6 vào danh sách bài đã đăng
 ## [Day 5] — 2026-05-08
 
 ### ✨ Thêm mới
@@ -79,7 +90,6 @@
 ## 🔮 Sắp Có
 
 ### Tuần 1 (đang làm)
-- [ ] Day 6 — Negative prompt & quality tags
 - [ ] Day 7 — Tổng kết tuần 1 + Mini Challenge
 
 ### Tuần 2 (Day 8-14)
@@ -105,7 +115,7 @@
 ## 📊 Tiến độ tổng
 
 ```
-██████░░░░░░░░░░░░░░░░░░░░░░░░  5/30 ngày (17%)
+██████░░░░░░░░░░░░░░░░░░░░░░░░  6/30 ngày (20%)
 ```
 
 **Started:** 2026-05-07
