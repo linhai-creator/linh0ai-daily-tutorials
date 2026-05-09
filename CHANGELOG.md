@@ -4,11 +4,11 @@
 
 ---
 
-## Day 10 — 09/05/2026 🟣 🔄
+## Day 10 — 09/05/2026 🟣 ✅
 
-**Bài:** Composition & Framing: 5 Quy Tắc Bố Cục Kinh Điển
+**Bài:** Composition & Framing: GPT Image 2 KHÔNG Có Điểm Yếu
 
-**Status:** 🔄 In progress — bài viết đã hoàn thành, đang chờ 15 ảnh test
+**Status:** ✅ Done — 15 ảnh test verified, bài hoàn thành 100%
 
 ### ✨ Highlights
 - 🟣 Level Advanced — chuyên đề composition đầu tiên trong Tuần 2
@@ -16,17 +16,18 @@
 - 💰 Credit dự kiến: 13,500 (~13.5k VND, ~1.2% gói Ultra Member)
 - 🎯 Bài comprehensive nhất Tuần 2 đến thời điểm hiện tại
 
-### 🔥 Insights dự đoán (chờ verify)
-- ✅ 5 quy tắc composition kinh điển: Rule of Thirds, Leading Lines, Symmetry, Negative Space, Foreground/Mid/Background
-- 🎬 Foreground/Mid/Bg là "thuốc tiên" chữa AI flat look
-- 🪞 Symmetry là điểm yếu của AI (geometric precision)
-- ⚪ Negative Space đi ngược "AI nature" (model thích fill detail)
-- ⚠️ GPT Image 2 có thể lặp lại issue brand thật (Day 8 + Day 9 đã verified)
+### 🔥 Insights VERIFIED (3 dự đoán SAI!)
+- ✅ 5 quy tắc composition: Rule of Thirds, Leading Lines, Symmetry, Negative Space, FG/MG/BG
+- 🎬 FG/MG/BG là "thuốc tiên" chữa AI flat look — verified
+- 🤯 **Symmetry KHÔNG yếu** — GPT Image 2 làm hoàn hảo (Hội An reflection #10)
+- 🤯 **Negative Space tốt hơn nghĩ** — GPT để 80% trống đẹp, không fill
+- 🛡️ **Brand chèn ĐÃ FIX** — negative prompt liệt kê tên brand cụ thể (Audemars, Vincero, Dior, LV...) chặn 100%
+- 🥇 GPT Image 2 KHÔNG có điểm yếu trong composition — 5/5 quy tắc đều ⭐⭐⭐⭐+
 
 ### 📁 Files added
 - `days/day-10.md` — bài tutorial đầy đủ (~19kb, 11 phần + section "5 lỗi composition AI hay mắc")
 - `prompts/day-10.txt` — 15 prompts chuẩn (5 quy tắc × 3 chủ đề) với weighted syntax + negative chống brand
-- `assets/images/day-10-*.png` — 15 ảnh test (chờ upload)
+- `assets/images/day-10-*.png` — 15 ảnh test (5 quy tắc × 3 chủ đề)
 
 ### 🎯 Subjects test
 - **Chân dung:** Cô gái casual + Thảo Điền Sài Gòn (modern urban vibe)
@@ -193,7 +194,7 @@
 
 - [x] Day 8 — Seedream 4.5 deep dive: Chân dung & da người ✅
 - [x] Day 9 — Prompt Engineering Nâng Cao: Áo dài Việt qua AI ✅
-- [🔄] Day 10 — Composition & Framing: 5 quy tắc bố cục (bài xong, chờ ảnh)
+- [x] Day 10 — Composition & Framing: GPT Image 2 KHÔNG có điểm yếu ✅
 - [ ] Day 11 — Lighting Mastery (Golden hour, Rembrandt, Split lighting)
 - [ ] Day 12 — Color Theory & Mood (warm/cool, complementary, analogous)
 - [ ] Day 13 — Camera & Lens trong Prompt (focal length, DOF, motion blur)
@@ -218,7 +219,7 @@
 ## 📊 Tiến độ tổng
 
 ```
-██████████░░░░░░░░░░░░░░░░░░░░  10/30 ngày (33%) — Day 10 in progress
+██████████░░░░░░░░░░░░░░░░░░░░  10/30 ngày (33%) ✅
 ```
 
 **Started:** 2026-05-07
