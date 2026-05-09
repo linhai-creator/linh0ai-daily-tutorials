@@ -1,6 +1,6 @@
 # 📖 0ai.vn Models Cheatsheet — 1 Trang Chọn Đúng Model
 
-> **Bản 1.0** — Cập nhật ngày 08/05/2026 (sau Tuần 1)
+> **Bản 1.1** — Cập nhật ngày 09/05/2026 (sau Day 9)
 > **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
 > **Repo:** [linh0ai-daily-tutorials](https://github.com/linhai-creator/linh0ai-daily-tutorials)
 > **Data dựa trên test thực tế** — không phải copy info marketing từ web
@@ -112,6 +112,8 @@
 - 🌍 **Prompt tiếng Anh dài chi tiết** — model mạnh nhất với English
 - 🎨 **Photo-realistic chuẩn** — face structure, perspective, lighting đều tốt
 
+> ⚠️ **CẢNH BÁO BẢN QUYỀN (Day 8 + Day 9 verified):** GPT Image 2 hay tự chèn brand thật vào ảnh sản phẩm — Day 8 chèn "Vincero Kairos" vào đồng hồ, Day 9 chèn "Dior" vào túi xách. **Khi làm shop online**, luôn thêm vào negative: `brand name, logo, text on bag, designer logo, Dior, LV, Gucci, Chanel`. Nếu cần tuân prompt 100% → ưu tiên Seedream 4.5.
+
 ### ❌ Skip when
 - **Test ý tưởng / draft / nháp** → Seedream 4.5 (rẻ 2.57x, đủ tốt)
 - **Production volume cao** — sẽ cháy credit nhanh → Seedream 4.5
@@ -220,10 +222,11 @@ Thêm cho ảnh chân dung:
 ## 📊 Update log — Mỗi model đã test khi nào?
 
 | Thời điểm | Model | Day liên quan | Số ảnh đã test | Status |
-|-----------|-------|---------------|----------------|--------|
+| --- | --- | --- | --- | --- |
 | Tuần 1 (đến 08/05/2026) | NBN2 | Day 1-7 | ~50+ | ✅ Done |
 | Tuần 1 (đến 08/05/2026) | GPT Image 2 | Day 1-7 | ~50+ | ✅ Done |
-| 08/05/2026 | Seedream 4.5 | Day 8 | 3+ (đang test) | 🔄 In progress |
+| 08/05/2026 | Seedream 4.5 | Day 8 | 10 ảnh (3 chủ đề × 3 model + 1 bonus 中文) | ✅ Done |
+| 09/05/2026 | Seedream 4.5 + GPT Image 2 | Day 9 | 12 ảnh (3 cấp × 2 variation × 2 model) | ✅ Done |
 
 > **📝 Cách Linh test:** Mỗi model dùng cùng prompt + cùng aspect ratio + cùng resolution để so sánh công bằng (A/B/C testing). Mỗi prompt chạy 1 lần — KHÔNG cherry-pick ảnh đẹp.
 
@@ -249,7 +252,7 @@ Repo: [github.com/linhai-creator/linh0ai-daily-tutorials](https://github.com/lin
 - 📖 **Curriculum 30 ngày:** [CURRICULUM.md](./CURRICULUM.md)
 - 📝 **Bài Day 8 (Seedream 4.5 deep dive):** [days/day-08.md](./days/day-08.md)
 - 🚀 **Bắt đầu từ đâu?** [START-HERE.md](./START-HERE.md)
-
+- 🟣 **Bài Day 9 (Prompt Engineering Nâng Cao):** [days/day-09.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-09.md)
 ---
 
 ## 📚 Glossary nhanh
