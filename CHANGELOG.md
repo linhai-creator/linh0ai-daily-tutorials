@@ -50,7 +50,8 @@
 
 ### 🆕 Files mới đi kèm
 - `MODELS-CHEATSHEET.md` (root) — quick ref so sánh 3 model flagship
-- `TEMPLATE-day.md` (root) — template
+- `TEMPLATE-day.md` (root) — template chuẩn cho Day 9-30
+- `CURRICULUM.md` v2.0 — Tuần 2 đổi sang Master Skills (Composition, Lighting, Color Theory, Camera)
 ## [Day 7] — 2026-05-08
 
 ### ✨ Thêm mới
@@ -156,14 +157,15 @@
 
 ### Tuần 1 ✅ HOÀN THÀNH (Day 1-7)
 
-### Tuần 2 (sắp tới)
-- [ ] Day 8 — Flux Schnell (tốc độ)
-- [ ] Day 9 — Flux Dev (cân bằng)
-- [ ] Day 10 — Flux Pro (chất lượng cao)
-- [ ] Day 11 — Nano Banana 2 deep dive
-- [ ] Day 12 — Nano Banana Pro & character consistency
-- [ ] Day 13 — Seedream
-- [ ] Day 14 — So sánh + cheatsheet
+### Tuần 2 — Master Skills (đang triển khai)
+
+- [x] Day 8 — Seedream 4.5 deep dive: Chân dung & da người ✅
+- [x] Day 9 — Prompt Engineering Nâng Cao: Áo dài Việt qua AI ✅
+- [ ] Day 10 — Composition & Framing (Rule of Thirds, Leading Lines, Symmetry)
+- [ ] Day 11 — Lighting Mastery (Golden hour, Rembrandt, Split lighting)
+- [ ] Day 12 — Color Theory & Mood (warm/cool, complementary, analogous)
+- [ ] Day 13 — Camera & Lens trong Prompt (focal length, DOF, motion blur)
+- [ ] Day 14 — Tổng kết Tuần 2 + chấm Mini Challenge "Phong cảnh Việt Nam"
 
 ### Tuần 3 (Day 15-21)
 - [ ] Image-to-image, inpainting, outpainting
@@ -184,7 +186,7 @@
 ## 📊 Tiến độ tổng
 
 ```
-███████░░░░░░░░░░░░░░░░░░░░░░░  7/30 ngày (23%)
+█████████░░░░░░░░░░░░░░░░░░░░░  9/30 ngày (30%)
 ```
 
 **Started:** 2026-05-07
