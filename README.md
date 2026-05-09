@@ -132,7 +132,6 @@ Nếu bạn làm theo bài học nhưng bị **lỗi ảnh, lỗi prompt** hoặ
 ├── MODELS-CHEATSHEET.md   ← 🆕 So sánh nhanh 3 model flagship
 ├── TEMPLATE-day.md        ← 🆕 Template chuẩn cho contributor
 ├── CHANGELOG.md           ← Nhật ký cập nhật
-├── PROJECT-CONTEXT.md     ← Cho AI assistant (advanced)
 ├── days/
 │   ├── day-01.md
 │   ├── day-02.md
