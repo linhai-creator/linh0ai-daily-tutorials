@@ -3,7 +3,54 @@
 > Theo dõi tiến độ phát triển của repo. Repo được cập nhật mỗi ngày trong 30 ngày.
 
 ---
+## Day 9 — 09/05/2026 🟣
 
+**Bài:** Prompt Engineering Nâng Cao: Áo Dài Việt qua Lăng Kính AI
+
+### ✨ Highlights
+- 🟣 Level Advanced — chuyên đề kỹ thuật prompt nâng cao
+- 📊 Test 12 ảnh: 3 cấp độ (Basic/Advanced/Pro) × 2 variation (truyền thống + cách tân) × 2 model (Seedream 4.5 + GPT Image 2)
+- 💰 Tổng credit test: 7,500 (~7.5k VND)
+
+### 🔥 Insights mới
+- ✅ Weighted syntax `(keyword:1.4)` — range an toàn 0.7-1.5
+- ✅ Negative weighted Layered: Layer 1 (kỹ thuật) + Layer 2 (concept)
+- 🎯 Prompt nâng cao **CÓ cứu** GPT Image 2 — cải thiện +40% từ Basic → Pro
+- 🌏 **Áo dài đỏ-phượng-đèn lồng = Tết Việt Nam** authentic, KHÔNG phải TQ
+- 🚨 Local knowledge > Foreign expertise khi review AI ảnh văn hóa Việt
+- ⚠️ GPT Image 2 vẫn tự chèn brand thật ("Dior" trong túi) — lặp Day 8
+
+### 📁 Files added
+- `days/day-09.md` — bài tutorial đầy đủ (~21kb)
+- `prompts/day-09.txt` — 6 prompts chuẩn (basic/advanced/pro × 2 variation) + bonus tiếng Trung
+- `assets/images/day-09-*.png/.jpg` — 12 ảnh test
+
+---
+
+## Day 8 — 08/05/2026 🔵
+
+**Bài:** Seedream 4.5 Deep Dive: Vũ khí bí mật cho chân dung & da người
+
+### ✨ Highlights
+- 🔵 Level Intermediate — model deep-dive đầu tiên ngoài Tuần 1
+- 📊 Test 9 ảnh chính + 1 bonus tiếng Trung trên 3 model (Seedream 4.5, NBN2, GPT Image 2)
+- 💰 Tổng credit test: 5,300 (~5.3k VND)
+
+### 🔥 Insights mới
+- ✅ Seedream 4.5 = vũ khí cho chân dung biểu cảm + sản phẩm thương mại
+- ✅ Cinematic lighting tự động + native 2048×2048
+- 🇨🇳 Tiếng Trung > Hybrid VI+EN > Tiếng Việt thuần (cho Seedream)
+- 🚨 **CẢNH BÁO BẢN QUYỀN:** NBN2 + GPT Image 2 hay tự chèn brand thật vào ảnh sản phẩm (Audemars Piguet, Vincero) → rủi ro pháp lý cho ecommerce
+- 💰 Giá thực: Seedream 350 / NBN2 400 / GPT Image 2 900 credit/ảnh
+
+### 📁 Files added
+- `days/day-08.md` — bài tutorial đầy đủ (~22kb)
+- `prompts/day-08.txt` — 3 prompts chuẩn (chân dung/cảnh/sản phẩm) + bonus tiếng Trung
+- `assets/images/day-08-*.png` — 10 ảnh test (9 chính + 1 bonus 中文)
+
+### 🆕 Files mới đi kèm
+- `MODELS-CHEATSHEET.md` (root) — quick ref so sánh 3 model flagship
+- `TEMPLATE-day.md` (root) — template
 ## [Day 7] — 2026-05-08
 
 ### ✨ Thêm mới
