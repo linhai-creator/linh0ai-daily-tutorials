@@ -123,7 +123,7 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-### Day 11 — Lighting Mastery 📋
+### Day 11 — Lighting Mastery: GPT Image 2 BIG WIN — Master 6 Lighting ✅
 > *70% chất lượng ảnh đến từ ánh sáng*
 
 **Mục tiêu:**
@@ -135,11 +135,17 @@ Sau 30 ngày, bạn sẽ:
 - Prompt template cho mỗi loại lighting
 - Combo: lighting + mood (ấm áp, lạnh lùng, bí ẩn, drama)
 - Cách fix ảnh AI bị "ánh sáng phẳng"
+**Test:** 18 ảnh — 6 lighting × 3 chủ đề × GPT Image 2 **Credit thực tế:** 16,200 credit
 
-**Test:** ~18 ảnh — 6 lighting × 3 chủ đề
-**Credit dự kiến:** ~7,000 credit
+**Insights đã verified:**
+- ✅ GPT Image 2 master cả 6 lighting (Golden, Blue, Rim, Rembrandt, Split, Backlight)
+- 🎭 Rembrandt's triangle of light HOÀN HẢO (insight lớn nhất)
+- 🌌 Blue Hour không leak warm — model có "color discipline"
+- ⚡ Split Lighting sharp 50/50 — geometric precision đỉnh
+- 🛡️ Brand fix lần 4 — bulletproof solution cho ecommerce
+- 🇻🇳 Combo "Lighting + Setting Việt Nam" = đỉnh (Sapa nông dân Backlight)
 
-**Insight Linh dự kiến:** "Cinematic lighting" + "rim light" = combo viral cho ảnh nhân vật
+📄 [days/day-11.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-11.md)
 
 ---
 
@@ -342,6 +348,7 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 |-----------|------|----------|
+| **v2.3** | 09/05/2026 | ✅ Day 11 hoàn thành. Update Day 11 với 5 insights bất ngờ (Rembrandt master, Blue Hour cool, Split sharp, Backlight vs Rim, Brand lần 4). Pattern: GPT Image 2 KHÔNG có điểm yếu kỹ thuật (verified Day 10 + Day 11). |
 | **v2.2** | 09/05/2026 | ✅ Day 10 hoàn thành. Update Day 10 description với 3 insights bất ngờ (Symmetry tốt, Negative Space tốt, Brand fix). |
 | **v2.1** | 09/05/2026 | ✅ Day 8 + Day 9 hoàn thành. Update Day 9 description với insights verified...
 | **v2.1** | 09/05/2026 | ✅ Day 8 + Day 9 hoàn thành. Update Day 9 description với insights verified (cultural awareness về áo dài Tết, GPT cải thiện +40% với prompt Pro, cảnh báo brand bản quyền lặp lại). |
@@ -353,4 +360,4 @@ Nếu bạn có:
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.2*
+*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.3*
