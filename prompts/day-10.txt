@@ -1,0 +1,268 @@
+# 🎯 Day 10 — Composition & Framing
+# Demo qua 5 quy tắc bố cục kinh điển × 3 chủ đề × GPT Image 2
+# Test 15 ảnh — Cô gái casual Thảo Điền + Phố cổ Hội An + Đồng hồ luxury
+
+# ═══════════════════════════════════════════════════════════
+# 📚 5 QUY TẮC COMPOSITION SẼ HỌC HÔM NAY
+# ═══════════════════════════════════════════════════════════
+
+# 1. RULE OF THIRDS — đặt subject ở giao điểm 1/3
+#    Lưới 3×3, subject tại 4 giao điểm (mạnh hơn trung tâm)
+#    Keyword: "rule of thirds composition", "subject at intersection"
+
+# 2. LEADING LINES — đường nét dẫn mắt vào subject
+#    Đường, hàng cột, cầu thang, ruộng bậc thang...
+#    Keyword: "leading lines toward subject", "converging lines"
+
+# 3. SYMMETRY — đối xứng (mirror, radial)
+#    Đối xứng dọc/ngang/tâm. Tạo cảm giác formal, balanced
+#    Keyword: "symmetrical composition", "perfect symmetry"
+
+# 4. NEGATIVE SPACE — khoảng trống xung quanh subject
+#    Subject nhỏ, không gian lớn → minimal, focus mạnh
+#    Keyword: "negative space", "minimalist composition", "isolated subject"
+
+# 5. FOREGROUND/MIDGROUND/BACKGROUND — chiều sâu 3 lớp
+#    Layer ảnh để khắc phục "AI flat look"
+#    Keyword: "foreground element + midground subject + background blur"
+
+# ═══════════════════════════════════════════════════════════
+# 💰 GIÁ + SETTINGS CHUẨN
+# ═══════════════════════════════════════════════════════════
+# - Model: GPT Image 2 (900 credit/ảnh)
+# - Aspect ratio: 3:4 (chân dung), 16:9 (cảnh), 1:1 (sản phẩm)
+# - Resolution: 2K
+# - 15 ảnh × 900 = 13,500 credit (~13.5k VND, ~1.2% gói Ultra Member)
+
+# ═══════════════════════════════════════════════════════════
+# 🎨 SUBJECT 1: CÔ GÁI CASUAL THẢO ĐIỀN, SÀI GÒN
+# Aspect: 3:4 (chân dung dọc)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Quy tắc 1: RULE OF THIRDS ───
+# Tên file: day-10-thirds-portrait.png
+PROMPT_1:
+A young Vietnamese woman 25yo, casual outfit (linen shirt + denim),
+holding iced coffee, smiling naturally. (Rule of thirds composition:1.4),
+subject positioned at right intersection of grid, eyes aligned with upper third line.
+Background: Thao Dien district Saigon, modern coffee shop facade with greenery.
+Soft morning daylight, photorealistic, 50mm lens, shallow DOF.
+
+Negative: subject centered, plastic skin, deformed eyes, low quality, blurry,
+brand name, logo, text on clothes, designer logo
+
+# ─── Quy tắc 2: LEADING LINES ───
+# Tên file: day-10-lines-portrait.png
+PROMPT_2:
+A young Vietnamese woman 25yo, casual outfit, walking confidently.
+(Leading lines composition:1.4), modern Thao Dien architecture creates
+diagonal lines converging toward subject — glass building edges,
+wooden pathway, parallel concrete slabs all pointing to her.
+Bright airy morning light, photorealistic, 35mm lens.
+
+Negative: cluttered background, plastic skin, deformed eyes, low quality, blurry,
+brand name, logo, designer logo
+
+# ─── Quy tắc 3: SYMMETRY ───
+# Tên file: day-10-symmetry-portrait.png
+PROMPT_3:
+A young Vietnamese woman 25yo, casual outfit, standing centered in frame.
+(Perfect symmetrical composition:1.4), framed by symmetrical doorway —
+two identical pillars on each side, balanced shadows left and right,
+geometric tile pattern on floor reflecting subject. Modern Thao Dien
+architecture. Soft even daylight, photorealistic, 50mm lens.
+
+Negative: asymmetric, off-balance, plastic skin, deformed eyes, low quality,
+brand name, logo, designer logo
+
+# ─── Quy tắc 4: NEGATIVE SPACE ───
+# Tên file: day-10-negative-portrait.png
+PROMPT_4:
+A young Vietnamese woman 25yo, casual outfit, small in frame.
+(Negative space composition:1.4), (minimalist composition:1.3),
+subject isolated against vast empty white-painted modern wall,
+80% empty space, subject occupying only bottom-right corner.
+Thao Dien minimalist coffee shop interior. Bright soft light,
+photorealistic, 35mm lens.
+
+Negative: cluttered background, busy scene, plastic skin, low quality,
+brand name, logo, designer logo
+
+# ─── Quy tắc 5: FOREGROUND / MIDGROUND / BACKGROUND ───
+# Tên file: day-10-depth-portrait.png
+PROMPT_5:
+A young Vietnamese woman 25yo, casual outfit, sitting at outdoor cafe table.
+(Three-layer depth composition:1.4): (foreground:1.2) blurred coffee cup
+and tropical leaves out of focus in front, (midground:1.3) subject sharp
+focus mid-frame, (background:1.2) Thao Dien street scene with motorbikes
+in soft bokeh blur. Photorealistic, 85mm lens, f/1.8 shallow DOF.
+
+Negative: flat composition, single layer, plastic skin, deformed eyes,
+low quality, brand name, logo
+
+# ═══════════════════════════════════════════════════════════
+# 🌆 SUBJECT 2: PHỐ CỔ HỘI AN
+# Aspect: 16:9 (phong cảnh ngang)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Quy tắc 1: RULE OF THIRDS ───
+# Tên file: day-10-thirds-landscape.png
+PROMPT_6:
+Hoi An ancient town at golden hour. (Rule of thirds composition:1.4),
+yellow ochre wall buildings on right intersection, Japanese covered bridge
+on lower third, sky on upper third. Red lanterns hanging across street,
+warm sunset light, traditional Vietnamese architecture.
+Photorealistic, 24mm wide lens, sharp focus throughout.
+
+Negative: subject centered, oversaturated, low quality, blurry, watermark,
+modern buildings, generic asian street
+
+# ─── Quy tắc 2: LEADING LINES ───
+# Tên file: day-10-lines-landscape.png
+PROMPT_7:
+Hoi An ancient town narrow street at dusk. (Leading lines composition:1.4),
+cobblestone street creates strong diagonal leading deep into composition,
+hanging red lanterns form parallel lines overhead converging to vanishing point.
+Yellow buildings on both sides forming tunnel. Warm magic hour glow,
+photorealistic, 24mm wide lens.
+
+Negative: flat scene, no depth, oversaturated, low quality, watermark,
+modern buildings, generic asian street
+
+# ─── Quy tắc 3: SYMMETRY ───
+# Tên file: day-10-symmetry-landscape.png
+PROMPT_8:
+Hoi An ancient town reflection in canal at twilight. (Perfect mirror
+symmetry composition:1.4), traditional yellow buildings reflecting
+perfectly in still water below — exact mirror image, identical lanterns
+above and reflected below, calm canal surface. Magic hour soft purple-orange
+sky. Photorealistic, 35mm lens, sharp throughout.
+
+Negative: asymmetric, rippled water, distorted reflection, low quality,
+watermark, modern buildings
+
+# ─── Quy tắc 4: NEGATIVE SPACE ───
+# Tên file: day-10-negative-landscape.png
+PROMPT_9:
+Hoi An ancient temple alone in vast misty atmosphere. (Negative space
+composition:1.4), (minimalist composition:1.3), single yellow ancient
+building small in lower-left corner, 80% of frame is foggy empty space —
+soft pastel sky, atmospheric haze. Subject isolated, contemplative mood.
+Photorealistic, 50mm lens.
+
+Negative: cluttered scene, busy composition, multiple buildings, oversaturated,
+low quality, watermark
+
+# ─── Quy tắc 5: FOREGROUND / MIDGROUND / BACKGROUND ───
+# Tên file: day-10-depth-landscape.png
+PROMPT_10:
+Hoi An ancient town at golden hour. (Three-layer depth composition:1.4):
+(foreground:1.2) red lantern hanging close to camera with bokeh blur,
+(midground:1.3) elderly Vietnamese vendor at fruit stand sharp focus mid-frame,
+(background:1.2) yellow ochre buildings and Japanese bridge soft blur far behind.
+Warm sunset light, photorealistic, 50mm lens, f/2.8.
+
+Negative: flat composition, single layer, no depth, oversaturated, low quality,
+watermark, generic asian street
+
+# ═══════════════════════════════════════════════════════════
+# ⌚ SUBJECT 3: ĐỒNG HỒ LUXURY (generic, không brand)
+# Aspect: 1:1 (sản phẩm vuông)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Quy tắc 1: RULE OF THIRDS ───
+# Tên file: day-10-thirds-product.png
+PROMPT_11:
+Luxury men's watch with brown leather strap and white dial with rose gold hands.
+(Rule of thirds composition:1.4), watch positioned at right intersection of grid,
+not centered. Watch face occupying upper-right third area, leather strap leading
+to lower-left. Marble surface with green tropical leaves blurred. Studio softbox
+lighting. Photorealistic, 100mm macro lens.
+
+Negative: watch centered, brand name visible, logo, text on dial, watermark,
+Audemars, Vincero, Rolex, designer logo, low quality, blurry
+
+# ─── Quy tắc 2: LEADING LINES ───
+# Tên file: day-10-lines-product.png
+PROMPT_12:
+Luxury men's watch with brown leather strap and white dial. (Leading lines
+composition:1.4), strap forms strong diagonal across frame leading viewer's eye
+directly to watch face, marble grain veins also pointing to watch face creating
+multiple converging lines. Studio softbox lighting from upper-right.
+Photorealistic, 85mm lens.
+
+Negative: brand name, logo, text on dial, Audemars, Vincero, Rolex, designer logo,
+low quality, blurry, watermark
+
+# ─── Quy tắc 3: SYMMETRY ───
+# Tên file: day-10-symmetry-product.png
+PROMPT_13:
+Luxury men's watch with brown leather strap and white dial. (Perfect radial
+symmetry composition:1.4), watch placed dead center on round marble pedestal,
+both leather strap halves symmetrical, watch hands pointing 10:10 (classic symmetry),
+balanced shadows on both sides. Top-down 90-degree angle. Studio lighting.
+Photorealistic, 100mm macro.
+
+Negative: asymmetric, off-balance, brand name, logo, text on dial,
+Audemars, Vincero, designer logo, low quality
+
+# ─── Quy tắc 4: NEGATIVE SPACE ───
+# Tên file: day-10-negative-product.png
+PROMPT_14:
+Luxury men's watch with brown leather strap, small in frame. (Negative space
+composition:1.4), (minimalist composition:1.3), watch occupies only 15% of frame
+in lower-right corner, 85% is empty pure white seamless background.
+Soft directional studio light from left. Photorealistic, 100mm macro.
+
+Negative: cluttered background, busy scene, brand name, logo, text on dial,
+Audemars, Vincero, designer logo, low quality
+
+# ─── Quy tắc 5: FOREGROUND / MIDGROUND / BACKGROUND ───
+# Tên file: day-10-depth-product.png
+PROMPT_15:
+Luxury men's watch with brown leather strap on marble. (Three-layer depth
+composition:1.4): (foreground:1.2) green tropical leaves out-of-focus close
+to camera, (midground:1.3) watch in sharp focus on marble surface,
+(background:1.2) ambient bokeh of warm wood and softbox lights blurred.
+Photorealistic, 100mm macro lens, f/2.8.
+
+Negative: flat composition, single layer, brand name, logo, text on dial,
+Audemars, Vincero, designer logo, low quality
+
+# ═══════════════════════════════════════════════════════════
+# 🔑 CHECKLIST KHI TEST
+# ═══════════════════════════════════════════════════════════
+# 1. Chạy ĐÚNG GPT Image 2 cho tất cả 15 prompt
+# 2. Aspect ratio: 3:4 cho chân dung, 16:9 cho cảnh, 1:1 cho sản phẩm
+# 3. Resolution 2K
+# 4. Mỗi prompt chạy 1 LẦN duy nhất — KHÔNG cherry-pick
+# 5. Đặt tên file đúng convention:
+#    day-10-{rule}-{subject}.png
+#    Rules: thirds | lines | symmetry | negative | depth
+#    Subjects: portrait | landscape | product
+
+# 6. Khi review, tập trung 5 câu hỏi:
+#    - GPT có HIỂU keyword "rule of thirds composition" không?
+#    - Subject có đặt ở đúng vị trí grid không?
+#    - 3 lớp depth có rõ ràng không (fg/mid/bg)?
+#    - Symmetry có chính xác về geometric không?
+#    - GPT có CHÈN brand thật vào ảnh đồng hồ không (lặp Day 8+9)?
+
+# ═══════════════════════════════════════════════════════════
+# 📊 ETA TEST 15 ẢNH
+# ═══════════════════════════════════════════════════════════
+# - Setup + paste prompt: ~2 phút/ảnh × 15 = 30 phút
+# - Generate time: ~30s/ảnh (GPT nhanh nhất) × 15 = 7.5 phút
+# - Tải về + đặt tên: ~10 phút
+# Tổng: ~50-55 phút
+# Chi phí: 13,500 credit (~13.5k VND, ~1.2% gói Ultra Member 1tr)
+
+# ═══════════════════════════════════════════════════════════
+# 💡 BONUS TIP — 5 LỖI COMPOSITION AI HAY MẮC PHẢI
+# ═══════════════════════════════════════════════════════════
+# Sẽ cover trong bài day-10.md:
+# 1. Subject ở giữa cứng nhắc (default AI behavior)
+# 2. Thiếu foreground (ảnh "phẳng" 2D)
+# 3. Leading lines ngẫu nhiên không dẫn về subject
+# 4. Negative space bị spam object phụ
+# 5. Symmetry lệch nhẹ → trông "kệch cỡm"
