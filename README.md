@@ -14,11 +14,11 @@
 
 ```
 Tuần 1: ███████ 7/7 ✅ DONE
-Tuần 2: ░░░░░░░ 0/7 🔄 In progress (Day 8 đang test)
+Tuần 2: ██░░░░░ 2/7 🔄 In progress (Day 8 + Day 9 done)
 Tuần 3: ░░░░░░░ 0/7 📋 Planned
 Tuần 4: ░░░░░░░ 0/7 📋 Planned
 
-████████░░░░░░░░░░░░░░░░░░░░░░  7/30 ngày (23%)
+█████████░░░░░░░░░░░░░░░░░░░░░  9/30 ngày (30%)
 ```
 
 > 🏆 **Mini Challenge "Phong cảnh Việt Nam"** đang chạy đến **13/05/2026** — Top 3 sẽ được mention trong Day 14! [Xem chi tiết](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-07.md)
@@ -69,7 +69,8 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 5** | Prompt tiếng Việt vs tiếng Anh | 🔵 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-05.md) |
 | **Day 6** | Negative prompt & quality tags | 🔵 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-06.md) |
 | **Day 7** | Tổng kết tuần 1 + Mini Challenge | 🟢🔵 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-07.md) |
-| **Day 8** | 🔄 Seedream 4.5 deep dive: Chân dung & da người *(đang test ảnh)* | 🔵 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-08.md) |
+| **Day 8** | Seedream 4.5 deep dive: Chân dung & da người | 🔵 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-08.md) |
+| **Day 9** | Prompt Engineering nâng cao: Áo dài Việt qua AI | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-09.md) |
 | ... | *Xem [CURRICULUM.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CURRICULUM.md) cho lộ trình 30 ngày đầy đủ* | | |
 
 📊 [Pricing Guide](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/PRICING.md) · 📖 [**Models Cheatsheet** 🆕](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md) · 📚 [Curriculum đầy đủ](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CURRICULUM.md) · 📝 [Changelog](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CHANGELOG.md) · 💬 [Nhóm Zalo](https://zalo.me/g/umthmp096) · 🐛 [Báo lỗi](https://github.com/linhai-creator/linh0ai-daily-tutorials/issues)
@@ -209,4 +210,4 @@ MIT — dùng tự do, ghi nguồn nếu repost.
 ---
 
 **Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
-**Cập nhật lần cuối:** Day 7 hoàn thành — 08/05/2026
+**Cập nhật lần cuối:** Day 9 hoàn thành — 09/05/2026
