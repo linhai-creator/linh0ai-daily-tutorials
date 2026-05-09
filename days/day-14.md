@@ -194,7 +194,7 @@ Tổng: 17 SAI liên tiếp + 1 ĐÚNG đầu tiên
 ---
 
 ### #8 — Áo dài Tết Hà Nội Pro Prompt (Day 9)
-![Top 8](../assets/images/day-9-trad-pro-image2.jpg)
+![Top 8](../assets/images/day-09-trad-pro-image2.png)
 
 **Vì sao #8:** Văn hóa Tết Việt authentic — đỏ + phượng + đèn lồng + chữ Hán = **không nhầm TQ**, đó là phố cổ HN đích thực.
 
