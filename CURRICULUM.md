@@ -163,40 +163,43 @@ Sau 30 ngày, bạn sẽ:
 📄 [days/day-12.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-12.md)
 ---
 
-### Day 13 — Camera & Lens trong Prompt 📋
-> *Prompt như đang chỉ đạo nhiếp ảnh gia thật*
+### Day 13 — Camera & Lens: 1 Điểm Yếu Đầu Tiên (Subject Consistency!) ✅
+**Test:** 20 ảnh — 6 focal lengths × 3 cảnh + 2 bonus × GPT Image 2 **Credit thực tế:** 18,000 credit
 
-**Mục tiêu:**
-- Hiểu sự khác biệt **focal length**: 24mm (cảnh rộng), 35mm (đường phố), 50mm (chuẩn), 85mm (chân dung), 200mm (zoom)
-- Master **f-stop**: f/1.4 (DOF nông, bokeh) vs f/8 (DOF sâu, sắc nét toàn cảnh)
-- Học các effect: motion blur, lens flare, fish-eye, tilt-shift
+**Insights đã verified (4 SAI + 1 ĐÚNG đầu tiên!):**
+- ❌ "24mm vs 200mm giống nhau" → SAI (lens gradation rõ rệt)
+- ❌ "85mm bokeh fake" → SAI (creamy đẹp thật)
+- ❌ "200mm compression không rõ" → SAI (extreme compression)
+- ✅ **"Subject KHÁC mặt qua 18 ảnh" → ĐÚNG đầu tiên!** Wide vs Telephoto khác nhẹ
+- ❌ "GPT default lens trung tính" → SAI (lens character cực rõ)
 
-**Skill nổi bật:**
-- Prompt template: `shot on Sony A7IV, 85mm f/1.4, ISO 400`
-- Khi nào dùng wide-angle, khi nào dùng telephoto
-- Cách prompt **bokeh quality** (creamy bokeh, swirly bokeh)
+**Insight viral:**
+- 🤯 **1 điểm yếu duy nhất:** Subject Consistency — close-up bias làm đẹp
+- ⭐ **GPT làm SPLIT-IMAGE comparison** — chưa ai test ở Việt Nam
+- 🌅 **Hero:** 85mm Café Thảo Điền sunset (đẹp nhất cả khóa)
 
-**Test:** ~15 ảnh — 5 lens × 3 chủ đề
-**Credit dự kiến:** ~6,000 credit
-
-**Insight Linh dự kiến:** Thêm "shot on [model camera cụ thể]" tăng realism 30% mà ít người Việt biết
-
+📄 [days/day-13.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-13.md)
 ---
 
-### Day 14 — Tổng kết Tuần 2 + Chấm Mini Challenge 📋
-> *Áp dụng 5 skills vào 1 bài thực hành lớn*
+### Day 14 — Tổng Kết Tuần 2: Master Skills DONE 🏆 ✅
+**Bài tổng kết — không test ảnh mới**
 
-**Mục tiêu:**
-- **Phần 1 — Tổng kết Tuần 2:** Cheatsheet 1 trang gói 5 skills (Prompt + Composition + Lighting + Color + Camera)
-- **Phần 2 — Capstone challenge:** 1 ảnh tổng hợp dùng cả 5 skills (prompt + breakdown chi tiết)
-- **Phần 3 — Chấm Mini Challenge "Phong cảnh Việt Nam":** Top 3 + mention community
-- **Phần 4 — Launch Mini Challenge mới:** "Tái hiện 1 cảnh phim Việt" (deadline Day 21)
+**Cấu trúc 9 phần lớn (~23.8kb):**
+- ✅ Recap Day 8-13 với bảng tổng hợp đầy đủ
+- ✅ Pattern Day 10-13 verified: 17 SAI + 1 ĐÚNG đầu tiên
+- ✅ **Best of Week 2** — Top 10 ảnh curated từ 95 ảnh test
+- ✅ **Master Combo theory + 5 templates** (Halong, Mu Cang Chai, Hoi An, Ho Guom, Portrait)
+- ✅ **Mini Challenge mock chấm** với 5 tiêu chí scoring
+- ✅ **Cheatsheet 4-trong-1** in-out (Composition + Lighting + Color + Lens)
+- ✅ 5 Lessons + 5 Mistakes + Day 15 sneak peek
 
-**Skill nổi bật:** Tổng hợp + Storytelling
-**Test:** ~10 ảnh — 1 capstone + 9 best-of từ Tuần 2
-**Credit dự kiến:** ~3,000 credit
+**Achievement:**
+- 🏆 **TUẦN 2 — MASTER SKILLS — DONE 100%**
+- 📊 95 ảnh test verified
+- 💰 78,500 credit dùng (~78.5k VND, 7.1% gói Ultra)
+- 💎 23+ insights pro
 
-**Insight Linh dự kiến:** 1 ảnh áp dụng đủ 5 skills sẽ ngang ảnh stock trả phí
+📄 [days/day-14.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-14.md)
 
 ---
 
@@ -342,6 +345,7 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 |-----------|------|----------|
+| **v2.5** | 09/05/2026 | 🏆 **TUẦN 2 DONE 100%!** Day 13 + 14 hoàn thành. Day 13: GPT lộ ra 1 ĐIỂM YẾU đầu tiên (Subject Consistency) — dự đoán đúng đầu tiên sau 17 SAI. Split-image comparison verified. Day 14: Tổng kết với Best 10, Master Combo 5 templates, Mini Challenge mock chấm, Cheatsheet 4-trong-1. Tone consistency fix toàn Tuần 2 (Day 8-14). Pattern điều chỉnh: "GPT KHÔNG có điểm yếu kỹ thuật + văn hóa, CHỈ có 1 điểm yếu duy nhất là Subject Consistency multi-shot — dùng Seedream 4.5 + 14 ref để fix." |
 | **v2.4** | 09/05/2026 | ✅ Day 12 hoàn thành. Update Day 12 với 5 insights (Monochromatic perfect, Triadic balance, văn hóa Việt authentic, **GPT BIẾT tiếng Việt có dấu**, 20/20 ảnh ⭐⭐⭐⭐⭐). Pattern verified: 13 dự đoán sai liên tiếp = "GPT KHÔNG có điểm yếu kỹ thuật + văn hóa". Streamline Day 8-11 (rút gọn CTA MXH). |
 | **v2.3** | 09/05/2026 | ✅ Day 11 hoàn thành. Update Day 11 với 5 insights bất ngờ (Rembrandt master, Blue Hour cool, Split sharp, Backlight vs Rim, Brand lần 4). Pattern: GPT Image 2 KHÔNG có điểm yếu kỹ thuật (verified Day 10 + Day 11). |
 | **v2.3** | 09/05/2026 | ✅ Day 11 hoàn thành. Update Day 11 với 5 insights bất ngờ (Rembrandt master, Blue Hour cool, Split sharp, Backlight vs Rim, Brand lần 4). Pattern: GPT Image 2 KHÔNG có điểm yếu kỹ thuật (verified Day 10 + Day 11). |
@@ -355,4 +359,4 @@ Nếu bạn có:
 ---
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
-*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.4*
+*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.5 — Tuần 2 DONE 🏆*
