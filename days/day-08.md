@@ -222,7 +222,7 @@ tack-sharp details, shallow DOF.
 >
 > Audemars Piguet và Vincero là **brand đồng hồ thật**. NBN2 và GPT Image 2 đã **tự ý** chèn logo + tên brand vào ảnh, dù prompt KHÔNG yêu cầu.
 >
-> **Hậu quả nếu Linh dùng những ảnh này:**
+Hậu quả nếu các bạn dùng những ảnh này:
 > - 🚫 Đăng Shopee/Tiki/Lazada — bị **takedown ngay** (vi phạm IP của brand)
 > - 🚫 Chạy Facebook/TikTok ads — bị **disable account** nếu brand owner report
 > - 🚫 In packaging/tem nhãn — có thể **bị kiện** đòi bồi thường
@@ -284,7 +284,7 @@ Cùng prompt chân dung, nhưng dịch sang tiếng Trung. Chỉ chạy trên Se
 >
 > **Hierarchy ngôn ngữ Seedream 4.5:** 🇨🇳 中文 > 🇻🇳🇬🇧 Hybrid VI+EN > 🇻🇳 Tiếng Việt thuần
 >
-> → **Tip pro:** Nếu Linh cần ảnh chân dung **thật như chụp** (không "AI polished"), dùng Google Translate dịch prompt sang tiếng Trung → paste vào Seedream 4.5. Cộng đồng AI Việt **chưa ai dạy mẹo này**!
+> →Tip pro:** Nếu các bạn cần ảnh chân dung **thật như chụp** (không "AI polished"), dùng Google Translate dịch prompt sang tiếng Trung → paste vào Seedream 4.5. Cộng đồng AI Việt **chưa ai dạy mẹo này**!
 
 ---
 
@@ -336,7 +336,7 @@ Cùng prompt chân dung, nhưng dịch sang tiếng Trung. Chỉ chạy trên Se
 Test thực tế cho thấy Seedream THẮNG hoặc NGANG NGỬA NBN2 ở mọi chủ đề. Mình đã underestimate model này. Dù chỉ tốn 350 credit — gần ngang chất lượng GPT Image 2 (900 credit) ở 80% trường hợp.
 
 **2. 🚨 NBN2 + GPT Image 2 hay tự thêm BRAND THẬT vào ảnh sản phẩm**
-Đây là phát hiện **chưa ai dạy ở Việt Nam**. NBN2 chèn "Audemars Piguet", GPT chèn "VINCERO" — dù prompt không yêu cầu. Nếu Linh làm shop online + dùng những ảnh này → **rủi ro pháp lý cao**. Cách fix: thêm `brand name, logo, text` vào negative prompt + ưu tiên Seedream cho ảnh thương mại.
+Đây là phát hiện **chưa ai dạy ở Việt Nam**. NBN2 chèn "Audemars Piguet", GPT chèn "VINCERO" — dù prompt không yêu cầu. Nếu các bạn làm shop online + dùng những ảnh này → **rủi ro pháp lý cao**. Cách fix: thêm `brand name, logo, text` vào negative prompt + ưu tiên Seedream cho ảnh thương mại.
 
 **3. 🇨🇳 Tiếng Trung trên Seedream 4.5 → realism vượt trội**
 Hierarchy ngôn ngữ: 中文 > Hybrid VI+EN > Tiếng Việt thuần. Skin imperfections (tàn nhang, lỗ chân lông) render rõ hơn rõ rệt. Dùng Google Translate sang tiếng Trung là cheat code ít người Việt biết.
