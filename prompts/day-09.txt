@@ -1,0 +1,209 @@
+# 🎯 Day 9 — Prompt Engineering Nâng Cao
+# Demo qua chủ đề: Áo dài Việt Nam (Truyền thống vs Cách tân)
+# Test 12 ảnh: 3 cấp độ × 2 variation × 2 model
+
+# ═══════════════════════════════════════════════════════════
+# 📚 3 KỸ THUẬT NÂNG CAO SẼ HỌC HÔM NAY
+# ═══════════════════════════════════════════════════════════
+
+# 1. WEIGHTED SYNTAX — đặt trọng số cho keyword
+#    (keyword:1.4)   → tăng trọng số (model nhấn mạnh hơn)
+#    (keyword:0.7)   → giảm trọng số (giảm ảnh hưởng)
+#    Range 0.5-1.5 là sweet spot, vượt quá dễ "burn"
+
+# 2. PROMPT CHAIN — chuỗi prompt giữ character consistency
+#    "Same person as previous, now wearing... in [setting]"
+#    Bắt buộc dùng kèm reference image (Seedream 4.5 hỗ trợ 14 ref)
+
+# 3. NEGATIVE WEIGHTED + LAYERED
+#    Tách negative thành 2 lớp:
+#    - Layer 1 (kỹ thuật): plastic skin, low quality, blurry
+#    - Layer 2 (concept): (kimono:1.5), (hanbok:1.5), (qipao:1.5)
+#    → Quan trọng cho ảnh áo dài vì model dễ nhầm sang trang phục Á khác
+
+# ═══════════════════════════════════════════════════════════
+# 💰 GIÁ + SETTINGS CHUẨN (cho cả 12 ảnh)
+# ═══════════════════════════════════════════════════════════
+# - Aspect ratio: 3:4 (chân dung dọc)
+# - Resolution: 2K
+# - Seedream 4.5: 350 credit/ảnh × 6 ảnh = 2,100 credit
+# - GPT Image 2: 900 credit/ảnh × 6 ảnh = 5,400 credit
+# Tổng: 7,500 credit (~7.5k VND, ~0.7% gói Ultra Member)
+
+# ═══════════════════════════════════════════════════════════
+# 🎨 VARIATION 1 — ÁO DÀI TRUYỀN THỐNG BẮC
+# ═══════════════════════════════════════════════════════════
+
+# ─── 🔵 Cấp BASIC (5 thành phần — như Day 3) ───
+# Mục tiêu: Baseline để so sánh với advanced/pro
+
+# Tên file: 
+#   day-09-trad-basic-seedream.png
+#   day-09-trad-basic-image2.png
+
+PROMPT BASIC (TRADITIONAL):
+A young Vietnamese woman wearing traditional ao dai, 
+elegant pose, traditional Vietnamese house background, 
+soft natural lighting, photorealistic, 85mm lens.
+
+Negative: low quality, blurry, deformed
+
+# ─── 🟣 Cấp ADVANCED (7 thành phần + Weighted) ───
+# Mục tiêu: Show kỹ thuật weighted để control kết quả tốt hơn
+
+# Tên file:
+#   day-09-trad-advanced-seedream.png
+#   day-09-trad-advanced-image2.png
+
+PROMPT ADVANCED (TRADITIONAL):
+(traditional Vietnamese ao dai:1.4), young Vietnamese woman 28yo, 
+(silk fabric with subtle phoenix embroidery:1.2), elegant standing pose,
+(ancient Hanoi old quarter wooden house:1.3) background with red lanterns,
+(soft golden hour lighting:1.2), warm tone color grading,
+shot on Sony A7IV 85mm f/1.4, shallow depth of field, 
+(serene contemplative mood:1.1), photorealistic.
+
+Negative: 
+plastic skin, oversaturated, deformed eyes, low quality, blurry, watermark,
+(modern outfit:0.8), western clothing
+
+# ─── 🔴 Cấp PRO (Chain + Negative Weighted layered) ───
+# Mục tiêu: Control tuyệt đối — loại bỏ hoàn toàn nhầm lẫn văn hóa
+
+# Tên file:
+#   day-09-trad-pro-seedream.png
+#   day-09-trad-pro-image2.png
+
+PROMPT PRO (TRADITIONAL):
+(authentic Vietnamese ao dai:1.4), young Vietnamese woman 28yo with 
+natural East Asian features, (long flowing silk ao dai with phoenix 
+embroidery in deep red and gold:1.3), traditional black silk pants underneath,
+holding a (paper fan:1.1), elegant standing pose by ornate wooden door.
+Setting: (ancient Hanoi old quarter:1.3), traditional Vietnamese architecture,
+red lanterns, plum blossoms in foreground bokeh.
+Lighting: (warm golden hour:1.2), soft directional from left, 
+gentle shadow on right side of face.
+Camera: shot on Sony A7IV, 85mm f/1.4 portrait lens, shallow DOF, sharp focus on face.
+Mood: (serene cultural elegance:1.1), Vogue Vietnam editorial style.
+Quality: photorealistic, ultra-detailed, 8K masterpiece.
+
+Negative (LAYER 1 - kỹ thuật):
+plastic skin, oversaturated, deformed eyes, extra fingers, low quality, 
+blurry, watermark, smooth airbrushed face, AI artifact, ugly hands
+
+Negative (LAYER 2 - concept, weighted mạnh):
+(kimono:1.5), (hanbok:1.5), (qipao:1.5), (cheongsam:1.5),
+(generic asian dress:1.3), (modern western outfit:1.2), 
+(short dress:1.4), wrong cultural attire
+
+# ═══════════════════════════════════════════════════════════
+# 🎨 VARIATION 2 — ÁO DÀI HIỆN ĐẠI CÁCH TÂN
+# ═══════════════════════════════════════════════════════════
+
+# ─── 🔵 Cấp BASIC (5 thành phần) ───
+
+# Tên file:
+#   day-09-modern-basic-seedream.png
+#   day-09-modern-basic-image2.png
+
+PROMPT BASIC (MODERN):
+A young Vietnamese woman wearing modern ao dai dress,
+fashionable pose, modern Saigon city background,
+soft daylight, photorealistic, 85mm lens.
+
+Negative: low quality, blurry, deformed
+
+# ─── 🟣 Cấp ADVANCED (7 thành phần + Weighted) ───
+
+# Tên file:
+#   day-09-modern-advanced-seedream.png
+#   day-09-modern-advanced-image2.png
+
+PROMPT ADVANCED (MODERN):
+(modern contemporary ao dai dress:1.4), young Vietnamese woman 25yo,
+(pastel mint green silk with minimalist embroidery:1.2), 
+(slightly shorter modern cut at knee length:1.2), confident walking pose,
+(modern Saigon coffee shop with industrial design:1.3) background,
+(bright airy daylight:1.2), pastel cool tone color grading,
+shot on Fujifilm X-T5 56mm f/1.2, medium depth of field,
+(youthful confident contemporary mood:1.1), photorealistic.
+
+Negative:
+plastic skin, oversaturated, low quality, blurry,
+(traditional ancient style:0.7), formal old-fashioned
+
+# ─── 🔴 Cấp PRO (Chain + Negative Weighted layered) ───
+
+# Tên file:
+#   day-09-modern-pro-seedream.png
+#   day-09-modern-pro-image2.png
+
+PROMPT PRO (MODERN):
+(modern Vietnamese ao dai cách tân:1.4), young Vietnamese woman 25yo with 
+natural features and confident expression, (contemporary ao dai design:1.3) 
+in (pastel sage green silk with minimalist gold thread embroidery:1.2),
+(modern shorter cut at mid-calf:1.2) paired with white cotton wide-leg pants,
+holding (modern leather handbag:1.1), confident walking pose mid-stride.
+Setting: (modern Saigon Thao Dien district:1.3), industrial-chic coffee shop 
+glass facade, warm wooden interior visible through window, soft urban bokeh.
+Lighting: (bright morning daylight:1.2), even soft light from large windows,
+no harsh shadows, fashion magazine quality.
+Camera: shot on Fujifilm X-T5, 56mm f/1.2 portrait lens, sharp focus on subject,
+medium DOF with subtle background blur.
+Mood: (youthful confident urban Vietnamese:1.1), L'Officiel Vietnam editorial.
+Quality: photorealistic, ultra-detailed, 8K masterpiece.
+
+Negative (LAYER 1 - kỹ thuật):
+plastic skin, oversaturated, deformed eyes, low quality,
+blurry, watermark, smooth airbrushed, AI artifact
+
+Negative (LAYER 2 - concept, weighted mạnh):
+(kimono:1.5), (hanbok:1.5), (qipao:1.5),
+(traditional formal ao dai:1.2), (ancient style:1.3),
+(elderly woman:1.5), (very long traditional ao dai:1.2)
+
+# ═══════════════════════════════════════════════════════════
+# 🔑 CHECKLIST KHI TEST
+# ═══════════════════════════════════════════════════════════
+# 1. Chạy CÙNG PROMPT trên cả Seedream 4.5 + GPT Image 2
+# 2. CÙNG aspect ratio (3:4) + CÙNG resolution (2K)
+# 3. Mỗi prompt chạy 1 LẦN duy nhất — KHÔNG cherry-pick
+# 4. Đặt tên file theo convention:
+#    day-09-{trad|modern}-{basic|advanced|pro}-{seedream|image2}.png
+# 5. Khi review, tập trung 4 câu hỏi:
+#    - Áo dài có ĐÚNG là áo dài Việt không (không nhầm kimono/hanbok)?
+#    - Detail tăng dần qua 3 cấp độ không?
+#    - Negative weighted có loại bỏ artifacts hiệu quả không?
+#    - Tiếng Anh có đủ để model hiểu "áo dài cách tân" không?
+
+# ═══════════════════════════════════════════════════════════
+# 💡 BONUS — TEST TIẾNG TRUNG (optional, +700 credit)
+# ═══════════════════════════════════════════════════════════
+# Nếu Linh muốn verify lại insight Day 8 "tiếng Trung > English"
+# trên Seedream 4.5, dịch prompt PRO TRADITIONAL sang tiếng Trung:
+
+PROMPT PRO TRADITIONAL (中文):
+(正宗的越南奥黛:1.4)，28岁年轻越南女性，自然的东亚面孔特征，
+(深红金色凤凰刺绣的飘逸丝绸奥黛:1.3)，黑色丝绸长裤，
+手持(纸扇:1.1)，优雅站姿在装饰精美的木门旁。
+背景：(古老的河内老城区:1.3)，越南传统建筑，红灯笼，前景李花。
+光线：(温暖的黄金时刻:1.2)，从左侧柔和方向照射，右脸柔和阴影。
+镜头：索尼A7IV，85mm f/1.4人像镜头，浅景深。
+情绪：(宁静的文化优雅:1.1)，越南Vogue编辑风格。
+质量：写实，超细节，8K杰作。
+
+# Tên file: day-09-trad-pro-seedream-chinese.png
+# So sánh với day-09-trad-pro-seedream.png xem có khác biệt không!
+
+# ═══════════════════════════════════════════════════════════
+# 📊 ETA TEST 12 ẢNH
+# ═══════════════════════════════════════════════════════════
+# - Setup + paste prompt: ~2 phút/ảnh × 12 = 24 phút
+# - Generate time: ~30-60s/ảnh × 12 = 12 phút
+# - Tải về + đặt tên: ~10 phút
+# Tổng: ~45-50 phút
+
+# Nếu thêm bonus tiếng Trung (1 ảnh):
+# +5 phút → tổng ~50-55 phút
+
+# Chi phí cuối: 7,500 credit (~7.5k VND) hoặc 8,200 credit nếu có bonus
