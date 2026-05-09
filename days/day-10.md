@@ -26,7 +26,7 @@ Vào bài để xem bằng chứng + bài học pro!
 ![Day 10 — Hội An phố cổ phản chiếu hoàn hảo qua GPT Image 2](../assets/images/day-10-symmetry-landscape.png)
 
 > *Hội An phố cổ phản chiếu — Symmetry hoàn hảo từ GPT Image 2 trong 30 giây.
-> Đây là 1 trong 15 ảnh test — bằng chứng cho luận điểm chính của bài: **"GPT Image 2 KHÔNG có điểm yếu trong composition nếu Linh prompt đúng"**.*
+> Đây là 1 trong 15 ảnh test — bằng chứng cho luận điểm chính của bài: **"GPT Image 2 KHÔNG có điểm yếu trong composition nếu các bạn prompt đúng"**.*
 
 ---
 
@@ -385,7 +385,7 @@ Day 8-9 GPT chèn Vincero, Dior. Day 10 negative `Audemars, Vincero, Rolex, Dior
 ## 🎯 Thử thách hôm nay
 
 ### 🟢 Cho Newbie (15 phút, ~1,750 credit)
-1. Test Rule of Thirds + Negative Space trên Seedream 4.5 (rẻ hơn): 1 chân dung Linh
+1. Test Rule of Thirds + Negative Space trên Seedream 4.5 (rẻ hơn): 1 chân dung của bạn
 2. So sánh 2 ảnh → cảm nhận khác biệt
 
 ### 🔵 Cho Intermediate (55 phút, ~13,500 credit)
