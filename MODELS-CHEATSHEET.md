@@ -1,6 +1,6 @@
 # 📖 0ai.vn Models Cheatsheet — 1 Trang Chọn Đúng Model
 
-> **Bản 1.4** — Cập nhật ngày 09/05/2026 (sau Day 12 — GPT BIẾT viết tiếng Việt có dấu!)
+> **Bản 1.5** — Cập nhật ngày 09/05/2026 (sau Tuần 2 DONE — GPT lộ ra 1 điểm yếu duy nhất!) 🏆
 > **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
 > **Repo:** [linh0ai-daily-tutorials](https://github.com/linhai-creator/linh0ai-daily-tutorials)
 > **Data dựa trên test thực tế** — không phải copy info marketing từ web
@@ -120,6 +120,11 @@
 - **Phong cách anime/illustration** → NBN2
 - **Cần character consistency với nhiều reference** → Seedream 4.5
 > 📝 **INSIGHT ĐỘC QUYỀN — GPT Image 2 BIẾT VIẾT TIẾNG VIỆT CÓ DẤU (Day 12 verified):** Trong 20 ảnh test color theory, GPT Image 2 đã render **chính xác** chữ tiếng Việt có dấu sắc-huyền-nặng-ngã-hỏi: "Chúc Mừng Năm Mới", "Tết An Khang", "Chợ HOA TẾT", "MỘT", "HỘI AN". **Tỉ lệ thành công ~80%**. Đây là feature pro chưa creator Việt nào test. **Cách prompt:** Đặt chữ Việt có dấu **trong dấu ngoặc kép** trong prompt. Vd: `Vietnamese banner saying "Chúc Mừng Năm Mới" in red color`. Game changer cho creator Việt làm poster, banner, bao bì sản phẩm.
+> ⚠️ **INSIGHT QUAN TRỌNG — GPT Image 2 CÓ 1 ĐIỂM YẾU DUY NHẤT (Day 13 verified):** Sau 17 dự đoán sai liên tiếp, mình tìm ra **1 điểm yếu duy nhất** của GPT Image 2: **Subject Consistency qua nhiều ảnh**. Cụ thể: GPT có **bias làm đẹp ở close-up shots** — Wide shots cô gái mặt tròn hơn, baby-faced; Telephoto shots mặt thon hơn, refined jawline. **Bài học cho creator:** Nếu cần lookbook 50+ ảnh same person → **DÙNG SEEDREAM 4.5 với 14 reference images** (Day 8 verified mạnh hơn ở mục này). GPT mạnh single shot quality, yếu multi-shot consistency. **Honest review = trust!**
+
+> 🎨 **INSIGHT MASTER COMBO — 4 yếu tố trong 1 ảnh (Day 14 verified):** Tổng kết Tuần 2 phát hiện: **3/10 ảnh Top 10 đã có Master Combo TỰ NHIÊN** mà không cần prompt cụ thể. **Công thức:** `(rule of thirds:1.4) + (golden hour backlight:1.4) + (analogous warm:1.3) + (85mm portrait lens:1.4) + Vietnamese setting`. Áp dụng cho phong cảnh, chân dung, sản phẩm. **5 templates ready** trong [prompts/day-14.txt](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/prompts/day-14.txt) cho audience copy-paste.
+
+> ⭐ **INSIGHT VIRAL — GPT làm SPLIT-IMAGE COMPARISON (Day 13 verified):** GPT Image 2 làm được **split-image educational content** (LEFT-RIGHT hoặc TOP-BOTTOM). 2 ảnh bonus Day 13 (24mm vs 200mm + 50mm vs 85mm) đều SUCCESS. **Use cases:** khóa dạy AI, blog photography, video YouTube, Instagram carousel educational. **Chưa ai test ở Việt Nam** — content viral level cao.
 
 ### 🔑 Prompt strategy
 - **Hierarchy ngôn ngữ:** 🇬🇧 Tiếng Anh > 🇻🇳🇬🇧 Hybrid > 🇻🇳 Tiếng Việt thuần
@@ -230,6 +235,8 @@ Thêm cho ảnh chân dung:
 | 09/05/2026 | GPT Image 2 | Day 10 | 15 ảnh (5 quy tắc × 3 chủ đề) — verified KHÔNG có điểm yếu | ✅ Done |
 | 09/05/2026 | GPT Image 2 | Day 11 | 18 ảnh (6 lighting × 3 chủ đề) — verified BIG WIN cả 6 lighting | ✅ Done |
 | 09/05/2026 | GPT Image 2 | Day 12 | 20 ảnh (4 hệ màu × 5 văn hóa Việt) — 20/20 ⭐⭐⭐⭐⭐ + tiếng Việt có dấu | ✅ Done |
+| 09/05/2026 | GPT Image 2 | Day 13 | 20 ảnh (6 lens × 3 cảnh + 2 bonus) — 1 điểm yếu Subject Consistency, split-image SUCCESS | ✅ Done |
+| 09/05/2026 | All 5 models | Day 14 | Tổng kết Tuần 2 — Best 10 + Master Combo 5 templates + Cheatsheet 4-trong-1 | 🏆 DONE |
 
 > **📝 Cách Linh test:** Mỗi model dùng cùng prompt + cùng aspect ratio + cùng resolution để so sánh công bằng (A/B/C testing). Mỗi prompt chạy 1 lần — KHÔNG cherry-pick ảnh đẹp.
 
@@ -259,6 +266,8 @@ Repo: [github.com/linhai-creator/linh0ai-daily-tutorials](https://github.com/lin
 - 🎬 **Bài Day 10 (Composition & Framing):** [days/day-10.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-10.md)
 - 💡 **Bài Day 11 (Lighting Mastery):** [days/day-11.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-11.md)
 - 🎨 **Bài Day 12 (Color Theory + Tiếng Việt):** [days/day-12.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-12.md)
+- 📷 **Bài Day 13 (Camera & Lens — 1 điểm yếu duy nhất):** [days/day-13.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-13.md)
+- 🏆 **Bài Day 14 (Tổng kết Tuần 2 — Master Skills DONE):** [days/day-14.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-14.md)
 ---
 
 ## 📚 Glossary nhanh
@@ -274,4 +283,4 @@ Repo: [github.com/linhai-creator/linh0ai-daily-tutorials](https://github.com/lin
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 09/05/2026 | Phiên bản 1.4*
+*Cập nhật lần cuối: 09/05/2026 | Phiên bản 1.5 — Tuần 2 DONE 🏆*
