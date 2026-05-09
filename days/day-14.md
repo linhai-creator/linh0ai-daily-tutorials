@@ -36,7 +36,7 @@ Tuần 2 đã khép lại với những con số ấn tượng:
 
 > *85mm Café Thảo Điền sunset (Day 13) — ảnh đẹp nhất từ 95 ảnh test Tuần 2.
 > Tự nhiên có cả 4 yếu tố master: Composition (Rule of Thirds) + Lighting (Backlight golden) + Color (Analogous warm) + Lens (85mm portrait bokeh creamy).
-> Đây là MASTER COMBO mà Linh đã master sau 7 ngày Tuần 2.*
+> Đây là MASTER COMBO mà mình đã master sau 7 ngày Tuần 2.*
 
 ---
 
@@ -252,7 +252,7 @@ Composition (Day 10) + Lighting (Day 11) + Color (Day 12) + Lens (Day 13)
 photorealistic, 8K masterpiece
 ```
 
-→ Áp dụng được cho **bất kỳ chủ đề nào** Linh muốn.
+→ Áp dụng được cho **bất kỳ chủ đề nào** các bạn muốn.
 
 ### Bằng chứng từ Top 10 — Master Combo TỰ NHIÊN
 
@@ -317,7 +317,7 @@ brand name, logo, modern speedboat
 
 ### 🎬 Mock Self-Grade — 3 ảnh ứng cử từ Tuần 2
 
-Vì Linh chưa active MXH → mock chấm 3 ảnh từ Top 10 như thể là "entry":
+Vì mình chưa active MXH → mock chấm 3 ảnh từ Top 10 như thể là "entry":
 
 ---
 
@@ -503,7 +503,7 @@ Sau 7 ngày học **Master Skills**, Tuần 3 sẽ là **Practical Production** 
 | **Day 21** | Tổng kết Tuần 3 + Mini Challenge mới | Review |
 
 **Sneak peek Day 15:**
-> *Sau Tuần 2 với 95 ảnh test, Linh sẽ học hệ thống quản lý ảnh AI — folder structure, naming convention, metadata, version control. 1 tip cực hữu ích: tên file `{date}-{subject}-{model}-{insight}.png` giúp tìm lại ảnh sau 6 tháng.*
+> *Sau Tuần 2 với 95 ảnh test, các bạn sẽ học hệ thống quản lý ảnh AI — folder structure, naming convention, metadata, version control. 1 tip cực hữu ích: tên file `{date}-{subject}-{model}-{insight}.png` giúp tìm lại ảnh sau 6 tháng.*
 
 ---
 
@@ -529,7 +529,7 @@ Day 13 đã chứng minh GPT Image 2:
 - ⚠️ Subject consistency limit (Seedream 4.5 mạnh hơn ở mục này)
 
 **Q5: Mini Challenge "Phong cảnh Việt Nam" có entry thật chưa?**
-Hiện tại Linh chưa active MXH nên chưa nhận entry. Mock chấm 3 ảnh Top 10 làm demo. Khi active, sẽ chấm entry thật từ cộng đồng.
+Hiện tại mình chưa active MXH nên chưa nhận entry. Mock chấm 3 ảnh Top 10 làm demo. Khi active, sẽ chấm entry thật từ cộng đồng.
 
 **Q6: Tuần 3 có test ảnh nhiều như Tuần 2 không?**
 **Ít hơn.** Tuần 3 Practical Production tập trung **workflow + tools**, ít test ảnh mới. Có thể chỉ ~20-30 ảnh tổng vs 95 ảnh Tuần 2.
@@ -566,7 +566,7 @@ Sau khi Master Skills, Tuần 3 sẽ biến kỹ năng thành **workflow pro**:
 - Templates reusable
 - Export specs
 
-→ **Mục tiêu Tuần 3:** Linh có thể làm content AI hàng ngày trong **1 giờ** thay vì 4 giờ.
+→ **Mục tiêu Tuần 3:** các bạn có thể làm content AI hàng ngày trong **1 giờ** thay vì 4 giờ.
 
 ---
 
@@ -579,7 +579,7 @@ Tuần 2: ███████ 7/7 ✅ DONE 🏆
 Tuần 3: ░░░░░░░ 0/7 ⏳ Ready!
 ```
 
-**Linh đã chính thức MASTER SKILLS!** 🎓
+**Các bạn đã chính thức MASTER SKILLS!** 🎓
 
 ---
 
