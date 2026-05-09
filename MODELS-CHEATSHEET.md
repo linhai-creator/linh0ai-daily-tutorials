@@ -1,6 +1,6 @@
 # 📖 0ai.vn Models Cheatsheet — 1 Trang Chọn Đúng Model
 
-> **Bản 1.3** — Cập nhật ngày 09/05/2026 (sau Day 11 — GPT Image 2 BIG WIN)
+> **Bản 1.4** — Cập nhật ngày 09/05/2026 (sau Day 12 — GPT BIẾT viết tiếng Việt có dấu!)
 > **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
 > **Repo:** [linh0ai-daily-tutorials](https://github.com/linhai-creator/linh0ai-daily-tutorials)
 > **Data dựa trên test thực tế** — không phải copy info marketing từ web
@@ -119,6 +119,7 @@
 - **Prompt tiếng Việt thuần** không muốn dịch → NBN2
 - **Phong cách anime/illustration** → NBN2
 - **Cần character consistency với nhiều reference** → Seedream 4.5
+> 📝 **INSIGHT ĐỘC QUYỀN — GPT Image 2 BIẾT VIẾT TIẾNG VIỆT CÓ DẤU (Day 12 verified):** Trong 20 ảnh test color theory, GPT Image 2 đã render **chính xác** chữ tiếng Việt có dấu sắc-huyền-nặng-ngã-hỏi: "Chúc Mừng Năm Mới", "Tết An Khang", "Chợ HOA TẾT", "MỘT", "HỘI AN". **Tỉ lệ thành công ~80%**. Đây là feature pro chưa creator Việt nào test. **Cách prompt:** Đặt chữ Việt có dấu **trong dấu ngoặc kép** trong prompt. Vd: `Vietnamese banner saying "Chúc Mừng Năm Mới" in red color`. Game changer cho creator Việt làm poster, banner, bao bì sản phẩm.
 
 ### 🔑 Prompt strategy
 - **Hierarchy ngôn ngữ:** 🇬🇧 Tiếng Anh > 🇻🇳🇬🇧 Hybrid > 🇻🇳 Tiếng Việt thuần
@@ -228,6 +229,7 @@ Thêm cho ảnh chân dung:
 | 09/05/2026 | Seedream 4.5 + GPT Image 2 | Day 9 | 12 ảnh (3 cấp × 2 variation × 2 model) | ✅ Done |
 | 09/05/2026 | GPT Image 2 | Day 10 | 15 ảnh (5 quy tắc × 3 chủ đề) — verified KHÔNG có điểm yếu | ✅ Done |
 | 09/05/2026 | GPT Image 2 | Day 11 | 18 ảnh (6 lighting × 3 chủ đề) — verified BIG WIN cả 6 lighting | ✅ Done |
+| 09/05/2026 | GPT Image 2 | Day 12 | 20 ảnh (4 hệ màu × 5 văn hóa Việt) — 20/20 ⭐⭐⭐⭐⭐ + tiếng Việt có dấu | ✅ Done |
 
 > **📝 Cách Linh test:** Mỗi model dùng cùng prompt + cùng aspect ratio + cùng resolution để so sánh công bằng (A/B/C testing). Mỗi prompt chạy 1 lần — KHÔNG cherry-pick ảnh đẹp.
 
@@ -256,6 +258,7 @@ Repo: [github.com/linhai-creator/linh0ai-daily-tutorials](https://github.com/lin
 - 🟣 **Bài Day 9 (Prompt Engineering Nâng Cao):** [days/day-09.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-09.md)
 - 🎬 **Bài Day 10 (Composition & Framing):** [days/day-10.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-10.md)
 - 💡 **Bài Day 11 (Lighting Mastery):** [days/day-11.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-11.md)
+- 🎨 **Bài Day 12 (Color Theory + Tiếng Việt):** [days/day-12.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-12.md)
 ---
 
 ## 📚 Glossary nhanh
@@ -271,4 +274,4 @@ Repo: [github.com/linhai-creator/linh0ai-daily-tutorials](https://github.com/lin
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 09/05/2026 | Phiên bản 1.3*
+*Cập nhật lần cuối: 09/05/2026 | Phiên bản 1.4*
