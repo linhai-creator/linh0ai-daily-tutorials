@@ -3,7 +3,41 @@
 > Theo dõi tiến độ phát triển của repo. Repo được cập nhật mỗi ngày trong 30 ngày.
 
 ---
+## Day 11 — 09/05/2026 🟣 ✅
 
+**Bài:** Lighting Mastery: GPT Image 2 BIG WIN — Master Cả 6 Lighting Khó
+
+**Status:** ✅ Done — 18 ảnh test verified, bài hoàn thành 100%
+
+### ✨ Highlights
+- 🟣 Level Advanced — bài LỚN NHẤT Tuần 2 đến hiện tại
+- 📊 Test 18 ảnh: 6 lighting × 3 chủ đề × GPT Image 2
+- 💰 Credit thực tế: 16,200 (~16.2k VND, ~1.5% gói Ultra Member)
+- 🎨 Hero image: Nông dân Sapa Backlight (văn hóa Việt + cinematic)
+
+### 🔥 5 Insights VERIFIED (5 dự đoán SAI nữa!)
+- 🤯 **Rembrandt KHÔNG khó** — triangle of light siêu rõ (insight chấn động)
+- 🌌 **Blue Hour KHÔNG leak warm** — GPT chịu cool tone tốt
+- ⚡ **Split Lighting sharp 50/50** — geometric precision đỉnh
+- 🔆 **Backlight vs Rim phân biệt rõ** — model hiểu khác biệt
+- 🛡️ **Brand fix lần 4** — 0/6 ảnh đồng hồ có brand thật
+
+### 🎯 Pattern Day 10 + Day 11 = "GPT Image 2 KHÔNG có điểm yếu kỹ thuật"
+- Day 10: 3 dự đoán sai (composition)
+- Day 11: 5 dự đoán sai (lighting)
+- Tổng: 8 dự đoán sai liên tiếp → confidence cao tuyên bố
+
+### 📁 Files added
+- `days/day-11.md` — bài tutorial đầy đủ (~22kb, 13 phần + section "5 lỗi lighting AI hay mắc")
+- `prompts/day-11.txt` — 18 prompts với weighted syntax + negative chống brand
+- `assets/images/day-11-*.png` — 18 ảnh test (6 lighting × 3 chủ đề)
+
+### 🎯 Subjects test
+- **Chân dung:** Cô gái casual modern (Saigon balcony, rooftop, Thảo Điền)
+- **Phong cảnh:** Sapa (mới — không trùng Day 8 Mù Cang Chải, Day 10 Hội An)
+- **Sản phẩm:** Đồng hồ luxury generic (test brand insight lần 4)
+
+---
 ## Day 10 — 09/05/2026 🟣 ✅
 
 **Bài:** Composition & Framing: GPT Image 2 KHÔNG Có Điểm Yếu
@@ -195,7 +229,7 @@
 - [x] Day 8 — Seedream 4.5 deep dive: Chân dung & da người ✅
 - [x] Day 9 — Prompt Engineering Nâng Cao: Áo dài Việt qua AI ✅
 - [x] Day 10 — Composition & Framing: GPT Image 2 KHÔNG có điểm yếu ✅
-- [ ] Day 11 — Lighting Mastery (Golden hour, Rembrandt, Split lighting)
+- [x] Day 11 — Lighting Mastery: GPT Image 2 BIG WIN — Master 6 lighting ✅
 - [ ] Day 12 — Color Theory & Mood (warm/cool, complementary, analogous)
 - [ ] Day 13 — Camera & Lens trong Prompt (focal length, DOF, motion blur)
 - [ ] Day 14 — Tổng kết Tuần 2 + chấm Mini Challenge "Phong cảnh Việt Nam"
@@ -219,7 +253,7 @@
 ## 📊 Tiến độ tổng
 
 ```
-██████████░░░░░░░░░░░░░░░░░░░░  10/30 ngày (33%) ✅
+███████████░░░░░░░░░░░░░░░░░░░  11/30 ngày (37%) ✅
 ```
 
 **Started:** 2026-05-07
