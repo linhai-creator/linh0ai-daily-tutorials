@@ -3,6 +3,48 @@
 > Theo dõi tiến độ phát triển của repo. Repo được cập nhật mỗi ngày trong 30 ngày.
 
 ---
+## Day 12 — 09/05/2026 🟣 ✅
+
+**Bài:** Color Theory & Mood: 13 Dự Đoán SAI — GPT Cũng KHÔNG Có Điểm Yếu Văn Hóa
+
+**Status:** ✅ Done — 20 ảnh test verified, bài hoàn thành 100%
+
+### ✨ Highlights
+- 🟣 Level Advanced — bài LỚN NHẤT cả khóa đến hiện tại
+- 📊 Test 20 ảnh: 4 hệ màu × 5 setting văn hóa Việt × GPT Image 2
+- 💰 Credit thực tế: 18,000 (~18k VND, ~1.6% gói Ultra Member)
+- 🦁 Hero image: Múa lân Tết Triadic (văn hóa + tiếng Việt có dấu + balance 3 màu)
+
+### 🔥 5 Insights VERIFIED (5 dự đoán SAI nữa!)
+- 🤯 **Monochromatic HOÀN HẢO** — không color leak (insight chấn động)
+- ⚖️ **Triadic balance 3 màu chuẩn** — không color soup
+- 🇻🇳 **Văn hóa Việt 100% authentic** — không nhầm Tàu/Thái
+- 📝 **GPT Image 2 BIẾT VIẾT TIẾNG VIỆT CÓ DẤU** (insight độc quyền chưa ai test!)
+- 🎯 **20/20 ảnh đều ⭐⭐⭐⭐⭐** — bộ data đỉnh nhất khóa
+
+### 🎯 Pattern Day 10-12 = "GPT KHÔNG có điểm yếu kỹ thuật + văn hóa"
+- Day 10: 3 dự đoán sai (composition)
+- Day 11: 5 dự đoán sai (lighting)
+- Day 12: 5 dự đoán sai (color + văn hóa)
+- Tổng: **13 dự đoán sai liên tiếp** → confidence cao tuyên bố
+
+### 📁 Files added
+- `days/day-12.md` — bài tutorial đầy đủ (~22.9kb, 13 phần + section "GPT BIẾT viết tiếng Việt có dấu")
+- `prompts/day-12.txt` — 20 prompts với negative chống nhầm văn hóa
+- `assets/images/day-12-*.png` — 20 ảnh test (4 hệ × 5 setting)
+
+### 🎯 Settings Việt Nam test
+- **Tết phố cổ Hà Nội:** Áo dài + bánh chưng + câu đối tiếng Việt có dấu
+- **Hội An đèn lồng đêm:** Vàng-cam-đỏ analogous tự nhiên
+- **Làng nhuộm chàm Sapa:** H'Mong woman + indigo monochromatic
+- **Biển Phú Quốc:** Pure blue ocean + sunset complementary
+- **Chợ nổi Cái Răng:** Cờ Tổ quốc đỏ-vàng + sky xanh triadic
+
+### 🛡️ Streamline update
+- Day 8-11 đã rút gọn 3 mục CTA mạng xã hội (consistency với Day 12)
+- "Câu hỏi cộng đồng", "Footer FB/Zalo", "Đăng FB hashtag" đã bỏ vì chưa active MXH
+
+---
 ## Day 11 — 09/05/2026 🟣 ✅
 
 **Bài:** Lighting Mastery: GPT Image 2 BIG WIN — Master Cả 6 Lighting Khó
@@ -230,7 +272,7 @@
 - [x] Day 9 — Prompt Engineering Nâng Cao: Áo dài Việt qua AI ✅
 - [x] Day 10 — Composition & Framing: GPT Image 2 KHÔNG có điểm yếu ✅
 - [x] Day 11 — Lighting Mastery: GPT Image 2 BIG WIN — Master 6 lighting ✅
-- [ ] Day 12 — Color Theory & Mood (warm/cool, complementary, analogous)
+- [x] Day 12 — Color Theory & Mood: 13 dự đoán SAI + tiếng Việt có dấu ✅
 - [ ] Day 13 — Camera & Lens trong Prompt (focal length, DOF, motion blur)
 - [ ] Day 14 — Tổng kết Tuần 2 + chấm Mini Challenge "Phong cảnh Việt Nam"
 
@@ -253,7 +295,7 @@
 ## 📊 Tiến độ tổng
 
 ```
-███████████░░░░░░░░░░░░░░░░░░░  11/30 ngày (37%) ✅
+████████████░░░░░░░░░░░░░░░░░░  12/30 ngày (40%) ✅
 ```
 
 **Started:** 2026-05-07
