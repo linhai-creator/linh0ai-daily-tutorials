@@ -149,24 +149,18 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-### Day 12 — Color Theory & Mood 📋
-> *Tone màu kể câu chuyện trước cả nội dung*
+### Day 12 — Color Theory & Mood: 13 Dự Đoán SAI + Tiếng Việt Có Dấu ✅
+**Test:** 20 ảnh — 4 hệ màu × 5 setting văn hóa Việt × GPT Image 2 **Credit thực tế:** 18,000 credit
 
-**Mục tiêu:**
-- Hiểu **color wheel** và 4 schema chính: Complementary, Analogous, Triadic, Monochrome
-- Biết warm vs cool tone tạo cảm xúc gì
-- Học prompt **specific color palette** (Wes Anderson pastel, Blade Runner cyberpunk, Studio Ghibli soft...)
+**Insights đã verified:**
+- ✅ GPT Image 2 master cả 4 hệ màu (Complementary, Analogous, Monochromatic, Triadic)
+- 🤯 Monochromatic HOÀN HẢO — không color leak (insight lớn nhất)
+- ⚖️ Triadic balance 3 màu chuẩn — không color soup
+- 🇻🇳 Văn hóa Việt 100% authentic — không nhầm Tàu/Thái (áo dài, bánh chưng vuông)
+- 📝 **GPT Image 2 BIẾT VIẾT TIẾNG VIỆT CÓ DẤU** (insight độc quyền)
+- 🎯 20/20 ảnh đều ⭐⭐⭐⭐⭐ — bộ data đỉnh nhất khóa
 
-**Skill nổi bật:**
-- Keyword: `color grading`, `tone palette`, tên các phong cách điện ảnh
-- Cách tạo **bộ ảnh nhất quán** về color (cho campaign)
-- Color psychology — đỏ kích hoạt, xanh thư giãn, vàng vui vẻ...
-
-**Test:** ~12 ảnh — 4 color schema × 3 chủ đề (cùng prompt, đổi color)
-**Credit dự kiến:** ~5,000 credit
-
-**Insight Linh dự kiến:** Đổi 1 color keyword có thể biến ảnh "đẹp bình thường" thành "đẹp như poster phim"
-
+📄 [days/day-12.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-12.md)
 ---
 
 ### Day 13 — Camera & Lens trong Prompt 📋
@@ -348,6 +342,8 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 |-----------|------|----------|
+| **v2.4** | 09/05/2026 | ✅ Day 12 hoàn thành. Update Day 12 với 5 insights (Monochromatic perfect, Triadic balance, văn hóa Việt authentic, **GPT BIẾT tiếng Việt có dấu**, 20/20 ảnh ⭐⭐⭐⭐⭐). Pattern verified: 13 dự đoán sai liên tiếp = "GPT KHÔNG có điểm yếu kỹ thuật + văn hóa". Streamline Day 8-11 (rút gọn CTA MXH). |
+| **v2.3** | 09/05/2026 | ✅ Day 11 hoàn thành. Update Day 11 với 5 insights bất ngờ (Rembrandt master, Blue Hour cool, Split sharp, Backlight vs Rim, Brand lần 4). Pattern: GPT Image 2 KHÔNG có điểm yếu kỹ thuật (verified Day 10 + Day 11). |
 | **v2.3** | 09/05/2026 | ✅ Day 11 hoàn thành. Update Day 11 với 5 insights bất ngờ (Rembrandt master, Blue Hour cool, Split sharp, Backlight vs Rim, Brand lần 4). Pattern: GPT Image 2 KHÔNG có điểm yếu kỹ thuật (verified Day 10 + Day 11). |
 | **v2.2** | 09/05/2026 | ✅ Day 10 hoàn thành. Update Day 10 description với 3 insights bất ngờ (Symmetry tốt, Negative Space tốt, Brand fix). |
 | **v2.1** | 09/05/2026 | ✅ Day 8 + Day 9 hoàn thành. Update Day 9 description với insights verified...
@@ -359,5 +355,4 @@ Nếu bạn có:
 ---
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
-
-*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.3*
+*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.4*
