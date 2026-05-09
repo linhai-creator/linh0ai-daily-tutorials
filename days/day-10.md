@@ -391,22 +391,12 @@ Day 8-9 GPT chèn Vincero, Dior. Day 10 negative `Audemars, Vincero, Rolex, Dior
 ### 🔵 Cho Intermediate (55 phút, ~13,500 credit)
 1. Test full 15 ảnh trên GPT Image 2 (theo prompt mình share)
 2. Soi kỹ: Symmetry và Negative Space có ngon như mình thấy không?
-3. Đăng kết quả Facebook với hashtag `#Day10Composition`
 
 ### 🟣 Cho Pro (90 phút, ~20,000 credit)
 1. Full 15 ảnh GPT + 15 ảnh Seedream 4.5 (cùng prompt) → so sánh side-by-side
 2. Tự design prompt **combo 3 quy tắc** (vd: Thirds + Lines + FG/MG/BG)
 3. Viết review 500 từ về quy tắc nào AI làm tốt/yếu nhất
 
----
-
-## 💬 Câu hỏi cho cộng đồng
-
-3 dự đoán mình SAI hôm nay (Symmetry tốt, Negative Space tốt, Brand fix được). **Bạn nghĩ điều gì khác về AI composition mà người ta hay nói nhưng có thể sai**?
-
-Comment cho mình — biết đâu Day 11+ mình lại verify thêm 1 myth! 🎯
-
----
 
 ## ❓ FAQ
 
@@ -475,9 +465,5 @@ Ngày mai mình deep dive **Lighting Mastery** — golden hour, blue hour, rim l
 
 ---
 
-> **💌 Có ý kiến hoặc trải nghiệm khác?**
-> Comment vào [bài Facebook Day 10](https://facebook.com/daclinh.tran) hoặc nhắn vào [Zalo group](https://zalo.me/g/umthmp096). Đặc biệt nếu bạn test thấy quy tắc nào AI làm tốt/tệ KHÁC mình → share để cộng đồng cùng học!
-
----
 
 *Nhật ký Day 10 by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
