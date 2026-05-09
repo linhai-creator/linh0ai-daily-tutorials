@@ -97,8 +97,7 @@ Sau 30 ngày, bạn sẽ:
 📄 [days/day-09.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-09.md)
 
 ---
-
-### Day 10 — Composition & Framing 📋
+### Day 10 — Composition & Framing: GPT Image 2 KHÔNG có điểm yếu ✅
 > *Bố cục đẹp = ảnh đẹp dù model nào*
 
 **Mục tiêu:**
@@ -111,10 +110,16 @@ Sau 30 ngày, bạn sẽ:
 - Khi nào dùng `low angle` vs `high angle` vs `dutch angle`
 - Cách tạo ảnh có **3 lớp chiều sâu** rõ ràng
 
-**Test:** ~15 ảnh — 5 quy tắc × 3 chủ đề (chân dung, cảnh, sản phẩm)
-**Credit dự kiến:** ~6,000 credit
+**Test:** 15 ảnh — 5 quy tắc × 3 chủ đề × GPT Image 2 **Credit thực tế:** 13,500 credit
 
-**Insight Linh dự kiến:** Đa số ảnh AI bị "flat" vì thiếu foreground/midground → fix 1 từ khóa là khác hẳn
+**Insights đã verified:**
+- ✅ GPT Image 2 KHÔNG có điểm yếu — 5/5 quy tắc đều ⭐⭐⭐⭐+
+- 🤯 3 dự đoán sai: Symmetry tốt + Negative Space tốt + Brand fix được
+- 🎬 FG/MG/BG = "thuốc tiên" chữa AI flat look
+- 🛡️ Negative prompt liệt kê tên brand cụ thể chặn 100% issue copyright
+- 🇻🇳 Setting Việt Nam (Hội An) có sẵn composition perfect
+
+📄 [days/day-10.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-10.md)
 
 ---
 
@@ -337,6 +342,8 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 |-----------|------|----------|
+| **v2.2** | 09/05/2026 | ✅ Day 10 hoàn thành. Update Day 10 description với 3 insights bất ngờ (Symmetry tốt, Negative Space tốt, Brand fix). |
+| **v2.1** | 09/05/2026 | ✅ Day 8 + Day 9 hoàn thành. Update Day 9 description với insights verified...
 | **v2.1** | 09/05/2026 | ✅ Day 8 + Day 9 hoàn thành. Update Day 9 description với insights verified (cultural awareness về áo dài Tết, GPT cải thiện +40% với prompt Pro, cảnh báo brand bản quyền lặp lại). |
 | **v2.0** | 08/05/2026 | 🔄 Đổi Tuần 2 từ "Test các model mới" sang "Master Skills" (5 chuyên đề kỹ năng + 1 model deep-dive). Lý do: content kỹ năng evergreen hơn, không bị outdated. |
 | **v1.5** | ~06/05/2026 | Đổi Tuần 2 từ "Flux series" sang "Test Seedream 5/Z-Image/NBN Pro/Kling" (vì 0ai.vn không có Flux). |
@@ -346,4 +353,4 @@ Nếu bạn có:
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.1*
+*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.2*
