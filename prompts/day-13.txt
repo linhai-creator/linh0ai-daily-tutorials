@@ -1,0 +1,358 @@
+# 🎯 Day 13 — Camera & Lens trong Prompt
+# Demo qua 6 focal lengths × 3 cảnh × GPT Image 2 + 2 bonus
+# Test 20 ảnh — Cùng 1 cô gái Sài Gòn áp dụng 6 lens
+
+# ═══════════════════════════════════════════════════════════
+# 📐 6 FOCAL LENGTHS SẼ HỌC HÔM NAY
+# ═══════════════════════════════════════════════════════════
+
+# 1. 24mm WIDE ANGLE 📐
+#    Vibe: dramatic, environment, distortion edges
+#    Khi dùng: phong cảnh, kiến trúc, môi trường rộng
+#    Keyword: "ultra wide angle 24mm", "dramatic perspective"
+
+# 2. 35mm STREET 🚶
+#    Vibe: natural, environmental portrait, story-telling
+#    Khi dùng: street photography, lifestyle
+#    Keyword: "35mm street photography", "environmental portrait"
+
+# 3. 50mm NORMAL 👁️
+#    Vibe: human eye perspective, natural, neutral
+#    Khi dùng: ảnh hàng ngày, dễ nhất cho beginner
+#    Keyword: "50mm standard lens", "human eye perspective"
+
+# 4. 85mm PORTRAIT ⭐
+#    Vibe: classic portrait, beautiful bokeh, slight compression
+#    Khi dùng: chân dung pro, fashion
+#    Keyword: "85mm portrait lens", "creamy bokeh"
+
+# 5. 135mm TELEPHOTO 🔭
+#    Vibe: strong compression, isolated subject
+#    Khi dùng: editorial, long-distance portrait
+#    Keyword: "135mm telephoto", "strong compression"
+
+# 6. 200mm LONG ZOOM 🎯
+#    Vibe: extreme compression, "background kéo gần"
+#    Khi dùng: sport, wildlife, dramatic isolated portrait
+#    Keyword: "200mm long telephoto", "extreme compression"
+
+# ═══════════════════════════════════════════════════════════
+# 💰 GIÁ + SETTINGS CHUẨN
+# ═══════════════════════════════════════════════════════════
+# - Model: GPT Image 2 (900 credit/ảnh)
+# - Aspect: 16:9 (Cảnh 1) hoặc 3:4 (Cảnh 2 + 3)
+# - Resolution: 2K
+# - 20 ảnh × 900 = 18,000 credit (~18k VND, ~1.6% gói Ultra)
+
+# ═══════════════════════════════════════════════════════════
+# 👧 SUBJECT CỐ ĐỊNH (kiểm soát biến số)
+# ═══════════════════════════════════════════════════════════
+# Cô gái Việt 25 tuổi, áo dài cách tân màu pastel xanh mint,
+# tóc đen dài thẳng, makeup tự nhiên, biểu cảm thân thiện
+
+# ═══════════════════════════════════════════════════════════
+# 🎬 CẢNH 1: PHỐ BÙI VIỆN ĐÊM (Street Photography)
+# Aspect: 16:9 (landscape — phố trải dài)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Lens 1: 24mm WIDE ───
+# Tên file: day-13-24mm-buivien.png
+PROMPT_1:
+A young Vietnamese woman 25yo, wearing pastel mint áo dài cách tân,
+long straight black hair, natural makeup, friendly expression,
+walking on Bui Vien street Saigon at night. (Ultra wide angle 24mm:1.4),
+dramatic perspective, distortion at edges, neon signs stretching back,
+crowded street scene, environmental context wide. Photorealistic.
+
+Negative: telephoto, compressed background, narrow field, plastic skin,
+deformed eyes, low quality, brand name, logo, designer logo
+
+# ─── Lens 2: 35mm STREET ───
+# Tên file: day-13-35mm-buivien.png
+PROMPT_2:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+long black hair, on Bui Vien street Saigon at night.
+(35mm street photography lens:1.4), natural environmental portrait,
+slight wide perspective, story-telling background with neon signs,
+people walking blur. Photorealistic, candid moment.
+
+Negative: ultra wide distortion, telephoto compressed, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ─── Lens 3: 50mm NORMAL ───
+# Tên file: day-13-50mm-buivien.png
+PROMPT_3:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+on Bui Vien street Saigon at night.
+(50mm standard lens:1.4), human eye perspective, natural field of view,
+neutral compression, neon signs background slightly blurred,
+balanced composition. Photorealistic.
+
+Negative: wide distortion, extreme telephoto, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ─── Lens 4: 85mm PORTRAIT ⭐ ───
+# Tên file: day-13-85mm-buivien.png
+PROMPT_4:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+half-body portrait on Bui Vien street Saigon at night.
+(85mm portrait lens:1.4), creamy beautiful bokeh, slight compression,
+neon signs become colorful bokeh balls in background,
+classic portrait composition. Photorealistic, f/1.4.
+
+Negative: wide angle, no bokeh, sharp background, plastic skin,
+low quality, brand name, logo
+
+# ─── Lens 5: 135mm TELEPHOTO ───
+# Tên file: day-13-135mm-buivien.png
+PROMPT_5:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+upper body portrait on Bui Vien street Saigon at night.
+(135mm telephoto lens:1.4), strong compression flattening background,
+isolated subject, smooth bokeh from distant neon signs,
+intimate framing. Photorealistic, f/2.8.
+
+Negative: wide perspective, environmental, sharp background,
+plastic skin, low quality, brand name, logo
+
+# ─── Lens 6: 200mm LONG ZOOM ───
+# Tên file: day-13-200mm-buivien.png
+PROMPT_6:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+close-up portrait on Bui Vien street Saigon at night.
+(200mm long telephoto lens:1.4), extreme compression pulling
+background close, very tight framing, melted bokeh background,
+dramatic isolated subject. Photorealistic, f/2.8.
+
+Negative: wide angle, environmental, sharp background, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ═══════════════════════════════════════════════════════════
+# 🌅 CẢNH 2: CAFÉ THẢO ĐIỀN ROOFTOP SUNSET (Lifestyle)
+# Aspect: 3:4 (portrait — focus subject)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Lens 1: 24mm WIDE ───
+# Tên file: day-13-24mm-thaodien.png
+PROMPT_7:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+sitting on rooftop café Thao Dien Saigon at sunset.
+(Ultra wide angle 24mm:1.4), dramatic perspective showing skyline,
+Saigon city stretching into background, distortion at edges,
+golden hour warm light. Photorealistic.
+
+Negative: telephoto compressed, narrow framing, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ─── Lens 2: 35mm STREET ───
+# Tên file: day-13-35mm-thaodien.png
+PROMPT_8:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+at café Thao Dien rooftop sunset Saigon.
+(35mm street photography lens:1.4), natural environmental portrait,
+balanced composition with skyline visible, slight wide perspective,
+warm golden hour. Photorealistic.
+
+Negative: ultra wide distortion, telephoto, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ─── Lens 3: 50mm NORMAL ───
+# Tên file: day-13-50mm-thaodien.png
+PROMPT_9:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+café Thao Dien rooftop sunset Saigon.
+(50mm standard lens:1.4), human eye perspective natural,
+balanced subject and skyline background, golden hour warm.
+Photorealistic, f/2.8.
+
+Negative: wide distortion, extreme telephoto, plastic skin,
+low quality, brand name, logo
+
+# ─── Lens 4: 85mm PORTRAIT ⭐ ───
+# Tên file: day-13-85mm-thaodien.png
+PROMPT_10:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+beautiful portrait at café Thao Dien sunset.
+(85mm portrait lens:1.4), creamy beautiful bokeh, slight compression,
+Saigon skyline becomes soft golden bokeh background,
+classic portrait composition. Photorealistic, f/1.4.
+
+Negative: wide angle, no bokeh, sharp skyline, plastic skin,
+low quality, brand name, logo
+
+# ─── Lens 5: 135mm TELEPHOTO ───
+# Tên file: day-13-135mm-thaodien.png
+PROMPT_11:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+upper body portrait café Thao Dien sunset.
+(135mm telephoto lens:1.4), strong compression flattening skyline,
+isolated subject, smooth golden bokeh, intimate framing.
+Photorealistic, f/2.8.
+
+Negative: wide perspective, environmental, sharp background,
+plastic skin, low quality, brand name, logo
+
+# ─── Lens 6: 200mm LONG ZOOM ───
+# Tên file: day-13-200mm-thaodien.png
+PROMPT_12:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+close-up portrait café Thao Dien sunset.
+(200mm long telephoto lens:1.4), extreme compression pulling skyline
+close behind subject, very tight framing, melted golden bokeh,
+dramatic isolation. Photorealistic, f/2.8.
+
+Negative: wide angle, environmental, sharp background, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ═══════════════════════════════════════════════════════════
+# 🎬 CẢNH 3: STUDIO PORTRAIT (Controlled)
+# Aspect: 3:4 (portrait)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Lens 1: 24mm WIDE ───
+# Tên file: day-13-24mm-studio.png
+PROMPT_13:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+full body portrait in studio with neutral gray seamless background.
+(Ultra wide angle 24mm:1.4), dramatic perspective, slight distortion,
+environmental wide framing, soft studio lighting from upper left.
+Photorealistic.
+
+Negative: telephoto, compressed, narrow framing, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ─── Lens 2: 35mm STREET ───
+# Tên file: day-13-35mm-studio.png
+PROMPT_14:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+3/4 body portrait in studio neutral gray seamless background.
+(35mm street/environmental portrait lens:1.4), slight wide,
+soft studio lighting, balanced composition. Photorealistic.
+
+Negative: ultra wide distortion, telephoto, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ─── Lens 3: 50mm NORMAL ───
+# Tên file: day-13-50mm-studio.png
+PROMPT_15:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+half body portrait in studio neutral gray background.
+(50mm standard lens:1.4), human eye perspective natural,
+balanced framing, soft studio lighting. Photorealistic, f/4.
+
+Negative: wide distortion, extreme telephoto, plastic skin,
+low quality, brand name, logo
+
+# ─── Lens 4: 85mm PORTRAIT ⭐⭐⭐ (CLASSIC PERFECT!) ───
+# Tên file: day-13-85mm-studio.png
+PROMPT_16:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+classic upper body portrait in studio neutral gray background.
+(85mm portrait lens:1.4), iconic classic portrait composition,
+creamy beautiful bokeh, slight flattering compression on facial features,
+soft Rembrandt studio lighting. Photorealistic, f/1.8, professional.
+
+Negative: wide angle distortion, sharp background, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ─── Lens 5: 135mm TELEPHOTO ───
+# Tên file: day-13-135mm-studio.png
+PROMPT_17:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+tight portrait in studio neutral gray background.
+(135mm telephoto lens:1.4), strong compression flattening features,
+isolated subject, smooth bokeh, intimate close framing.
+Photorealistic, f/2.8.
+
+Negative: wide perspective, environmental, sharp background,
+plastic skin, low quality, brand name, logo
+
+# ─── Lens 6: 200mm LONG ZOOM ───
+# Tên file: day-13-200mm-studio.png
+PROMPT_18:
+Same young Vietnamese woman 25yo pastel mint áo dài cách tân,
+extreme close-up beauty portrait in studio neutral gray background.
+(200mm long telephoto lens:1.4), extreme compression, very tight framing,
+melted creamy bokeh, dramatic isolation, beauty lighting.
+Photorealistic, f/2.8.
+
+Negative: wide angle, environmental, sharp background, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ═══════════════════════════════════════════════════════════
+# ⭐ BONUS 1: 24mm WIDE vs 200mm TELEPHOTO Side-by-side
+# Aspect: 16:9 (cho phép 2 cảnh ngang nhau)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Tên file: day-13-bonus-wide-vs-tele.png
+PROMPT_19:
+Split-image comparison side-by-side same Vietnamese woman 25yo
+pastel mint áo dài cách tân at Bui Vien street Saigon night.
+LEFT HALF: (24mm ultra wide angle:1.4), full environment with neon-lit
+street stretching back, dramatic perspective, distortion at edges.
+RIGHT HALF: (200mm extreme telephoto:1.4), tight close-up, compressed
+melted bokeh background, isolated subject. Same lighting both sides.
+Educational comparison demo. Photorealistic.
+
+Negative: same lens both sides, no comparison, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ═══════════════════════════════════════════════════════════
+# ⭐ BONUS 2: 50mm "Human Eye" vs 85mm "Portrait Classic"
+# Aspect: 3:4 (cho phép 2 cảnh dọc)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Tên file: day-13-bonus-eye-vs-portrait.png
+PROMPT_20:
+Split-image comparison top-bottom same Vietnamese woman 25yo
+pastel mint áo dài cách tân in studio neutral gray background.
+TOP HALF: (50mm standard "human eye" lens:1.4), natural perspective,
+slight environment, neutral compression, balanced framing.
+BOTTOM HALF: (85mm portrait classic lens:1.4), creamy bokeh,
+flattering slight compression, iconic portrait composition,
+soft Rembrandt lighting. Educational comparison demo.
+Photorealistic.
+
+Negative: same lens both halves, no comparison, plastic skin,
+deformed eyes, low quality, brand name, logo
+
+# ═══════════════════════════════════════════════════════════
+# 🔑 CHECKLIST KHI TEST
+# ═══════════════════════════════════════════════════════════
+# 1. Chạy ĐÚNG GPT Image 2 cho tất cả 20 prompt
+# 2. Aspect ratio:
+#    - 16:9: Ảnh #1-6 (Cảnh 1 phố Bùi Viện) + Bonus 1
+#    - 3:4: Ảnh #7-18 (Cảnh 2 + 3) + Bonus 2
+# 3. Resolution 2K
+# 4. Mỗi prompt chạy 1 LẦN duy nhất — KHÔNG cherry-pick
+# 5. Đặt tên file đúng convention:
+#    day-13-{focal}-{scene}.png
+#    Focals: 24mm | 35mm | 50mm | 85mm | 135mm | 200mm
+#    Scenes: buivien | thaodien | studio
+#    Bonus: day-13-bonus-wide-vs-tele.png + day-13-bonus-eye-vs-portrait.png
+
+# 6. Khi review, tập trung 5 câu hỏi:
+#    - 24mm có distortion edges đặc trưng?
+#    - 85mm bokeh creamy + compression đẹp?
+#    - 200mm compression mạnh "kéo background gần"?
+#    - 50mm có "human eye" tự nhiên không?
+#    - Subject cô gái có CONSISTENT qua 18 ảnh không?
+
+# ═══════════════════════════════════════════════════════════
+# 📊 ETA TEST 20 ẢNH
+# ═══════════════════════════════════════════════════════════
+# - Setup + paste prompt: ~2 phút/ảnh × 20 = 40 phút
+# - Generate time: ~30s/ảnh × 20 = 10 phút
+# - Tải về + đặt tên: ~15 phút
+# Tổng: ~65 phút
+# Chi phí: 18,000 credit (~18k VND, ~1.6% gói Ultra)
+
+# ═══════════════════════════════════════════════════════════
+# 💡 BONUS — 5 LỖI CAMERA/LENS AI HAY MẮC
+# ═══════════════════════════════════════════════════════════
+# Sẽ cover trong bài day-13.md:
+# 1. "Lens trung tính" mặc định (không hiểu focal length)
+# 2. 24mm không có distortion edges (làm như 50mm)
+# 3. 85mm thiếu bokeh creamy (background sharp như f/8)
+# 4. 200mm không compression mạnh (background xa như 50mm)
+# 5. Subject không consistent qua nhiều ảnh (face khác nhau)
