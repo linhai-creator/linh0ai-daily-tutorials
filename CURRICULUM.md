@@ -58,7 +58,7 @@ Sau 30 ngày, bạn sẽ:
 >
 > **Tinh thần:** Sau Tuần 1 đã biết "tool", Tuần 2 học "skill" — ai nắm chắc lighting/composition/color sẽ tạo ảnh đẹp dù dùng model nào.
 
-### Day 8 — Seedream 4.5 Deep Dive 🔄
+### Day 8 — Seedream 4.5 Deep Dive ✅
 > *Model độc đáo cho chân dung & sản phẩm thương mại*
 
 **Mục tiêu:**
@@ -74,8 +74,7 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-### Day 9 — Prompt Engineering nâng cao 📋
-> *Từ "biết prompt" lên "prompt như senior"*
+### Day 9 — Prompt Engineering Nâng Cao: Áo Dài Việt qua AI ✅
 
 **Mục tiêu:**
 - Mở rộng công thức 5 thành phần (Day 3) lên **7 thành phần** (Subject + Style + Composition + Lighting + Color + Camera + Mood)
@@ -87,10 +86,15 @@ Sau 30 ngày, bạn sẽ:
 - Cú pháp `[A | B]` để alternate giữa 2 concept
 - Negative prompt có trọng số
 
-**Test:** ~12 ảnh — 3 prompt × 2 cấp độ (cơ bản vs nâng cao) × 2 model
-**Credit dự kiến:** ~5,000 credit
+**Test:** 12 ảnh — 3 cấp độ (Basic/Advanced/Pro) × 2 variation (truyền thống + cách tân) × 2 model (Seedream 4.5 + GPT Image 2) **Credit thực tế:** 7,500 credit
 
-**Insight Linh dự kiến:** Weighted prompt giảm 50% lỗi prompt-không-được-thực-hiện
+**Insights đã verified:**
+- ✅ Prompt nâng cao CÓ cứu GPT Image 2 (cải thiện +40% từ Basic → Pro)
+- ✅ Áo dài đỏ-phượng-đèn lồng = Tết Việt Nam (KHÔNG phải TQ)
+- 🚨 Local knowledge > Foreign expertise khi review AI ảnh văn hóa Việt
+- ⚠️ GPT Image 2 vẫn tự chèn brand thật ("Dior") — lặp lại Day 8
+
+📄 [days/day-09.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-09.md)
 
 ---
 
@@ -264,7 +268,7 @@ Sau 30 ngày, bạn sẽ:
 
 ## 📊 Mục tiêu KPIs 30 ngày
 
-- [ ] Đăng đủ **30 bài** đều đặn (đang 7/30, ~23%)
+- [ ] Đăng đủ **30 bài** đều đặn (đang 9/30, 30%)
 - [ ] **100+ stars** trên GitHub repo
 - [ ] **1.000+ followers** Facebook fanpage
 - [ ] **500+ followers** X (Twitter)
@@ -333,6 +337,7 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 |-----------|------|----------|
+| **v2.1** | 09/05/2026 | ✅ Day 8 + Day 9 hoàn thành. Update Day 9 description với insights verified (cultural awareness về áo dài Tết, GPT cải thiện +40% với prompt Pro, cảnh báo brand bản quyền lặp lại). |
 | **v2.0** | 08/05/2026 | 🔄 Đổi Tuần 2 từ "Test các model mới" sang "Master Skills" (5 chuyên đề kỹ năng + 1 model deep-dive). Lý do: content kỹ năng evergreen hơn, không bị outdated. |
 | **v1.5** | ~06/05/2026 | Đổi Tuần 2 từ "Flux series" sang "Test Seedream 5/Z-Image/NBN Pro/Kling" (vì 0ai.vn không có Flux). |
 | **v1.0** | ~28/04/2026 | Curriculum gốc — Tuần 1 Foundation, Tuần 2 Flux series, Tuần 3 Workflows, Tuần 4 Video. |
@@ -341,4 +346,4 @@ Nếu bạn có:
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 08/05/2026 | Phiên bản 2.0*
+*Cập nhật lần cuối: 09/05/2026 | Phiên bản 2.1*
