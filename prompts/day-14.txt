@@ -1,0 +1,192 @@
+# 🎯 Day 14 — Master Combo Prompt Templates
+# Tổng kết Tuần 2 — Templates copy-paste cho mọi chủ đề
+# Audience tự test nếu muốn (optional)
+
+# ═══════════════════════════════════════════════════════════
+# 🎨 MASTER COMBO TEMPLATE — Công thức chung
+# ═══════════════════════════════════════════════════════════
+# 4 yếu tố trong 1 prompt:
+# 1. Composition (1/5 quy tắc Day 10)
+# 2. Lighting (1/6 kiểu Day 11)
+# 3. Color (1/4 hệ Day 12)
+# 4. Lens (1/6 focal Day 13)
+# + Vietnamese setting
+
+# ═══════════════════════════════════════════════════════════
+# 🏖️ TEMPLATE 1 — VỊNH HẠ LONG (Phong cảnh biển)
+# Aspect: 16:9 panoramic
+# Model: GPT Image 2 (recommend)
+# ═══════════════════════════════════════════════════════════
+
+PROMPT_HALONG:
+(rule of thirds composition:1.4),
+limestone karst islands rising from emerald water of Halong Bay,
+traditional wooden Vietnamese junk boat with red sails sailing
+(foreground:1.2) on calm sea, distant misty mountains layered,
+(blue hour lighting:1.3) just after sunset, cool ambient blue-purple,
+warm orange glow on horizon, atmospheric mist between islands,
+(complementary palette:1.3) cool blue water + warm sunset clouds,
+(35mm street photography lens:1.4), shot on Sony A7IV f/8,
+sharp foreground to background, cinematic landscape composition,
+ultra-detailed, 8K masterpiece, National Geographic style.
+
+Negative: plastic look, oversaturated, cartoon, low quality, watermark,
+brand name, logo, modern speedboat, jet ski, plastic bottle,
+chinese architecture, korean style
+
+# ═══════════════════════════════════════════════════════════
+# 🏖️ TEMPLATE 2 — MŨ CANG CHẢI RUỘNG BẬC THANG
+# Aspect: 21:9 panoramic
+# ═══════════════════════════════════════════════════════════
+
+PROMPT_MUCANGCHAI:
+(leading lines composition:1.4) terraced rice fields curving into distance,
+(foreground:1.2) golden ripe rice paddies with H'Mong farmers harvesting,
+(midground:1.3) layered rice terraces ascending mountain,
+(background:1.2) misty mountain peaks fading away,
+(golden hour lighting:1.4) low warm sun rays piercing morning fog,
+(analogous warm palette:1.3) gold-amber-orange-yellow rice tones,
+(24mm ultra wide angle:1.4) dramatic perspective, environmental wide,
+distortion edges natural, cinematic 21:9 panoramic,
+National Geographic ultra-detailed, photorealistic 8K masterpiece.
+
+Negative: plastic, cartoon, oversaturated, low quality, watermark,
+brand, modern tractor, plastic, deformed people, chinese terrace style
+
+# ═══════════════════════════════════════════════════════════
+# 🏮 TEMPLATE 3 — PHỐ CỔ HỘI AN ĐÊM
+# Aspect: 16:9
+# ═══════════════════════════════════════════════════════════
+
+PROMPT_HOIAN:
+(symmetry composition:1.4) Hoi An ancient town reflecting in canal water,
+red and yellow paper lanterns hanging across narrow street,
+old yellow walls with green wooden shutters, traditional houses,
+(rim lighting:1.3) warm glow from lanterns outlining buildings,
+window candles glowing inside houses, atmospheric evening mist,
+(triadic color palette:1.3) red lanterns + yellow walls + blue twilight sky,
+(50mm standard lens:1.3) human eye perspective natural,
+balanced composition with reflection mirror perfect,
+cinematic, ultra-detailed, photorealistic 8K masterpiece.
+
+Negative: plastic, cartoon, oversaturated, low quality, watermark,
+brand name, logo, modern signs, neon LED, chinese style,
+deformed architecture, fake reflection
+
+# ═══════════════════════════════════════════════════════════
+# 🏛️ TEMPLATE 4 — ĐỀN NGỌC SƠN HỒ GƯƠM HÀ NỘI
+# Aspect: 3:2
+# ═══════════════════════════════════════════════════════════
+
+PROMPT_HOGUOM:
+(rule of thirds composition:1.4) Ngoc Son Temple on jade island
+in middle of Hoan Kiem Lake Hanoi at dawn,
+(foreground:1.2) red Huc Bridge curving onto water,
+(midground:1.3) ancient temple with traditional pagoda roof,
+(background:1.2) old plane trees with autumn yellow leaves,
+(blue hour lighting:1.3) just before sunrise, soft cool blue ambiance,
+warm orange glow on temple roof, mist on lake surface,
+(monochromatic warm orange-gold tones:1.3) dawn palette,
+(85mm portrait lens:1.4) creamy bokeh on far buildings,
+slight compression, cinematic, National Geographic Vietnamese culture,
+ultra-detailed 8K masterpiece, photorealistic.
+
+Negative: plastic, cartoon, oversaturated, low quality, watermark,
+brand, modern building, neon, chinese pagoda style, korean palace,
+deformed architecture, fake mist
+
+# ═══════════════════════════════════════════════════════════
+# 👗 TEMPLATE 5 — CHÂN DUNG MASTER COMBO (HERO Day 13 recreate!)
+# Aspect: 3:4 portrait
+# ═══════════════════════════════════════════════════════════
+
+PROMPT_PORTRAIT_MASTER:
+Same young Vietnamese woman 25yo wearing pastel mint áo dài cách tân,
+long straight black hair, natural makeup, contemplative expression,
+sitting on rooftop café Thao Dien district Saigon at sunset,
+Saigon skyline with Bitexco silhouette in background,
+(rule of thirds composition:1.4) subject at left third intersection,
+(backlight golden hour:1.4) warm sun setting behind subject,
+halo effect on hair, atmospheric warm haze,
+(analogous warm palette:1.4) gold-amber-orange-rose tones,
+(85mm portrait lens:1.4) creamy beautiful bokeh, slight flattering compression,
+shot on Sony A7IV f/1.4, ultra-detailed, photorealistic,
+8K masterpiece, fashion editorial Vogue style.
+
+Negative: plastic skin, deformed eyes, low quality, watermark,
+brand name, logo on bag, Dior, LV, Gucci, Chanel, designer logo,
+chinese cheongsam, korean hanbok, japanese kimono
+
+# ═══════════════════════════════════════════════════════════
+# 🎯 CÁCH DÙNG TEMPLATES
+# ═══════════════════════════════════════════════════════════
+
+# 1. Copy 1 trong 5 templates trên
+# 2. Paste vào 0ai.vn → chọn GPT Image 2
+# 3. Set aspect ratio đúng (xem comment đầu mỗi template)
+# 4. Resolution: 2K
+# 5. Generate (~900 credit/ảnh)
+
+# ═══════════════════════════════════════════════════════════
+# 💡 TWEAK TIPS
+# ═══════════════════════════════════════════════════════════
+
+# Đổi LENS:
+# - 24mm wide → environmental dramatic
+# - 35mm street → natural storytelling  
+# - 50mm normal → human eye
+# - 85mm portrait → creamy bokeh ⭐
+# - 135mm telephoto → strong compression
+# - 200mm zoom → extreme isolated
+
+# Đổi LIGHTING:
+# - Golden hour → romantic warm
+# - Blue hour → moody modern
+# - Rim → dramatic editorial
+# - Rembrandt → classical formal
+# - Split → dramatic fashion
+# - Backlight → dreamy ethereal
+
+# Đổi COLOR:
+# - Complementary → high contrast
+# - Analogous → harmonious
+# - Monochromatic → sophisticated
+# - Triadic → festive balanced
+
+# Đổi COMPOSITION:
+# - Rule of Thirds → casual natural
+# - Leading Lines → guided journey
+# - Symmetry → formal stable
+# - Negative Space → minimal premium
+# - FG/MG/BG → cinematic depth
+
+# ═══════════════════════════════════════════════════════════
+# 🇻🇳 INSIGHT ĐỘC QUYỀN — ÁP DỤNG CHO TUẦN 2!
+# ═══════════════════════════════════════════════════════════
+
+# 1. NEGATIVE LIỆT KÊ TÊN BRAND CỤ THỂ:
+#    Audemars, Vincero, Rolex, Dior, LV, Gucci, Chanel, Hermes,
+#    designer logo, signature
+
+# 2. TIẾNG VIỆT CÓ DẤU TRONG DẤU NGOẶC KÉP:
+#    Vd: Vietnamese banner saying "Chúc Mừng Năm Mới" in red
+
+# 3. CHỐNG NHẦM VĂN HÓA Á ĐÔNG:
+#    Negative: chinese style, korean style, japanese style,
+#    chinese cheongsam, korean hanbok, japanese kimono
+
+# 4. SUBJECT CONSISTENCY:
+#    Lookbook 50 ảnh → DÙNG SEEDREAM 4.5 với 14 reference images
+#    GPT Image 2 mạnh single shot, yếu multi-shot
+
+# 5. SETTING VIỆT NAM = DIFFERENTIATOR:
+#    - Hội An (composition đỉnh)
+#    - Sapa (lighting + cultural)
+#    - Sài Gòn (lens + lifestyle)
+#    - Tết Việt (color + tiếng Việt)
+#    - Mù Cang Chải (panoramic)
+#    - Hạ Long (seascape)
+
+# ═══════════════════════════════════════════════════════════
+# 🎓 TUẦN 2 — MASTER SKILLS — DONE 100%! 🏆
+# ═══════════════════════════════════════════════════════════
