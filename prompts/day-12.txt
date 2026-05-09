@@ -1,0 +1,342 @@
+# 🎯 Day 12 — Color Theory & Mood: 4 Hệ Màu × 5 Setting Việt
+# Demo qua 4 hệ màu kinh điển × 5 văn hóa Việt × GPT Image 2
+# Test 20 ảnh — Tết HN + Hội An + Sapa nhuộm chàm + Phú Quốc + Chợ nổi Cái Răng
+
+# ═══════════════════════════════════════════════════════════
+# 🎨 4 HỆ MÀU SẼ HỌC HÔM NAY
+# ═══════════════════════════════════════════════════════════
+
+# 1. COMPLEMENTARY 🔴🟢 — 2 màu đối lập trên color wheel
+#    Vibe: dynamic, contrast, energetic
+#    Vd: đỏ + xanh lá, cam + xanh dương, vàng + tím
+#    Keyword: "complementary color palette", "red and green contrast"
+
+# 2. ANALOGOUS 🟡🟠🔴 — 3 màu cạnh nhau trên color wheel
+#    Vibe: harmony, calm, natural
+#    Vd: vàng + cam + đỏ, xanh + xanh ngọc + xanh dương
+#    Keyword: "analogous color palette", "warm yellow-orange-red harmony"
+
+# 3. MONOCHROMATIC 🔵🔷💙 — 1 hue với nhiều tone/sắc độ
+#    Vibe: minimal, sophisticated, mood
+#    Vd: các sắc xanh, các sắc đỏ, các sắc xám
+#    Keyword: "monochromatic blue palette", "single hue variations"
+
+# 4. TRIADIC 🔴🟡🔵 — 3 màu cách đều trên color wheel (tam giác)
+#    Vibe: vibrant, balanced, festival
+#    Vd: đỏ + vàng + xanh, cam + tím + xanh lá
+#    Keyword: "triadic color palette", "red yellow blue triangle"
+
+# ═══════════════════════════════════════════════════════════
+# 💰 GIÁ + SETTINGS CHUẨN
+# ═══════════════════════════════════════════════════════════
+# - Model: GPT Image 2 (900 credit/ảnh)
+# - Aspect ratio: 16:9 (landscape) hoặc 3:4 (portrait/closeup)
+# - Resolution: 2K
+# - 20 ảnh × 900 = 18,000 credit (~18k VND, ~1.6% gói Ultra Member)
+
+# ═══════════════════════════════════════════════════════════
+# 🇻🇳 SETTING 1: TẾT PHỐ CỔ HÀ NỘI
+# Aspect: 16:9
+# ═══════════════════════════════════════════════════════════
+
+# ─── Hệ màu 1: COMPLEMENTARY (đỏ + xanh lá) ───
+# Tên file: day-12-complementary-tet.png
+PROMPT_1:
+Vietnamese Lunar New Year (Tết) scene in Hanoi old quarter.
+(Complementary color palette:1.4), strong contrast between
+deep red traditional decorations (lanterns, áo dài, lì xì envelopes)
+and vibrant green leaves (lá dong wrapping for bánh chưng,
+peach blossom branches). Yellow ochre walls neutral background.
+Authentic Vietnamese Tết culture, warm festive mood.
+Photorealistic, 35mm lens, golden hour.
+
+Negative: muted colors, monochromatic, oversaturated, neon, generic
+asian new year, chinese style, lunar festival without Vietnamese context
+
+# ─── Hệ màu 2: ANALOGOUS (vàng + cam + đỏ) ───
+# Tên file: day-12-analogous-tet.png
+PROMPT_2:
+Vietnamese Tết altar scene with warm analogous color palette.
+(Analogous color palette:1.4), harmonious yellow-orange-red transitions:
+golden yellow apricot blossoms (mai vàng), orange persimmons (hồng quả),
+red lì xì envelopes, warm amber candles, ochre tone wooden altar.
+Traditional Vietnamese new year display, glowing warm mood.
+Photorealistic, 50mm lens, soft warm light.
+
+Negative: cool tones, blue, green, contrast colors, muted, oversaturated,
+chinese altar, generic asian
+
+# ─── Hệ màu 3: MONOCHROMATIC (sắc đỏ) ───
+# Tên file: day-12-monochromatic-tet.png
+PROMPT_3:
+Close-up Vietnamese Tết still life with monochromatic red palette.
+(Monochromatic red color palette:1.4), variations of red only:
+deep crimson lanterns, scarlet lì xì envelopes, rose-red áo dài fabric,
+burgundy wooden lacquer, soft pink peach blossom petals, cherry red details.
+NO other colors except red variations. Minimalist artistic still life.
+Photorealistic, 85mm macro lens.
+
+Negative: green, blue, yellow, multiple colors, color leak, contrast,
+generic asian still life
+
+# ─── Hệ màu 4: TRIADIC (đỏ + vàng + xanh) ───
+# Tên file: day-12-triadic-tet.png
+PROMPT_4:
+Vietnamese Tết street parade scene. (Triadic color palette:1.4),
+balanced triangle of three primary colors equally distributed:
+red dragon costumes and lanterns (1/3), yellow flags and decorations (1/3),
+blue sky and traditional blue áo dài (1/3). Festive lion dance moment,
+crowd celebration. Vibrant balanced composition, photorealistic, 24mm wide.
+
+Negative: dominant single color, muted, analogous, complementary only,
+chinese new year, generic asian festival
+
+# ═══════════════════════════════════════════════════════════
+# 🏮 SETTING 2: HỘI AN ĐÈN LỒNG ĐÊM
+# Aspect: 16:9
+# ═══════════════════════════════════════════════════════════
+
+# ─── Hệ màu 1: COMPLEMENTARY (đỏ + xanh dương) ───
+# Tên file: day-12-complementary-hoian.png
+PROMPT_5:
+Hoi An ancient town night scene with complementary palette.
+(Complementary color palette:1.4), strong contrast between
+warm red lanterns hanging across street and cool deep blue twilight sky.
+Yellow ochre buildings in soft neutral middle ground.
+Magic hour transition. Photorealistic, 24mm wide lens.
+
+Negative: monochromatic, analogous, oversaturated, generic asian street,
+chinese town
+
+# ─── Hệ màu 2: ANALOGOUS (vàng + cam + đỏ) ⭐ ───
+# Tên file: day-12-analogous-hoian.png
+PROMPT_6:
+Hoi An ancient town at golden sunset with analogous warm palette.
+(Analogous color palette:1.4), perfect harmony of warm tones:
+golden yellow walls, orange ochre buildings, red lanterns hanging overhead,
+amber sunset sky, warm rust-colored cobblestones. NO cool colors.
+Authentic Vietnamese magic hour. Photorealistic, 35mm lens.
+
+Negative: blue, green, cool tones, contrast colors, complementary,
+oversaturated, generic asian street
+
+# ─── Hệ màu 3: MONOCHROMATIC (sắc cam) ───
+# Tên file: day-12-monochromatic-hoian.png
+PROMPT_7:
+Hoi An narrow alley night scene with monochromatic orange palette.
+(Monochromatic orange color palette:1.4), variations of orange only:
+deep amber lantern glow, burnt sienna walls, peach-colored light pools,
+copper reflections on wet ground, terracotta roof tiles. Single hue meditation.
+Atmospheric mood. Photorealistic, 35mm lens.
+
+Negative: red, yellow distinct, blue, green, multiple colors, color leak,
+generic asian alley
+
+# ─── Hệ màu 4: TRIADIC (đỏ + vàng + xanh) ───
+# Tên file: day-12-triadic-hoian.png
+PROMPT_8:
+Hoi An lantern festival night scene with triadic palette.
+(Triadic color palette:1.4), balanced three-color composition:
+red lanterns hanging overhead, yellow building walls glowing warm,
+deep blue twilight sky reflecting in canal. Three colors equal weight.
+Festive cultural mood. Photorealistic, 35mm lens.
+
+Negative: dominant single color, muted, analogous, complementary,
+oversaturated, generic asian street
+
+# ═══════════════════════════════════════════════════════════
+# 🟦 SETTING 3: LÀNG NGHỀ NHUỘM CHÀM SAPA
+# Aspect: 3:4 (portrait/closeup)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Hệ màu 1: COMPLEMENTARY (xanh chàm + cam đất) ───
+# Tên file: day-12-complementary-cham.png
+PROMPT_9:
+H'Mong woman dyeing indigo fabric in Sapa village workshop.
+(Complementary color palette:1.4), strong contrast between
+deep indigo blue dye vats and fabrics versus warm orange-rust
+terracotta clay floor and wooden tools. Subject in traditional H'Mong
+clothing. Authentic craft documentation, photorealistic, 50mm lens.
+
+Negative: monochromatic blue, single hue, oversaturated, modern setting,
+chinese minority, generic asian craft
+
+# ─── Hệ màu 2: ANALOGOUS (xanh dương + xanh ngọc + xanh chàm) ───
+# Tên file: day-12-analogous-cham.png
+PROMPT_10:
+Sapa indigo dye workshop wide shot with analogous cool palette.
+(Analogous color palette:1.4), harmonious blue family tones:
+deep indigo dye vats, teal-stained wooden buckets, navy fabric drying,
+sky-blue rinse water, cobalt blue indigo plants. NO warm colors.
+Atmospheric ethnographic mood. Photorealistic, 35mm lens.
+
+Negative: orange, red, yellow, warm tones, contrast, oversaturated,
+generic asian workshop, chinese minority
+
+# ─── Hệ màu 3: MONOCHROMATIC (sắc chàm) ⭐ ───
+# Tên file: day-12-monochromatic-cham.png
+PROMPT_11:
+Close-up indigo-dyed fabric textures with monochromatic palette.
+(Monochromatic indigo color palette:1.4), pure variations of indigo
+blue only: deep navy darkest, royal blue mid, denim blue lighter,
+soft sky-blue lightest. Hands holding folded fabric showing gradient.
+Pure single hue meditation. Photorealistic, 100mm macro lens.
+
+Negative: green, purple, gray, multiple colors, color leak, warm tones,
+generic fabric
+
+# ─── Hệ màu 4: TRIADIC (xanh + đỏ + vàng nhạt) ───
+# Tên file: day-12-triadic-cham.png
+PROMPT_12:
+H'Mong woman portrait in workshop with triadic color palette.
+(Triadic color palette:1.4), balanced three colors:
+indigo blue dyed clothing (1/3), red embroidered details on collar (1/3),
+soft yellow lamp light from window (1/3). Three colors equal visual weight.
+Cultural portrait, photorealistic, 50mm lens.
+
+Negative: dominant single color, monochromatic, analogous, muted,
+generic asian woman, chinese minority
+
+# ═══════════════════════════════════════════════════════════
+# 🌊 SETTING 4: BIỂN PHÚ QUỐC
+# Aspect: 16:9
+# ═══════════════════════════════════════════════════════════
+
+# ─── Hệ màu 1: COMPLEMENTARY (xanh dương + cam) ───
+# Tên file: day-12-complementary-phuquoc.png
+PROMPT_13:
+Phu Quoc beach sunset with complementary color palette.
+(Complementary color palette:1.4), vivid contrast between
+deep cyan-blue ocean waves and warm orange sunset sky reflection.
+Wooden Vietnamese fishing boat silhouette. Tropical paradise mood.
+Photorealistic, 24mm wide lens.
+
+Negative: monochromatic, analogous warm only, oversaturated, generic
+beach scene, mediterranean style
+
+# ─── Hệ màu 2: ANALOGOUS (xanh dương + xanh ngọc + xanh lá) ───
+# Tên file: day-12-analogous-phuquoc.png
+PROMPT_14:
+Phu Quoc tropical beach with analogous cool palette.
+(Analogous color palette:1.4), harmonious cool tones:
+turquoise shallow water, emerald green palm trees, deep blue ocean horizon,
+teal sky reflection. Vietnamese fishing boats. NO warm colors visible.
+Photorealistic, 24mm wide lens, midday clear.
+
+Negative: orange, red, yellow, sunset, warm tones, contrast palette,
+oversaturated
+
+# ─── Hệ màu 3: MONOCHROMATIC (sắc xanh dương) ⭐ ───
+# Tên file: day-12-monochromatic-phuquoc.png
+PROMPT_15:
+Phu Quoc ocean horizon view with monochromatic blue palette.
+(Monochromatic blue color palette:1.4), variations of blue only:
+deepest navy ocean depths, royal blue waves, sky blue mid-sky,
+pale powder blue horizon. NO other colors. Minimalist seascape meditation.
+Photorealistic, 35mm lens.
+
+Negative: green, white sand, sunset, warm, multiple colors, color leak,
+generic beach
+
+# ─── Hệ màu 4: TRIADIC (xanh + đỏ + vàng) ───
+# Tên file: day-12-triadic-phuquoc.png
+PROMPT_16:
+Phu Quoc fishing village morning scene with triadic palette.
+(Triadic color palette:1.4), balanced three colors:
+deep blue ocean (1/3), red wooden Vietnamese fishing boats (1/3),
+yellow sand and warm sunrise light (1/3). Three colors equal weight.
+Authentic fishing culture mood. Photorealistic, 24mm wide lens.
+
+Negative: dominant single color, monochromatic, analogous, oversaturated,
+generic beach, mediterranean
+
+# ═══════════════════════════════════════════════════════════
+# 🛶 SETTING 5: CHỢ NỔI CÁI RĂNG
+# Aspect: 16:9
+# ═══════════════════════════════════════════════════════════
+
+# ─── Hệ màu 1: COMPLEMENTARY (đỏ + xanh lá) ───
+# Tên file: day-12-complementary-cairang.png
+PROMPT_17:
+Cai Rang floating market dawn scene with complementary palette.
+(Complementary color palette:1.4), strong contrast between
+red watermelons + red dragonfruit on boats and green leafy vegetables
++ green banana bunches. Brown wooden boats neutral. Mekong delta authentic.
+Photorealistic, 35mm lens, soft morning light.
+
+Negative: monochromatic, analogous, oversaturated, generic asian market,
+thai market, chinese market
+
+# ─── Hệ màu 2: ANALOGOUS (đỏ + cam + vàng) ───
+# Tên file: day-12-analogous-cairang.png
+PROMPT_18:
+Cai Rang floating market fruit boats with analogous warm palette.
+(Analogous color palette:1.4), harmonious warm colors:
+red rambutan, orange persimmons, golden yellow mangoes, amber dried fruits.
+Wooden boats with warm tones. NO cool colors visible.
+Vietnamese tropical fruit display. Photorealistic, 50mm lens.
+
+Negative: blue, green, cool tones, contrast, oversaturated, modern market
+
+# ─── Hệ màu 3: MONOCHROMATIC (sắc nâu) ───
+# Tên file: day-12-monochromatic-cairang.png
+PROMPT_19:
+Cai Rang wooden boats close-up with monochromatic brown palette.
+(Monochromatic brown color palette:1.4), variations of brown only:
+deep mahogany hulls, walnut wooden planks, beige rope textures,
+warm amber wet wood, tan rattan baskets. Single hue meditation
+on traditional Vietnamese boat craft. Photorealistic, 50mm lens.
+
+Negative: red, green, blue, fruits visible, multiple colors, color leak
+
+# ─── Hệ màu 4: TRIADIC (đỏ + vàng + xanh) ⭐ ───
+# Tên file: day-12-triadic-cairang.png
+PROMPT_20:
+Cai Rang floating market wide shot with triadic color palette.
+(Triadic color palette:1.4), perfect balance of three primary colors:
+red fruits and Vietnamese flags (1/3), yellow bananas and morning sun (1/3),
+blue sky and Mekong river water (1/3). Three colors equal visual weight,
+vibrant authentic Vietnamese cultural scene. Photorealistic, 24mm wide lens.
+
+Negative: dominant single color, monochromatic, muted, analogous,
+oversaturated, generic asian market
+
+# ═══════════════════════════════════════════════════════════
+# 🔑 CHECKLIST KHI TEST
+# ═══════════════════════════════════════════════════════════
+# 1. Chạy ĐÚNG GPT Image 2 cho tất cả 20 prompt
+# 2. Aspect ratio:
+#    - 16:9 cho phong cảnh (Tết HN, Hội An, Phú Quốc, Cái Răng, Sapa wide)
+#    - 3:4 cho close-up (Sapa monochromatic, Sapa portrait)
+# 3. Resolution 2K
+# 4. Mỗi prompt chạy 1 LẦN duy nhất — KHÔNG cherry-pick
+# 5. Đặt tên file đúng convention:
+#    day-12-{scheme}-{setting}.png
+#    Schemes: complementary | analogous | monochromatic | triadic
+#    Settings: tet | hoian | cham | phuquoc | cairang
+
+# 6. Khi review, tập trung 5 câu hỏi:
+#    - Hệ màu có ra ĐÚNG palette không? (Khớp định nghĩa)
+#    - Monochromatic có "color leak" không? (Lỗi AI hay mắc nhất)
+#    - Triadic có balance 3 màu không hay chỉ 1 màu dominant?
+#    - Văn hóa Việt có authentic không (KHÔNG bị nhầm Tàu/Thái)?
+#    - GPT có giữ được color discipline qua 20 prompt liên tiếp không?
+
+# ═══════════════════════════════════════════════════════════
+# 📊 ETA TEST 20 ẢNH
+# ═══════════════════════════════════════════════════════════
+# - Setup + paste prompt: ~2 phút/ảnh × 20 = 40 phút
+# - Generate time: ~30s/ảnh × 20 = 10 phút
+# - Tải về + đặt tên: ~15 phút
+# Tổng: ~65 phút
+# Chi phí: 18,000 credit (~18k VND, ~1.6% gói Ultra Member)
+
+# ═══════════════════════════════════════════════════════════
+# 💡 BONUS — 5 LỖI COLOR THEORY AI HAY MẮC PHẢI
+# ═══════════════════════════════════════════════════════════
+# Sẽ cover trong bài day-12.md:
+# 1. "Color soup" — quá nhiều màu cùng lúc, không có hệ
+# 2. Monochromatic bị "color leak" — chèn màu phụ
+# 3. Complementary bị muted — không đủ contrast
+# 4. Triadic bị dominant 1 màu — không balance 3
+# 5. Văn hóa nhầm — Tết Việt thành Tết Tàu vì AI training data Trung
