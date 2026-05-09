@@ -397,7 +397,6 @@ Cùng pattern với Symmetry Day 10. **Insight pro:** GPT Image 2 mạnh ở **g
 ### 🔵 Cho Intermediate (60 phút, ~16,200 credit GPT)
 1. Test full 18 ảnh trên GPT Image 2
 2. Soi kỹ Rembrandt (#11): **triangle of light có rõ?**
-3. Đăng kết quả Facebook với hashtag `#Day11Lighting`
 
 ### 🟣 Cho Pro (120 phút, ~22,000 credit hybrid)
 1. 18 ảnh GPT + 18 ảnh Seedream → so sánh side-by-side
@@ -406,15 +405,6 @@ Cùng pattern với Symmetry Day 10. **Insight pro:** GPT Image 2 mạnh ở **g
 
 ---
 
-## 💬 Câu hỏi cho cộng đồng
-
-Sau **8 dự đoán mình SAI** (Day 10 + Day 11), **bạn nghĩ AI còn yếu ở đâu khác**?
-- Mình thử dự đoán Day 12 (Color Theory): "AI sẽ bị color soup — quá nhiều màu cùng lúc"
-- Đặt cược Linh sẽ lại SAI 😅
-
-Comment cho mình — Day 12 có thể lại bất ngờ!
-
----
 
 ## ❓ FAQ
 
@@ -484,9 +474,5 @@ Ngày mai mình test **Color Theory & Mood** — bộ ba complementary, analogou
 
 ---
 
-> **💌 Có ý kiến hoặc trải nghiệm khác?**
-> Comment vào [bài Facebook Day 11](https://facebook.com/daclinh.tran) hoặc nhắn vào [Zalo group](https://zalo.me/g/umthmp096). Đặc biệt nếu bạn test thấy lighting nào AI làm KHÁC mình → share để cộng đồng cùng học!
-
----
 
 *Nhật ký Day 11 by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
