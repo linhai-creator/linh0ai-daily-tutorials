@@ -426,22 +426,11 @@ Quảng cáo cao cấp đều dùng triadic balanced. AI làm được = chạm 
 ### 🔵 Cho Intermediate (65 phút, ~18,000 credit GPT)
 1. Test full 20 ảnh trên GPT Image 2
 2. **Đặc biệt:** Test prompt text tiếng Việt có dấu (vd: "Tết An Khang") → verify khả năng render
-3. Đăng kết quả Facebook với hashtag `#Day12Color`
 
 ### 🟣 Cho Pro (150 phút, ~25,000 credit hybrid)
 1. 20 ảnh GPT + 20 ảnh Seedream → so sánh color discipline
 2. Combo color + composition + lighting (Day 10-12) cho 1 ảnh đỉnh
 3. Viết review 700 từ về model nào ổn định nhất ở color theory + tiếng Việt
-
----
-
-## 💬 Câu hỏi cho cộng đồng
-
-Sau **13 dự đoán mình SAI** (Day 10 + 11 + 12), Day 13 mình lại đặt cược:
-- ❓ "Camera & lens prompt sẽ khó vì AI không hiểu focal length"
-- ❓ "85mm vs 24mm sẽ ra ảnh giống nhau"
-
-**Bạn nghĩ Day 13 mình lại SAI hay đúng?** 🎲 Comment dự đoán!
 
 ---
 
@@ -517,11 +506,6 @@ Ngày mai mình deep dive **Camera & Lens trong Prompt** — focal length, DOF, 
 
 ## 🏷️ Tags
 `#0aiVN #Day12Linh0AI #ColorTheory #VietnameseColorCulture #VietnameseTypography #Tet #HoiAn #Sapa #PhuQuoc #CaiRang #GPTImage2 #BigWin`
-
----
-
-> **💌 Có ý kiến hoặc trải nghiệm khác?**
-> Comment vào [bài Facebook Day 12](https://facebook.com/daclinh.tran) hoặc nhắn vào [Zalo group](https://zalo.me/g/umthmp096). **Đặc biệt:** Bạn dự đoán Day 13 mình SAI hay ĐÚNG về camera/lens? 🎲
 
 ---
 
