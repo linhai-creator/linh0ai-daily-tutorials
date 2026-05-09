@@ -349,7 +349,6 @@ Cả 2 đều CHUẨN VIỆT. Đừng phán "ảnh đỏ-phượng = nhầm TQ" 
 ### 🔵 Cho Intermediate (50 phút, ~7,500 credit)
 1. Test full 12 ảnh (3 cấp × 2 variation × 2 model)
 2. **Soi kỹ:** GPT Image 2 cấp Pro Modern có thật sự đẹp nhất không?
-3. Đăng kết quả Facebook với hashtag `#Day9PromptPro`
 
 ### 🟣 Cho Pro (90 phút, ~10,000 credit)
 1. Full 12 ảnh + bonus tiếng Trung trên Seedream 4.5
@@ -360,13 +359,6 @@ Cả 2 đều CHUẨN VIỆT. Đừng phán "ảnh đỏ-phượng = nhầm TQ" 
 
 ---
 
-## 💬 Câu hỏi cho cộng đồng
-
-Khi bạn nhìn ảnh áo dài AI tạo ra, bạn có khi nào tự hỏi *"đây có phải áo dài Việt không?"* Hay *"có giống TQ quá không?"*
-
-Comment cho mình biết — đây là chủ đề mình muốn deep dive thêm trong các bài tới!
-
----
 
 ## ❓ FAQ
 
@@ -418,11 +410,6 @@ Ngày mai mình deep dive **Composition & Framing** — 5 quy tắc kinh điển
 
 ## 🏷️ Tags
 `#0aiVN #Day9Linh0AI #PromptEngineering #ÁoDàiAI #WeightedPrompt #VanHoaViet #AoDaiTet #PhoCoHaNoi #Seedream45 #GPTImage2`
-
----
-
-> **💌 Có ý kiến hoặc trải nghiệm khác?**
-> Comment vào [bài Facebook Day 9](https://facebook.com/daclinh.tran) hoặc nhắn vào [Zalo group](https://zalo.me/g/umthmp096). Đặc biệt nếu bạn là người Việt + có phản biện về phần văn hóa → **share thẳng**, đây là chủ đề rất đáng thảo luận!
 
 ---
 
