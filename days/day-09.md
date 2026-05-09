@@ -255,7 +255,7 @@ generic asian dress, modern western outfit
 
 Khi nhìn 2 ảnh Pro Traditional (đỏ-phượng-vàng + đèn lồng + chữ Hán + cửa gỗ), phản xạ đầu tiên của mình là: **"Ảnh này nhầm sang Trung Quốc rồi!"**
 
-**Nhưng SAI!** Sau khi Linh (người Việt) corrected, mình mới nhận ra:
+**Nhưng SAI!** Sau khi nhìn kỹ hơn và hỏi cộng đồng người Việt, mình mới nhận ra:
 
 ### 📜 5 element "nhìn giống TQ" thực ra LÀ Việt Nam
 
@@ -272,7 +272,7 @@ Khi nhìn 2 ảnh Pro Traditional (đỏ-phượng-vàng + đèn lồng + chữ 
 ### 💡 Bài học pro: Local knowledge > Foreign expertise
 
 > **🔥 Insight VIRAL:**
-> Nếu Linh thuê reviewer Tây/Mỹ test áo dài AI, họ sẽ phán "this looks Chinese". Nhưng **người Việt biết** đây là Tết phố cổ Hà Nội authentic.
+> Nếu các bạn thuê reviewer Tây/Mỹ test áo dài AI, họ sẽ phán "this looks Chinese". Nhưng **người Việt biết** đây là Tết phố cổ Hà Nội authentic.
 >
 > **Bài học cho creator AI Việt:**
 > 1. **Đừng để người ngoài judge văn hóa Việt** — họ thiếu context lịch sử
