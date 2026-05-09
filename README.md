@@ -14,11 +14,11 @@
 
 ```
 Tuần 1: ███████ 7/7 ✅ DONE
-Tuần 2: █████░░ 5/7 🔄 In progress (Day 8 + 9 + 10 + 11 + 12 done)
+Tuần 2: ███████ 7/7 ✅ DONE 🏆 (Day 8-14: Master Skills hoàn tất!)
 Tuần 3: ░░░░░░░ 0/7 📋 Planned
 Tuần 4: ░░░░░░░ 0/7 📋 Planned
 
-████████████░░░░░░░░░░░░░░░░░░  12/30 ngày (40%)
+████████████████░░░░░░░░░░░░░░  14/30 ngày (47%)
 ```
 
 > 🏆 **Mini Challenge "Phong cảnh Việt Nam"** đang chạy đến **13/05/2026** — Top 3 sẽ được mention trong Day 14! [Xem chi tiết](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-07.md)
@@ -74,6 +74,8 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 10** | Composition & Framing: GPT Image 2 KHÔNG có điểm yếu | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-10.md) |
 | **Day 11** | Lighting Mastery: GPT Image 2 BIG WIN — Master cả 6 lighting | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-11.md) |
 | **Day 12** | Color Theory & Mood: 13 dự đoán SAI — GPT BIẾT viết tiếng Việt có dấu | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-12.md) |
+| **Day 13** | Camera & Lens: GPT Image 2 LỘ RA 1 điểm yếu duy nhất (Subject Consistency!) | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-13.md) |
+| **Day 14** | 🏆 Tổng kết Tuần 2: Master Skills DONE — Best 10 + Master Combo + Cheatsheet | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-14.md) |
 | ... | *Xem [CURRICULUM.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CURRICULUM.md) cho lộ trình 30 ngày đầy đủ* | | |
 
 📊 [Pricing Guide](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/PRICING.md) · 📖 [**Models Cheatsheet** 🆕](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md) · 📚 [Curriculum đầy đủ](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CURRICULUM.md) · 📝 [Changelog](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CHANGELOG.md) · 💬 [Nhóm Zalo](https://zalo.me/g/umthmp096) · 🐛 [Báo lỗi](https://github.com/linhai-creator/linh0ai-daily-tutorials/issues)
@@ -212,4 +214,4 @@ MIT — dùng tự do, ghi nguồn nếu repost.
 ---
 
 **Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
-**Cập nhật lần cuối:** Day 12 hoàn thành — 09/05/2026
+**Cập nhật lần cuối:** Tuần 2 hoàn thành (Day 14) — 09/05/2026 🏆
