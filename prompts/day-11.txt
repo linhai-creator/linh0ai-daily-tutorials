@@ -1,0 +1,310 @@
+# 🎯 Day 11 — Lighting Mastery
+# Demo qua 6 kiểu lighting kinh điển × 3 chủ đề × GPT Image 2
+# Test 18 ảnh — Cô gái casual Thảo Điền + Sapa + Đồng hồ luxury
+
+# ═══════════════════════════════════════════════════════════
+# 📚 6 KIỂU LIGHTING SẼ HỌC HÔM NAY
+# ═══════════════════════════════════════════════════════════
+
+# 1. GOLDEN HOUR ☀️ — 1 giờ trước hoàng hôn
+#    Tone: warm, romantic, nostalgic
+#    Direction: low angle, side
+#    Keyword: "golden hour lighting", "warm sunset glow"
+
+# 2. BLUE HOUR 🌌 — 30 phút sau hoàng hôn / trước bình minh
+#    Tone: cool, moody, mysterious
+#    Direction: ambient, no direct sun
+#    Keyword: "blue hour lighting", "cool dawn ambiance"
+
+# 3. RIM LIGHTING ✨ — ánh sáng viền outline subject
+#    Tone: dramatic, editorial
+#    Direction: backlight + slight side
+#    Keyword: "rim lighting", "edge light outlining subject"
+
+# 4. REMBRANDT 🎭 — half-face shadow với "tam giác sáng" trên má
+#    Tone: classical, formal, painterly
+#    Direction: 45 degree above + side
+#    Keyword: "Rembrandt lighting", "triangle of light on cheek"
+
+# 5. SPLIT LIGHTING ⚡ — chia mặt 50/50 sáng-tối
+#    Tone: dramatic, high contrast, mysterious
+#    Direction: 90 degree side
+#    Keyword: "split lighting", "half face in shadow"
+
+# 6. BACKLIGHT 🔆 — sun behind subject
+#    Tone: ethereal, dreamy, romantic
+#    Direction: pure backlight
+#    Keyword: "backlit", "sun behind subject", "halo effect"
+
+# ═══════════════════════════════════════════════════════════
+# 💰 GIÁ + SETTINGS CHUẨN
+# ═══════════════════════════════════════════════════════════
+# - Model: GPT Image 2 (900 credit/ảnh)
+# - Aspect ratio: 3:4 (chân dung), 16:9 (cảnh), 1:1 (sản phẩm)
+# - Resolution: 2K
+# - 18 ảnh × 900 = 16,200 credit (~16.2k VND, ~1.5% gói Ultra Member)
+
+# ═══════════════════════════════════════════════════════════
+# 🎨 SUBJECT 1: CÔ GÁI CASUAL THẢO ĐIỀN, SÀI GÒN
+# Aspect: 3:4 (chân dung dọc)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Lighting 1: GOLDEN HOUR ☀️ ───
+# Tên file: day-11-golden-portrait.png
+PROMPT_1:
+A young Vietnamese woman 25yo, casual outfit (linen shirt + jeans),
+standing on rooftop balcony Thao Dien Saigon. (Golden hour lighting:1.4),
+warm orange-gold sunlight from low west angle, long shadow casting right,
+warm rim light on hair, romantic nostalgic mood. Modern Saigon skyline blur
+background. Photorealistic, 85mm lens f/2.0, shallow DOF.
+
+Negative: cool tone, blue hour, harsh midday sun, plastic skin, deformed eyes,
+low quality, blurry, brand name, logo, designer logo
+
+# ─── Lighting 2: BLUE HOUR 🌌 ───
+# Tên file: day-11-blue-portrait.png
+PROMPT_2:
+A young Vietnamese woman 25yo, casual outfit, sitting at outdoor cafe Thao Dien.
+(Blue hour lighting:1.4), cool blue-purple ambient light 30 minutes after sunset,
+soft diffused, no direct sun, melancholic moody atmosphere, ambient city lights
+just starting to twinkle. Photorealistic, 85mm lens f/2.0.
+
+Negative: warm golden, harsh sun, plastic skin, deformed eyes, low quality,
+brand name, logo, designer logo
+
+# ─── Lighting 3: RIM LIGHTING ✨ ───
+# Tên file: day-11-rim-portrait.png
+PROMPT_3:
+A young Vietnamese woman 25yo, casual outfit, profile view in front of
+window. (Rim lighting:1.4), strong backlight from behind creating bright edge
+light outlining subject silhouette - hair has glowing halo, shoulders rim-lit,
+face mostly in soft shadow with subtle fill. Dramatic editorial mood.
+Photorealistic, 85mm lens f/1.8.
+
+Negative: flat lighting, even light, front lit, plastic skin, low quality,
+brand name, logo
+
+# ─── Lighting 4: REMBRANDT 🎭 ───
+# Tên file: day-11-rembrandt-portrait.png
+PROMPT_4:
+A young Vietnamese woman 25yo, casual elegant outfit, facing camera 3/4 angle.
+(Rembrandt lighting:1.4), classic studio lighting from 45-degree upper-left,
+creating signature triangle of light on right cheek under eye, half face in
+soft shadow, painterly quality like Old Masters portrait. Dark background.
+Photorealistic, 85mm lens f/2.8.
+
+Negative: flat lighting, even light, full face lit, plastic skin, low quality,
+brand name, logo
+
+# ─── Lighting 5: SPLIT LIGHTING ⚡ ───
+# Tên file: day-11-split-portrait.png
+PROMPT_5:
+A young Vietnamese woman 25yo, fashion editorial pose, facing camera.
+(Split lighting:1.4), dramatic side lighting from 90-degree pure left side,
+exactly half face brightly lit, exact other half in deep shadow,
+sharp dividing line down center of face. High contrast fashion magazine
+mood. Photorealistic, 85mm lens f/2.8.
+
+Negative: soft lighting, even light, gradual transition, plastic skin,
+low quality, brand name, logo
+
+# ─── Lighting 6: BACKLIGHT 🔆 ───
+# Tên file: day-11-backlight-portrait.png
+PROMPT_6:
+A young Vietnamese woman 25yo, casual outfit with flowing hair,
+standing in tropical garden. (Strong backlight:1.4), sun directly behind
+subject creating dreamy halo effect on hair, lens flare around figure,
+silhouette with translucent fabric, soft fill light on face from reflection.
+Ethereal romantic mood. Photorealistic, 85mm lens f/1.8.
+
+Negative: front lit, no halo, plastic skin, deformed eyes, low quality,
+brand name, logo
+
+# ═══════════════════════════════════════════════════════════
+# 🌄 SUBJECT 2: SAPA, NORTHERN VIETNAM
+# Aspect: 16:9 (phong cảnh ngang)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Lighting 1: GOLDEN HOUR ☀️ ───
+# Tên file: day-11-golden-landscape.png
+PROMPT_7:
+Sapa rice terraces at golden sunset. (Golden hour lighting:1.4),
+warm orange-gold light bathing terraced fields, long shadows from terrace
+edges, mountains glowing orange in distance. H'Mong farmer working in
+foreground. Cinematic warm color grading. Photorealistic, 24mm wide lens.
+
+Negative: harsh midday, blue hour, oversaturated, low quality, watermark,
+generic asian landscape
+
+# ─── Lighting 2: BLUE HOUR 🌌 ───
+# Tên file: day-11-blue-landscape.png
+PROMPT_8:
+Sapa village at blue hour dawn. (Blue hour lighting:1.4),
+cool blue-purple ambient light before sunrise, mist rising from valleys,
+H'Mong wooden houses with windows just starting to glow warm yellow,
+contrast between cool exterior and warm interior. Atmospheric mood.
+Photorealistic, 35mm lens.
+
+Negative: golden warm, sunset, harsh light, oversaturated, low quality,
+watermark, generic landscape
+
+# ─── Lighting 3: RIM LIGHTING ✨ ───
+# Tên file: day-11-rim-landscape.png
+PROMPT_9:
+Sapa Hàm Rồng mountain at sunrise with rim lighting. (Rim lighting:1.4),
+sun rising behind mountain ridge creating bright glowing edge along peaks,
+silhouette mountains against sky, layers of mist below ridge. Dramatic.
+Photorealistic, 70mm lens.
+
+Negative: flat lighting, front lit, oversaturated, low quality, watermark
+
+# ─── Lighting 4: REMBRANDT 🎭 ───
+# Tên file: day-11-rembrandt-landscape.png
+PROMPT_10:
+Sapa elderly H'Mong woman portrait inside wooden house with traditional
+clothing. (Rembrandt lighting:1.4), single beam of natural light from
+small window 45-degree upper, creating triangle of light on right cheek,
+half of weathered face in deep shadow, painterly quality, Old Masters
+oil painting feel. Authentic Vietnamese H'Mong cultural portrait.
+Photorealistic, 85mm lens f/2.0.
+
+Negative: flat lighting, harsh sun, plastic skin, oversaturated, low quality,
+generic asian woman, kimono, hanbok, qipao
+
+# ─── Lighting 5: SPLIT LIGHTING ⚡ ───
+# Tên file: day-11-split-landscape.png
+PROMPT_11:
+Sapa cliff face at sunset. (Split lighting:1.4), dramatic 90-degree side
+lighting from setting sun on right, exactly half of mountain face brightly
+golden lit, exact other half in deep shadow, sharp dividing line down
+ridge, high contrast geological textures revealed by light. Photorealistic,
+35mm wide lens.
+
+Negative: even lighting, soft transition, oversaturated, low quality,
+watermark
+
+# ─── Lighting 6: BACKLIGHT 🔆 ───
+# Tên file: day-11-backlight-landscape.png
+PROMPT_12:
+Sapa rice farmer with conical hat carrying tools, walking on rice terrace
+path. (Strong backlight:1.4), sun directly behind subject creating glowing
+halo around hat and shoulders, lens flare, hat translucent with sun rays
+peeking through edges, silhouette against bright golden valley.
+Ethereal Vietnamese countryside mood. Photorealistic, 50mm lens.
+
+Negative: front lit, no halo, no rim, oversaturated, low quality, watermark
+
+# ═══════════════════════════════════════════════════════════
+# ⌚ SUBJECT 3: ĐỒNG HỒ LUXURY (generic, không brand)
+# Aspect: 1:1 (sản phẩm vuông)
+# ═══════════════════════════════════════════════════════════
+
+# ─── Lighting 1: GOLDEN HOUR ☀️ ───
+# Tên file: day-11-golden-product.png
+PROMPT_13:
+Luxury men's watch with brown leather strap on wooden table by window.
+(Golden hour lighting:1.4), warm orange-gold sunlight streaming through
+window from low angle, long shadow casting from watch, warm glow on
+brown leather strap, white dial reflecting golden tone. Cinematic warm
+mood. Photorealistic, 100mm macro.
+
+Negative: cool tone, blue hour, harsh studio light, brand name, logo,
+text on dial, Audemars, Vincero, Rolex, Dior, designer logo, low quality
+
+# ─── Lighting 2: BLUE HOUR 🌌 ───
+# Tên file: day-11-blue-product.png
+PROMPT_14:
+Luxury men's watch with brown leather strap on dark marble surface.
+(Blue hour lighting:1.4), cool blue-purple ambient light, no direct sun,
+soft diffused atmosphere, contrast between cool ambient and subtle warm
+reflection on metal case. Moody contemplative mood. Photorealistic,
+100mm macro.
+
+Negative: warm golden, sunset, harsh light, brand name, logo, text on dial,
+Audemars, Vincero, Rolex, Dior, designer logo, low quality
+
+# ─── Lighting 3: RIM LIGHTING ✨ ───
+# Tên file: day-11-rim-product.png
+PROMPT_15:
+Luxury men's watch with brown leather strap on black surface.
+(Rim lighting:1.4), strong backlight from behind creating bright edge
+light around case outline, glowing rim on metal bezel, dial face in
+soft shadow with subtle fill. Dramatic editorial product photography
+mood. Photorealistic, 100mm macro f/4.
+
+Negative: flat lighting, front lit, even light, brand name, logo,
+text on dial, Audemars, Vincero, Rolex, Dior, designer logo, low quality
+
+# ─── Lighting 4: REMBRANDT 🎭 ───
+# Tên file: day-11-rembrandt-product.png
+PROMPT_16:
+Luxury men's watch with brown leather strap on dark wooden desk.
+(Rembrandt lighting:1.4), single light source from 45-degree upper-left
+creating triangle of light on right side of dial, half of watch in
+soft shadow, painterly quality like still life painting. Photorealistic,
+100mm macro f/4.
+
+Negative: flat lighting, full lit, brand name, logo, text on dial, Audemars,
+Vincero, Rolex, Dior, designer logo, low quality
+
+# ─── Lighting 5: SPLIT LIGHTING ⚡ ───
+# Tên file: day-11-split-product.png
+PROMPT_17:
+Luxury men's watch with brown leather strap, top-down view.
+(Split lighting:1.4), dramatic 90-degree side light from pure left,
+exactly half of watch brightly lit, exact other half in deep shadow,
+sharp dividing line down center, high contrast editorial product mood.
+Photorealistic, 100mm macro.
+
+Negative: soft transition, even lighting, brand name, logo, text on dial,
+Audemars, Vincero, Rolex, Dior, designer logo, low quality
+
+# ─── Lighting 6: BACKLIGHT 🔆 ───
+# Tên file: day-11-backlight-product.png
+PROMPT_18:
+Luxury men's watch with brown leather strap floating in mid-frame.
+(Strong backlight:1.4), sun directly behind watch creating glowing halo
+effect around case, lens flare, dial in silhouette with subtle fill light
+from below revealing dial details. Ethereal cinematic product mood.
+Photorealistic, 100mm macro f/2.8.
+
+Negative: front lit, no halo, brand name, logo, text on dial, Audemars,
+Vincero, Rolex, Dior, designer logo, low quality
+
+# ═══════════════════════════════════════════════════════════
+# 🔑 CHECKLIST KHI TEST
+# ═══════════════════════════════════════════════════════════
+# 1. Chạy ĐÚNG GPT Image 2 cho tất cả 18 prompt
+# 2. Aspect ratio: 3:4 cho chân dung, 16:9 cho cảnh, 1:1 cho sản phẩm
+# 3. Resolution 2K
+# 4. Mỗi prompt chạy 1 LẦN duy nhất — KHÔNG cherry-pick
+# 5. Đặt tên file đúng convention:
+#    day-11-{lighting}-{subject}.png
+#    Lightings: golden | blue | rim | rembrandt | split | backlight
+#    Subjects: portrait | landscape | product
+
+# 6. Khi review, tập trung 5 câu hỏi:
+#    - Mỗi lighting có ra ĐÚNG mood không? (Warm/cool/dramatic)
+#    - Direction of light (góc chiếu) có chính xác không?
+#    - Rembrandt có "tam giác sáng" trên má không?
+#    - Split lighting có 50/50 sharp dividing line không?
+#    - Backlight có halo effect rõ không?
+
+# ═══════════════════════════════════════════════════════════
+# 📊 ETA TEST 18 ẢNH
+# ═══════════════════════════════════════════════════════════
+# - Setup + paste prompt: ~2 phút/ảnh × 18 = 36 phút
+# - Generate time: ~30s/ảnh × 18 = 9 phút
+# - Tải về + đặt tên: ~12 phút
+# Tổng: ~55-60 phút
+# Chi phí: 16,200 credit (~16.2k VND, ~1.5% gói Ultra Member)
+
+# ═══════════════════════════════════════════════════════════
+# 💡 BONUS — 5 LỖI LIGHTING AI HAY MẮC PHẢI
+# ═══════════════════════════════════════════════════════════
+# Sẽ cover trong bài day-11.md:
+# 1. "Lighting trung tính" mặc định (không có direction)
+# 2. Tone trộn (warm + cool cùng lúc → fail)
+# 3. Rembrandt không có "triangle of light" (model không hiểu)
+# 4. Split lighting bị soft transition (không sharp 50/50)
+# 5. Backlight thiếu halo effect (chỉ silhouette không có glow)
