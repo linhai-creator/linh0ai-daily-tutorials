@@ -252,7 +252,7 @@ Vào bài để xem 20 ảnh test + bằng chứng!
 >
 > Khác biệt **subtle hơn** Bonus 1 — đúng nature của 50mm vs 85mm (cận nhau hơn 24mm vs 200mm).
 
-**Bài học:** GPT có thể làm được educational comparison cho **bất kỳ 2 lens nào** Linh muốn dạy.
+**Bài học:** GPT có thể làm được educational comparison cho **bất kỳ 2 lens nào** các bạn muốn dạy.
 
 ---
 
@@ -473,7 +473,7 @@ Tổng: 17 dự đoán SAI liên tiếp + 1 ĐÚNG đầu tiên (Subject Consist
 Lý thuyết: AI training data có nhiều ảnh **portrait đẹp** ở close-up shots (fashion, beauty). Khi prompt close-up, model "default" sang aesthetic này.
 
 **Q7: Reference image có giải quyết được Subject Consistency không?**
-**Có, verified Day 8** — Seedream 4.5 hỗ trợ tới 14 ref images. Nếu Linh cần lookbook 50 ảnh cùng 1 model, **dùng Seedream với reference**, không phải GPT Image 2.
+**Có, verified Day 8** — Seedream 4.5 hỗ trợ tới 14 ref images. Nếu các bạn cần lookbook 50 ảnh cùng 1 model, **dùng Seedream với reference**, không phải GPT Image 2.
 
 **Q8: Combo Day 10-13 (Composition + Lighting + Color + Lens)?**
 **Đỉnh nhất:** Hero image (#12) đã chứng minh tự nhiên có cả 4:
@@ -501,7 +501,7 @@ Lý thuyết: AI training data có nhiều ảnh **portrait đẹp** ở close-u
 
 **TỔNG KẾT TUẦN 2 + chấm Mini Challenge "Phong cảnh Việt Nam"!**
 
-Sau 7 ngày Master Skills (Day 8-14), Linh sẽ có:
+Sau 7 ngày Master Skills (Day 8-14), các bạn sẽ có:
 - ✅ Cheatsheet 4-trong-1: Composition + Lighting + Color + Lens
 - ✅ **95 ảnh test verified** (10+12+15+18+20+20)
 - ✅ **18+ insights pro** chưa ai chia sẻ ở Việt Nam
