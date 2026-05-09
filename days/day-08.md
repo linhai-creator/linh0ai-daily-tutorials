@@ -359,7 +359,6 @@ GPT đắt 2.57x Seedream. Recommend tỷ lệ: **20% GPT (ảnh quan trọng) +
 1. Test cả 3 prompt (chân dung + cảnh + sản phẩm) trên cả 3 model
 2. **Soi kỹ ảnh sản phẩm** xem model nào tự thêm brand
 3. So sánh và viết 3 câu insight riêng
-4. Tag mình trên Facebook với `#Day8Seedream45`
 
 ### 🟣 Cho Pro (90 phút, ~10,000 credit)
 1. Test bonus: dịch prompt sang tiếng Trung → chạy trên Seedream 4.5 → so với English
@@ -415,11 +414,6 @@ Ngày mai mình sẽ deep dive **Prompt Engineering Nâng Cao** — từ "biết
 
 ## 🏷️ Tags
 `#0aiVN #Seedream45 #ByteDance #ChânDungAI #Day8Linh0AI #AIImage #PortraitAI #VietnameseAI #ProductPhotography #FashionAI #AICopyrightWarning`
-
----
-
-> **💌 Có ý kiến hoặc trải nghiệm khác?**
-> Comment vào [bài Facebook Day 8](https://facebook.com/daclinh.tran) hoặc nhắn vào [Zalo group](https://zalo.me/g/umthmp096). Đặc biệt nếu bạn test ảnh sản phẩm thấy tình trạng brand tự chèn khác mình → **share lại** để cộng đồng cùng cảnh giác!
 
 ---
 
