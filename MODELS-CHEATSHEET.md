@@ -1,6 +1,6 @@
 # 📖 0ai.vn Models Cheatsheet — 1 Trang Chọn Đúng Model
 
-> **Bản 1.2** — Cập nhật ngày 09/05/2026 (sau Day 10 — brand issue đã fix!)
+> **Bản 1.3** — Cập nhật ngày 09/05/2026 (sau Day 11 — GPT Image 2 BIG WIN)
 > **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
 > **Repo:** [linh0ai-daily-tutorials](https://github.com/linhai-creator/linh0ai-daily-tutorials)
 > **Data dựa trên test thực tế** — không phải copy info marketing từ web
@@ -112,8 +112,7 @@
 - 🌍 **Prompt tiếng Anh dài chi tiết** — model mạnh nhất với English
 - 🎨 **Photo-realistic chuẩn** — face structure, perspective, lighting đều tốt
 
-> ⚠️ **CẢNH BÁO BẢN QUYỀN (Day 8 + Day 9 verified, Day 10 ĐÃ FIX!):** GPT Image 2 hay tự chèn brand thật vào ảnh sản phẩm — Day 8 chèn "Vincero Kairos" vào đồng hồ, Day 9 chèn "Dior" vào túi xách. **Day 10 đã FIX hoàn toàn** bằng negative prompt liệt kê tên brand cụ thể: `brand name, logo, text on dial, watermark, Audemars, Vincero, Rolex, Dior, LV, Gucci, Chanel, Hermes, designer logo`. Verified 0/5 ảnh đồng hồ Day 10 có brand. **Đây là solution actionable cho ecommerce.**
-
+> ⚠️ **CẢNH BÁO BẢN QUYỀN — VERIFIED 4 LẦN, BULLETPROOF SOLUTION:** GPT Image 2 hay tự chèn brand thật vào ảnh sản phẩm — Day 8 (Vincero), Day 9 (Dior). **Day 10 + Day 11 ĐÃ FIX hoàn toàn (0/11 ảnh đồng hồ có brand)** bằng negative prompt liệt kê tên brand cụ thể: `brand name, logo, text on dial, watermark, Audemars, Vincero, Rolex, Dior, LV, Gucci, Chanel, Hermes, designer logo`. **Solution chính thức bulletproof — áp dụng cho mọi shop online dùng AI làm ảnh sản phẩm.**
 ### ❌ Skip when
 - **Test ý tưởng / draft / nháp** → Seedream 4.5 (rẻ 2.57x, đủ tốt)
 - **Production volume cao** — sẽ cháy credit nhanh → Seedream 4.5
@@ -228,6 +227,7 @@ Thêm cho ảnh chân dung:
 | 08/05/2026 | Seedream 4.5 | Day 8 | 10 ảnh (3 chủ đề × 3 model + 1 bonus 中文) | ✅ Done |
 | 09/05/2026 | Seedream 4.5 + GPT Image 2 | Day 9 | 12 ảnh (3 cấp × 2 variation × 2 model) | ✅ Done |
 | 09/05/2026 | GPT Image 2 | Day 10 | 15 ảnh (5 quy tắc × 3 chủ đề) — verified KHÔNG có điểm yếu | ✅ Done |
+| 09/05/2026 | GPT Image 2 | Day 11 | 18 ảnh (6 lighting × 3 chủ đề) — verified BIG WIN cả 6 lighting | ✅ Done |
 
 > **📝 Cách Linh test:** Mỗi model dùng cùng prompt + cùng aspect ratio + cùng resolution để so sánh công bằng (A/B/C testing). Mỗi prompt chạy 1 lần — KHÔNG cherry-pick ảnh đẹp.
 
@@ -255,6 +255,7 @@ Repo: [github.com/linhai-creator/linh0ai-daily-tutorials](https://github.com/lin
 - 🚀 **Bắt đầu từ đâu?** [START-HERE.md](./START-HERE.md)
 - 🟣 **Bài Day 9 (Prompt Engineering Nâng Cao):** [days/day-09.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-09.md)
 - 🎬 **Bài Day 10 (Composition & Framing):** [days/day-10.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-10.md)
+- 💡 **Bài Day 11 (Lighting Mastery):** [days/day-11.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-11.md)
 ---
 
 ## 📚 Glossary nhanh
@@ -270,4 +271,4 @@ Repo: [github.com/linhai-creator/linh0ai-daily-tutorials](https://github.com/lin
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 09/05/2026 | Phiên bản 1.2*
+*Cập nhật lần cuối: 09/05/2026 | Phiên bản 1.3*
