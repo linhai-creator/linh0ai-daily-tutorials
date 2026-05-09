@@ -3,6 +3,101 @@
 > Theo dõi tiến độ phát triển của repo. Repo được cập nhật mỗi ngày trong 30 ngày.
 
 ---
+## Day 14 — 09/05/2026 🟣 ✅ 🏆 TUẦN 2 DONE!
+
+**Bài:** Tổng Kết Tuần 2 — Master Skills Đã Mở Khóa!
+
+**Status:** ✅ Done — bài tổng kết, không test ảnh mới
+
+### ✨ Highlights
+- 🏆 **TUẦN 2 — MASTER SKILLS — DONE 100%**
+- 📊 Recap 95 ảnh test từ Day 8-13 với 5 model
+- 💎 23+ insights pro chưa ai chia sẻ ở Việt Nam
+- 🎨 Master Combo theory + 5 templates ready copy-paste
+- 🏅 Best of Week 2: Top 10 ảnh curated
+- 🎯 Mini Challenge mock chấm với 5 tiêu chí
+
+### 🔥 5 Master Combo Templates (Audience tự test)
+1. **Vịnh Hạ Long** (16:9 panoramic seascape)
+2. **Mù Cang Chải** (21:9 ruộng bậc thang)
+3. **Phố cổ Hội An đêm** (16:9 đèn lồng)
+4. **Đền Ngọc Sơn Hồ Gươm** (3:2 dawn)
+5. **Saigon Portrait Master Combo** (3:4 — recreate Hero Day 13)
+
+### 🏆 Top 10 Best of Week 2
+- 🥇 #1: 85mm Café Thảo Điền sunset (Day 13) — Hero Tuần 2
+- 🥈 #2: Múa lân Tết Triadic + tiếng Việt có dấu (Day 12)
+- 🥉 #3: 200mm Studio Beauty close-up (Day 13)
+- #4-10: Từ Day 8, 9, 10, 11, 12, 13
+
+### 🎓 Pattern Day 10-13 verified
+- **17 dự đoán SAI + 1 ĐÚNG đầu tiên (Subject Consistency)**
+- "GPT Image 2 KHÔNG có điểm yếu kỹ thuật + văn hóa, chỉ có 1 điểm yếu multi-shot"
+
+### 📁 Files added
+- `days/day-14.md` — bài tổng kết (~23.8kb, 9 phần lớn)
+- `prompts/day-14.txt` — 5 Master Combo templates (~10.5kb)
+
+### 💎 Cheatsheet 4-trong-1 (in-out 1 trang)
+- Composition: 5 quy tắc (Day 10)
+- Lighting: 6 kiểu (Day 11)
+- Color: 4 hệ + tiếng Việt có dấu (Day 12)
+- Lens: 6 focal lengths (Day 13)
+
+### 🔧 Tone consistency fix (Day 8-14)
+- Fix tone toàn bộ Tuần 2: "Linh" → "các bạn" (cho học viên), "mình" (Linh tự xưng)
+- Tổng 17 chỗ fix qua 5 bài (Day 8: 3, Day 9: 2, Day 10: 2, Day 13: 3, Day 14: 7)
+- Branding giữ nguyên: Linh0AI, hashtag, signature
+
+---
+
+## Day 13 — 09/05/2026 🟣 ✅
+
+**Bài:** Camera & Lens trong Prompt — GPT Image 2 LỘ RA 1 ĐIỂM YẾU Đầu Tiên!
+
+**Status:** ✅ Done — 20 ảnh test verified, dự đoán đúng đầu tiên!
+
+### ✨ Highlights
+- 🟣 Level Advanced — bài thứ 4 GPT Image 2 liên tiếp
+- 📊 Test 20 ảnh: 6 focal lengths × 3 cảnh + 2 bonus
+- 💰 Credit thực tế: 18,000 (~18k VND)
+- 🌅 Hero image: 85mm Café Thảo Điền sunset (đẹp nhất cả khóa!)
+
+### 🔥 5 Insights VERIFIED (4 SAI + 1 ĐÚNG đầu tiên!)
+- ❌ "24mm vs 200mm giống nhau" → SAI (gradation rõ rệt)
+- ❌ "85mm bokeh fake" → SAI (creamy đẹp thật)
+- ❌ "200mm compression không rõ" → SAI (extreme compression)
+- ✅ **"Subject sẽ KHÁC mặt qua 18 ảnh" → ĐÚNG MỘT PHẦN** ⭐
+- ❌ "GPT default lens trung tính" → SAI (lens character cực rõ)
+
+### 🤯 INSIGHT QUAN TRỌNG: 1 ĐIỂM YẾU ĐẦU TIÊN!
+- **Wide shots:** mặt tròn hơn, baby-faced
+- **Telephoto shots:** mặt thon hơn, refined jawline
+- → GPT có **bias làm đẹp ở close-up** — Subject Consistency limit
+- → **Solution:** Dùng Seedream 4.5 với 14 reference images cho lookbook pro
+
+### ⭐ INSIGHT VIRAL: GPT làm SPLIT-IMAGE COMPARISON!
+- 2 ảnh bonus (24mm vs 200mm + 50mm vs 85mm) đều SUCCESS
+- Educational content viral chưa ai test ở Việt Nam
+- Dùng cho khóa dạy AI, blog photography, video YouTube
+
+### 🎯 Pattern Day 10-13 ĐIỀU CHỈNH
+- Day 10: 3 SAI / Day 11: 5 SAI / Day 12: 5 SAI / Day 13: 4 SAI + 1 ĐÚNG
+- **Total: 17 SAI + 1 ĐÚNG đầu tiên**
+- "GPT KHÔNG có điểm yếu kỹ thuật + văn hóa. Chỉ có 1 điểm yếu duy nhất: Subject Consistency"
+
+### 📁 Files added
+- `days/day-13.md` — bài tutorial đầy đủ (~22.4kb, 11 phần)
+- `prompts/day-13.txt` — 20 prompts với subject cố định
+- `assets/images/day-13-*.png` — 20 ảnh test
+
+### 🎯 Settings test
+- **Phố Bùi Viện đêm:** 6 lens × neon street vibe
+- **Café Thảo Điền sunset:** 6 lens × golden hour (HERO!)
+- **Studio portrait:** 6 lens × controlled clean
+- **2 Bonus:** Wide vs Tele + Eye vs Portrait split-image
+
+---
 ## Day 12 — 09/05/2026 🟣 ✅
 
 **Bài:** Color Theory & Mood: 13 Dự Đoán SAI — GPT Cũng KHÔNG Có Điểm Yếu Văn Hóa
@@ -273,8 +368,8 @@
 - [x] Day 10 — Composition & Framing: GPT Image 2 KHÔNG có điểm yếu ✅
 - [x] Day 11 — Lighting Mastery: GPT Image 2 BIG WIN — Master 6 lighting ✅
 - [x] Day 12 — Color Theory & Mood: 13 dự đoán SAI + tiếng Việt có dấu ✅
-- [ ] Day 13 — Camera & Lens trong Prompt (focal length, DOF, motion blur)
-- [ ] Day 14 — Tổng kết Tuần 2 + chấm Mini Challenge "Phong cảnh Việt Nam"
+- [x] Day 13 — Camera & Lens: GPT lộ ra 1 điểm yếu (Subject Consistency) ✅
+- [x] Day 14 — Tổng kết Tuần 2: Master Skills DONE 🏆 ✅
 
 ### Tuần 3 (Day 15-21)
 - [ ] Image-to-image, inpainting, outpainting
@@ -295,7 +390,7 @@
 ## 📊 Tiến độ tổng
 
 ```
-████████████░░░░░░░░░░░░░░░░░░  12/30 ngày (40%) ✅
+████████████████░░░░░░░░░░░░░░  14/30 ngày (47%) ✅ TUẦN 2 DONE 🏆
 ```
 
 **Started:** 2026-05-07
