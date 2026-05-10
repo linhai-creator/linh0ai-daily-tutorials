@@ -61,7 +61,7 @@ Sau bài này, các bạn sẽ:
 | 🟡 **Enhanced** | 100-150 | Có weighted syntax `(keyword:1.4)` | Day 9-11 mastery |
 | 🔴 **Pro** | 200-290 | Full structure + negative 2 layers | Day 9-12 full apply |
 
-> 💡 **Câu hỏi nghiên cứu:** *Prompt tiếng Việt thuần trên GPT Image 2 cần độ phức tạp nào để re-create được ảnh viral?*
+> Câu hỏi mình muốn trả lời qua test này: *Prompt tiếng Việt thuần trên GPT Image 2 cần độ phức tạp nào để re-create được ảnh viral?*
 
 ---
 
@@ -174,18 +174,17 @@ Sau khi đối chiếu 15 ảnh: mình sai 4/5 dự đoán. Chi tiết ở phầ
 
 ---
 
-## ✅ Kiểm Tra 5 Dự Đoán: 4 SAI + 1 ĐÚNG
+## Kiểm tra 5 dự đoán: 4 sai + 1 đúng
 
 | # | Dự đoán | Kết quả | Phân tích chi tiết |
 |---|---------|---------|---------------------|
-| 1 | Pro thắng 4-5/5 concepts | ❌ **SAI** | Pro thắng về DENSITY/CONTENT, KHÔNG về QUALITY. Star rating Pro = Enhanced ở 4/5 concepts |
-| 2 | C2 khó nhất, A fail | ❌ **SAI HOÀN TOÀN** | Cả 3 variants C2 đều 5⭐. 50+ phrases Việt ĐÚNG 100% |
-| 3 | Vietnamese typography ~70-80% | ❌ **SAI** | Đúng ~99-100% qua 15 ảnh |
-| 4 | C4 Basic đủ tốt | ✅ **ĐÚNG** | C4 Basic 5⭐ ngang Pro |
-| 5 | C5 sẽ có lỗi "WHEN HOT BOY SAYS NO" | ❌ **SAI** | KHÔNG có 1 lỗi typography nào trong 15 ảnh |
+| 1 | Pro thắng 4-5/5 concepts | Sai | Pro thắng về độ chi tiết, không về chất lượng. Star rating Pro = Enhanced ở 4/5 concepts |
+| 2 | C2 khó nhất, A fail | Sai hết | Cả 3 variants C2 đều 5⭐. 50+ phrases Việt đều đúng |
+| 3 | Vietnamese typography ~70-80% | Sai | Đúng ~99-100% qua 15 ảnh |
+| 4 | C4 Basic đủ tốt | Đúng | C4 Basic 5⭐ ngang Pro |
+| 5 | C5 sẽ có lỗi "WHEN HOT BOY SAYS NO" | Sai | Không có 1 lỗi typography nào trong 15 ảnh |
 
-> 📊 **Pattern tích lũy toàn khóa:** 21 SAI + 2 ĐÚNG trên 30 dự đoán (Day 10-16)
-> → Mình ngày càng "khiêm tốn" hơn về GPT Image 2.
+> Pattern tích lũy toàn khóa: 21 sai + 2 đúng trên 30 dự đoán (Day 10-16). Mình ngày càng khiêm tốn hơn về GPT Image 2.
 
 ---
 
@@ -363,7 +362,7 @@ Negative liệt kê cụ thể (nếu cần chặn drift)
 - Nếu Phase 1 đã đẹp → có thể Variant Pro không cần thiết → **tiết kiệm 60% effort**
 - Nếu Phase 1 fail → biết ngay phải đi Pro structure
 
-> 💡 **Ở Day 16:** Phase 1 ra **5/5 ảnh chất lượng tốt** → đây là moment "ơ tiếng Việt thuần đủ rồi" → quyết định mindset cho cả batch.
+> Ở Day 16: Phase 1 ra 5/5 ảnh chất lượng tốt — đây là moment "ơ tiếng Việt thuần đủ rồi" — quyết định mindset cho cả batch.
 
 ### 🎨 Phase 2 — Refinement (15-20 phút)
 
@@ -534,24 +533,24 @@ Sau Day 15 + Day 16, các bạn đã có:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  HỆ THỐNG (Day 15)                                       │
+│  Hệ thống file (Day 15)                                  │
 │   AI-Content/                                           │
 │   ├── 0_INBOX/  1_PROJECTS/  2_ARCHIVE/                 │
 │   └── 3_TEMPLATES/  4_TRASH/                            │
 │                                                          │
 │  +                                                       │
 │                                                          │
-│  WORKFLOW BATCH (Day 16)                                 │
-│   Phase 1 → 2 → 3 → 4 (Quick scan → Refine → Pro → Save)│
+│  Workflow batch (Day 16)                                 │
+│   Phase 1 → 2 → 3 → 4 (quick scan → refine → pro → save)│
 │                                                          │
 │  +                                                       │
 │                                                          │
-│  PROMPT FORMULA (Day 16)                                 │
+│  Công thức prompt (Day 16)                              │
 │   Tiếng Việt thuần + Negative cụ thể + GPT auto-fill    │
 │                                                          │
 │  =                                                       │
 │                                                          │
-│  ✅ Scale 15+ ảnh/giờ với chất lượng 4.93/5             │
+│  Scale 15+ ảnh/giờ với chất lượng 4.93/5                │
 └─────────────────────────────────────────────────────────┘
 ```
 
