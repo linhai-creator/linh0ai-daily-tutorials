@@ -1,0 +1,545 @@
+═══════════════════════════════════════════════════════════════════════
+DAY 16 — WORKFLOW BATCH PROCESSING
+PROMPTS FILE | Linh0AI Daily Tutorials | Day 16/30
+═══════════════════════════════════════════════════════════════════════
+
+Test concept:  Re-create 5 ảnh viral từ cộng đồng AI Việt
+Model:         GPT Image 2 (900 credit/ảnh)
+Tổng số ảnh:   15 (5 concepts × 3 variants)
+Credit dự kiến: ~13,500 credit (~13.5k VND, 1.35% gói Ultra Member)
+Ngôn ngữ test: Tiếng Việt THUẦN (không hybrid VI+EN)
+
+═══════════════════════════════════════════════════════════════════════
+🎯 CÂU HỎI NGHIÊN CỨU TRUNG TÂM
+═══════════════════════════════════════════════════════════════════════
+
+  1. GPT Image 2 hiểu prompt tiếng Việt THUẦN đến đâu?
+  2. Cần độ phức tạp nào (Basic / Enhanced / Pro) để re-create ảnh viral?
+  3. Variant nào có ROI (chất lượng/credit) tốt nhất?
+  4. GPT có viết được Vietnamese typography có dấu trong các poster phức tạp?
+
+3 OUTCOME CÓ THỂ:
+  • Variant C (Pro) thắng → "Cần Pro structure mới re-create"
+  • Variant A (Basic) đủ      → "Tiếng Việt đơn giản đã đủ — GPT giỏi hơn ta nghĩ"
+  • Hybrid                    → "Tùy concept, có concept đơn giản đủ, có concept cần Pro"
+
+═══════════════════════════════════════════════════════════════════════
+📋 NAMING CONVENTION KHI SAVE ẢNH (Linh nhớ apply)
+═══════════════════════════════════════════════════════════════════════
+
+  Format: day-16-c{N}-{level}-{slug}.png
+
+  Trong đó:
+    {N}     = số concept (1-5)
+    {level} = basic | enhanced | pro
+    {slug}  = tên ngắn gọn không dấu, dùng dấu gạch ngang
+
+  Danh sách 15 file expected:
+
+  Concept 1 — Personal Brand Poster:
+    ✓ day-16-c1-basic-personal-brand.png
+    ✓ day-16-c1-enhanced-personal-brand.png
+    ✓ day-16-c1-pro-personal-brand.png
+
+  Concept 2 — Affiliate Product Poster:
+    ✓ day-16-c2-basic-affiliate-product.png
+    ✓ day-16-c2-enhanced-affiliate-product.png
+    ✓ day-16-c2-pro-affiliate-product.png
+
+  Concept 3 — Cinema-noir Poster:
+    ✓ day-16-c3-basic-cinema-noir.png
+    ✓ day-16-c3-enhanced-cinema-noir.png
+    ✓ day-16-c3-pro-cinema-noir.png
+
+  Concept 4 — Vietnamese Country Portrait:
+    ✓ day-16-c4-basic-mientay-portrait.png
+    ✓ day-16-c4-enhanced-mientay-portrait.png
+    ✓ day-16-c4-pro-mientay-portrait.png
+
+  Concept 5 — K-Fashion Magazine:
+    ✓ day-16-c5-basic-bad-boy-magazine.png
+    ✓ day-16-c5-enhanced-bad-boy-magazine.png
+    ✓ day-16-c5-pro-bad-boy-magazine.png
+
+═══════════════════════════════════════════════════════════════════════
+⚙️  WORKFLOW BATCH KHUYẾN NGHỊ
+═══════════════════════════════════════════════════════════════════════
+
+  Phase 1 — Quick scan (5 phút): Test Variant A của cả 5 concepts
+           → Xem GPT phản ứng với prompt tiếng Việt đơn giản thế nào
+
+  Phase 2 — Refinement (15 phút): Test Variant B của cả 5 concepts
+
+  Phase 3 — Pro batch (20 phút): Test Variant C của cả 5 concepts
+
+  Phase 4 — Review (10 phút): So sánh A vs B vs C trong cùng concept,
+           save file theo naming convention, dọn 0_INBOX → drafts
+
+  Tổng: ~50 phút cho 15 ảnh
+
+  💡 Tip: KHÔNG test 1 concept đầy đủ rồi mới qua concept khác. Test
+     theo PHASE để dễ so sánh và tránh fatigue khi nhìn 1 concept lâu.
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+  CONCEPT 1 — PERSONAL BRAND POSTER
+  Reference: Poster "ĐỊNH DANH GIÁ TRỊ" (Image 2)
+  Vibe gốc: Cinematic motivational poster + double exposure + watercolor
+  Aspect ratio: 3:4 (portrait poster)
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────────
+🟢 VARIANT 1A — BASIC (Tiếng Việt thuần, ~70 từ)
+──────────────────────────────────────────────────────────────────────
+
+Tạo một poster cá nhân thương hiệu phong cách điện ảnh. Nhân vật chính
+là một người đàn ông Việt Nam khoảng 30 tuổi, đeo kính, mặc áo sơ mi
+trắng và quần đen, đang đứng nói chuyện với cử chỉ tay tự tin. Phía
+sau là cảnh sân khấu, máy ảnh, sách vở và thành phố mờ ảo theo phong
+cách watercolor splash. Tiêu đề lớn "GIÁ TRỊ" bằng chữ vàng đậm. Tone
+màu nâu đất sepia, vàng đồng. Phong cách motivational poster.
+
+──────────────────────────────────────────────────────────────────────
+🟡 VARIANT 1B — ENHANCED (Có weighted syntax, ~135 từ)
+──────────────────────────────────────────────────────────────────────
+
+Poster cá nhân thương hiệu phong cách (cinematic editorial:1.4). Nhân
+vật chính: nam giới Việt Nam 30 tuổi, đeo kính gọng đen, áo sơ mi
+trắng tay xắn nhẹ, quần đen, đang đứng nói chuyện trên sân khấu, tay
+phải đưa ra cử chỉ truyền cảm tự tin. Phía sau là (double exposure:
+1.3) blend nhân vật với khung cảnh: sân khấu hội thảo, máy ảnh quay
+phim, sách vở, laptop, cityscape Saigon mờ. Hiệu ứng (watercolor
+splash:1.4) màu nâu sepia bao quanh. Typography Việt Nam có dấu:
+"ĐỊNH DANH" (slim font), "GIÁ TRỊ" (serif đậm vàng đồng), "ĐIÊU KHẮC
+HÌNH ẢNH THƯƠNG HIỆU" (subtitle nhỏ). Bố cục dọc 3:4. Spotlight ánh
+sáng vàng từ trên xuống. Color palette: nâu đất, sepia, vàng đồng,
+trắng. Mood: trang trọng, truyền cảm hứng, professional.
+
+──────────────────────────────────────────────────────────────────────
+🔴 VARIANT 1C — PRO (Full structure, ~280 từ)
+──────────────────────────────────────────────────────────────────────
+
+**Subject:** Nam giới Việt Nam 30 tuổi, gương mặt thanh tú, đeo kính
+gọng đen kiểu retro, mái tóc undercut gọn gàng, mặc áo sơ mi trắng
+tay xắn ngang khuỷu, quần tây đen ôm dáng, đứng trên sân khấu hội
+thảo, tay phải đưa ra với cử chỉ truyền cảm tự tin, miệng hé mở đang
+nói, ánh mắt nhìn về phía khán giả với sự tự tin và truyền cảm hứng.
+
+**Setting (double exposure):** Hình ảnh nhân vật chiếm 60% khung hình
+phía trên, bên dưới blend (double exposure layered:1.4) với 5 scene
+mờ ảo: (1) sân khấu hội thảo có spotlight vàng, (2) máy ảnh quay
+phim trên tripod, (3) chồng sách vở chuyên nghiệp, (4) workspace
+laptop với màn hình sáng, (5) cityscape Saigon mờ phía dưới.
+
+**Style:** (Watercolor splash effect:1.5) màu nâu sepia + đồng + vàng
+đất loang quanh nhân vật, kết hợp ảnh chụp thực tế với hiệu ứng ink/
+watercolor painting. Phong cách (cinematic editorial poster:1.4),
+motivational keynote speaker poster.
+
+**Camera:** Medium shot, ống kính 85mm, độ sâu trường ảnh nông nhẹ,
+focus mạnh vào nhân vật chính.
+
+**Lighting:** (Spotlight key light từ trên-trái:1.3), Rembrandt
+lighting trên gương mặt, ánh sáng vàng ấm 3200K, có volumetric light
+beam mờ phía sau.
+
+**Typography (tiếng Việt có dấu chuẩn xác):**
+- Top-left: "ĐỊNH DANH" (slim sans-serif, màu nâu đất, nhỏ)
+- Center-left: "GIÁ TRỊ" (serif đậm, vàng đồng metallic, lớn nhất)
+- Below: "ĐIÊU KHẮC HÌNH ẢNH THƯƠNG HIỆU" (subtitle, sans-serif)
+- Right side stats: "500K+ FOLLOWERS", "20M+ VIEWS", "1000+ CLIENTS"
+- Bottom: "GIÁ TRỊ THỰC. TÁC ĐỘNG SÂU. THƯƠNG HIỆU BỀN VỮNG."
+
+**Color palette:** Nâu sepia, vàng đồng, trắng ngà, đen than, tone
+watercolor warm earth.
+
+**Aspect ratio:** 3:4 portrait poster.
+
+**Negative prompt:** chữ nước ngoài lẫn lộn, chữ tiếng Việt sai chính
+tả, blur quá mức, watermark, chữ ký người khác, brand name (Apple,
+Nike, Adidas, Samsung, Tony Robbins, TED), low quality, oversaturated,
+anime, cartoon, distorted face, hands deformed.
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+  CONCEPT 2 — AFFILIATE PRODUCT POSTER
+  Reference: Đông Trùng Hạ Thảo Minh Tú (Image 3)
+  Vibe gốc: E-commerce affiliate, warm tone, multi-callout, friendly
+  Aspect ratio: 3:4 (portrait poster)
+  ⚠️ Test khó: Vietnamese typography dày đặc + product photography
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────────
+🟢 VARIANT 2A — BASIC (~75 từ)
+──────────────────────────────────────────────────────────────────────
+
+Tạo một poster quảng cáo sản phẩm đông trùng hạ thảo. Có một hộp
+giấy màu nâu và một hũ thủy tinh đặt trên thớt gỗ, xung quanh có cam
+vàng và sợi đông trùng hạ thảo. Background là vườn cây xanh tone
+warm. Tiêu đề lớn "Đông Trùng Hạ Thảo - Minh Tú" và "SỨC KHỎE VÀNG
+MỖI NGÀY!". Có 5 callout mô tả công dụng. Có giá "150k". Phong cách
+poster affiliate Shopee thân thiện, dễ thương.
+
+──────────────────────────────────────────────────────────────────────
+🟡 VARIANT 2B — ENHANCED (~145 từ)
+──────────────────────────────────────────────────────────────────────
+
+Poster quảng cáo affiliate sản phẩm phong cách (Shopee Lazada e-
+commerce:1.4). Sản phẩm chính: 1 hộp giấy nâu in chữ "ĐÔNG TRÙNG HẠ
+THẢO MINH TÚ" + 1 hũ thủy tinh chứa sợi đông trùng hạ thảo vàng cam,
+đặt trên thớt gỗ tròn. Xung quanh decorate: nửa quả cam vàng, sợi
+đông trùng hạ thảo bày rải, lá xanh nhỏ. Background: (vườn cây xanh
+mờ:1.2) tone vàng warm sunlight. Layout poster dọc với:
+- Header: "Đông Trùng Hạ Thảo - Minh Tú" + slogan "SỨC KHỎE VÀNG MỖI
+  NGÀY!" (chữ vàng đậm có viền)
+- 5 callout side-bullets với icon trái tim nhỏ
+- Logo OCOP góc trên phải
+- Price tag tròn: "10g 150k"
+- Mascot dễ thương màu vàng cartoon góc dưới
+Typography Việt có dấu rõ ràng. Tone màu: nâu, vàng kem, xanh lá nhạt,
+đỏ pastel. Phong cách (friendly cute affiliate:1.3).
+
+──────────────────────────────────────────────────────────────────────
+🔴 VARIANT 2C — PRO (~290 từ)
+──────────────────────────────────────────────────────────────────────
+
+**Layout:** Poster dọc tỷ lệ 3:4 cho affiliate marketing Shopee/
+Lazada, phong cách (e-commerce poster Vietnamese:1.4), warm friendly
+tone, multi-callout density cao.
+
+**Hero product (center):** 1 hộp giấy nâu hình chữ nhật đứng in chữ
+"ĐÔNG TRÙNG HẠ THẢO MINH TÚ - SẤY THĂNG HOA" + 1 hũ thủy tinh trong
+suốt nắp gỗ chứa sợi đông trùng hạ thảo vàng cam, cả 2 đặt trên 1
+thớt gỗ tròn handcrafted. Decorate prop xung quanh: nửa quả cam vàng
+tươi, sợi đông trùng hạ thảo bày rải artistic, vài lá xanh nhỏ, 1
+chiếc cối nhỏ phía sau.
+
+**Background:** (Vườn cây xanh blurred:1.3) tone (golden hour
+sunlight:1.2), bokeh nhẹ, không gian organic countryside.
+
+**Typography (tiếng Việt CÓ DẤU - cực kỳ quan trọng phải đúng):**
+- Header center: "Đông Trùng Hạ Thảo - Minh Tú" (script cute) +
+  "SỨC KHỎE VÀNG MỖI NGÀY!" (sans-serif đậm vàng có viền nâu)
+- Sub-callout phải: "100% TỰ NHIÊN - An tâm cho sức khỏe"
+- 5 bullet callouts trái-phải (số 1-5):
+  1. "Thiết kế xinh xắn"
+  2. "Chất liệu cao cấp"
+  3. "Công năng nổi bật"
+  4. "Dễ sử dụng"
+  5. "Nhỏ gọn tiện lợi"
+  + bullet 6: "Dễ vệ sinh"
+- Logo OCOP góc trên phải (3 sao)
+- Price tag tròn: "10g - 150k" (font đậm vàng)
+- 3 columns bottom:
+  • "Phù hợp cho ai?" (Học sinh sinh viên, Dân văn phòng, Người tập
+     luyện thể thao, Người lớn tuổi, Quà tặng ý nghĩa)
+  • "Cách dùng gợi ý" (Pha trà, Nấu cháo hầm súp, Ngâm mật ong)
+  • "Cam kết từ Minh Tú" (100% tự nhiên, Không chất bảo quản, Sấy
+     thăng hoa, Có chứng nhận OCOP)
+- Footer: "Sức khỏe là món quà vô giá!" + mascot vàng dễ thương
+
+**Color palette:** Nâu cafe (#6B4423), vàng kem (#F5DEB3), xanh lá
+nhạt (#A8D8A8), đỏ pastel (#E8A29A), trắng ngà.
+
+**Mood:** Friendly, organic, trustworthy, cute affiliate energy,
+warm Vietnamese countryside.
+
+**Negative prompt:** chữ nước ngoài lẫn vào, tiếng Việt sai dấu, lỗi
+chính tả, brand name khác (Vinamilk, TH true milk, Cordyceps brand
+khác), watermark, blur sản phẩm, cartoon overstyled, anime, low
+quality, distorted text.
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+  CONCEPT 3 — CINEMA-NOIR PERSONAL POSTER
+  Reference: "MTP × QHBH COMING SOON" (Image 5)
+  Vibe gốc: Mystery, dramatic single light, mặt nạ gỗ, premium
+  Aspect ratio: 1:1 (square poster) hoặc 4:5
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────────
+🟢 VARIANT 3A — BASIC (~65 từ)
+──────────────────────────────────────────────────────────────────────
+
+Tạo một poster phong cách điện ảnh đen tối. Một người đàn ông Việt
+Nam đeo kính, mặc áo vest đen, áo sơ mi trắng, cravat đen, tay phải
+cầm một chiếc mặt nạ gỗ tribal lên ngang mặt che nửa khuôn mặt, tay
+trái cầm một quyển sách bìa xanh đậm. Background đen tuyền có
+spotlight vàng nhạt. Title "COMING SOON" chữ vàng. Phong cách
+mystery cinema poster.
+
+──────────────────────────────────────────────────────────────────────
+🟡 VARIANT 3B — ENHANCED (~125 từ)
+──────────────────────────────────────────────────────────────────────
+
+Poster phong cách (cinematic noir mystery:1.4). Nhân vật chính: nam
+giới Việt Nam 32 tuổi, đeo kính gọng vuông, mặc áo vest đen tailored,
+áo sơ mi trắng tinh, cravat đen, tay phải cầm 1 chiếc (mặt nạ gỗ
+tribal:1.3) handcraft lên ngang mặt che nửa khuôn mặt bên trái,
+tay trái cầm 1 quyển sách hardcover bìa xanh đậm có họa tiết cây
+vàng. Background (đen tuyền:1.4) với spotlight tròn vàng nhạt phía
+sau tạo (vignette dramatic:1.3). Lighting: (single key light từ trái:
+1.5) tạo Rembrandt lighting deep shadow. Typography:
+- Top: "MTP × QHBH" (slim serif vàng nhạt)
+- Center-top: "COMING SOON" (serif đậm metallic gold, kerning rộng)
+Color: đen + vàng đồng + trắng + skin tone. Aspect ratio 1:1. Mood:
+suspense, premium, mystery, anticipation.
+
+──────────────────────────────────────────────────────────────────────
+🔴 VARIANT 3C — PRO (~270 từ)
+──────────────────────────────────────────────────────────────────────
+
+**Subject:** Nam giới Việt Nam 32 tuổi, gương mặt nghiêm túc trí
+thức, đeo kính gọng vuông đen, mái tóc chải gọn back, mặc áo vest
+đen 2-piece tailored fit, áo sơ mi trắng tinh, cravat đen lụa, tay
+phải nâng 1 chiếc mặt nạ gỗ tribal handcraft (carved wooden tribal
+mask) lên ngang mặt che nửa bên trái khuôn mặt, để lộ nửa bên phải
+với ánh mắt sắc sảo nhìn trực diện camera, tay trái ôm 1 quyển sách
+hardcover bìa xanh đậm có họa tiết cây vàng (golden tree motif).
+
+**Setting:** Studio đen tuyền không có chi tiết, chỉ có (spotlight
+gradient tròn vàng nhạt:1.4) phía sau nhân vật tạo halo effect và
+vignette mạnh viền ngoài.
+
+**Style:** (Cinematic noir mystery poster:1.5), premium editorial,
+tone phim Christopher Nolan / David Fincher.
+
+**Camera:** Medium close-up, ống kính 85mm f/1.4, depth of field
+nông, focus tuyệt đối vào nhân vật và mặt nạ.
+
+**Lighting:** (Single key light từ trái-trên 45°:1.5), Rembrandt
+lighting tạo triangle light trên má phải, deep shadow bên trái, rim
+light nhẹ viền vai, không có fill light → contrast cao, dramatic.
+Color temp 3000K warm gold.
+
+**Typography (tiếng Việt + Anh mix có chủ đích):**
+- Top center: "MTP × QHBH" (slim serif metallic gold, letter-spacing
+  rộng, font-size nhỏ)
+- Center-top above subject: "COMING SOON" (serif bold metallic gold,
+  kerning rộng, font-size lớn nhất)
+- Bottom optional: "III Mandiéo" (signature handwritten nhỏ)
+
+**Color palette:** Đen than (#0A0A0A), vàng đồng metallic (#B8860B),
+vàng kem (#F5DEB3), trắng ngà (#F5F5DC), skin tone tự nhiên.
+
+**Aspect ratio:** 1:1 square poster (Instagram-friendly).
+
+**Mood:** Mystery, premium luxury, cinematic, suspense, anticipation,
+trí thức, secrecy, reveal.
+
+**Negative prompt:** màu sắc loè loẹt, brand logo (Gucci, Versace,
+Dior, Louis Vuitton, MTP Entertainment cụ thể), tiếng Việt sai chính
+tả, blur, low contrast, anime, cartoon, distorted face, multiple
+spotlight nhỏ, busy background, watermark, fashion model pose.
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+  CONCEPT 4 — VIETNAMESE COUNTRY PORTRAIT
+  Reference: Cô gái miền Tây bán hàng chợ (Image 6 - viral nhất batch)
+  Vibe gốc: Photorealistic Vietnamese authentic, casual lao động
+  Aspect ratio: 3:4 (portrait)
+  ⚠️  Focus prompt vào AUTHENTICITY VIỆT NAM, không nhấn body framing
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────────
+🟢 VARIANT 4A — BASIC (~70 từ)
+──────────────────────────────────────────────────────────────────────
+
+Chụp ảnh chân dung một cô gái Việt Nam khoảng 25 tuổi, tóc đen búi
+cao gọn gàng, da nâu nhẹ tự nhiên, mặc áo thun cổ tròn xanh nhạt,
+đang ngồi bán đồ ăn vặt ở chợ quê miền Tây. Trên bàn có bánh tráng,
+đậu phộng rang, đồ chiên trong bao ni lông. Background là đường phố
+quê có xe máy đi qua. Ánh sáng tự nhiên ban ngày. Phong cách ảnh
+chụp đời thường photorealistic.
+
+──────────────────────────────────────────────────────────────────────
+🟡 VARIANT 4B — ENHANCED (~140 từ)
+──────────────────────────────────────────────────────────────────────
+
+Chân dung cô gái Việt Nam phong cách (photorealistic Vietnamese
+countryside:1.5). Subject: cô gái Việt 24 tuổi, gương mặt trái xoan
+bình dị, tóc đen búi cao gọn gàng có vài sợi xõa, da (nâu nhẹ tự
+nhiên:1.2) như người miền Tây, đeo dây chuyền vàng nhỏ, mặc áo thun
+cổ tròn ngắn tay (light blue cotton:1.3), đang (chăm chú gói đồ ăn:
+1.3) cho khách hàng. Setting: quầy hàng vỉa hè chợ quê miền Tây Việt
+Nam, trên bàn có bánh tráng nướng, đậu phộng rang, đồ chiên đóng
+trong bao ni lông trong, có biển bảng "BÁNH TRÁNG" giấy. Background:
+đường quê Việt Nam có (xe máy mờ:1.2), cây dừa, cây xanh, vài người
+qua lại blurred. Ánh sáng (natural daylight:1.3) hơi mây nhẹ, soft
+shadow. Style: candid documentary photography, không pose, authentic.
+Aspect ratio: 3:4. Mood: bình dị, dễ thương, lao động chăm chỉ.
+
+──────────────────────────────────────────────────────────────────────
+🔴 VARIANT 4C — PRO (~270 từ)
+──────────────────────────────────────────────────────────────────────
+
+**Subject:** Cô gái Việt Nam 24 tuổi, miền Tây đặc trưng, gương mặt
+trái xoan bình dị tự nhiên không trang điểm, mắt 2 mí nhỏ hiền lành,
+mũi tẹt nhẹ duyên, da (nâu nhẹ rám nắng tự nhiên:1.3) đặc trưng
+người lao động ngoài trời, mái tóc đen dày búi cao gọn gàng có vài
+sợi xõa rủ trước trán do làm việc, đeo (dây chuyền vàng mảnh:1.2)
+nhỏ, mặc áo thun cổ tròn ngắn tay cotton xanh nhạt (light blue:1.3)
+đơn giản loose-fit, biểu cảm chăm chú đang làm việc, không pose
+camera.
+
+**Action:** Đang (gói đồ ăn vặt cho khách:1.4) - tay đang cầm bao ni
+lông trong, bên trong có bánh tráng nướng, đậu phộng rang, hoặc đang
+đếm tiền lẻ. Cử chỉ tự nhiên của người bán hàng vỉa hè.
+
+**Setting:** Quầy hàng vỉa hè chợ quê miền Tây Việt Nam, bàn gỗ đơn
+giản phủ tấm bạt, trên bàn bày: rổ tre đựng bánh tráng nướng, hộp
+inox đựng đậu phộng, các bao ni lông đồ chiên đã đóng sẵn, vài chai
+nước tương, bảng giấy viết tay "BÁNH TRÁNG NƯỚNG", "TRÁNG TRỘN".
+
+**Background:** Đường quê tỉnh lẻ Việt Nam mờ blurred, có (xe máy
+Wave Honda Vietnamese:1.2) lướt qua, cây dừa hoặc cây bàng cao, vài
+người qua lại defocused, mái nhà tôn xa xa, không khí miền Tây sông
+nước.
+
+**Style:** (Photorealistic Vietnamese street photography:1.5), candid
+documentary style, vibe Phan Thiet/An Giang/Ben Tre.
+
+**Camera:** Medium-close shot, ống kính 50mm f/2.0, depth of field
+trung bình, focus rõ vào subject, background mềm mại.
+
+**Lighting:** (Natural overcast daylight:1.4) ban ngày 11h-14h, có
+soft shadow, không gay gắt, ánh sáng dịu mềm.
+
+**Color palette:** Xanh lá tự nhiên, nâu gỗ ấm, xanh nhạt áo, vàng
+nắng nhẹ, da nâu Việt.
+
+**Aspect ratio:** 3:4 portrait.
+
+**Mood:** Bình dị, dễ thương, chân thật, lao động cần cù, miền Tây
+authentic, đời thường.
+
+**Negative prompt:** glamorous makeup, fashion model pose, K-pop
+style, trắng da quá mức, body framing gợi cảm, tight body-con clothing,
+brand logo (Honda, Yamaha, Coca-Cola, Pepsi), tiếng nước ngoài, anime,
+cartoon, oversaturated, plastic skin, watermark, distorted hands.
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+  CONCEPT 5 — K-FASHION MAGAZINE COVER
+  Reference: "Bad Boy Fashion / When Hot Boy Says No" (Image 7)
+  Vibe gốc: Magazine collage, edgy, K-fashion, monochrome
+  Aspect ratio: 3:4 (magazine cover)
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+──────────────────────────────────────────────────────────────────────
+🟢 VARIANT 5A — BASIC (~75 từ)
+──────────────────────────────────────────────────────────────────────
+
+Tạo một bìa tạp chí thời trang phong cách Hàn Quốc K-fashion. Có 2
+nam thanh niên Á Đông trẻ, tóc đen, mặc áo da đen jacket, biểu cảm
+ngầu lạnh lùng. Background giấy báo cũ texture. Tiêu đề lớn "WHEN HOT
+BOY SAYS NO" chữ đen serif. Có badge tròn "MEAN BOY". Có dấu son môi
+đỏ và hình trái tim handdrawn. Phong cách collage magazine editorial.
+
+──────────────────────────────────────────────────────────────────────
+🟡 VARIANT 5B — ENHANCED (~140 từ)
+──────────────────────────────────────────────────────────────────────
+
+Bìa tạp chí thời trang phong cách (K-fashion magazine editorial:1.4).
+Subject: 2-3 nam thanh niên Á Đông 22 tuổi, tóc đen dày, gương mặt
+sắc sảo Hàn Quốc/Việt Nam, mặc áo da đen leather jacket, áo hoodie
+đen, biểu cảm (ngầu lạnh edgy:1.3), pose nghệ thuật. Background:
+(newspaper texture vintage:1.3) màu kem cũ. Layout collage magazine
+với:
+- Headline lớn: "WHEN HOT BOY SAYS NO" (serif đen đậm)
+- Sub Vietnamese: "Không cần phải nói nhiều. Sự im lặng đôi khi là
+  câu trả lời lạnh lùng nhất."
+- Badge tròn: "MEAN BOY"
+- Quote phải: "Owner of a wild heart"
+- Sub Vietnamese: "Trái tim tự do - không thuộc về bất kỳ ai"
+- 1 ảnh nhỏ góc dưới-trái với note handwritten "photo of a beautiful
+  day with you - khoảnh khắc thời trang tặng nhớ"
+- Decorative: dấu son môi đỏ, trái tim handdrawn đen, gạch chân
+Style: edgy, dark, monochrome với chấm phá đỏ son. Aspect ratio 3:4.
+
+──────────────────────────────────────────────────────────────────────
+🔴 VARIANT 5C — PRO (~285 từ)
+──────────────────────────────────────────────────────────────────────
+
+**Concept:** Bìa tạp chí thời trang nam phong cách (K-fashion edgy
+editorial:1.5), magazine collage layout, mood "bad boy aesthetic"
+nhưng artistic không sexual.
+
+**Subjects:** 2 nam thanh niên Á Đông 22 tuổi (có thể 3 nếu layout
+cho phép):
+- Boy 1 (top-left): Gương mặt nghiêng nhẹ, tóc đen dày tạo kiểu, da
+  trắng, mắt sắc, đeo bông tai bạc, mặc áo (leather jacket đen:1.3),
+  pose tay chạm cằm trí thức.
+- Boy 2 (center-right, lớn nhất): Nhìn trực diện camera với ánh mắt
+  lạnh lùng, tóc đen, mặc áo hoodie đen layer leather jacket.
+- Boy 3 (bottom-left, ảnh polaroid nhỏ): Cùng style, casual moment.
+
+**Layout (magazine collage):**
+- Background: (Newspaper print vintage texture:1.4) màu cream cũ,
+  có chữ báo nhỏ blurred
+- 2 main photos chiếm 60% trên cùng (overlapping cinematic frames)
+- 1 polaroid nhỏ góc dưới-trái với handwritten note
+- Decorative: dấu son môi đỏ in đậm, hình trái tim đen handdrawn,
+  underline scribble đen
+
+**Typography (mix Anh-Việt có chủ đích):**
+- Top-right badge tròn: "MEAN BOY" (sans-serif đen trắng)
+- Center headline: "WHEN HOT BOY SAYS NO" (serif đậm đen, italic
+  nhẹ, kích thước lớn nhất, line-break sau "HOT")
+- Below subhead Vietnamese: "Không cần phải nói nhiều. Sự im lặng
+  đôi khi là câu trả lời lạnh lùng nhất." (serif slim đen)
+- Right-side quote: "Owner of a wild heart" (serif nhỏ italic)
+- Right Vietnamese: "Trái tim tự do - không thuộc về bất kỳ ai"
+- Bottom-left polaroid note (handwritten): "photo of a beautiful day
+  with you / khoảnh khắc thời trang tặng nhớ"
+
+**Color palette:** Đen than chủ đạo, trắng kem newspaper, đỏ son môi
+đậm (#A52A2A), xám than nhẹ. Tone monochrome 90% + 10% accent đỏ.
+
+**Camera:** Mix portraits 85mm + medium shot, all sharp focus.
+
+**Lighting:** Studio ring light cho main photos (clean editorial),
+polaroid có natural daylight casual.
+
+**Aspect ratio:** 3:4 magazine cover.
+
+**Mood:** Edgy K-fashion, bad boy aesthetic artistic, mysterious,
+youthful, magazine premium, không sexual.
+
+**Negative prompt:** ngực hở, body sexualized, brand logo (Vogue,
+Elle, GQ, Esquire, Calvin Klein, Gucci), tiếng Việt sai chính tả,
+anime, cartoon, blur quá mức, watermark, color loè loẹt, low quality,
+distorted face, fashion runway pose generic.
+
+═══════════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════════════
+
+  ✅ CHÚC CÁC BẠN TEST VUI VẺ!
+
+═══════════════════════════════════════════════════════════════════════
+
+  Tips trước khi test:
+  • Đọc kỹ Phase Workflow ở đầu file (4 phase, ~50 phút)
+  • Apply naming convention NGAY khi save mỗi ảnh
+  • Để 0_INBOX empty trước khi đi ngủ (Day 15 mindset)
+  • So sánh A/B/C trong cùng concept để cảm pattern
+
+═══════════════════════════════════════════════════════════════════════
+
+*Linh0AI Tutorial Project | Day 16 Prompts*
+*Created: 10/05/2026 | Total: 15 prompts (5 concepts × 3 variants)*
