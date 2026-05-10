@@ -47,6 +47,9 @@ Hôm nay test color theory + văn hóa Việt — **5 dự đoán nữa SAI**:
 - ✅ Tránh **5 lỗi color theory** AI hay mắc phải
 - ✅ Hiểu Color Culture Việt vs Color Wheel Tây
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-12.txt`](../prompts/day-12.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## 📚 Phần 1 — 4 Hệ Màu Kinh Điển
