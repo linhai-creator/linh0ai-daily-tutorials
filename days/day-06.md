@@ -18,6 +18,9 @@ Sau bài này, bạn sẽ:
 
 > 💡 **Spoiler:** Chỉ cần thêm 5 từ negative prompt phổ biến → ảnh đẹp hơn ngay 30%. Đây là kỹ thuật ĐƠN GIẢN nhất nhưng nhiều người không biết.
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-06.txt`](../prompts/day-06.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## 📖 Phần 1 — Negative Prompt Là Gì?
