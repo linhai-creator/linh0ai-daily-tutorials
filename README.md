@@ -1,6 +1,6 @@
 # 🎨 0ai.vn Daily Tutorials — 30 Ngày Làm Chủ AI Tạo Ảnh & Video
 
-![Banner](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/banner.png)
+![Banner](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/banner.pn)
 
 > Hành trình 30 ngày học cách dùng **0ai.vn** để tạo ảnh trên nhiều model khác nhau và làm video bằng **Seedance 2.0** — từ con số 0 đến tự tin sản xuất nội dung.
 >
