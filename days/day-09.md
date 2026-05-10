@@ -198,7 +198,7 @@ generic asian dress, modern western outfit
 ### 🟣 Cấp ADVANCED
 
 **Seedream 4.5:**
-![Day 9 — Modern Advanced Seedream](../assets/images/day-09-modern-advanced-seedream.png)
+![Day 9 — Modern Advanced Seedream](../assets/images/day-09-modern-advanced-seedream.jpg)
 
 **GPT Image 2:**
 ![Day 9 — Modern Advanced GPT](../assets/images/day-09-modern-advanced-image2.png)
