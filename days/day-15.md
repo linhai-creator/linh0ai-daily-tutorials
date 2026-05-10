@@ -621,12 +621,11 @@ Sau khi setup xong, các bạn để ý 3 thứ trong tuần đầu:
 
 ## 📍 Navigation
 
-[← Day 14: Tổng kết Tuần 2] | [🏠 README] | [→ Day 16: Workflow Batch Processing]
+[⬅️ Day 14: Tổng kết Tuần 2](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-14.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 16: Workflow Batch Processing](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-16.md)
 
 ## 🏷️ Tags
 
-#0aiVN #Day15Linh0AI #FileManagement #FolderStructure #ProjectBased
-#InboxZero #PracticalProduction #Tuan3 #ContentCreator #AIWorkflow
+#0aiVN #Day15Linh0AI #FileManagement #FolderStructure #ProjectBased #InboxZero #PracticalProduction #Tuan3 #ContentCreator #AIWorkflow
 
 ---
 
