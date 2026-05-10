@@ -48,6 +48,9 @@ Vào bài để xem 20 ảnh test + bằng chứng!
 - ✅ Tránh **5 lỗi camera/lens** AI hay mắc phải
 - ✅ Pattern Day 10-13 ĐIỀU CHỈNH: "1 điểm yếu duy nhất"
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-13.txt`](../prompts/day-13.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## 📚 Phần 1 — 6 Focal Lengths Kinh Điển
