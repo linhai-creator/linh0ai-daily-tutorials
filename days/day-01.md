@@ -13,8 +13,6 @@ Sau bài này, bạn sẽ:
 - Tạo được **bức ảnh AI đầu tiên** trong vòng 5 phút
 - So sánh được **2 model phổ biến**: Nano Banana 2 vs Image 2
 - Biết nên **bắt đầu từ đâu** trong 30 ngày tới
-> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-01.txt`](../prompts/day-01.txt)
-> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
 
 ---
 ## 📖 Phần 1 — 0ai.vn là gì?
