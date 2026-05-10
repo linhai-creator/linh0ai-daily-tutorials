@@ -25,6 +25,9 @@ Tuần 2 mình mở đầu bằng **Seedream 4.5** của ByteDance (cùng nhà v
 - ✅ Học **2 insight cảnh báo** ít người Việt biết (brand bản quyền + tiếng Trung)
 - ✅ Có prompt template chuyên cho chân dung Việt Nam
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-08.txt`](../prompts/day-08.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## 💰 Bảng giá thực tế trên 0ai.vn (đã test)
