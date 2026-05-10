@@ -255,53 +255,58 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 Clip 1 — ACT 1 SETUP
 
-📺 **YouTube:** _Linh paste link sau khi upload_
-📁 **Repo:** `assets/videos/video-twinsword-clip-1-act1-setup-15s.mp4`
+[![Clip 1 ACT 1 SETUP — Linh Nhi training + Hàn Lập flying + Discovery + Dive](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-1-act1-setup-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-1-act1-setup-15s.mp4)
+
+> 👆 Click thumbnail để xem video MP4 (15s, 7.8MB)
 
 **Highlight frames:**
 - 1.5s: Linh Nhi solo trên đỉnh núi với biển mây + núi tiên
 - 5s: Hàn Lập wide shot phi kiếm giữa biển mây panoramic
-- 10s: Discovery moment — Hàn Lập profile + yêu khí mây đen tím xa
+- **10s: ⭐ Discovery moment** — Hàn Lập profile + yêu khí mây đen tím xa (thumbnail)
 - 14s: Dive với emerald sword trail khổng lồ
 
 #### 🎬 Clip 2 — ACT 2 MEETING
 
-📺 **YouTube:** _Linh paste link sau khi upload_
-📁 **Repo:** `assets/videos/video-twinsword-clip-2-act2-meeting-15s.mp4`
+[![Clip 2 ACT 2 MEETING — First meeting với divine face overlay](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-2-act2-meeting-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-2-act2-meeting-15s.mp4)
+
+> 👆 Click thumbnail để xem video MP4 (15s, 8.8MB)
 
 **Highlight frames:**
 - 1.5s: Hàn Lập close-up sub-surface scattering Pixar quality
 - 5s: Linh Nhi profile + kiếm ngọc bích chi tiết hoa văn
-- 14s: ⭐ **First meeting spark moment với divine face overlay** (AI bonus creative)
+- **14s: ⭐ First meeting spark moment với divine face overlay** từ mây — AI bonus creative interpretation (thumbnail)
 
-#### 🎬 Clip 3 — ACT 3 THREAT
+#### 🎬 Clip 3 — ACT 3 THREAT 🏆
 
-📺 **YouTube:** _Linh paste link sau khi upload_
-📁 **Repo:** `assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4`
+[![Clip 3 ACT 3 THREAT — Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4)
+
+> 👆 Click thumbnail để xem video MP4 (15s, 9.7MB) — **Hero Day 19**
 
 **Highlight frames:**
 - 1.5s: Lightning đen tím xé ngang trời atmospheric
 - 5s: 2-shot ngước nhìn yêu ma (snow falling + storm)
-- 10s: 🏆 **Back-to-back hero shot** — 2 hero + 2 emerald swords + demon silhouette
+- **10s: 🏆 Back-to-back hero shot** — 2 hero + 2 emerald swords + demon silhouette (thumbnail)
 - 14s: Yêu ma 半龙半虎 descent với claws — Marvel-cinematic
 
 #### 🎬 Clip 4 — ACT 4 RESOLUTION
 
-📺 **YouTube:** _Linh paste link sau khi upload_
-📁 **Repo:** `assets/videos/video-twinsword-clip-4-act4-resolution-15s.mp4`
+[![Clip 4 ACT 4 RESOLUTION — Sunset ending silhouette](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-4-act4-resolution-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-4-act4-resolution-15s.mp4)
+
+> 👆 Click thumbnail để xem video MP4 (15s, 11MB)
 
 **Highlight frames:**
 - 1.5s: Linh Nhi solo + emerald beam vertical lone hero composition
-- 5s: ⭐ **Fusion explosion** — 2 sword beams gặp nhau radial burst
+- 5s: ⭐ Fusion explosion — 2 sword beams gặp nhau radial burst
 - 10s: Sky clearing golden hour Studio Ghibli quality
-- 14s: ⭐ **Sunset ending silhouette** — 2 silhouette + sunset + hạc V-formation
+- **14s: ⭐ Sunset ending silhouette** — 2 silhouette + sunset + hạc V-formation (thumbnail)
 
 #### 🎬 FINAL FILM 60s
 
-📺 **YouTube:** _Linh paste link sau khi upload_
-📁 **Repo:** `assets/videos/video-twinsword-final-edited-60s.mp4`
+[![Final Film 60s — Đôi Kiếm Tiên xianxia short film hoàn chỉnh](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-final-film-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-final-edited-60s.mp4)
 
-> Short film hoàn chỉnh sau ghép CapCut với transitions + sound design. Đây là output cuối cùng dùng làm portfolio xianxia animation.
+> 👆 Click thumbnail để xem **Final Film 60s** — short film xianxia "Đôi Kiếm Tiên" hoàn chỉnh sau ghép CapCut với transitions + sound design.
+
+Đây là output cuối cùng dùng làm portfolio xianxia animation cho creator AI Việt Nam.
 
 ---
 
@@ -347,9 +352,9 @@ Clip 2 frame 14s — AI tự thêm **divine face overlay từ mây** làm spirit
 
 ## 🏆 Hero Day 19 — Clip 3 Back-to-Back Hero Shot
 
-> _Hình ảnh hoặc video embed của Clip 3 frame 10s_
->
-> 📁 Path: `assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4` (timestamp 10s)
+[![Hero Day 19 - Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4)
+
+> 👆 Click để xem Clip 3 — Hero của Day 19
 
 ### Vì sao chọn Clip 3 frame 10s làm Hero:
 
