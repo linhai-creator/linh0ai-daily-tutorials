@@ -1,8 +1,8 @@
 # 📚 CURRICULUM — 0ai.vn Daily Tutorials 30 Ngày
 
-> **Phiên bản 2.2** — Cập nhật ngày 10/05/2026
+> **Phiên bản 2.3** — Cập nhật ngày 10/05/2026
 > **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
-> **Status:** Tuần 1 ✅ | Tuần 2 ✅ | Tuần 3 🔄 (4/7 done) | Tuần 4 📋 Planned
+> **Status:** Tuần 1 ✅ | Tuần 2 ✅ | Tuần 3 🔄 (5/7 done) | Tuần 4 📋 Planned
 
 ---
 
@@ -75,7 +75,7 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-## 🟣 Tuần 3 — Practical Production (Day 15-21) 🔄 4/7 DONE
+## 🟣 Tuần 3 — Practical Production (Day 15-21) 🔄 5/7 DONE
 
 > **Mục tiêu tuần:** Đi từ "biết kỹ năng" lên "production-ready workflow" — từ file management cho creator, batch processing, đến tạo character consistent + storyboard cho animation thực sự.
 >
@@ -167,21 +167,32 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-### Day 19 — Image-to-Video Seedance 📅 Coming
+### Day 19 — Storyboard-to-Video Seedance 2.0 ✅
 
-> *Biến 64 panels storyboard thành 1 short film xianxia thực sự*
+> *Biến 4 boards storyboard Day 18 thành 1 short film xianxia 60s "Đôi Kiếm Tiên"*
 
 **Mục tiêu:**
-- Master Image-to-Video với Seedance 2.0
-- Pick key panels từ storyboard Day 18 → video clips
-- Edit ghép thành 1 short film "Đôi Kiếm Tiên" 30-60s
+- Master workflow Image-to-Video với Seedance 2.0-Omni Professional-VIP
+- Hiểu pattern "Prevent Motion Lines Render" cho storyboard reference
+- Edit ghép 4 video clips thành 1 short film hoàn chỉnh trên CapCut
+- Pipeline production-grade Day 17 → 18 → 19
 
-**Skill dự kiến:**
-- 5 thành phần prompt motion (camera + subject + environment + particles + intensity)
-- Edit workflow CapCut cho creator không chuyên video
-- Continuation từ static images → animation thực sự
+**Skill nổi bật:**
+- 4 prompts video tiếng Trung pure (match xianxia aesthetic native)
+- Section [非常重要] explicit prevent AI render motion lines visible
+- Triple-locked character consistency: Day 17 sheet → Day 18 board → Day 19 video
+- Color palette progression dramatic (Clip 4 triple palette: dark → bright → sunset)
 
-**Cost dự kiến:** ~60,000-80,000 credit (12-16 video clips × 5,000 credit)
+**Test:** 4 video clips × 15s = 60s raw + 1 final film 60s | 216,000 credit (6 generates × 36K)
+
+**Insight:**
+- Star average **6.5/5** — vượt expectation
+- Hero clip: Clip 3 ACT 3 THREAT — back-to-back hero shot iconic
+- AI bonus creative: Clip 2 frame 14s — divine face overlay từ mây artistic
+- Pattern Storyboard-to-Video work tốt nhờ character lock kép từ Day 18
+- Cumulative ROI Day 17-19: ~232K VND → bộ deliverable studio level (~30-50tr VND value)
+
+📄 [days/day-19.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md)
 
 ---
 
@@ -249,7 +260,7 @@ Sau 30 ngày, bạn sẽ:
 
 ## 📊 Mục tiêu KPIs 30 ngày
 
-- [x] Đăng đủ **18/30 bài** (60%)
+- [x] Đăng đủ **19/30 bài** (63%)
 - [ ] **100+ stars** trên GitHub repo
 - [ ] **1.000+ followers** Facebook fanpage
 - [ ] **500+ followers** X (Twitter)
@@ -320,6 +331,7 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 | --- | --- | --- |
+| **v2.3** | 10/05/2026 | ✅ **Day 19 hoàn thành** — Storyboard-to-Video Seedance 2.0 (6.5/5⭐ average, 1 short film xianxia 60s "Đôi Kiếm Tiên" complete). Cumulative ROI Day 17-19: ~232K VND → bộ deliverable studio-level. Tuần 3 status: 5/7 done. |
 | **v2.2** | 10/05/2026 | 🔄 **Tuần 3 PIVOT từ "Image Workflows" sang "Practical Production"** (file management, batch processing, 3D animation Trung Quốc, storyboard 4x4). Lý do: creator Việt cần workflow production thật hơn là kỹ thuật image manipulation đơn lẻ. Update: Tuần 2 ✅ Done, Day 17 + Day 18 đã hoàn thành với insights ấn tượng (character sheet feature, storyboard 4x4 64 panels, 0 re-gen rate). |
 | **v2.0** | 08/05/2026 | 🔄 Đổi Tuần 2 từ "Test các model mới" sang "Master Skills" (5 chuyên đề kỹ năng + 1 model deep-dive). Lý do: content kỹ năng evergreen hơn, không bị outdated. |
 | **v1.5** | ~06/05/2026 | Đổi Tuần 2 từ "Flux series" sang "Test Seedream 5/Z-Image/NBN Pro/Kling" (vì 0ai.vn không có Flux). |
@@ -329,4 +341,4 @@ Nếu bạn có:
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 10/05/2026 | Phiên bản 2.2*
+*Cập nhật lần cuối: 10/05/2026 | Phiên bản 2.3*
