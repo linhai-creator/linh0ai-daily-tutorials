@@ -16,6 +16,8 @@ Sau bài này, các bạn sẽ:
 - Biết khi nào nên đầu tư Pro, khi nào Basic là đủ
 
 ---
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-16.txt`](../prompts/day-16.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
 
 ## 😤 3 nỗi đau của người làm content AI hàng ngày
 
