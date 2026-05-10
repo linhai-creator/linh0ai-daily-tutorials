@@ -38,6 +38,9 @@ Vào bài để xem bằng chứng + bài học pro!
 - ✅ Tránh **5 lỗi composition** AI hay mắc phải
 - ✅ Bonus: Cách negative prompt fix vĩnh viễn vấn đề brand thật
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-10.txt`](../prompts/day-10.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## 📚 Phần 1 — 5 Quy Tắc Composition Kinh Điển
