@@ -255,7 +255,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 Clip 1 — ACT 1 SETUP
 
-[![Clip 1 ACT 1 SETUP — Linh Nhi training + Hàn Lập flying + Discovery + Dive](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-1-act1-setup-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-1-act1-setup-15s.mp4)
+[![Clip 1 ACT 1 SETUP — Linh Nhi training + Hàn Lập flying + Discovery + Dive](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-1-act1-setup-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-1-act1-setup-15s.mp4)
 
 > 👆 Click thumbnail để xem video MP4 (15s, 7.8MB)
 
@@ -267,7 +267,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 Clip 2 — ACT 2 MEETING
 
-[![Clip 2 ACT 2 MEETING — First meeting với divine face overlay](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-2-act2-meeting-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-2-act2-meeting-15s.mp4)
+[![Clip 2 ACT 2 MEETING — First meeting với divine face overlay](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-2-act2-meeting-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-2-act2-meeting-15s.mp4)
 
 > 👆 Click thumbnail để xem video MP4 (15s, 8.8MB)
 
@@ -278,7 +278,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 Clip 3 — ACT 3 THREAT 🏆
 
-[![Clip 3 ACT 3 THREAT — Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4)
+[![Clip 3 ACT 3 THREAT — Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-3-act3-threat-15s.mp4)
 
 > 👆 Click thumbnail để xem video MP4 (15s, 9.7MB) — **Hero Day 19**
 
@@ -290,7 +290,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 Clip 4 — ACT 4 RESOLUTION
 
-[![Clip 4 ACT 4 RESOLUTION — Sunset ending silhouette](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-4-act4-resolution-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-4-act4-resolution-15s.mp4)
+[![Clip 4 ACT 4 RESOLUTION — Sunset ending silhouette](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-4-act4-resolution-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-4-act4-resolution-15s.mp4)
 
 > 👆 Click thumbnail để xem video MP4 (15s, 11MB)
 
@@ -302,7 +302,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 FINAL FILM 60s
 
-[![Final Film 60s — Đôi Kiếm Tiên xianxia short film hoàn chỉnh](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-final-film-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-final-edited-60s.mp4)
+[![Final Film 60s — Đôi Kiếm Tiên xianxia short film hoàn chỉnh](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-final-film-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-final-edited-60s.mp4)
 
 > 👆 Click thumbnail để xem **Final Film 60s** — short film xianxia "Đôi Kiếm Tiên" hoàn chỉnh sau ghép CapCut với transitions + sound design.
 
@@ -352,7 +352,7 @@ Clip 2 frame 14s — AI tự thêm **divine face overlay từ mây** làm spirit
 
 ## 🏆 Hero Day 19 — Clip 3 Back-to-Back Hero Shot
 
-[![Hero Day 19 - Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4)
+[![Hero Day 19 - Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-3-act3-threat-15s.mp4)
 
 > 👆 Click để xem Clip 3 — Hero của Day 19
 
