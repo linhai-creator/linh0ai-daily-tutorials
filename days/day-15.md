@@ -619,7 +619,15 @@ Sau khi setup xong, các bạn để ý 3 thứ trong tuần đầu:
 
 ---
 
-*Day 15 — Tuần 3 Practical Production bắt đầu*
-*Linh0AI Daily Tutorials | 14/30 → 15/30*
+## 📍 Navigation
 
-#Linh0AI #AIArtVN #FileManagement #PracticalProduction
+[← Day 14: Tổng kết Tuần 2] | [🏠 README] | [→ Day 16: Workflow Batch Processing]
+
+## 🏷️ Tags
+
+#0aiVN #Day15Linh0AI #FileManagement #FolderStructure #ProjectBased
+#InboxZero #PracticalProduction #Tuan3 #ContentCreator #AIWorkflow
+
+---
+
+*Linh0AI Daily Tutorials — Day 15/30 (50%)*
