@@ -462,7 +462,7 @@ Kết quả là **summary poster đẹp epic** thay vì storyboard ACT 1.
 ## 🔗 Liên kết với bài khác
 
 - [Day 17 — Tạo ảnh hoạt hình 3D Trung Quốc + Character Sheets](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-17.md): foundation 2 character sheets làm reference cho Day 18
-- [Day 19 — Image-to-Video Seedance](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md) (sắp ra): biến panels từ storyboard thành video clips → 1 short film hoàn chỉnh
+- [Day 19 — Image-to-Video Seedance](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md): biến panels từ storyboard thành video clips → 1 short film hoàn chỉnh
 
 ---
 
