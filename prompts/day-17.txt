@@ -1,0 +1,956 @@
+═══════════════════════════════════════════════════════════════
+DAY 17 — TẠO ẢNH HOẠT HÌNH 3D PHONG CÁCH TRUNG QUỐC
+       Inspired by Ne Zha 2, Phàm Nhân Tu Tiên, Bạch Xà
+═══════════════════════════════════════════════════════════════
+
+📊 SETUP TEST:
+- 12 prompts: 6 concepts × 2 tỉ lệ (9:16 và 16:9)
+- Model: GPT Image 2 only (900 credit/ảnh)
+- Cost dự kiến: 12 × 900cr = ~10,800 credit (~10,800đ)
+- Time dự kiến: 60-90 phút generate
+
+📝 NAMING CONVENTION:
+- 9:16 TikTok: day-17-c1-916-girl-xianxia-sword.png
+- 16:9 YouTube: day-17-c1-169-girl-xianxia-sword.png
+
+🎯 PROMPT STRUCTURE (5 thành phần cho 3D animation Trung Quốc):
+1. Subject — nhân vật + chi tiết hanfu/trang phục cổ trang
+2. Style — chỉ định cụ thể (Pixar 3D + xianxia, Ne Zha 2 style, Studio Ghibli + Chinese)
+3. Setting & Background — núi tiên / đền cổ / hỏa liên / mây tiên
+4. Lighting & Mood — ethereal mystical / dramatic fire / volumetric mist
+5. Composition for ratio — bố cục riêng cho 9:16 hoặc 16:9
+
+💡 TIP: Chỉ định rõ tỉ lệ trong prompt + bố cục cho ratio đó, không chỉ
+trong settings. Tiếng Việt thuần work tốt với GPT Image 2 (verified Day 16).
+
+📚 INSPIRATION SOURCES (top 3D animation Trung Quốc 2025-2026):
+- Na Tra 2 (Ne Zha 2) — Chinese mythology + Sanxingdui patterns + fire lotus aesthetic
+- Phàm Nhân Tu Tiên — xianxia cultivator phi kiếm
+- Bạch Xà (White Snake) — elegant ancient Chinese romance
+- Khương Vân — kiếm thủ phục sinh
+- When Destiny Brings the Demon — broken immortal aesthetic
+
+═══════════════════════════════════════════════════════════════
+CONCEPT 1 — Cô gái xianxia hanfu trắng cầm kiếm bay trên mây
+       Inspired by: A Record of a Mortal's Journey to Immortality
+═══════════════════════════════════════════════════════════════
+
+🎨 Concept: Nữ cultivator hanfu trắng phi kiếm trên đỉnh núi tiên,
+biểu cảm thanh tịnh kiên định, immortal aura.
+
+Use case: TikTok viral xianxia content, YouTube wallpaper cinematic.
+
+────────────────────────────────────────────────────────────────
+🟦 9:16 (TikTok / Reels) — File: day-17-c1-916-girl-xianxia-sword.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách xianxia Trung Quốc kết hợp Pixar render,
+về cô gái Trung Quốc tu tiên 22 tuổi mặc hanfu trắng tinh khiết dài
+có thêu họa tiết hoa văn ngọc bích xanh nhạt và mây tiên bạc, tóc đen dài
+búi cao kiểu cổ trang có cài trâm bạc khắc rồng phượng, dải lụa trắng bay
+phấp phới sau lưng, đôi mắt sáng long lanh nâu hổ phách thanh tịnh kiên định,
+nụ cười nhẹ điềm tĩnh, hai tay nâng cao thanh kiếm trường ngọc bích phát quang
+xanh nhạt soft glow, cổ đeo dây ngọc bích treo bùa tiên, immortal aura
+xanh nhẹ tỏa quanh người.
+
+Cô gái đứng trên đỉnh núi cao xanh xám đá, mây trắng cuồn cuộn dưới chân
+như biển mây bồng bềnh, phía xa là dãy núi tiên cao chót vót đỉnh phủ tuyết
+nhấp nhô, ngôi đền tu tiên cổ kiến trúc Tang Trung Quốc với mái cong vàng
+nằm xa trên đỉnh núi đối diện, sương mù mỏng quấn quanh các đỉnh núi,
+một vài hạc tiên trắng bay lượn xa, ánh sáng vàng tiên xuyên qua kẽ mây.
+
+Phong cách 3D animation xianxia kết hợp Pixar và Disney render quality,
+hanfu vải có texture lụa chi tiết với từng nếp gấp tự nhiên,
+da nhân vật có sub-surface scattering hồng hào tự nhiên,
+ray-traced lighting tạo bóng đổ chân thực, tóc strand-based realistic,
+chất lượng cinematic film hoạt hình Trung Quốc Phàm Nhân Tu Tiên,
+hyperrealistic stylized với traditional Chinese aesthetic.
+
+Ánh sáng ethereal mystical golden hour buổi bình minh,
+key light từ mặt trời vàng phía sau tạo backlit halo divine quanh viền cô gái,
+rim light vàng chiếu vào tóc và viền hanfu tạo glow ethereal,
+fill light xanh nhẹ từ mây phản chiếu, volumetric god rays mạnh xuyên
+qua mây tạo light beams huyền ảo, kiếm phát quang ngọc bích nhẹ,
+mood spiritual peaceful kiên định, immortal cultivation atmosphere.
+
+Tỉ lệ ảnh dọc 9:16 (1080x1920px) chuẩn TikTok xianxia content viral.
+Bố cục dọc cinematic vertical: cô gái full body ở 1/3 giữa ảnh hơi nghiêng,
+đầu cô gái và đỉnh kiếm ở 1/3 trên, mặt trời mọc bình minh phía sau đầu
+tạo halo, mây trắng cuồn cuộn dưới chân chiếm 1/3 dưới, núi tiên cao
+phía sau ở 1/3 trên, đền cổ xa nhỏ làm support element, dải lụa hanfu
+bay tạo motion line dọc, khoảng trống bottom 15% chừa text overlay TikTok
+caption Việt như "Tu Tiên Đắc Đạo" hoặc "Nữ Hiệp Cao Thủ".
+
+Camera eye-level slight low (góc thấp anh hùng), focal length 50mm portrait,
+distance medium 3 mét, framing full body từ đầu đến chân,
+depth of field f/2.8 shallow, focus sharp on cô gái và kiếm,
+background mây và núi bokeh nhẹ atmospheric.
+
+Negative: photorealistic photograph, real human portrait photo,
+plain photography, modern clothing, jeans t-shirt, modern setting,
+cyberpunk neon, flat 2D anime, low quality, mặt méo,
+ngón tay biến dạng, body framing gợi cảm, hanfu bó sát body-con,
+revealing clothing, makeup glamorous đậm, brand logo.
+
+────────────────────────────────────────────────────────────────
+🟧 16:9 (YouTube / Wallpaper) — File: day-17-c1-169-girl-xianxia-sword.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách xianxia Trung Quốc kết hợp Pixar render,
+về cô gái Trung Quốc tu tiên 22 tuổi mặc hanfu trắng tinh khiết dài
+có thêu họa tiết hoa văn ngọc bích xanh nhạt và mây tiên bạc, tóc đen dài
+búi cao kiểu cổ trang có cài trâm bạc khắc rồng phượng, dải lụa trắng bay
+phấp phới sau lưng, đôi mắt sáng long lanh nâu hổ phách thanh tịnh kiên định,
+nụ cười nhẹ điềm tĩnh, một tay nâng thanh kiếm ngọc bích phát quang xanh nhạt
+soft glow, tay kia hướng nhẹ ra phía trước pose tu tiên, cổ đeo ngọc bích
+treo bùa tiên, immortal aura xanh nhẹ tỏa.
+
+Cô gái đứng nghiêng trên đỉnh núi cao xanh xám đá ở 1/3 trái khung hình,
+2/3 phải mở ra view biển mây bồng bềnh rộng kéo dài về xa, dãy núi tiên cao
+chót vót đỉnh phủ tuyết nhấp nhô, ngôi đền tu tiên cổ kiến trúc Tang Trung Quốc
+với mái cong vàng nằm trên đỉnh núi xa phía phải, sương mù mỏng quấn quanh
+các đỉnh núi, đoàn hạc tiên trắng bay xếp chữ V bay từ phải sang trái,
+ánh sáng vàng tiên dramatic xuyên kẽ mây tạo god rays, mặt trời mọc cam vàng
+ở chân trời 1/3 phải.
+
+Phong cách 3D animation xianxia + Pixar + Disney render cinematic,
+hanfu vải lụa texture chi tiết, da sub-surface scattering tự nhiên,
+ray-traced lighting, tóc strand-based, chất lượng cinematic film Phàm Nhân
+Tu Tiên hyperdetailed, Chinese xianxia aesthetic film 3D theatrical quality.
+
+Ánh sáng cinematic ethereal mystical golden hour bình minh dramatic wide,
+key light từ mặt trời mọc bên phải chiếu xuyên mây tạo strong god rays
+horizontal, rim light vàng cam quanh viền cô gái và đỉnh núi tạo halo divine,
+fill light xanh nhẹ từ biển mây phản chiếu, volumetric mist dày atmospheric,
+kiếm phát quang ngọc bích, mood spiritual epic peaceful, immortal cultivation
+atmosphere wide.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) chuẩn YouTube wallpaper xianxia.
+Bố cục ngang epic cinematic: cô gái ở 1/3 trái rule of thirds với pose nghiêng,
+2/3 phải dành cho biển mây và dãy núi tiên rộng panorama, mặt trời mọc
+ở 1/3 phải tạo focal point bên phải, đền cổ xa làm support, hạc tiên bay
+tạo leading line từ phải qua trái dẫn mắt vào cô gái, mây cuồn cuộn 1/3 dưới,
+bầu trời cam vàng 1/3 trên, dải lụa hanfu bay tạo movement.
+
+Camera eye-level slight low, focal length 35mm cinematic wide,
+distance medium-wide 5 mét, framing medium-full shot từ pelvis lên đầu,
+depth of field f/4 giữ landscape sharp một phần, focus sharp on cô gái,
+foreground biển mây bokeh atmospheric.
+
+Negative: photorealistic photograph, real human photo, plain photography,
+modern clothing, jeans, cyberpunk neon, flat 2D anime, low quality,
+mặt méo, ngón tay biến dạng, body framing gợi cảm, hanfu bó sát,
+makeup glamorous, brand logo, modern setting.
+
+═══════════════════════════════════════════════════════════════
+CONCEPT 2 — Thanh niên thần linh + biển hỏa liên
+       Inspired by: Ne Zha 2 (2025) — adapted for content policy
+═══════════════════════════════════════════════════════════════
+
+🎨 Concept: Thanh niên thần linh trẻ trung 18 tuổi đứng giữa biển hỏa liên
+khổng lồ, mythology heroic scene với fire lotus blooming + Sanxingdui patterns
++ ngọc minh châu phát sáng — Chinese mythology meets modern 3D.
+
+⚠️ Note: Đã adjust từ "trẻ em rebellious" sang "thanh niên thần linh" để
+pass content policy (AI image tools block "minors + weapons + violence").
+Vẫn giữ vibe Ne Zha 2 inspired qua fire lotus + Sanxingdui patterns.
+
+Use case: YouTube thumbnail mythology epic, TikTok promo viral, banner.
+
+────────────────────────────────────────────────────────────────
+🟦 9:16 (TikTok / Reels) — File: day-17-c2-916-deity-firelotus.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách Ne Zha 2 official Chinese mythology
+3D animation, về thanh niên thần linh trẻ trung 18 tuổi mặt anh dũng cool
+angular sharp, tóc đen dài búi cao kiểu cổ trang Trung Quốc có 2 chỏm trang
+trí và dải vàng cài tóc, đôi mắt to sharp viền đỏ thần linh phát quang
+determined heroic, lông mày dày sharp, miệng cười nhếch tự tin, vầng hào quang
+đỏ vàng quanh trán dấu hiệu thần linh, mặc áo dài đỏ truyền thống Trung Quốc
+có thêu hoa văn Sanxingdui chi tiết và kim phù vàng cổ đại trên ngực, quần đỏ
+buộc dây vàng, lưng khoác lụa đỏ vàng bay phấp phới sau lưng theo gió thần,
+hai tay mở ra ngang vai pose tu luyện thần linh dramatic, trong tay phải nâng
+viên ngọc minh châu nhỏ tròn phát quang vàng-trắng intense, quanh người aura
+đỏ vàng dày phát quang divine.
+
+Thanh niên đứng vững vàng giữa biển hỏa liên (fire lotus blooming) khổng lồ
+với hàng trăm bông sen lửa đỏ cam vàng nở rộ xung quanh, cánh hoa lửa bay
+phấp phới trong không khí magical ethereal, sàn dưới chân là đất linh thiêng
+đỏ rực với hoa văn tu tiên cổ đại khắc vào đá tạo pattern circular spiritual,
+phía sau là cảnh trời thần thoại đỏ cam đậm với mây tiên cuồn cuộn dày,
+ánh sáng thần linh trắng vàng từ trên cao chiếu xuống tạo god rays divine,
+một vài rồng vàng nhỏ bay lượn xa thân thiện trên trời, không gian thần
+thoại heaven realm trên trời cao.
+
+Phong cách 3D animation Ne Zha 2 official, Chinese mythology meets modern 3D,
+texture vải áo đỏ với họa tiết Sanxingdui chi tiết, da nhân vật sub-surface
+scattering tự nhiên, fire shader hyperrealistic với từng tia lửa chi tiết,
+ray-traced lighting strong contrast, motion blur tóc và áo theo gió thần,
+chất lượng cinematic theatrical film Ne Zha 2 quality theatrical.
+
+Ánh sáng dramatic mythology fire heroic, key light từ hỏa liên dưới chiếu
+ngược lên tạo rim đỏ vàng intense quanh thanh niên thần linh, fill light cam
+ấm từ mọi hướng do biển lửa magical, volumetric light qua khói lửa và spark
+tạo god rays đỏ vàng, ánh sáng thần linh trắng vàng từ trên cao chiếu xuống,
+mood epic heroic determined mythology, color palette đỏ cam vàng dominant
+với accents trắng vàng thần linh, fire glow magical.
+
+Tỉ lệ ảnh dọc 9:16 (1080x1920px) chuẩn TikTok mythology heroic content.
+Bố cục dọc dramatic vertical: thanh niên thần linh full body chiếm 1/3 giữa
+ảnh pose tu luyện anh dũng, đầu thanh niên ở 1/3 trên với halo thần linh,
+hai tay mở ra với ngọc minh châu phát quang trong tay phải tạo focal point,
+biển hỏa liên bao trùm khung hình tạo wow factor magical, mây tiên cuồn cuộn
+1/3 trên ảnh, sàn linh thiêng với hoa văn tu tiên 1/4 dưới, ánh sáng thần
+linh từ trên chiếu xuống tạo vertical god rays, khoảng trống bottom 10% cho
+text "Thiên Mệnh" hoặc "Thần Linh Giáng Thế".
+
+Camera low angle hero shot heroic, focal length 35mm cinematic,
+distance medium 3 mét, framing full body powerful pose,
+depth of field f/4 giữ thanh niên sharp, fire lotus bokeh nhẹ magical,
+focus sharp on thanh niên và ngọc minh châu.
+
+Negative: photorealistic photograph, real human photo, plain photography,
+peaceful boring scene, flat 2D anime, low quality, mặt méo, ngón tay biến
+dạng, child character minor under 18, weapon graphic blood violence,
+scary horror, brand logo, modern clothing modern setting, female character,
+makeup glamorous.
+
+────────────────────────────────────────────────────────────────
+🟧 16:9 (YouTube / Movie Poster) — File: day-17-c2-169-deity-firelotus.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách Ne Zha 2 official Chinese mythology
+3D animation, về thanh niên thần linh trẻ trung 18 tuổi mặt anh dũng cool
+angular sharp, tóc đen dài búi cao kiểu cổ trang Trung Quốc có 2 chỏm trang
+trí và dải vàng cài tóc, đôi mắt to sharp viền đỏ thần linh phát quang
+determined heroic, lông mày dày sharp, miệng cười nhếch tự tin, vầng hào quang
+đỏ vàng quanh trán dấu hiệu thần linh, mặc áo dài đỏ truyền thống Trung Quốc
+có thêu hoa văn Sanxingdui chi tiết và kim phù vàng cổ đại, quần đỏ buộc dây
+vàng, lưng khoác lụa đỏ vàng bay phấp phới theo gió thần, hai tay mở ngang
+vai pose tu luyện dramatic, trong tay phải nâng viên ngọc minh châu phát quang
+vàng-trắng intense, quanh người aura đỏ vàng phát quang divine.
+
+Thanh niên đứng vững vàng ở 1/3 trái khung hình giữa biển hỏa liên (fire lotus
+blooming) khổng lồ, 2/3 phải mở ra view rộng cảnh trời thần thoại epic, hàng
+trăm bông sen lửa đỏ cam vàng nở rộ xếp dày khắp khung hình, cánh hoa lửa
+bay khắp magical, sàn đất linh thiêng đỏ rực với hoa văn tu tiên khắc đá tạo
+leading line từ trái qua phải, mây tiên thần thoại đỏ cam vàng cuồn cuộn ở
+chân trời, ánh sáng thần linh trắng vàng từ trên cao chiếu xuống tạo strong
+god rays divine multiple, xa phía phải có một con rồng vàng khổng lồ bay
+thân thiện, quanh thanh niên aura đỏ vàng phát quang dày dramatic.
+
+Phong cách 3D animation Ne Zha 2 official + Marvel cinematic 3D quality,
+texture áo đỏ Sanxingdui patterns chi tiết, sub-surface scattering da, fire
+shader hyperrealistic chi tiết, ray-traced lighting epic contrast cao,
+motion blur tóc/áo/lửa, chromatic aberration nhẹ cinematic, chất lượng
+theatrical Ne Zha 2 movie poster theatrical wide.
+
+Ánh sáng cinematic dramatic mythology fire heroic wide, key light từ hỏa liên
+phía dưới chiếu ngược tạo strong rim đỏ vàng intense quanh thanh niên thần
+linh và ngọc minh châu, fill light cam ấm dày từ mọi hướng do biển lửa, ánh
+sáng thần linh trắng vàng từ trên cao tạo strong god rays divine, volumetric
+light qua khói lửa spark tạo light beams epic, rồng glow vàng background,
+mood epic heroic mythology cinematic, color palette đỏ-cam-vàng dominant với
+accents trắng-vàng thần linh và xanh storm contrast.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) chuẩn YouTube thumbnail / movie poster.
+Bố cục ngang epic cinematic poster style: thanh niên pose anh dũng ở 1/3 trái
+với pose tu luyện dramatic, 2/3 phải mở ra view bão lửa rộng với rồng
+background, biển hỏa liên fill toàn bộ foreground tạo dramatic foreground
+depth, mây tiên thần thoại chiếm 1/3 trên ảnh, sàn linh thiêng 1/3 dưới với
+leading line, rồng vàng background phải làm support epic element, ngọc minh
+châu trong tay tạo focal contrast color, color palette đỏ-vàng-trắng vs
+cam mây thần thoại.
+
+Camera low angle hero cinematic, focal length 24mm ultra-wide cinematic,
+distance medium-wide 5 mét, framing medium-full shot dramatic pose,
+depth of field f/5.6 giữ scene sharp một phần, focus sharp on thanh niên,
+foreground hỏa liên motion blur, rồng background bokeh dramatic.
+
+Negative: photorealistic photograph, real human photo, plain photography,
+peaceful boring scene, flat 2D anime, low quality, mặt méo, ngón tay biến
+dạng, child character minor under 18, weapon graphic blood violence,
+scary horror gore, brand logo, modern clothing modern setting, female
+character, makeup glamorous.
+
+═══════════════════════════════════════════════════════════════
+CONCEPT 3 — Núi tiên + mây + đền cổ Trung Hoa
+       Inspired by: White Snake (Bạch Xà) + xianxia landscape
+═══════════════════════════════════════════════════════════════
+
+🎨 Concept: Cảnh núi tiên Trung Hoa với đền cổ trên đỉnh, mây mù tiên,
+hạc bay, không có nhân vật chính (landscape main).
+
+Use case: TikTok travel/aesthetic, YouTube wallpaper, Banner xianxia.
+
+────────────────────────────────────────────────────────────────
+🟦 9:16 (TikTok / Reels) — File: day-17-c3-916-immortal-mountains.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách Studio Ghibli kết hợp xianxia Trung Quốc
+landscape, về dãy núi tiên bí cảnh Trung Hoa cổ đại buổi sáng sớm sương mù,
+hàng chục núi đá xanh xám cao vươn lên từ biển mây trắng cuồn cuộn bồng bềnh,
+một số đỉnh núi phủ tuyết trắng, các núi có hình thù độc đáo với cây cổ tùng
+già rễ uốn lượn bám vách đá, vài thác nước lớn chảy từ đỉnh núi xuống
+vực thẳm tạo sương mù, sương mù mỏng dày quấn quanh các chân núi tiên.
+
+Trên đỉnh núi cao nhất chính giữa ảnh là một ngôi đền tu tiên cổ kiến trúc
+Trung Quốc đời Tang truyền thống với mái cong vàng đỏ nhiều tầng, cột gỗ đỏ
+chạm rồng phượng, biển hiệu chữ Hán cổ vàng treo cao, đèn lồng đỏ treo dây
+quanh đền, vài bậc cầu thang đá rộng dẫn lên đền từ chân núi, một dòng suối
+ngọc bích chảy bên cạnh đền, vài hạc tiên trắng cánh dài bay lượn quanh đền
+tự do, cầu vồng nhỏ xuất hiện ở thác nước.
+
+Phong cách 3D animation Studio Ghibli landscape + Chinese xianxia aesthetic
+3D, render mượt mịn chất lượng phim hoạt hình theatrical, texture đá núi
+chi tiết với rêu xanh và cây cổ tùng, water shader chân thực với gợn sóng
+và phản chiếu, atmospheric perspective xa mờ dần xanh xám, sky gradient
+cam vàng bình minh đến xanh nhạt, chất lượng cinematic film Bạch Xà
+White Snake quality.
+
+Ánh sáng cinematic ethereal golden hour bình minh xianxia, key light từ
+mặt trời mọc bên phải chân trời tạo ánh vàng cam phủ trên đỉnh núi và đền,
+rim light cam quanh viền các núi tiên tạo halo divine, fill light xanh nhẹ
+từ biển mây phản chiếu, volumetric god rays mạnh xuyên qua sương mù tạo
+light beams huyền ảo magical, mist effect dày quấn các núi xa atmospheric,
+mood spiritual peaceful immortal magical.
+
+Tỉ lệ ảnh dọc 9:16 (1080x1920px) chuẩn TikTok aesthetic wallpaper xianxia.
+Bố cục dọc cinematic vertical landscape: đền cổ trên đỉnh núi cao nhất
+ở 1/3 giữa ảnh làm focal point, các núi tiên xếp dọc theo chiều cao
+2/3 trên ảnh với núi gần lớn ở giữa và xa nhỏ dần, biển mây trắng cuồn cuộn
+chiếm 1/3 dưới, mặt trời mọc bình minh ở 1/3 trên góc phải, hạc tiên
+bay tạo motion lines, cầu thang đá dẫn lên đền tạo leading line dọc,
+khoảng trống bottom 10% cho text overlay "Tiên Cảnh" hoặc "Tu Tiên Đắc Đạo".
+
+Camera low angle slight nhìn lên đền, focal length 35mm wide,
+distance medium-far 50 mét, framing wide landscape vertical,
+depth of field f/8 giữ cả landscape sharp, focus sharp on đền cổ
+và núi gần nhất, foreground sương mù mềm.
+
+Negative: realistic photograph, real photo, plain photography, drone shot,
+modern building, modern Chinese skyscraper, cyberpunk, flat 2D anime,
+dark scary, dirty pollution, low quality, brand logo, modern clothing,
+tourists visible.
+
+────────────────────────────────────────────────────────────────
+🟧 16:9 (YouTube Wallpaper) — File: day-17-c3-169-immortal-mountains.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách Studio Ghibli kết hợp xianxia Trung Quốc
+landscape panorama, về dãy núi tiên bí cảnh Trung Hoa cổ đại buổi sáng sớm
+sương mù wide cinematic, hàng chục núi đá xanh xám cao vươn lên từ biển mây
+trắng kéo dài suốt khung hình tạo panorama epic, một số đỉnh phủ tuyết trắng,
+các núi có hình thù độc đáo với cây cổ tùng già rễ uốn lượn bám vách đá,
+nhiều thác nước lớn chảy từ đỉnh xuống vực thẳm tạo sương mù dày, sương mù
+mỏng quấn quanh chân các núi tiên tạo layer depth atmospheric.
+
+Trên đỉnh núi cao nhất ở 1/3 phải khung hình là ngôi đền tu tiên cổ kiến trúc
+Tang truyền thống nhiều tầng với mái cong vàng đỏ, cột gỗ đỏ chạm rồng phượng,
+biển hiệu chữ Hán vàng cổ treo cao, đèn lồng đỏ treo dây quanh đền, cầu thang
+đá dài uốn lượn dẫn lên đền từ chân núi, dòng suối ngọc bích chảy bên,
+đoàn hạc tiên trắng cánh dài bay xếp chữ V từ trái qua phải, cầu vồng nhỏ
+xuất hiện ở thác nước, vài cánh hoa đào hồng bay trong không khí.
+
+Phong cách 3D animation Studio Ghibli + Chinese xianxia 3D landscape
+cinematic theatrical, render mượt mịn, texture đá núi chi tiết, water shader
+chân thực phản chiếu gợn sóng nhẹ, atmospheric perspective xa mờ, sky gradient
+cam vàng đến xanh nhạt, chất lượng cinematic film Bạch Xà White Snake
+theatrical wide quality.
+
+Ánh sáng cinematic ethereal golden hour bình minh xianxia panorama dramatic,
+key light từ mặt trời mọc bên phải chân trời tạo ánh vàng cam phủ panoramic
+trên các đỉnh núi và đền cổ, rim light cam quanh các núi tạo halo divine
+chain liên tục, fill light xanh nhẹ từ biển mây, volumetric god rays mạnh
+horizontal qua sương mù tạo light beams epic, mist effect dày multiple layers,
+mood spiritual peaceful immortal magical wide cinematic.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) chuẩn YouTube wallpaper / banner xianxia.
+Bố cục ngang panorama wide epic: đền cổ Trung Hoa ở 1/3 phải làm focal point
+chính (rule of thirds), 2/3 trái mở ra dãy núi tiên kéo dài về xa với
+perspective, biển mây trắng chiếm 1/3 dưới ảnh, mặt trời mọc bình minh ở
+1/3 phải chân trời, hạc tiên bay tạo leading line từ trái qua phải dẫn vào đền,
+thác nước tạo vertical lines accent, bầu trời gradient chiếm 1/2 trên,
+cây cổ tùng foreground bên trái tạo depth.
+
+Camera eye-level slight low, focal length 24mm ultra-wide cinematic,
+distance medium-far 50 mét, framing ultra-wide landscape panorama,
+depth of field f/11 giữ cả landscape sharp, focus sharp toàn cảnh,
+foreground cây tùng tạo natural framing.
+
+Negative: realistic photograph, real photo, plain photography, drone shot,
+modern building skyscraper, cyberpunk neon, flat 2D anime, dark scary,
+dirty pollution, low quality, brand logo, modern tourists, modern infrastructure.
+
+═══════════════════════════════════════════════════════════════
+CONCEPT 4 — Rồng Trung Hoa cuộn quanh ngọc minh châu
+       Inspired by: Ne Zha 2 dragon design (Ao Shun, Ao Bing)
+═══════════════════════════════════════════════════════════════
+
+🎨 Concept: Rồng Trung Hoa khổng lồ màu xanh lục bảo cuộn quanh viên ngọc
+minh châu khổng lồ phát sáng, trong cơn bão tố mây đen.
+
+Use case: YouTube thumbnail epic action, Promo Tết, Banner mythology.
+
+────────────────────────────────────────────────────────────────
+🟦 9:16 (TikTok / Reels) — File: day-17-c4-916-dragon-pearl.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách Ne Zha 2 official mythology kết hợp Marvel
+cinematic 3D, về rồng Trung Hoa khổng lồ truyền thống dài 50 mét màu xanh
+lục bảo emerald với vảy phát quang xanh-vàng kim loại chi tiết từng vảy,
+sừng dài vàng xoắn ốc trên đầu, đôi mắt đỏ rực phách lực đầy uy nghiêm,
+râu dài bạc bay phấp phới, hai bộ móng vàng sắc nhọn 5 ngón, đuôi dài uốn lượn
+như sông tiên với vây vàng đỏ, mõm rồng há ra để lộ răng nanh trắng dài
+và lưỡi đỏ, miệng rồng phun ra hơi sương xanh lục bảo nhẹ.
+
+Rồng cuộn xoắn ốc theo chiều dọc quanh viên ngọc minh châu khổng lồ
+đường kính 5 mét đang phát sáng vàng-trắng intense ở giữa thân rồng,
+ngọc minh châu có pattern hoa văn cổ Trung Quốc bên trong tỏa ra,
+ánh sáng vàng từ ngọc lan tỏa ra mọi hướng tạo god rays divine intense,
+xung quanh là cơn bão tố mây đen dày cuồn cuộn cao trên trời, sấm chớp
+xé ngang trời tạo lightning bolt patterns, vài đám mây tiên màu vàng
+phía xa, không gian cao hùng vĩ heaven realm.
+
+Phong cách 3D animation Ne Zha 2 official Chinese mythology dragon design
++ Marvel cinematic 3D quality, texture vảy rồng hyperdetailed kim loại
+phản chiếu, fur shader cho râu rồng, ray-traced lighting với specular
+reflection trên vảy, chromatic aberration nhẹ cinematic, motion blur thân
+rồng cuộn, particle effect ngọc châu phát sáng, chất lượng theatrical
+Ne Zha 2 quality.
+
+Ánh sáng dramatic mythology epic divine, key light từ ngọc minh châu trung tâm
+chiếu omnidirectional tạo god rays vàng-trắng intense, rim light xanh emerald
+quanh thân rồng từ aura tự nhiên, fill light đỏ nhẹ từ mắt rồng, volumetric
+light dày qua mây bão và mưa nhẹ tạo god rays atmospheric, multiple lightning
+flash dramatic, mood epic divine mythology powerful, color palette emerald
+green + gold pearl + dark storm contrast cao.
+
+Tỉ lệ ảnh dọc 9:16 (1080x1920px) chuẩn TikTok mythology epic content.
+Bố cục dọc dramatic vertical: rồng cuộn xoắn ốc theo chiều dọc khung hình,
+đầu rồng ở 1/3 trên với mõm hướng về ngọc châu, ngọc minh châu phát sáng ở
+1/3 giữa làm focal point trung tâm, đuôi rồng cuốn xoắn ở 1/3 dưới,
+mây bão cuồn cuộn fill background, lightning bolts tạo dynamic vertical lines,
+ánh vàng từ ngọc lan tỏa khắp khung hình, khoảng trống bottom 10% cho
+text "Long Hổ Hội" hoặc "Thiên Mệnh".
+
+Camera low angle slight (nhìn lên rồng), focal length 35mm wide,
+distance medium-far 8 mét, framing full dragon coiled vertical,
+depth of field f/4 giữ rồng và ngọc sharp, focus sharp on đầu rồng và ngọc,
+mây bão background bokeh dramatic.
+
+Negative: photorealistic photograph, real photo, plain photography, Western
+dragon, fire-breathing dragon, evil scary monster, low quality dragon, flat 2D,
+mặt rồng méo, vảy không tự nhiên, brand logo, modern setting.
+
+────────────────────────────────────────────────────────────────
+🟧 16:9 (YouTube Banner) — File: day-17-c4-169-dragon-pearl.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách Ne Zha 2 official Chinese mythology
++ Marvel cinematic 3D, về rồng Trung Hoa khổng lồ dài 80 mét màu xanh
+lục bảo emerald với vảy phát quang xanh-vàng kim loại chi tiết từng vảy,
+sừng dài vàng xoắn ốc trên đầu, đôi mắt đỏ rực phách lực, râu dài bạc
+bay phấp phới, hai bộ móng vàng sắc nhọn 5 ngón, đuôi dài uốn lượn vây
+vàng đỏ, mõm rồng há lộ răng nanh trắng và lưỡi đỏ, miệng phun hơi sương
+xanh lục bảo, thân rồng kéo dài uốn lượn ngang khung hình.
+
+Rồng uốn lượn theo chiều ngang panoramic quanh viên ngọc minh châu khổng lồ
+đường kính 8 mét đang phát sáng vàng-trắng intense ở 1/3 phải khung hình,
+ngọc minh châu có pattern hoa văn cổ Trung Quốc, ánh sáng vàng lan tỏa
+god rays divine epic, xung quanh là cơn bão tố mây đen dày cuồn cuộn
+panoramic full sky, sấm chớp xé ngang trời nhiều bolts, đám mây tiên vàng
+phía xa, một vài cung điện thiên cung mờ trong mây xa background, không gian
+cao hùng vĩ heaven realm wide cinematic.
+
+Phong cách 3D animation Ne Zha 2 official mythology + Marvel cinematic
+theatrical wide, texture vảy rồng hyperdetailed kim loại reflective, fur
+shader râu rồng, ray-traced lighting specular reflection, chromatic aberration
+cinematic, motion blur thân rồng và mây, particle effect ngọc và lightning,
+chất lượng theatrical Ne Zha 2 movie poster wide quality.
+
+Ánh sáng cinematic dramatic mythology epic divine wide, key light từ ngọc
+minh châu phải chiếu horizontal tạo strong god rays vàng-trắng dramatic
+diagonal, rim light xanh emerald quanh thân rồng từ aura, fill light đỏ
+nhẹ mắt rồng, volumetric light dày panoramic qua mây bão và mưa nhẹ tạo
+multiple god rays, dramatic lightning flash multiple, mood epic divine
+mythology powerful theatrical, color palette emerald-gold-storm contrast.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) chuẩn YouTube banner / movie poster.
+Bố cục ngang epic cinematic poster style: ngọc minh châu phát sáng ở 1/3
+phải làm focal point chính, 2/3 trái mở ra thân rồng uốn lượn dài ngang
+tạo S-curve cinematic, đầu rồng ở 1/3 phải gần ngọc châu, đuôi rồng tạo
+leading line từ trái qua phải dẫn vào ngọc châu, mây bão cuồn cuộn fill
+3/4 background, lightning bolts horizontal accent, ánh vàng từ ngọc spread
+qua mây tạo atmospheric lighting.
+
+Camera medium-low angle, focal length 24mm ultra-wide cinematic,
+distance medium 15 mét, framing wide panoramic dragon S-curve,
+depth of field f/5.6 giữ rồng và ngọc sharp, focus sharp on đầu rồng
+và ngọc châu, mây bão bokeh dramatic atmospheric.
+
+Negative: photorealistic photograph, real photo, plain photography, Western
+dragon, fire-breathing dragon, evil scary monster, low quality, flat 2D,
+mặt rồng méo, vảy không đều, brand logo, modern setting, cartoon childish.
+
+═══════════════════════════════════════════════════════════════
+CONCEPT 5 — Chàng trai cultivator phi kiếm
+       Inspired by: Phàm Nhân Tu Tiên main character (Han Li)
+═══════════════════════════════════════════════════════════════
+
+🎨 Concept: Cultivator nam thâm trầm phi kiếm trên biển mây, hanfu xám đen,
+mắt sâu thâm trầm — xianxia hero classic.
+
+Use case: YouTube thumbnail xianxia, TikTok hero shot, Wallpaper.
+
+────────────────────────────────────────────────────────────────
+🟦 9:16 (TikTok / Reels) — File: day-17-c5-916-cultivator-flying.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách Phàm Nhân Tu Tiên official Chinese xianxia
+3D animation kết hợp Pixar render quality, về chàng trai Trung Quốc tu tiên
+25 tuổi mặt sharp angular điển trai cool, mái tóc đen dài búi cao kiểu tu tiên
+cổ trang có cài ngọc bích xanh và trâm vàng, đôi mắt sharp đen sâu thâm trầm
+kiên định lạnh lùng, lông mày dày đậm, hàm vuông góc, mặc hanfu xám đen dài
+nhiều tầng có thêu hoa văn vàng cổ đại trên ngực và cổ áo, đai lưng vải đen
+có khắc văn tự Hán vàng, áo choàng xám tối bay phấp phới phía sau, đứng nghiêng
+thẳng người vững chãi pose tu tiên.
+
+Chàng trai đứng trên thanh kiếm phi (flying sword) ngọc bích xanh phát quang
+xanh nhạt soft glow đang lơ lửng trên không, kiếm phi qua biển mây trắng
+cuồn cuộn bồng bềnh, phía xa là dãy núi tiên cao nhấp nhô mờ trong sương mù
+xianxia, vài hạc tiên trắng bay lượn xa, một vài đảo tiên (floating islands)
+nhỏ phía xa, bầu trời trên cao xanh tím nhạt với mây tiên màu nhẹ.
+
+Phong cách 3D animation Phàm Nhân Tu Tiên official + Pixar render cinematic,
+hanfu vải lụa texture chi tiết với từng nếp gấp tự nhiên, da nhân vật
+sub-surface scattering tự nhiên hơi nhợt nhạt cool tone, ray-traced lighting,
+tóc strand-based realistic chi tiết, kiếm phi có specular highlight và glow,
+chất lượng cinematic film hoạt hình tu tiên Phàm Nhân Tu Tiên theatrical.
+
+Ánh sáng cinematic xianxia cool tone mystical, key light từ phía trên trái
+mô phỏng ánh sáng tiên cao tạo highlight nhẹ trên đầu và vai, rim light
+xanh cyan từ kiếm và biển mây tạo viền cool quanh người, fill light xám tím
+nhẹ từ trời, volumetric god rays nhẹ qua mây tiên tạo light beams atmospheric,
+sword glow xanh ngọc bích, mood spiritual cold determined immortal cultivation,
+color palette xám đen + cyan + cloud white + dark sky purple.
+
+Tỉ lệ ảnh dọc 9:16 (1080x1920px) chuẩn TikTok xianxia hero content.
+Bố cục dọc cinematic vertical: chàng trai full body đứng trên kiếm chiếm
+1/3 giữa ảnh pose vững, đầu chàng trai ở 1/3 trên, kiếm phi bên dưới chân
+ở 1/3 dưới với glow trail, biển mây trắng cuồn cuộn fill background,
+núi tiên xa ở 1/4 dưới ngoài kiếm, áo choàng bay tạo motion line dọc,
+khoảng trống bottom 15% cho text "Tu Tiên Đắc Đạo" hoặc "Thiếu Niên Cao Thủ".
+
+Camera eye-level slight low (góc thấp anh hùng), focal length 50mm portrait,
+distance medium 3 mét, framing full body pose vững,
+depth of field f/2.8 shallow giữ chàng trai sharp, mây và núi background
+bokeh atmospheric, focus sharp on mặt và kiếm.
+
+Negative: photorealistic photograph, real human portrait photo, plain
+photography, modern clothing jeans, modern setting urban, cyberpunk neon,
+flat 2D anime, low quality, mặt méo, ngón tay biến dạng, body framing
+gợi cảm, female character, brand logo, makeup glamorous.
+
+────────────────────────────────────────────────────────────────
+🟧 16:9 (YouTube Cinematic) — File: day-17-c5-169-cultivator-flying.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách Phàm Nhân Tu Tiên official Chinese xianxia
+3D animation + Pixar cinematic render, về chàng trai Trung Quốc tu tiên
+25 tuổi mặt sharp angular điển trai cool, mái tóc đen dài búi cao kiểu
+tu tiên có cài ngọc bích và trâm vàng, đôi mắt sharp đen sâu thâm trầm
+kiên định lạnh lùng, lông mày dày đậm, hàm vuông góc, mặc hanfu xám đen dài
+nhiều tầng có thêu hoa văn vàng cổ đại, đai lưng vải đen khắc văn tự Hán,
+áo choàng xám tối bay phấp phới sau lưng theo gió tiên, đứng nghiêng pose
+tu tiên dramatic powerful.
+
+Chàng trai đứng nghiêng ở 1/3 trái khung hình trên thanh kiếm phi ngọc bích
+xanh phát quang lơ lửng trên không, 2/3 phải mở ra view biển mây trắng cuồn
+cuộn rộng panoramic kéo dài về xa, dãy núi tiên cao nhấp nhô mờ trong sương mù
+xianxia ở chân trời, đoàn hạc tiên trắng bay xếp chữ V từ phải qua trái,
+nhiều đảo tiên (floating islands) nhỏ rải rác phía xa với cây cổ tùng và
+đền nhỏ trên đảo, bầu trời cao xanh tím với mây tiên màu nhẹ và mặt trời
+mờ ở 1/3 phải.
+
+Phong cách 3D animation Phàm Nhân Tu Tiên official + Pixar cinematic theatrical,
+hanfu vải lụa texture detailed nếp gấp tự nhiên, da sub-surface scattering
+cool tone, ray-traced lighting, tóc strand-based, kiếm phi specular highlight
+glow, chromatic aberration cinematic nhẹ, atmospheric perspective xa mờ,
+chất lượng cinematic theatrical Phàm Nhân Tu Tiên wide quality.
+
+Ánh sáng cinematic xianxia cool tone mystical wide dramatic, key light từ
+mặt trời mờ bên phải chiếu xuyên mây tạo god rays nhẹ horizontal, rim light
+xanh cyan từ kiếm và biển mây quanh chàng trai, fill light xám tím từ trời,
+volumetric god rays dày panoramic qua mây tiên tạo light beams atmospheric
+multiple, sword glow xanh ngọc bích, mood spiritual cold determined immortal
+cultivation epic wide, color palette xám-đen + cyan + cloud-white + sky purple
++ accent gold sun.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) chuẩn YouTube xianxia cinematic banner.
+Bố cục ngang epic cinematic: chàng trai pose vững ở 1/3 trái rule of thirds,
+2/3 phải mở ra biển mây và núi tiên rộng panoramic, kiếm phi dưới chân tạo
+horizontal accent, hạc tiên bay tạo leading line từ phải qua trái dẫn vào
+chàng trai, đảo tiên rải rác làm support depth, bầu trời gradient chiếm
+1/2 trên, biển mây 1/3 dưới, áo choàng bay tạo motion line.
+
+Camera eye-level slight low, focal length 35mm cinematic wide,
+distance medium-wide 5 mét, framing medium-full shot từ pelvis lên đầu,
+depth of field f/4 giữ chàng trai sharp, biển mây và núi tiên background
+bokeh atmospheric soft, focus sharp on mặt và kiếm.
+
+Negative: photorealistic photograph, real human portrait, plain photography,
+modern clothing, modern setting, cyberpunk, flat 2D anime, low quality,
+mặt méo, ngón tay biến dạng, body framing, female character, brand logo,
+makeup, weapon graphic.
+
+═══════════════════════════════════════════════════════════════
+CONCEPT 6 — Master + đệ tử xianxia trong động bí cảnh
+       Inspired by: When Destiny Brings the Demon, Master-Disciple
+═══════════════════════════════════════════════════════════════
+
+🎨 Concept: Master xianxia + đệ tử trẻ trong động bí cảnh, ancient cultivation
+setting, master-disciple dynamic emotional.
+
+Use case: YouTube thumbnail emotional xianxia, TikTok atmospheric.
+
+────────────────────────────────────────────────────────────────
+🟦 9:16 (TikTok / Reels) — File: day-17-c6-916-master-disciple.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách When Destiny Brings the Demon kết hợp
+Studio Ghibli + Pixar 3D xianxia atmospheric, về 2 nhân vật trong động bí cảnh
+tu tiên cổ đại Trung Quốc. Master tu tiên 50 tuổi tóc đen dài có pha bạc búi
+cao có cài ngọc bích xanh, beard nhẹ thâm trầm, mặc hanfu xanh đậm dài nhiều
+tầng có thêu hoa văn vàng và mây tiên bạc, áo choàng vàng kim phía ngoài, đai
+lưng văn tự, đứng vững nghiêm chỉnh hai tay chắp sau lưng, mặt thâm trầm
+hiền từ. Đệ tử 18 tuổi mặc hanfu trắng đơn giản, tóc đen dài búi nhẹ, mặt
+trẻ trung kính cẩn, quỳ một gối chân đối diện master, hai tay cầm cuốn sách
+cổ Hán có chữ vàng cổ, đầu cúi nhẹ học bài.
+
+Hai nhân vật đứng/quỳ trong động bí cảnh tu tiên cổ đại với thác nước nhỏ
+chảy xuống hồ ngọc bích phía sau master, nước trong vắt phản chiếu, vài
+cây cổ tùng trong động với rễ uốn lượn bám đá, đèn lồng đỏ vàng treo dây
+quanh động tạo ánh sáng warm, đá ngọc bích xanh tự nhiên trên vách động,
+văn tự Hán cổ vàng khắc trên tường đá rêu xanh, vài cuộn giấy tu tiên
+trải trên bàn đá thấp, đĩa hương trầm cháy nhẹ tạo khói mờ, vài cánh hoa đào
+hồng bay nhẹ, ánh sáng tiên ấm bao trùm.
+
+Phong cách 3D animation When Destiny Brings the Demon + Studio Ghibli +
+Pixar 3D xianxia atmospheric, hanfu vải lụa texture chi tiết, da nhân vật
+sub-surface scattering tự nhiên, ray-traced lighting, water shader thác nước
+chân thực phản chiếu, fur shader cho beard và tóc, chất lượng cinematic
+xianxia film theatrical Bạch Xà White Snake quality.
+
+Ánh sáng cinematic xianxia warm spiritual ethereal, key light từ đèn lồng
+đỏ vàng phía trên chiếu xuống ấm áp tạo highlight trên master và đệ tử,
+rim light vàng nhẹ quanh viền hai nhân vật từ đèn lồng, fill light xanh
+nhẹ từ ngọc bích đá phản chiếu, volumetric light qua khói trầm tạo god rays
+atmospheric mystical, water reflection thác nước tạo movement light, mood
+spiritual emotional master-disciple sacred peaceful, color palette warm gold
++ deep emerald + earth brown + accent jade green.
+
+Tỉ lệ ảnh dọc 9:16 (1080x1920px) chuẩn TikTok atmospheric xianxia content.
+Bố cục dọc cinematic vertical: master đứng vững ở 1/3 trên ảnh nghiêng nhẹ,
+đệ tử quỳ ở 1/3 giữa ảnh đối diện master, thác nước chảy phía sau master
+ở 1/3 trên fill background, hồ ngọc bích ở 1/3 dưới với cuộn giấy và bàn đá,
+đèn lồng đỏ vàng treo ở góc trên tạo focal warm light, văn tự Hán trên
+tường đá tạo background detail, hoa đào bay tạo motion, khoảng trống bottom
+10% cho text "Sư Phụ" hoặc "Tu Tiên Đường".
+
+Camera eye-level slight low (giữa hai nhân vật), focal length 35mm,
+distance close-medium 3 mét, framing medium-full shot cả hai nhân vật,
+depth of field f/2.8 shallow giữ hai nhân vật sharp, foreground hương trầm
+khói nhẹ và background thác nước bokeh soft, focus sharp on mặt master
+và đệ tử.
+
+Negative: photorealistic photograph, real human photo, plain photography,
+modern clothing, modern setting, cyberpunk neon, flat 2D anime, dark scary
+horror, low quality, mặt méo, ngón tay biến dạng, body framing gợi cảm,
+brand logo, modern technology, female character romance.
+
+────────────────────────────────────────────────────────────────
+🟧 16:9 (YouTube Cinematic) — File: day-17-c6-169-master-disciple.png
+────────────────────────────────────────────────────────────────
+
+Tạo ảnh hoạt hình 3D phong cách When Destiny Brings the Demon + Studio Ghibli
++ Pixar 3D xianxia atmospheric wide cinematic, về 2 nhân vật trong động bí cảnh
+tu tiên cổ đại Trung Quốc. Master tu tiên 50 tuổi tóc đen dài pha bạc búi cao
+có cài ngọc bích xanh, beard nhẹ thâm trầm, mặc hanfu xanh đậm nhiều tầng
+có thêu hoa văn vàng và mây tiên bạc, áo choàng vàng kim ngoài, đai lưng
+văn tự, đứng vững nghiêm chỉnh hai tay chắp sau lưng, mặt thâm trầm hiền từ.
+Đệ tử 18 tuổi mặc hanfu trắng đơn giản, tóc đen dài búi nhẹ, mặt trẻ kính cẩn,
+quỳ một gối chân đối diện master ở phía bên trái master, hai tay cầm cuốn sách
+cổ Hán chữ vàng, đầu cúi nhẹ.
+
+Hai nhân vật ở 1/3 phải khung hình trong động bí cảnh tu tiên cổ đại rộng
+panoramic, 2/3 trái mở ra view động rộng với thác nước lớn chảy từ trên cao
+xuống hồ ngọc bích bên trái, nước trong vắt phản chiếu, vài cây cổ tùng cổ
+trong động với rễ uốn lượn bám đá vách, đèn lồng đỏ vàng treo dây dài quanh
+động, đá ngọc bích xanh tự nhiên trên vách, văn tự Hán cổ vàng khắc trên
+tường đá rêu xanh nhiều, các cuộn giấy tu tiên trải trên bàn đá thấp, đĩa
+hương trầm cháy tạo khói mờ, cánh hoa đào hồng bay rải rác, vài đèn dầu
+mờ phía xa, không gian rộng cao linh thiêng wide.
+
+Phong cách 3D animation When Destiny Brings the Demon + Studio Ghibli +
+Pixar cinematic theatrical wide, hanfu vải lụa texture detailed, sub-surface
+scattering da, ray-traced lighting, water shader thác nước chi tiết,
+chromatic aberration cinematic, atmospheric perspective xa mờ,
+chất lượng cinematic xianxia film theatrical Bạch Xà White Snake wide quality.
+
+Ánh sáng cinematic xianxia warm spiritual ethereal wide dramatic, key light
+từ đèn lồng đỏ vàng và đèn dầu phía trên/xa chiếu warm tạo highlight
+multiple trên hai nhân vật và động, rim light vàng quanh viền hai nhân vật,
+fill light xanh nhẹ từ ngọc bích và water reflection, volumetric light dày
+qua khói trầm và sương động tạo strong god rays atmospheric mystical,
+multiple lantern warm spots, mood spiritual emotional master-disciple
+sacred peaceful epic, color palette warm gold + deep emerald + earth brown
++ jade green wide.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) chuẩn YouTube cinematic xianxia banner.
+Bố cục ngang epic cinematic: master và đệ tử ở 1/3 phải khung hình tạo
+focal point chính, 2/3 trái mở ra động rộng với thác nước cao tạo vertical
+accent, hồ ngọc bích phía trái bên dưới, đèn lồng treo dây từ trái qua phải
+tạo leading line warm, văn tự Hán trên tường đá làm background texture,
+cuộn giấy và bàn đá ở foreground, hoa đào bay khắp khung hình, depth của
+động xa với đèn dầu mờ.
+
+Camera eye-level slight low, focal length 24mm ultra-wide cinematic,
+distance medium 5 mét, framing wide cinematic 2 nhân vật trong động,
+depth of field f/4 giữ động sharp một phần, focus sharp on master và đệ tử,
+foreground hương trầm khói và background thác nước bokeh soft atmospheric.
+
+Negative: photorealistic photograph, real human photo, plain photography,
+modern clothing, modern setting, cyberpunk neon, flat 2D anime, dark scary
+horror, low quality, mặt méo, ngón tay biến dạng, body framing,
+brand logo, modern technology, female character romance.
+
+═══════════════════════════════════════════════════════════════
+🎭 BONUS — CHARACTER SHEET (giữ nhân vật consistent)
+═══════════════════════════════════════════════════════════════
+
+📚 KHÁI NIỆM:
+Character sheet (model sheet) là ảnh tham khảo chuẩn của 1 nhân vật từ
+nhiều góc + nhiều biểu cảm + nhiều pose. Dùng để giữ nhân vật consistent
+qua 30+ ảnh content (series xianxia, brand mascot, vlog persona).
+
+🎯 USE CASE:
+- Series TikTok 30 tập với cùng 1 nhân vật xianxia
+- Brand mascot kênh (cùng cô gái xuất hiện ở mọi video thumbnail)
+- Vlog persona avatar 3D
+- Tarot deck Vietnamese 78 lá consistent style
+
+💡 2 CÁCH DÙNG:
+1. Single image character sheet (test 1 prompt → 1 ảnh chứa nhiều view)
+2. Image edit với reference (generate hero ảnh → upload làm ref cho scene mới)
+
+⚠️ Bonus prompts dưới đây tạo SINGLE IMAGE character sheet cho 2 character
+chính của Day 17. Sau khi có character sheet, các bạn có thể dùng cách 2
+(image edit) để tạo nhiều scene khác nhau với cùng nhân vật.
+
+────────────────────────────────────────────────────────────────
+🎭 BONUS 1 — Character Sheet C1 Cô gái xianxia hanfu trắng
+File: day-17-bonus-c1-character-sheet-girl.png (ratio 16:9)
+────────────────────────────────────────────────────────────────
+
+Tạo character sheet (model sheet) hoạt hình 3D phong cách Phàm Nhân Tu Tiên
++ Pixar render quality, về cô gái Trung Quốc tu tiên 22 tuổi mặc hanfu
+trắng tinh khiết dài có thêu họa tiết hoa văn ngọc bích xanh nhạt và mây
+tiên bạc, tóc đen dài búi cao kiểu cổ trang có cài trâm bạc khắc rồng phượng,
+dải lụa trắng bay phấp phới sau lưng, đôi mắt sáng long lanh nâu hổ phách
+thanh tịnh kiên định, nụ cười nhẹ điềm tĩnh, cổ đeo dây ngọc bích treo
+bùa tiên, da trắng mịn sub-surface scattering tự nhiên.
+
+Layout character sheet turnaround chuẩn animation production reference:
+- 4 view chính xếp hàng ngang từ trái qua phải:
+  • Front view (góc nhìn trực diện) — đứng thẳng pose neutral
+  • 3/4 left view (3/4 nghiêng trái) — pose nghiêng nhẹ
+  • Side profile view (nhìn nghiêng) — pose đứng nghiêng vén tà áo
+  • 3/4 right view (3/4 nghiêng phải) — pose nâng kiếm
+- Hàng dưới có 3 expression close-up bust shot:
+  • Neutral calm (bình thản)
+  • Smile gentle (cười dịu)
+  • Intense focused (nghiêm chuyên chú)
+- Góc dưới phải có close-up details:
+  • Hanfu pattern detail (hoa văn ngọc bích cận cảnh)
+  • Trâm bạc khắc rồng phượng cận cảnh
+  • Kiếm trường ngọc bích cận cảnh
+
+Phong cách 3D animation Phàm Nhân Tu Tiên + Pixar character design reference
+sheet quality, hanfu vải lụa texture chi tiết, da sub-surface scattering tự
+nhiên, ray-traced lighting, tóc strand-based, character bible reference style,
+3D animation production reference quality, model sheet for animation studio,
+turnaround sheet layout chuẩn, character design reference layout.
+
+Background: white plain studio background pure clean, không có distraction,
+focus 100% trên character details, không có setting environment.
+
+Lighting: studio lighting đều mượt soft từ 4 góc, key light từ phía trên
+trước nhẹ, fill light đều xung quanh tránh shadow đậm, neutral white light,
+mood character reference clean professional, không có dramatic god rays
+hay atmospheric effects, just clean character display.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) chuẩn character sheet animation reference.
+Bố cục: 4 view chính chia hàng ngang chiếm 2/3 trên ảnh, 3 expression bust
++ outfit close-up chia hàng ngang chiếm 1/3 dưới, có viền nhẹ phân chia
+khu vực, tên character "Xianxia Girl - Linh Nhi" ghi nhỏ phía dưới mỗi view
+bằng chữ Hán hoặc text English.
+
+Negative: photorealistic photograph, real human photo, plain photography,
+modern clothing, modern setting, cyberpunk neon, flat 2D anime, low quality,
+mặt méo qua các view, tỉ lệ không nhất quán giữa các view, body framing
+gợi cảm, hanfu bó sát, makeup glamorous, brand logo, dramatic background,
+god rays, scenic background.
+
+────────────────────────────────────────────────────────────────
+🎭 BONUS 2 — Character Sheet C5 Chàng trai cultivator phi kiếm
+File: day-17-bonus-c5-character-sheet-boy.png (ratio 16:9)
+────────────────────────────────────────────────────────────────
+
+Tạo character sheet (model sheet) hoạt hình 3D phong cách Phàm Nhân Tu Tiên
+official + Pixar render quality, về chàng trai Trung Quốc tu tiên 25 tuổi
+mặt sharp angular điển trai cool, mái tóc đen dài búi cao kiểu tu tiên cổ
+trang có cài ngọc bích xanh và trâm vàng, đôi mắt sharp đen sâu thâm trầm
+kiên định lạnh lùng, lông mày dày đậm, hàm vuông góc, mặc hanfu xám đen dài
+nhiều tầng có thêu hoa văn vàng cổ đại trên ngực và cổ áo, đai lưng vải đen
+có khắc văn tự Hán vàng, áo choàng xám tối phía sau, da nhợt nhạt cool tone
+sub-surface scattering tự nhiên.
+
+Layout character sheet turnaround chuẩn animation production reference:
+- 4 view chính xếp hàng ngang từ trái qua phải:
+  • Front view (góc nhìn trực diện) — đứng thẳng pose neutral
+  • 3/4 left view (3/4 nghiêng trái) — pose nghiêng cool
+  • Side profile view (nhìn nghiêng) — pose tu tiên thiền
+  • 3/4 right view (3/4 nghiêng phải) — pose phi kiếm hành động
+- Hàng dưới có 3 expression close-up bust shot:
+  • Neutral cold (lạnh lùng bình thản)
+  • Intense focused (sắc bén chuyên chú)
+  • Sword cultivation determined (kiên quyết tu kiếm)
+- Góc dưới phải có close-up details:
+  • Hanfu xám đen pattern detail (hoa văn vàng cận cảnh)
+  • Đai lưng văn tự Hán cận cảnh
+  • Kiếm phi (flying sword) ngọc bích phát quang xanh cận cảnh
+
+Phong cách 3D animation Phàm Nhân Tu Tiên official + Pixar character design
+reference sheet quality, hanfu vải lụa texture chi tiết với từng nếp gấp,
+da sub-surface scattering cool tone tự nhiên, ray-traced lighting, tóc
+strand-based realistic, character bible reference style, 3D animation
+production reference quality, model sheet for animation studio,
+turnaround sheet layout chuẩn, character design reference layout.
+
+Background: white plain studio background pure clean, không có distraction,
+focus 100% trên character details, không có scenic environment.
+
+Lighting: studio lighting đều mượt soft từ 4 góc, key light từ phía trên
+trước nhẹ, fill light đều xung quanh tránh shadow đậm, neutral white light
+slight cool tone, mood character reference clean professional cool,
+không có dramatic god rays, just clean character display reference.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) chuẩn character sheet animation reference.
+Bố cục: 4 view chính chia hàng ngang chiếm 2/3 trên ảnh, 3 expression bust
++ outfit close-up chia hàng ngang chiếm 1/3 dưới, có viền nhẹ phân chia
+khu vực, tên character "Cultivator - Hàn Lập" ghi nhỏ phía dưới mỗi view
+bằng chữ Hán hoặc text English, label cho từng view.
+
+Negative: photorealistic photograph, real human photo, plain photography,
+modern clothing, modern setting, cyberpunk neon, flat 2D anime, low quality,
+mặt méo qua các view, tỉ lệ không nhất quán, body framing, brand logo,
+dramatic background, god rays, scenic environment, makeup, female character.
+
+────────────────────────────────────────────────────────────────
+WORKFLOW DÙNG CHARACTER SHEET (Cách 2 — Advanced)
+────────────────────────────────────────────────────────────────
+
+Sau khi có character sheet (Bonus 1 + 2), các bạn có thể tạo 30+ scene
+khác nhau với cùng character thông qua 0ai.vn Image Edit feature:
+
+1. Vào 0ai.vn → Gallery → chọn ảnh hero của character (vd: C1 ảnh chính)
+2. Click "Edit with image" hoặc "Re-prompt with image"
+3. Upload ảnh hero làm reference + viết prompt scene mới:
+
+Ví dụ scene mới với cô gái xianxia C1:
+
+Scene A: "Cùng cô gái này (giữ nguyên hanfu, tóc, kiếm) nhưng đang đứng
+trong đền cổ tu tiên với đèn lồng đỏ vàng treo cao xung quanh, hai tay
+nâng cuốn sách cổ Hán đang mở, mặt tập trung học. Phong cách Phàm Nhân
+Tu Tiên 3D animation, mood spiritual peaceful study."
+
+Scene B: "Cùng cô gái này nhưng đang cưỡi hạc tiên trắng bay trên biển
+mây tiên, hanfu và lụa bay phấp phới theo gió, tay phải vén tóc, mặt cười
+nhẹ. Phong cách Phàm Nhân Tu Tiên 3D animation, mood ethereal flying free."
+
+Scene C: "Cùng cô gái này nhưng đang luyện kiếm trên đỉnh núi tuyết, kiếm
+ngọc bích phát quang xanh, hanfu trắng bay theo gió tuyết, mặt nghiêm
+chuyên chú. Phong cách Phàm Nhân Tu Tiên 3D animation, mood determined
+training cold."
+
+→ AI giữ character (mặt, tóc, hanfu) consistent, chỉ đổi setting + pose +
+lighting. Output: 3 ảnh khác nhau với cùng cô gái.
+
+💰 Cost: mỗi scene ~900 credit (giống generate normal). 10 scene = ~9,000 cr.
+
+═══════════════════════════════════════════════════════════════
+HƯỚNG DẪN TEST
+═══════════════════════════════════════════════════════════════
+
+📊 TỔNG KẾT FILE NÀY:
+- 12 prompts chính (6 concepts × 2 ratio) — bắt buộc test
+- 2 prompts BONUS character sheet — recommend test thêm
+- Tổng: 14 ảnh test
+- Cost: 12 × 900 + 2 × 900 = 12,600 credit (~12,600đ)
+
+📋 WORKFLOW TEST:
+
+1. Vào 0ai.vn → chọn model GPT Image 2
+2. Copy từng prompt vào ô input
+3. Settings:
+   - Aspect ratio: 9:16 cho 🟦 / 16:9 cho 🟧 / 16:9 cho 🎭 BONUS
+   - Quality: 1K (default) hoặc 2K nếu có
+   - Số ảnh: 1
+4. Generate → đợi ~30-60 giây
+5. Save với naming convention chuẩn
+
+📝 NAMING (14 files):
+
+12 chính:
+- day-17-c1-916-girl-xianxia-sword.png
+- day-17-c1-169-girl-xianxia-sword.png
+- day-17-c2-916-deity-firelotus.png
+- day-17-c2-169-deity-firelotus.png
+- day-17-c3-916-immortal-mountains.png
+- day-17-c3-169-immortal-mountains.png
+- day-17-c4-916-dragon-pearl.png
+- day-17-c4-169-dragon-pearl.png
+- day-17-c5-916-cultivator-flying.png
+- day-17-c5-169-cultivator-flying.png
+- day-17-c6-916-master-disciple.png
+- day-17-c6-169-master-disciple.png
+
+2 BONUS character sheet:
+- day-17-bonus-c1-character-sheet-girl.png
+- day-17-bonus-c5-character-sheet-boy.png
+
+6. Upload 14 ảnh lên `assets/images/` của repo GitHub
+7. Share 1-2 ảnh đẹp nhất + 1 character sheet lên chat để mình finalize bài
+
+💡 TIPS:
+
+- Test 12 ảnh chính TRƯỚC, sau đó test 2 BONUS character sheet
+- Concept 2 (Thanh niên thần linh + hỏa liên) + Concept 4 (Rồng): scene phức tạp,
+  có thể cần re-gen 2 lần do fire/lightning effects nhiều
+- Concept 5 (cultivator) + Concept 6 (master-disciple): focus vào facial expression
+- Character sheet (BONUS): nếu output không đủ "reference sheet" feel,
+  thêm cụm "animation production reference sheet, character bible style" vào prompt
+- Nếu output không đủ "Chinese mythology" feel cho ảnh chính, thêm cụm
+  "Chinese ancient mythology aesthetic" vào prompt
+
+🎯 SAU KHI TEST XONG:
+
+- Mình sẽ finalize Day 17.md với data thực
+- 2 character sheet sẽ được embed riêng trong section "🎭 Character Sheet"
+- Các bạn có thể tự dùng character sheet để tạo nhiều scene mới qua
+  0ai.vn Image Edit feature (workflow Cách 2 — xem section trên)
+
+═══════════════════════════════════════════════════════════════
+END OF DAY 17 PROMPTS
+═══════════════════════════════════════════════════════════════
