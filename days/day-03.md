@@ -16,6 +16,8 @@ Sau bài này, bạn sẽ:
 - Tránh được **5 lỗi phổ biến** mà 90% người mới mắc phải
 
 > 💡 **Sự thật:** Sau Day 3, kỹ năng prompt của bạn sẽ tốt hơn 80% người mới. Vì 80% người chỉ biết viết prompt 1 dòng đơn giản và đổ lỗi cho AI khi ảnh xấu.
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-03.txt`](../prompts/day-03.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
 
 ---
 
