@@ -8,7 +8,7 @@
 
 [![Stars](https://img.shields.io/github/stars/linhai-creator/linh0ai-daily-tutorials?style=social)](https://github.com/linhai-creator/linh0ai-daily-tutorials)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Progress](https://img.shields.io/badge/Progress-18%2F30%20(60%25)-brightgreen)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CHANGELOG.md)
+[![Progress](https://img.shields.io/badge/Progress-19%2F30%20(63%25)-brightgreen)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CHANGELOG.md)
 
 ---
 
@@ -71,7 +71,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 13** | Camera & Lens trong Prompt | 🔵🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-13.md) |
 | **Day 14** | Tổng kết Tuần 2 + Capstone Challenge | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-14.md) |
 
-### 🟣 Tuần 3 — Practical Production (Day 15-21) 🔄 4/7 Done
+### 🟣 Tuần 3 — Practical Production (Day 15-21) 🔄 5/7 Done
 
 | Ngày | Chủ đề | Level | Link |
 | --- | --- | --- | --- |
@@ -79,7 +79,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 16** | Workflow Batch Processing — Test 12+ ảnh trong 1 giờ | 🔵 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-16.md) |
 | **Day 17** | Tạo ảnh hoạt hình 3D Trung Quốc + Character Sheets | 🔵🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-17.md) |
 | **Day 18** | Storyboard Sheets 4x4 với Motion Lines | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-18.md) |
-| **Day 19** | *Image-to-Video Seedance — sắp ra* | 🟣 | 📅 Coming |
+| **Day 19** | Storyboard-to-Video Seedance 2.0 | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md) |
 | **Day 20-21** | *TBD + Tổng kết Tuần 3* | 🟣 | 📅 Coming |
 
 > *Xem [CURRICULUM.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CURRICULUM.md) cho lộ trình 30 ngày đầy đủ + Tuần 4 (Video AI).*
@@ -216,4 +216,4 @@ MIT — dùng tự do, ghi nguồn nếu repost.
 ---
 
 **Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
-**Cập nhật lần cuối:** Day 18 — Tháng 5/2026
+**Cập nhật lần cuối:** Day 19 — Tháng 5/2026
