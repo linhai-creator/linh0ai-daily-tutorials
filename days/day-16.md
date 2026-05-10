@@ -16,8 +16,11 @@ Sau bài này, các bạn sẽ:
 - Biết khi nào nên đầu tư Pro, khi nào Basic là đủ
 
 ---
-> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-16.txt`](../prompts/day-16.txt)
+
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-16.txt`](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/prompts/day-16.txt)
 > Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
+---
 
 ## 😤 3 nỗi đau của người làm content AI hàng ngày
 
@@ -113,65 +116,65 @@ Sau khi đối chiếu 15 ảnh: mình sai 4/5 dự đoán. Chi tiết ở phầ
 
 ### Concept 1 — Personal Brand Poster
 
-![C1 Basic Personal Brand](../assets/images/day-16-c1-basic-personal-brand.png)
+![C1 Basic Personal Brand](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c1-basic-personal-brand.png)
 *🟢 Variant Basic (~70 từ): "GIÁ TRỊ" gold + watercolor splash + cityscape Saigon — ⭐⭐⭐⭐*
 
-![C1 Enhanced Personal Brand](../assets/images/day-16-c1-enhanced-personal-brand.png)
+![C1 Enhanced Personal Brand](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c1-enhanced-personal-brand.png)
 *🟡 Variant Enhanced (~135 từ): + Quote tiếng Việt 4 dòng tự sinh + 4 cuốn sách Vietnamese — ⭐⭐⭐⭐⭐*
 
-![C1 Pro Personal Brand - HERO Day 16](../assets/images/day-16-c1-pro-personal-brand.png)
+![C1 Pro Personal Brand - HERO Day 16](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c1-pro-personal-brand.png)
 *🔴 Variant Pro (~280 từ) — Ảnh đại diện Day 16: Stats 500K+/20M+/1000+ + 5 cuốn sách Vietnamese full title + cityscape full + spotlight effect — ⭐⭐⭐⭐⭐*
 
 ---
 
 ### Concept 2 — Affiliate Product Poster (stress-test typography Việt 50+ phrases)
 
-![C2 Basic Affiliate Product](../assets/images/day-16-c2-basic-affiliate-product.png)
+![C2 Basic Affiliate Product](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c2-basic-affiliate-product.png)
 *🟢 Variant Basic: 6 callouts Việt + Shopee logo + footer slogan — ⭐⭐⭐⭐⭐*
 
-![C2 Enhanced Affiliate Product](../assets/images/day-16-c2-enhanced-affiliate-product.png)
+![C2 Enhanced Affiliate Product](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c2-enhanced-affiliate-product.png)
 *🟡 Variant Enhanced: + OCOP 3 sao + Shopee/Lazada + mascot vàng — ⭐⭐⭐⭐⭐*
 
-![C2 Pro Affiliate Product](../assets/images/day-16-c2-pro-affiliate-product.png)
+![C2 Pro Affiliate Product](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c2-pro-affiliate-product.png)
 *🔴 Variant Pro: Layout dày đặc với "PHÙ HỢP CHO AI?" + 3 columns + 6 numbered callouts + cam vàng — gần identical viral original — ⭐⭐⭐⭐⭐*
 
 ---
 
 ### Concept 3 — Cinema-noir Poster
 
-![C3 Basic Cinema-noir](../assets/images/day-16-c3-basic-cinema-noir.png)
+![C3 Basic Cinema-noir](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c3-basic-cinema-noir.png)
 *🟢 Variant Basic: GPT TỰ SINH "NGHI LỄ BÍ TRUYỀN" trên bìa sách — ⭐⭐⭐⭐⭐*
 
-![C3 Enhanced Cinema-noir](../assets/images/day-16-c3-enhanced-cinema-noir.png)
+![C3 Enhanced Cinema-noir](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c3-enhanced-cinema-noir.png)
 *🟡 Variant Enhanced: Mặt nạ tribal carved chi tiết + "MTP × QHBH" — ⭐⭐⭐⭐⭐*
 
-![C3 Pro Cinema-noir](../assets/images/day-16-c3-pro-cinema-noir.png)
+![C3 Pro Cinema-noir](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c3-pro-cinema-noir.png)
 *🔴 Variant Pro: + "II Mandiéo" signature + ring detail + tree-of-life book — ⭐⭐⭐⭐⭐*
 
 ---
 
 ### Concept 4 — Vietnamese Country Portrait (test negative "authenticity")
 
-![C4 Basic Mientay Portrait](../assets/images/day-16-c4-basic-mientay-portrait.png)
+![C4 Basic Mientay Portrait](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c4-basic-mientay-portrait.png)
 *🟢 Variant Basic: Vibe Việt 100% authentic, không sexualized — ⭐⭐⭐⭐⭐*
 
-![C4 Enhanced Mientay Portrait](../assets/images/day-16-c4-enhanced-mientay-portrait.png)
+![C4 Enhanced Mientay Portrait](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c4-enhanced-mientay-portrait.png)
 *🟡 Variant Enhanced: + Biển "BÁNH TRÁNG" viết tay + dây chuyền vàng + cây dừa — ⭐⭐⭐⭐⭐*
 
-![C4 Pro Mientay Portrait](../assets/images/day-16-c4-pro-mientay-portrait.png)
+![C4 Pro Mientay Portrait](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c4-pro-mientay-portrait.png)
 *🔴 Variant Pro: 2 biển hiệu "BÁNH TRÁNG NƯỚNG" + "TRÁNG TRỘN" + props chuẩn miền Tây + tóc xõa lao động — ⭐⭐⭐⭐⭐*
 
 ---
 
 ### Concept 5 — K-Fashion Magazine
 
-![C5 Basic Bad Boy Magazine](../assets/images/day-16-c5-basic-bad-boy-magazine.png)
+![C5 Basic Bad Boy Magazine](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c5-basic-bad-boy-magazine.png)
 *🟢 Variant Basic: GPT TỰ SINH "Some rules are meant to be broken." + "COLD EYES. SHARP TONGUE..." — ⭐⭐⭐⭐⭐*
 
-![C5 Enhanced Bad Boy Magazine](../assets/images/day-16-c5-enhanced-bad-boy-magazine.png)
+![C5 Enhanced Bad Boy Magazine](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c5-enhanced-bad-boy-magazine.png)
 *🟡 Variant Enhanced: + Vietnamese subtitle "Không cần phải nói nhiều..." + polaroid bottom-left — ⭐⭐⭐⭐⭐*
 
-![C5 Pro Bad Boy Magazine](../assets/images/day-16-c5-pro-bad-boy-magazine.png)
+![C5 Pro Bad Boy Magazine](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c5-pro-bad-boy-magazine.png)
 *🔴 Variant Pro: + "KODAK PORTRA 400" film frame tự sinh + magazine collage layout perfect — ⭐⭐⭐⭐⭐*
 
 ---
@@ -217,7 +220,7 @@ vàng đồng. Phong cách motivational poster.
 
 → Ảnh ra: **4⭐**, đẹp, có thể dùng cho social media ngay.
 
-![Proof Insight 1 - Variant Basic 70 từ ra ảnh đẹp](../assets/images/day-16-c1-basic-personal-brand.png)
+![Proof Insight 1 - Variant Basic 70 từ ra ảnh đẹp](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c1-basic-personal-brand.png)
 *↑ Kết quả từ prompt 70 từ tiếng Việt thuần ở trên — không cần weighted syntax, không cần Pro structure*
 
 ---
@@ -235,7 +238,7 @@ Day 12 mình mới test với 3-5 phrases ngắn (Tết An Khang, Chúc Mừng N
 
 Trong các model AI image mình biết hiện tại (Midjourney, Stable Diffusion, Flux), GPT Image 2 là model duy nhất render tiếng Việt có dấu chuẩn. Đây là lợi thế đáng kể với creator Việt muốn làm content tiếng Việt mà không cần Photoshop sau.
 
-![Stress-test typography Việt 50+ phrases](../assets/images/day-16-c2-pro-affiliate-product.png)
+![Stress-test typography Việt 50+ phrases](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c2-pro-affiliate-product.png)
 *↑ C2 Pro Affiliate với 50+ phrases tiếng Việt có dấu — render chuẩn 100%*
 
 ---
@@ -247,7 +250,7 @@ Cái này mình không ngờ tới — và chưa thấy ai test có hệ thống
 **C3 Basic — Cinema-noir:**
 Prompt mình không hề nói gì về tên sách, chỉ tả "quyển sách bìa xanh đậm". GPT tự thêm chữ "NGHI LỄ BÍ TRUYỀN" trên bìa, đúng dấu hoàn hảo, vibe phù hợp mystery cinema.
 
-![GPT tự sinh NGHI LỄ BÍ TRUYỀN](../assets/images/day-16-c3-basic-cinema-noir.png)
+![GPT tự sinh NGHI LỄ BÍ TRUYỀN](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c3-basic-cinema-noir.png)
 *↑ Prompt chỉ nói "quyển sách bìa xanh đậm" — title sách là GPT tự sinh*
 
 **C1 Enhanced — Personal Brand:**
@@ -259,7 +262,7 @@ Prompt chỉ nói "có sách vở". GPT tự sinh tên 4 cuốn sách Vietnamese
 
 Tất cả đều fit vibe branding tutorial.
 
-![GPT tự sinh 4 cuốn sách Vietnamese title](../assets/images/day-16-c1-enhanced-personal-brand.png)
+![GPT tự sinh 4 cuốn sách Vietnamese title](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c1-enhanced-personal-brand.png)
 *↑ Prompt chỉ nói "sách vở" chung chung — 4 title sách Vietnamese chuyên ngành branding là GPT tự sinh*
 
 **C5 Basic — K-Fashion:**
@@ -270,7 +273,7 @@ Prompt không yêu cầu phụ đề bổ sung. GPT tự sinh:
 
 Tất cả fit mood K-fashion editorial.
 
-![GPT tự sinh K-Fashion editorial copy](../assets/images/day-16-c5-basic-bad-boy-magazine.png)
+![GPT tự sinh K-Fashion editorial copy](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c5-basic-bad-boy-magazine.png)
 *↑ Prompt không có "Some rules", "COLD EYES" — editorial copy là GPT tự sinh*
 
 Cái này có ý nghĩa thực tế: GPT có khả năng "đọc" được ngữ cảnh tiếng Việt và tự fill content phù hợp. Các bạn có thể tận dụng để tiết kiệm effort viết prompt — chỉ cần tả vibe + bố cục, để GPT fill detail.
@@ -297,7 +300,7 @@ Kết quả 3/3 ảnh C4:
 
 Đây là cách áp dụng technique negative prompt từ Day 10 cho stylistic concerns (không chỉ chống brand). Các bạn làm content cho cộng đồng rộng hoặc gia đình có thể dùng cách này.
 
-![Negative authenticity work, vibe Việt 100% documentary](../assets/images/day-16-c4-pro-mientay-portrait.png)
+![Negative authenticity work, vibe Việt 100% documentary](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c4-pro-mientay-portrait.png)
 *↑ C4 Pro Miền Tây: rám nắng tự nhiên, áo loose-fit, tóc xõa lao động, 2 biển "BÁNH TRÁNG NƯỚNG" + "TRÁNG TRỘN"*
 
 ---
@@ -323,10 +326,10 @@ Cách dùng thực tế:
 
 So sánh trực quan C2 Basic vs Pro:
 
-![C2 Basic - đã đẹp dùng ngay được](../assets/images/day-16-c2-basic-affiliate-product.png)
+![C2 Basic - đã đẹp dùng ngay được](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c2-basic-affiliate-product.png)
 *↑ C2 Basic: 6 callouts đơn giản + Shopee logo — đã đẹp dùng được ngay (5⭐)*
 
-![C2 Pro - dày đặc thông tin](../assets/images/day-16-c2-pro-affiliate-product.png)
+![C2 Pro - dày đặc thông tin](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c2-pro-affiliate-product.png)
 *↑ C2 Pro: dày với "PHÙ HỢP CHO AI?" + 3 columns + 6 numbered + cam vàng + mascot — phù hợp khi cần info dày đặc (5⭐)*
 
 Cùng star rating, khác use case. Basic cho social post, Pro cho landing page sales.
@@ -412,7 +415,7 @@ Sau khi test 15 ảnh + verify pattern, đây là cheatsheet mình đề xuất 
 
 ## Hero Day 16 — Ảnh đại diện
 
-![Hero Day 16 - C1 Pro Personal Brand Poster](../assets/images/day-16-c1-pro-personal-brand.png)
+![Hero Day 16 - C1 Pro Personal Brand Poster](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c1-pro-personal-brand.png)
 *Ảnh đại diện Day 16 — Personal Brand Poster với prompt tiếng Việt thuần*
 
 Ảnh `c1-pro-personal-brand.png` là ảnh mình chọn làm đại diện Day 16 vì:
@@ -430,12 +433,12 @@ Sau khi test 15 ảnh + verify pattern, đây là cheatsheet mình đề xuất 
 
 `day-16-c2-pro-affiliate-product.png` — test typography Việt dày đặc (50+ phrases) thành công. Use case affiliate e-commerce mạnh.
 
-![C2 Pro Affiliate Product](../assets/images/day-16-c2-pro-affiliate-product.png)
+![C2 Pro Affiliate Product](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c2-pro-affiliate-product.png)
 *50+ phrases Việt có dấu render chuẩn — phù hợp affiliate e-commerce*
 
 `day-16-c5-pro-bad-boy-magazine.png` — Magazine collage layout chuẩn + Kodak Portra 400 film frame là detail GPT tự sinh.
 
-![C5 Pro K-Fashion Magazine](../assets/images/day-16-c5-pro-bad-boy-magazine.png)
+![C5 Pro K-Fashion Magazine](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-16-c5-pro-bad-boy-magazine.png)
 *Magazine collage editorial — Kodak Portra film frame là detail GPT tự sinh không có trong prompt*
 
 ---
@@ -562,12 +565,11 @@ Sau Day 15 + Day 16, các bạn đã có:
 
 ## 📍 Navigation
 
-[← Day 15: File & Folder Management] | [🏠 README] | [→ Day 17: Naming Convention & Version Control]
+[⬅️ Day 15: File & Folder Management](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-15.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 17: Naming Convention & Version Control](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-17.md)
 
 ## 🏷️ Tags
 
-#0aiVN #Day16Linh0AI #BatchProcessing #PromptTiengViet #GPTImage2
-#ReverseEngineering #VietnameseTypography #PracticalProduction #Tuan3 #ContentCreator
+#0aiVN #Day16Linh0AI #BatchProcessing #PromptTiengViet #GPTImage2 #ReverseEngineering #VietnameseTypography #PracticalProduction #Tuan3 #ContentCreator
 
 ---
 
