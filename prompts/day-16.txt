@@ -77,7 +77,7 @@ Ngôn ngữ test: Tiếng Việt THUẦN (không hybrid VI+EN)
 
   Tổng: ~50 phút cho 15 ảnh
 
-  💡 Tip: KHÔNG test 1 concept đầy đủ rồi mới qua concept khác. Test
+  Tip: KHÔNG test 1 concept đầy đủ rồi mới qua concept khác. Test
      theo PHASE để dễ so sánh và tránh fatigue khi nhìn 1 concept lâu.
 
 ═══════════════════════════════════════════════════════════════════════
