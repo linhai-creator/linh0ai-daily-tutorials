@@ -18,8 +18,10 @@ Sau bài này, bạn sẽ:
 
 > 💡 **Spoiler:** Câu trả lời không phải "tiếng Anh tốt hơn" hay "tiếng Việt tốt hơn" — mà là **HYBRID**. Đọc tiếp để biết bí kíp.
 
----
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-05.txt`](../prompts/day-05.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
 
+---
 ## 📖 Phần 1 — Tại sao có cuộc tranh luận này?
 
 ### Quá khứ: AI chỉ hiểu tiếng Anh
