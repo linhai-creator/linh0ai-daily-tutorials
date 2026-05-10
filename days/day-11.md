@@ -42,6 +42,9 @@ Vào bài để xem bằng chứng + 5 insights bất ngờ!
 - ✅ Tránh **5 lỗi lighting** AI hay mắc phải
 - ✅ Bonus: Lighting Việt Nam có vibe đặc trưng Tây không có
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-11.txt`](../prompts/day-11.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## 📚 Phần 1 — 6 Kiểu Lighting Kinh Điển
