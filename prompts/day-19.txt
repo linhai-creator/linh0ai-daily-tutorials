@@ -1,0 +1,524 @@
+═══════════════════════════════════════════════════════════════
+DAY 19 — STORYBOARD-TO-VIDEO SEEDANCE 2.0
+       4 video clips × 15s = 60s short film "Đôi Kiếm Tiên"
+═══════════════════════════════════════════════════════════════
+
+📊 SETUP TEST:
+- 4 prompts cho 4 video clips (mapping với 4 boards Day 18)
+- Duration mỗi clip: 15 giây
+- Aspect ratio: 16:9 (1280×720 HD, 24fps cinematic)
+- Workflow: Image-to-Video (Storyboard-to-Video) với Seedance 2.0-Omni
+- Mode: Professional-VIP
+- Resolution: 720p
+- Tổng raw video: 60 giây
+- Cost actual: 4 × 36,000 = 144,000 credit (~144K VND)
+- Time generate: ~60-90 phút (không hàng chờ với VIP)
+- Sau edit CapCut: Final short film 60s
+
+🎭 NHÂN VẬT CHÍNH (lock từ Day 17 character sheets):
+- 林妮 (LINH NHI): Cô gái xianxia, hanfu trắng + thêu ngọc bích, tóc búi cao 
+  trâm bạc khắc rồng phượng, mắt nâu hổ phách, kiếm trường ngọc bích
+- 韩立 (HÀN LẬP): Cultivator nam, hanfu xám đen + thêu vàng cổ đại, tóc 
+  dài búi cao cài ngọc bích, mắt sharp đen sâu, kiếm phi xanh ngọc bích
+
+📝 NAMING CONVENTION:
+- video-twinsword-clip-1-act1-setup-15s.mp4
+- video-twinsword-clip-2-act2-meeting-15s.mp4
+- video-twinsword-clip-3-act3-threat-15s.mp4
+- video-twinsword-clip-4-act4-resolution-15s.mp4
+- video-twinsword-final-edited-60s.mp4
+
+🎬 4 PROMPTS NÀY ĐỀU TIẾNG TRUNG PURE:
+Lý do tiếng Trung được dùng pure:
+- Match với Chinese xianxia aesthetic native
+- Seedance hiểu tiếng Trung tốt hơn cho concepts xianxia
+- Tránh translation loss giữa Vietnamese ↔ Chinese cinematic terms
+- Character names viết bằng Hán tự gốc (林妮 / 韩立) chống drift
+
+⚠️ INSIGHT QUAN TRỌNG NHẤT:
+Khi dùng storyboard có MOTION LINES (Day 18) làm @image1 reference cho video,
+CẦN explicit prompt prevent AI render motion lines thành visible elements 
+trong video. Nếu không có section [非常重要] này, output có thể có:
+- Comic speed lines render ra như thật trong video
+- Arrows/dotted lines visible trong frame
+- UI direction symbols
+→ Mỗi prompt đều có section [非常重要] ngay đầu để prevent vấn đề này.
+Đây là pattern chính của Day 19 — sẽ insight chi tiết trong day-19.md.
+
+💡 WORKFLOW SEEDANCE 2.0-OMNI TRÊN 0AI.VN:
+
+1. Vào 0ai.vn → bấm vào mục **"Video"**
+2. Chọn model **Seedance 2.0-Omni**
+3. Chọn tỉ lệ **16:9**
+4. Chọn chế độ **Professional-VIP** ⭐ (recommend cho project pro)
+5. Chọn độ phân giải **720p** (HD chuẩn cho cinematic)
+6. Upload @image1 = 1 board từ Day 18:
+   - Clip 1: storyboard-twinsword-board-1-act1-setup.png
+   - Clip 2: storyboard-twinsword-board-2-act2-meeting.png
+   - Clip 3: storyboard-twinsword-board-3-act3-threat.png
+   - Clip 4: storyboard-twinsword-board-4-act4-resolution.png
+7. Paste prompt tiếng Trung tương ứng
+8. Duration: 15s
+9. Generate → đợi 2-5 phút mỗi video (KHÔNG hàng chờ với VIP)
+10. Verify:
+    - Character có giữ Linh Nhi/Hàn Lập đúng appearance?
+    - Motion smooth cinematic không?
+    - Sound design respected (no BGM)?
+    - Camera movement match prompt?
+    - Motion lines KHÔNG render visible?
+11. Save với naming convention chính xác
+
+💰 COST CHẾ ĐỘ PROFESSIONAL-VIP:
+- 36,000 credit / 15s clip
+- 4 clips × 36,000 = 144,000 credit (~144K VND)
+- Hơi đắt nhưng ĐÁNG vì:
+  ✅ Chất lượng đầu ra tốt hơn standard mode
+  ✅ AI thông minh hơn — handle prompt phức tạp tốt
+  ✅ Hỗ trợ khuôn mặt — character consistency không bị block bởi face policy
+  ✅ Không vi phạm chính sách bản quyền
+  ✅ Không hàng chờ — generate ngay
+- Cho creator pro: ROI cao vì 1 short film 60s production-quality bán được
+  2-5 triệu VND, cost 144K → margin 95%+
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT VIDEO 1 — ACT 1 SETUP (15s)
+File output: video-twinsword-clip-1-act1-setup-15s.mp4
+Reference: storyboard-twinsword-board-1-act1-setup.png
+═══════════════════════════════════════════════════════════════
+
+🎯 STORY: Linh Nhi training trên đỉnh núi tuyết → Hàn Lập phi kiếm vượt 
+biển mây → phát hiện yêu ma đe dọa → dive xuống cứu (cliffhanger)
+
+📷 PACING: 13 segments × ~1.15s/segment
+
+📝 PROMPT:
+
+请严格参考 @image1 生成一支 15 秒、16:9 的原创中国仙侠 3D 动画电影感短片。
+
+@image1 是完整 storyboard 分镜参考图。请按照画面从左到右、从上到下的顺序理解剧情、镜头、动作节奏和人物关系，但最终视频必须是一支连续流畅的 cinematic xianxia video，不要生成分格漫画，不要出现白色边框，不要出现任何文字、标题、字幕、编号、水印或对话框。
+
+【重要说明】
+@image1 中的绿色箭头、虚线、运动弧线、速度线、方向提示线，只是 storyboard 用来表达动作方向的参考。最终视频里绝对不要生成任何可见箭头、虚线、漫画速度线、手绘 motion guide、UI 指示线或图形标记。
+所有动作方向必须通过真实的身体动作、剑光拖尾、衣袖飘动、长发运动、飞剑轨迹、云雾流动、镜头运动和自然 motion blur 来表达。
+
+【角色锁定】
+女主角：年轻中国女修士，白色纯净仙侠汉服，浅玉绿色刺绣纹样，黑色长发高髻，银色龙凤发簪，琥珀棕眼睛，气质清冷纯净，手持发光玉绿色长剑。必须保持与 @image1 中女主角完全一致的脸、发型、服装、颜色、气质与武器。
+男主角：年轻中国男修士，灰黑色多层仙侠长袍，金色古纹刺绣，黑色长发高髻，冷峻深邃，驾驭发光玉绿色飞剑。必须保持与 @image1 中男主角完全一致的脸、发型、服装、颜色、气质与武器。
+禁止换脸，禁止角色漂移，禁止服装变色，禁止出现其他无关角色。
+
+【整体风格】
+原创东方仙侠 3D 动画电影质感，高端 cinematic animated feature render。雪山、云海、仙山、清晨日出、轻雪、玉绿色剑光。角色皮肤自然细腻，丝绸汉服质感清晰，长发随风真实飘动，剑光、飞剑、云雾、雪粒、体积光表现精致。整体氛围高级、空灵、克制、仙气、电影感。
+
+【环境设定】
+清晨日出的雪山之巅，群峰耸立，脚下是广阔翻涌的白色云海，远处若隐若现的仙山与亭台。太阳从画面右侧天边升起，投下柔和金色晨光。空气清冷透明，轻雪飘落，风势持续但不过分狂暴。
+
+【声音要求】
+不要背景音乐，不要配乐，不要鼓点，不要人声台词。
+只保留自然环境与动作声音：高山风声、轻雪飘落声、衣袖和长发被风吹动的沙沙声、玉剑低频灵力嗡鸣、飞剑破空声、云海流动声、轻微能量闪烁声。整体是自然干净的 ASMR 电影氛围。
+
+【15秒剧情节奏】
+
+0.0s - 1.2s
+超宽广 establishing shot。女主角独自站在雪山最高峰，人物较小，脚下是浩瀚翻涌的白色云海，远处仙山层叠，右侧晨曦初升。镜头缓慢向前推进，氛围安静、神圣、空灵。
+
+1.2s - 2.4s
+中景。女主角缓缓抬起玉绿色长剑到肩膀高度，进入练剑起手式。剑身散发柔和玉绿色灵光，手臂动作稳定优雅。不要出现箭头或画线，剑的移动方向只用真实剑光拖尾表现。
+
+2.4s - 3.3s
+女主角面部 close-up。她眼神坚定专注，琥珀棕眼睛有清晨反光，表情平静但有力量。轻雪掠过前景，背景 softly blurred。
+
+3.3s - 4.5s
+女主角挥出一式练剑动作。玉绿色剑气形成自然、流畅、半透明的弧形光轨，但绝对不是漫画线或箭头。衣袖、飘带和长发跟随动作飞舞，动作优雅、有力量、不暴力，像真正的仙侠剑法晨练。
+
+4.5s - 5.7s
+切到男主角 wide establishing shot。男主角站在玉绿色飞剑上，从远方云海上空高速飞来，人物较小，远处仙山与云海辽阔。飞剑后方留下自然的玉绿色能量拖尾。
+
+5.7s - 6.8s
+侧面 tracking shot。男主角御剑飞行，身体微微前倾，灰黑色披风和长发被风拉向后方。用真实 motion blur、云雾掠过和飞剑光尾表现速度，不能出现漫画速度线。
+
+6.8s - 7.7s
+男主角 close-up。冷峻、专注、沉稳，眼神扫向远方。背景高速流动但脸部保持清晰，头发在风中飞扬。
+
+7.7s - 8.8s
+动态角度。男主角加速穿过云海，飞剑玉绿色光尾变长，云雾被气流自然切开。动作 intense flying，但保持东方仙侠电影感，不要夸张游戏 UI 特效。
+
+8.8s - 10.0s
+男主角发现远方异常。他从高空看向远处云海尽头，那里隐约出现黑紫色妖气云团。参考图里的 dotted sight line 只作为视线方向理解，最终视频不能出现虚线或箭头。用镜头视线、景深转移和男主角眼神来表达发现。
+
+10.0s - 11.0s
+男主角 close-up，表情从冷静转为警觉，眉头微皱。随后迅速回头判断方向，长发和披风产生自然横向 motion blur。
+
+11.0s - 12.0s
+男主角做出决定。中景，他握紧拳头或收紧手掌，飞剑灵力微微增强，玉绿色光点在手边闪动。参考图里的 action burst 不要直接出现，用能量粒子、衣袍震动和轻微镜头震动表达决心。
+
+12.0s - 13.0s
+男主角准备 dive。身体向前压低，飞剑倾斜向下，镜头从侧后方跟随，云海下方的雪峰逐渐进入画面。不要出现大箭头，用飞剑角度、身体倾斜和镜头运动表达下冲方向。
+
+13.0s - 14.2s
+高速 dive。男主角斜向下穿过云层，飞剑拖出长长玉绿色光尾，披风像黑色羽翼展开。速度感强，画面有自然 motion blur 和云雾切割效果。
+
+14.2s - 15.0s
+结尾 cliffhanger。男主角从高空看到远处雪峰上的女主角白色身影。镜头停在男主角背后视角，女主角在远方峰顶，云海与晨光包围。最后 0.3 秒轻微 slow motion，飞剑光尾与朝阳同时闪烁，停在即将抵达的悬念瞬间。
+
+【镜头语言】
+镜头衔接必须自然流畅，不要像 PPT，不要静态逐格播放。使用云雾擦镜、剑光划过转场、自然 motion blur 转场、smooth push-in、tracking shot、slow-motion accent。节奏从空灵宁静逐步推进到高速紧张，最后停在悬念结尾。
+
+【光影要求】
+整体是清晨日出的冷暖交织光线。雪山与云海偏冷白蓝色，太阳光偏暖金色，玉剑与飞剑为柔和但清晰的青绿色灵光。体积光、边缘光、雪粒反光、云层透光要自然精致。
+
+【严格禁止】
+不要生成任何箭头、虚线、motion guide、漫画速度线、panel border、字幕、文字、编号、水印、UI、对白框。
+不要现代服装、现代建筑、城市、科技元素。
+不要出现知名 IP 名称，不要模仿特定版权作品名称。
+不要龙，不要怪物近景，不要血腥，不要恐怖 gore，不要亲密恋爱动作，不要性感化构图。
+不要背景音乐。
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT VIDEO 2 — ACT 2 MEETING (15s)
+File output: video-twinsword-clip-2-act2-meeting-15s.mp4
+Reference: storyboard-twinsword-board-2-act2-meeting.png
+═══════════════════════════════════════════════════════════════
+
+🎯 STORY: Hàn Lập tốc độ cao dive xuống → Linh Nhi cảm nhận quay lại → 
+Hàn Lập đáp xuống → first meeting spark moment
+
+📷 PACING: 14 segments × ~1.07s/segment
+
+📝 PROMPT:
+
+请严格参考 @image1 生成一支 15 秒、16:9 的中国仙侠 3D 电影感短片。
+
+@image1 是 storyboard 分镜参考图。请按照图中从左到右、从上到下的顺序理解剧情、镜头、动作节奏，但最终视频必须是连续流畅的 cinematic video，不要出现分格、白边、文字、字幕、标题、编号、水印或对话框。
+
+【非常重要】
+@image1 中所有箭头、运动线、speed lines、motion blur guide、energy guide 只用于理解动作方向，最终视频绝对不能出现可见箭头、虚线、漫画速度线、手绘方向线。动作必须通过真实飞行轨迹、剑光拖尾、雪粒冲击、衣袂飘动、头发运动、镜头运动和自然 motion blur 表达。
+
+【角色锁定】
+林妮：白色仙侠汉服，浅玉绿色刺绣，黑色长发高髻，银色龙凤发簪，琥珀棕眼睛，玉绿色长剑。保持与 @image1 完全一致。
+韩立：灰黑色多层汉服，金色古纹刺绣，黑色长发高髻，冷峻深邃，玉绿色飞剑。保持与 @image1 完全一致。
+禁止换脸，禁止角色漂移，禁止服装颜色改变，禁止出现其他角色。
+
+【整体风格】
+凡人修仙传 official Chinese xianxia aesthetic + Pixar 3D cinematic render quality。清晨雪山，云海，日出，轻雪，玉绿色剑光，丝绸 hanfu texture，真实头发运动，sub-surface scattering skin，ray-traced lighting，volumetric light。
+
+【声音要求】
+不要背景音乐，不要配乐。
+只保留自然声音：高山风声、轻雪声、飞剑破空声、衣袂飘动声、头发掠风声、韩立落地时雪粒爆开的声音、玉剑灵力嗡鸣、微弱能量 sparkles 声。不要台词。
+
+【15秒剧情节奏】
+0.0s - 1.3s
+韩立从高空极速 dive。超广角 wide shot，他驾驭玉绿色飞剑从云海上方向雪山峰顶斜冲而下，飞剑留下自然的玉绿色光尾，云层快速掠过。
+
+1.3s - 2.3s
+侧面 tracking shot。韩立高速俯冲，灰黑披风和长发被气流拉长，背景强烈 motion blur。不要出现漫画速度线，用云雾掠过和飞剑光尾表达速度。
+
+2.3s - 3.2s
+韩立 close-up。脸部坚定、紧急、专注，眉眼锐利，风吹动发丝。背景快速移动但面部清晰。
+
+3.2s - 4.2s
+韩立接近雪峰并开始减速。飞剑光尾逐渐缩短，身体从俯冲转为准备落地，雪峰表面越来越近，镜头轻微震动增强临场感。
+
+4.2s - 5.2s
+切到林妮中景。她正在练剑，突然感知身后破空声，动作暂停，剑慢慢降低到腰间。白衣和飘带继续随风轻动。
+
+5.2s - 6.1s
+林妮 close-up。她微微侧头倾听，眼神从专注转为疑惑与警觉。用脸部表情和耳边发丝晃动表现"感知"，不要出现任何声音波纹或图形符号。
+
+6.1s - 7.0s
+林妮快速回头。镜头小幅 whip-pan，长发与发簪流苏产生自然横向 motion blur。不要生成可见 motion lines。
+
+7.0s - 8.0s
+林妮 close-up。她眼睛微微睁大，表情 surprise curious，嘴唇轻启，但仍保持清冷仙气，不夸张。
+
+8.0s - 9.2s
+韩立落地。wide shot，韩立单膝或半蹲落在雪地上，飞剑随他落下，雪粒和冰屑从脚下向外真实飞散。参考图里的 impact burst 不要画出来，只用雪粒冲击和气流表达。
+
+9.2s - 10.1s
+韩立站起。中景，他恢复挺拔站姿，剑光变稳，披风慢慢落下。脸部沉稳，没有敌意。
+
+10.1s - 11.0s
+双人 wide shot。林妮在一侧，韩立在另一侧，两人相距约三米，中间留出雪地空间。二人第一次看见彼此，云海和群峰在背后展开。
+
+11.0s - 11.9s
+林妮谨慎抬剑。中景，她将玉绿色长剑抬起到防备姿态，动作谨慎但不 hostile，眼神观察韩立。
+
+11.9s - 13.0s
+双人 medium shot。两人面对面站立，保持距离，风雪轻轻飘过，衣袍和长发随风动。气氛紧张但逐渐安静下来。
+
+13.0s - 14.0s
+韩立 close-up。他表情 thâm trầm focused respectful，眼神克制，没有攻击意图。空气中出现少量自然玉色能量 sparkles，不能像 UI 图标。
+
+14.0s - 15.0s
+林妮 close-up 后拉到 wide 2-shot。林妮从 cautious 转为理解，意识到韩立是同盟。最后 wide shot：二人站在雪山峰顶对面，太阳在两人之间升起形成 divine halo，少量玉绿色 sparkles 在空气中闪烁，停在 first meeting spark moment。
+
+【镜头语言】
+节奏从 urgent dive → surprise sensing → landing impact → first eye contact → spark moment。
+镜头自然衔接，用 cloud wipe、snow particle transition、sword light transition、smooth push-in、slow motion accent。不要像 PPT。
+
+【严格禁止】
+不要生成箭头、虚线、漫画 motion lines、panel border、文字、字幕、编号、水印。
+不要背景音乐。
+不要现代元素、龙、怪物、血腥、亲吻拥抱、性感化构图。
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT VIDEO 3 — ACT 3 THREAT (15s)
+File output: video-twinsword-clip-3-act3-threat-15s.mp4
+Reference: storyboard-twinsword-board-3-act3-threat.png
+═══════════════════════════════════════════════════════════════
+
+🎯 STORY: Storm building → Yêu ma reveal → 2 hero ready → Back-to-back → 
+Demon attack → Split dodge cliffhanger
+
+📷 PACING: 13 segments × ~1.15s/segment
+
+📝 PROMPT:
+
+请严格参考 @image1 生成一支 15 秒、16:9 的中国仙侠 3D 电影感动作短片。
+
+@image1 是 storyboard 分镜参考图。请按照图中从左到右、从上到下的顺序理解剧情、镜头、动作节奏，但最终视频必须是连续流畅的 cinematic video，不要出现分格、白边、文字、字幕、标题、编号、水印或对话框。
+
+【非常重要】
+@image1 中所有箭头、运动线、speed lines、split direction arrows、sword arcs、impact burst guide 只用于理解动作方向。最终视频绝对不能出现可见箭头、虚线、漫画速度线、手绘动作线、UI 方向符号。所有动作必须通过真实身体动作、剑光轨迹、雷电、妖气、风雪、镜头运动、自然 motion blur、能量粒子来表达。
+
+【角色锁定】
+林妮：白色仙侠汉服，浅玉绿色刺绣，黑色长发高髻，银色龙凤发簪，琥珀棕眼睛，玉绿色长剑。保持与 @image1 完全一致。
+韩立：灰黑色多层汉服，金色古纹刺绣，黑色长发高髻，冷峻深邃，玉绿色飞剑。保持与 @image1 完全一致。
+妖魔：巨大中国风半龙半虎怪物，黑紫色鳞甲与妖气，黑色扭曲巨角，赤红发光双眼，獠牙外露，黑紫雷电缠绕，压迫感强。不要变成西方龙，不要可爱化，不要血腥恶心化。
+
+【整体风格】
+凡人修仙传 official Chinese xianxia aesthetic + Pixar 3D + Marvel cinematic action。黑紫风暴、雪山、雷电、妖气、玉绿色双剑光。高质量 3D 动画电影感，强对比光影，volumetric storm clouds，electric purple lightning，emerald sword glow，snow particles。
+
+【声音要求】
+不要背景音乐，不要配乐。
+只保留自然与动作声：狂风、风雪、雷鸣、电流声、妖气低沉轰鸣、妖魔咆哮、衣袂掠风、玉剑能量嗡鸣、雪地脚步声、剑气划破空气声。不要人声台词。
+
+【15秒剧情节奏】
+0.0s - 1.2s
+wide establishing。远方黑紫色暴风云从地平线滚滚压来，雪山峰顶逐渐变暗，云海被阴影吞没，气氛从宁静转为压迫。
+
+1.2s - 2.3s
+wide dramatic。黑紫闪电撕裂乌云，照亮雪山和云海。参考图中的 electric lines 不要画成图形线条，而是生成真实闪电和电光照明。
+
+2.3s - 3.4s
+妖魔 silhouette reveal。巨大黑影从暴风云中浮现，轮廓像半龙半虎，周身黑紫妖气翻滚。镜头缓慢推近，压迫感增强。
+
+3.4s - 4.4s
+妖魔 close-up。赤红双眼发光，张口咆哮，獠牙显露，黑紫妖气和雷电缠绕脸部。不要 gore，不要过度恐怖，只要强烈威胁感。
+
+4.4s - 5.4s
+2-shot wide。林妮与韩立并肩抬头看向妖魔，雪花在风暴中横飞，二人衣袍和长发被风吹动。两人都感受到威胁。
+
+5.4s - 6.2s
+林妮 close-up。她眼神 determined ready，握紧玉绿色长剑，白衣在黑紫风暴下形成强烈对比，表情冷静不慌。
+
+6.2s - 7.0s
+韩立 close-up。他神情 cool determined，微微侧头判断妖魔方向，玉绿色飞剑光芒增强，黑袍边缘被剑光照亮。
+
+7.0s - 8.0s
+2-shot dynamic。林妮与韩立快速靠近彼此，准备并肩作战。参考图中的 movement arrows 不要出现，用脚步、身体移动、衣摆方向和镜头跟随表达"靠近"。
+
+8.0s - 9.2s
+wide low angle hero shot。二人背靠背站在雪山峰顶，双剑 ready，背后是黑紫风暴云和远处妖魔威压。玉绿色剑光形成两人的 rim light。
+
+9.2s - 10.0s
+medium 2-shot。林妮与韩立 back-to-back，双剑竖在两侧，动作对称，呼吸沉稳，风雪围绕，准备迎战。
+
+10.0s - 10.9s
+林妮 close-up action。她轻轻转腕预备出剑，玉绿色剑光形成自然的半透明弧形轨迹，但不能出现漫画 arc line 或箭头。衣袖随动作飞舞。
+
+10.9s - 11.8s
+韩立 close-up action。他在相反方向抬剑，飞剑玉绿色光轨与林妮呼应，黑袍被风拉开，眼神更锐利。
+
+11.8s - 13.0s
+妖魔从远处俯冲攻击。wide aerial，妖魔带着黑紫雷电与妖气从背景斜冲下来，速度很快，爪子前伸，口中咆哮。用自然 motion blur、云层被撕开和雷电闪光表现速度，不要生成 speed-line graphics。
+
+13.0s - 14.0s
+2-shot dynamic。林妮和韩立身体同时向相反方向倾斜准备 dodge。参考图中的 split arrows 不要出现，用二人的 body lean、脚步方向、衣袍方向表达即将分开。
+
+14.0s - 15.0s
+结尾 action cliffhanger。林妮向左侧抬剑准备 block，剑光形成防御弧；韩立向右侧抬飞剑准备 counter，剑光集中爆亮。妖魔即将扑到，画面停在双方即将交锋前一秒，强烈悬念。
+
+【镜头语言】
+节奏：风暴降临 → 妖魔出现 → 二人感知 → back-to-back 成阵 → 妖魔扑杀 → 即将交锋。
+使用 lightning flash transition、storm cloud wipe、sword light transition、low angle hero push-in、fast action cut。不要像 PPT。
+
+【严格禁止】
+不要生成箭头、虚线、漫画 motion lines、panel border、文字、字幕、编号、水印。
+不要背景音乐。
+不要现代元素、血腥 gore、西方龙、亲密恋爱动作、性感化构图。
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT VIDEO 4 — ACT 4 RESOLUTION (15s)
+File output: video-twinsword-clip-4-act4-resolution-15s.mp4
+Reference: storyboard-twinsword-board-4-act4-resolution.png
+═══════════════════════════════════════════════════════════════
+
+🎯 STORY: Linh Nhi power up → Hàn Lập support → Fusion explosion → 
+Demon defeat → Sky clearing → Sunset romantic ending
+
+📷 PACING: 17 segments × ~0.88s/segment (densest pacing — climax + ending)
+
+🎨 SPECIAL: Triple color palette transition (dark storm → bright fusion → warm sunset)
+
+📝 PROMPT:
+
+请严格参考 @image1 生成一支 15 秒、16:9 的中国仙侠 3D 电影感高潮短片。
+
+@image1 是 storyboard 分镜参考图。请按照图中从左到右、从上到下的顺序理解剧情、镜头、动作节奏，但最终视频必须是连续流畅的 cinematic video，不要出现分格、白边、文字、字幕、标题、编号、水印或对话框。
+
+【非常重要】
+@image1 中所有箭头、inward arrows、burst lines、fade lines、motion trail guide 只用于理解动作方向和能量变化。最终视频绝对不能出现可见箭头、漫画线、虚线、手绘爆炸线、UI 指示线。能量聚集、剑气爆发、妖魔消散、飞剑远去都必须通过真实 3D 粒子、光效、烟雾、衣袂运动、镜头运动和自然 motion blur 表达。
+
+【角色锁定】
+林妮：白色仙侠汉服，浅玉绿色刺绣，黑色长发高髻，银色龙凤发簪，琥珀棕眼睛，玉绿色长剑。保持与 @image1 完全一致。
+韩立：灰黑色多层汉服，金色古纹刺绣，黑色长发高髻，冷峻深邃，玉绿色飞剑。保持与 @image1 完全一致。
+妖魔：黑紫色巨大妖魔，前半段被合击剑气击溃，不能 gore，不能恶心化，只表现能量瓦解和黑紫粒子消散。
+
+【整体风格】
+凡人修仙传 official Chinese xianxia aesthetic + Pixar 3D + Marvel cinematic climax。前半段黑紫风暴与玉绿色剑气强对比，中段双剑融合爆发，后半段天空放晴，转为金橙色夕阳云海。高质量 3D 动画电影感，粒子、体积光、剑气、云层散开、飞剑远去都要精致。
+
+【声音要求】
+不要背景音乐，不要配乐。
+只保留自然与动作声：风雪声、衣袂飘动声、玉剑蓄力嗡鸣、法阵低频震动、剑气轰鸣、双剑能量融合爆发、妖魔崩解低吼、云层散开声、飞剑破空声、黄昏高空风声。不要人声台词。
+
+【15秒剧情节奏】
+0.0s - 1.0s
+林妮 medium shot。她站在风暴中的雪山峰顶，白色汉服飞舞，周身开始浮现玉绿色灵气。她握剑 ready，眼神坚定。
+
+1.0s - 2.0s
+林妮抬剑蓄力。镜头 slight low angle，她将玉绿色长剑高举过头，周围灵气向剑身自然汇聚。参考图中的 inward arrows 不要出现，用粒子向剑身流动和光线增强表达聚能。
+
+2.0s - 3.0s
+wide shot。林妮脚下出现玉绿色古老法阵，符文和圆环逐层点亮，雪地被法阵光照亮。法阵是 3D 能量图案，不是平面 UI。
+
+3.0s - 4.0s
+林妮释放 peak attack。剑光爆发出巨大玉绿色能量光柱冲向天空，风雪被震开，衣袖和长发向后飞扬。参考图中的 burst lines 不要出现，用真实粒子爆发和体积光表现冲击。
+
+4.0s - 5.0s
+切到韩立 medium shot。韩立站在另一侧，黑灰长袍在风中扬起，抬手操控飞剑，神情冷静坚定，准备支援林妮。
+
+5.0s - 6.0s
+韩立释放飞剑。飞剑带着玉绿色能量束斜向飞出，光尾很长，穿过风雪向林妮的能量方向汇聚。不要出现任何方向箭头，只用飞剑轨迹表达。
+
+6.0s - 7.0s
+两道剑气相遇。wide cinematic，林妮的主剑光与韩立的飞剑能量在空中中央精准融合，瞬间形成刺目的玉绿色核心，能量波纹向外扩散。
+
+7.0s - 8.0s
+fusion explosion。巨大玉绿色爆发照亮整个雪山，二人分立两侧，被强光勾勒轮廓。粒子、云雾、雪花、碎冰被冲击向外卷开，全片最强视觉高潮。
+
+8.0s - 9.0s
+妖魔被击中。wide shot，黑紫妖魔在背景中被融合剑气击中，发出痛苦咆哮，身体周围黑紫妖气开始破碎。
+
+9.0s - 10.0s
+妖魔开始瓦解。它的身体逐渐化成黑紫色碎片、烟尘和能量粒子向外散开。不要血腥，不要 gore，只表现能量消散。
+
+10.0s - 11.0s
+妖魔彻底 fade out。最后的黑紫粒子在空中消失，风暴云被剑气撕开，天空开始变亮，阳光穿透云层。
+
+11.0s - 12.0s
+wide aftermath。雪山世界重新明亮，云层散去，太阳光照在云海上，黑紫色威胁消失，气氛从紧张转为宁静。
+
+12.0s - 12.8s
+双人 medium 2-shot。林妮与韩立并肩站在峰顶，手中剑放低，风变柔和。二人安静地看向远方，没有拥抱亲吻，只表现战后默契与平和。
+
+12.8s - 13.6s
+二人踏上大型玉绿色飞剑。wide 2-shot，他们自然站上同一柄飞剑，衣袂和长发被高空风轻轻吹起，剑身发出柔和玉绿色光。
+
+13.6s - 14.4s
+飞剑离开雪峰。wide cinematic，二人共乘飞剑缓缓飞离峰顶，飞剑留下温柔的玉绿色光尾，穿过明亮云海。
+
+14.4s - 15.0s
+ending wide silhouette。二人共乘飞剑飞向金橙色夕阳，云海变成温暖金色，几只白鹤成 V 字掠过远方天空。最后停在二人飞向远方的剪影，peaceful romantic ending，但保持克制仙侠感。
+
+【镜头语言】
+节奏：林妮蓄力 → 韩立支援 → 双剑融合 → 妖魔消散 → 天空放晴 → 二人远行。
+使用 energy flash transition、particle wipe、cloud clearing transition、smooth pull-back、slow motion ending。不要像 PPT。
+
+【光影要求】
+前半段黑紫风暴 + 玉绿色剑光强对比。中段融合爆发是最亮点。后半段从明亮天空过渡到 warm golden hour sunset，最后温柔、宁静、史诗感。
+
+【严格禁止】
+不要生成箭头、虚线、漫画 burst lines、fade lines、panel border、文字、字幕、编号、水印。
+不要背景音乐。
+不要现代元素、血腥 gore、恶心怪物、亲吻拥抱、性感化构图、角色变脸。
+
+═══════════════════════════════════════════════════════════════
+🎬 EDIT WORKFLOW CAPCUT — Ghép 4 clip → 1 short film 60s
+═══════════════════════════════════════════════════════════════
+
+📋 STEPS:
+
+1. Mở CapCut (free tool, mobile + desktop)
+2. New Project → Import 4 video clips theo order:
+   - Clip 1 (ACT 1 SETUP)
+   - Clip 2 (ACT 2 MEETING)
+   - Clip 3 (ACT 3 THREAT)
+   - Clip 4 (ACT 4 RESOLUTION)
+3. Drag vào timeline theo thứ tự
+4. Trim clips (cut bỏ frames thừa, giữ key moments) — optional nếu Linh muốn
+   final film ngắn hơn 60s
+5. Add transitions giữa clips:
+   - Clip 1→2: Smooth crossfade hoặc cloud wipe (motion-friendly)
+   - Clip 2→3: Lightning flash transition (match storm building mood)
+   - Clip 3→4: Energy flash transition (match fusion mood)
+6. Audio:
+   - Verify Seedance ASMR audio respect "no BGM" requirement
+   - Nếu có auto-BGM, mute và add custom SFX library:
+     • Mountain wind ambient
+     • Sword whoosh / sword energy hum
+     • Snow particles burst (cho landing moment)
+     • Lightning crack (cho ACT 3)
+     • Energy explosion (cho fusion)
+     • Crane wings (cho ending)
+7. Color grading nhẹ:
+   - CapCut Filter "Cinematic" hoặc "Film"
+   - Adjust contrast +5, saturation +3 cho vivid xianxia look
+8. Export:
+   - Resolution: 1080p hoặc gốc 720p
+   - Frame rate: 24fps cinematic
+   - Format: MP4 H.264
+   - Save as: video-twinsword-final-edited-60s.mp4
+
+═══════════════════════════════════════════════════════════════
+HƯỚNG DẪN TEST
+═══════════════════════════════════════════════════════════════
+
+📋 ORDER TEST RECOMMEND:
+
+1. Test Clip 1 trước → verify Seedance handle 15s + character consistency
+   từ storyboard reference
+2. Nếu Clip 1 OK → tiếp Clip 2, 3, 4 song song hoặc lần lượt
+3. Re-gen video nào không đạt 5⭐ (1-2 re-gen mỗi clip nếu cần)
+
+📝 NAMING (5 files):
+- video-twinsword-clip-1-act1-setup-15s.mp4
+- video-twinsword-clip-2-act2-meeting-15s.mp4
+- video-twinsword-clip-3-act3-threat-15s.mp4
+- video-twinsword-clip-4-act4-resolution-15s.mp4
+- video-twinsword-final-edited-60s.mp4
+
+💡 TIPS QUAN TRỌNG:
+
+✅ **Storyboard-to-Video pattern**: Day 18 storyboard có motion lines guide,
+nhưng cần explicit prompt prevent render trong video (section [非常重要]).
+Pattern này là USP của Day 19.
+
+✅ **Tiếng Trung pure cho xianxia**: Match aesthetic native, Seedance handle
+Chinese xianxia concepts tốt hơn tiếng Anh hoặc tiếng Việt.
+
+✅ **15s duration**: Đủ time cho story arc 1 ACT (8-15 segments × ~1s).
+Ngắn hơn (5s) thì rushed, dài hơn (30s) thì dragging.
+
+✅ **Color palette transition**: Clip 4 demonstrates triple palette work
+(dark → bright → sunset) trong 15s — emotional journey cao nhất.
+
+⚠️ **Sound design verify**: Một số AI video model auto-add BGM ngay cả khi
+prompt cấm. Verify output sau generate, nếu có BGM thì mute trong CapCut và
+add custom SFX.
+
+⚠️ **Resolution 720p HD**: Default Seedance ở 1280×720. Nếu cần upscale 1080p
+or 4K, dùng tool upscale riêng hoặc settings High quality (cost cao hơn).
+
+═══════════════════════════════════════════════════════════════
+END OF DAY 19 PROMPTS
+═══════════════════════════════════════════════════════════════
