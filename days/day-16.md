@@ -107,6 +107,73 @@ Sau bài này, các bạn sẽ:
 
 ---
 
+## 📸 Gallery 15 Ảnh — Test Day 16
+
+### Concept 1 — Personal Brand Poster
+
+![C1 Basic Personal Brand](../assets/images/day-16-c1-basic-personal-brand.png)
+*🟢 Variant Basic (~70 từ): "GIÁ TRỊ" gold + watercolor splash + cityscape Saigon — ⭐⭐⭐⭐*
+
+![C1 Enhanced Personal Brand](../assets/images/day-16-c1-enhanced-personal-brand.png)
+*🟡 Variant Enhanced (~135 từ): + Quote tiếng Việt 4 dòng tự sinh + 4 cuốn sách Vietnamese — ⭐⭐⭐⭐⭐*
+
+![C1 Pro Personal Brand - HERO Day 16](../assets/images/day-16-c1-pro-personal-brand.png)
+*🔴 **Variant Pro (~280 từ) — 🏆 HERO Day 16:** Stats 500K+/20M+/1000+ + 5 cuốn sách Vietnamese full title + cityscape full + spotlight effect — ⭐⭐⭐⭐⭐*
+
+---
+
+### Concept 2 — Affiliate Product Poster (stress-test typography Việt 50+ phrases)
+
+![C2 Basic Affiliate Product](../assets/images/day-16-c2-basic-affiliate-product.png)
+*🟢 Variant Basic: 6 callouts Việt + Shopee logo + footer slogan — ⭐⭐⭐⭐⭐*
+
+![C2 Enhanced Affiliate Product](../assets/images/day-16-c2-enhanced-affiliate-product.png)
+*🟡 Variant Enhanced: + OCOP 3 sao + Shopee/Lazada + mascot vàng — ⭐⭐⭐⭐⭐*
+
+![C2 Pro Affiliate Product](../assets/images/day-16-c2-pro-affiliate-product.png)
+*🔴 Variant Pro: Layout dày đặc với "PHÙ HỢP CHO AI?" + 3 columns + 6 numbered callouts + cam vàng — gần identical viral original — ⭐⭐⭐⭐⭐*
+
+---
+
+### Concept 3 — Cinema-noir Poster
+
+![C3 Basic Cinema-noir](../assets/images/day-16-c3-basic-cinema-noir.png)
+*🟢 Variant Basic: GPT TỰ SINH "NGHI LỄ BÍ TRUYỀN" trên bìa sách — ⭐⭐⭐⭐⭐*
+
+![C3 Enhanced Cinema-noir](../assets/images/day-16-c3-enhanced-cinema-noir.png)
+*🟡 Variant Enhanced: Mặt nạ tribal carved chi tiết + "MTP × QHBH" — ⭐⭐⭐⭐⭐*
+
+![C3 Pro Cinema-noir](../assets/images/day-16-c3-pro-cinema-noir.png)
+*🔴 Variant Pro: + "II Mandiéo" signature + ring detail + tree-of-life book — ⭐⭐⭐⭐⭐*
+
+---
+
+### Concept 4 — Vietnamese Country Portrait (test negative "authenticity")
+
+![C4 Basic Mientay Portrait](../assets/images/day-16-c4-basic-mientay-portrait.png)
+*🟢 Variant Basic: Vibe Việt 100% authentic, không sexualized — ⭐⭐⭐⭐⭐*
+
+![C4 Enhanced Mientay Portrait](../assets/images/day-16-c4-enhanced-mientay-portrait.png)
+*🟡 Variant Enhanced: + Biển "BÁNH TRÁNG" viết tay + dây chuyền vàng + cây dừa — ⭐⭐⭐⭐⭐*
+
+![C4 Pro Mientay Portrait](../assets/images/day-16-c4-pro-mientay-portrait.png)
+*🔴 Variant Pro: 2 biển hiệu "BÁNH TRÁNG NƯỚNG" + "TRÁNG TRỘN" + props chuẩn miền Tây + tóc xõa lao động — ⭐⭐⭐⭐⭐*
+
+---
+
+### Concept 5 — K-Fashion Magazine
+
+![C5 Basic Bad Boy Magazine](../assets/images/day-16-c5-basic-bad-boy-magazine.png)
+*🟢 Variant Basic: GPT TỰ SINH "Some rules are meant to be broken." + "COLD EYES. SHARP TONGUE..." — ⭐⭐⭐⭐⭐*
+
+![C5 Enhanced Bad Boy Magazine](../assets/images/day-16-c5-enhanced-bad-boy-magazine.png)
+*🟡 Variant Enhanced: + Vietnamese subtitle "Không cần phải nói nhiều..." + polaroid bottom-left — ⭐⭐⭐⭐⭐*
+
+![C5 Pro Bad Boy Magazine](../assets/images/day-16-c5-pro-bad-boy-magazine.png)
+*🔴 Variant Pro: + "KODAK PORTRA 400" film frame tự sinh + magazine collage layout perfect — ⭐⭐⭐⭐⭐*
+
+---
+
 ## ✅ Kiểm Tra 5 Dự Đoán: 4 SAI + 1 ĐÚNG
 
 | # | Dự đoán | Kết quả | Phân tích chi tiết |
@@ -148,6 +215,9 @@ vàng đồng. Phong cách motivational poster.
 
 → Ảnh ra: **4⭐**, đẹp, có thể dùng cho social media ngay.
 
+![Proof Insight 1 - Variant Basic 70 từ ra ảnh đẹp](../assets/images/day-16-c1-basic-personal-brand.png)
+*↑ Kết quả từ prompt 70 từ tiếng Việt thuần ở trên — không cần weighted syntax, không cần Pro structure*
+
 ---
 
 ### 🥈 Insight #2: **GPT Image 2 viết Vietnamese typography DÀY ĐẶC đúng ~99-100%**
@@ -163,6 +233,9 @@ Day 12 mình verify được tiếng Việt có dấu với 3-5 phrases ngắn (
 
 > 🏆 **GPT Image 2 vô địch tiếng Việt** trong landscape AI image gen 2026. Các model khác (Midjourney, Stable Diffusion, Flux) chưa làm được điều này. **Đây là lợi thế CỰC LỚN cho creator Việt** muốn làm content tiếng Việt.
 
+![Proof Insight 2 - C2 Pro Affiliate với 50+ phrases tiếng Việt có dấu](../assets/images/day-16-c2-pro-affiliate-product.png)
+*↑ Stress-test typography Việt EXTREME: ~50+ phrases tiếng Việt có dấu (header + 6 callouts + 3 columns + footer + price tag) — GPT render chuẩn 100%, không 1 lỗi chính tả*
+
 ---
 
 ### 🥉 Insight #3 ⭐ HOÀN TOÀN MỚI: **GPT TỰ SINH Vietnamese content phù hợp CONTEXT**
@@ -174,6 +247,9 @@ Day 12 mình verify được tiếng Việt có dấu với 3-5 phrases ngắn (
 🎬 **C3 Basic — Cinema-noir:**
 Prompt KHÔNG hề nói gì về sách → GPT tự thêm chữ **"NGHI LỄ BÍ TRUYỀN"** trên bìa sách, đúng dấu hoàn hảo, vibe phù hợp mystery cinema.
 
+![Proof Insight 3a - GPT tự sinh NGHI LỄ BÍ TRUYỀN](../assets/images/day-16-c3-basic-cinema-noir.png)
+*↑ Prompt chỉ nói "quyển sách bìa xanh đậm" — GPT tự sinh title "NGHI LỄ BÍ TRUYỀN" phù hợp mystery vibe*
+
 📖 **C1 Enhanced — Personal Brand:**
 Prompt KHÔNG nói tên 4 cuốn sách → GPT tự sinh:
 - "ĐỊNH VỊ BẢN THÂN"
@@ -183,6 +259,9 @@ Prompt KHÔNG nói tên 4 cuốn sách → GPT tự sinh:
 
 → Tất cả đều fit vibe branding tutorial.
 
+![Proof Insight 3b - GPT tự sinh 4 cuốn sách Vietnamese title](../assets/images/day-16-c1-enhanced-personal-brand.png)
+*↑ Prompt chỉ nói "sách vở" chung chung — GPT tự sinh 4 title sách Vietnamese chuyên ngành branding hoàn chỉnh*
+
 📸 **C5 Basic — K-Fashion:**
 Prompt KHÔNG yêu cầu phụ đề bổ sung → GPT tự sinh:
 - "Some rules are meant to be broken."
@@ -190,6 +269,9 @@ Prompt KHÔNG yêu cầu phụ đề bổ sung → GPT tự sinh:
 - "Not your type. Never was."
 
 → Tất cả fit mood K-fashion editorial.
+
+![Proof Insight 3c - GPT tự sinh K-Fashion editorial copy](../assets/images/day-16-c5-basic-bad-boy-magazine.png)
+*↑ Prompt KHÔNG có "Some rules", "COLD EYES" — GPT tự sinh editorial copy phù hợp K-fashion bad boy aesthetic*
 
 > 🚨 **Implication CỰC LỚN:** GPT có **"Vietnamese context awareness"** — biết khi nào cần thêm content tiếng Việt phù hợp. Creator có thể tận dụng để **TIẾT KIỆM EFFORT viết prompt** — chỉ cần mô tả vibe, để GPT fill detail.
 
@@ -215,6 +297,9 @@ brand logo, anime, plastic skin
 
 → Confirm Day 10 insight ("Negative liệt kê cụ thể chặn 100%") áp dụng được cho cả **stylistic concerns**, không chỉ chống brand. Đây là technique **quan trọng cho người làm content gia đình/cộng đồng rộng**.
 
+![Proof Insight 4 - Negative authenticity work, vibe Việt 100% documentary](../assets/images/day-16-c4-pro-mientay-portrait.png)
+*↑ C4 Pro Miền Tây: rám nắng tự nhiên, áo loose-fit, tóc xõa lao động, 2 biển "BÁNH TRÁNG NƯỚNG" + "TRÁNG TRỘN" — vibe documentary thuần, không 1 trace male gaze*
+
 ---
 
 ### 🏅 Insight #5: **Pro thắng về DENSITY, không phải QUALITY**
@@ -237,6 +322,16 @@ Pattern qua 5 concepts:
 > - Cần ảnh đẹp standard → **Variant Basic đủ** (50-80 từ, ROI cực tốt)
 > - Cần ảnh dày đặc info (poster sale, infographic, branding card) → **đầu tư Variant Pro**
 > - **Variant Enhanced** là sweet spot: chất lượng ngang Pro mà effort ít hơn 50%.
+
+**So sánh trực quan C2 Basic vs Pro:**
+
+![C2 Basic vs Pro - Side by side comparison](../assets/images/day-16-c2-basic-affiliate-product.png)
+*↑ C2 🟢 Basic: 6 callouts đơn giản + Shopee logo — đã đẹp dùng được ngay (⭐⭐⭐⭐⭐)*
+
+![C2 Pro - Density max](../assets/images/day-16-c2-pro-affiliate-product.png)
+*↑ C2 🔴 Pro: Density max với "PHÙ HỢP CHO AI?" + 3 columns + 6 numbered + cam vàng + mascot — phù hợp khi cần info dày đặc (⭐⭐⭐⭐⭐)*
+
+→ **Cùng star rating, khác use case.** Basic cho social post, Pro cho landing page sales.
 
 ---
 
@@ -319,6 +414,9 @@ Sau khi test 15 ảnh + verify pattern, đây là cheatsheet mình đề xuất 
 
 ## 🏆 HERO DAY 16 — `day-16-c1-pro-personal-brand.png`
 
+![HERO Day 16 - C1 Pro Personal Brand Poster](../assets/images/day-16-c1-pro-personal-brand.png)
+*🏆 **HERO DAY 16** — Đỉnh cao tiếng Việt thuần trên GPT Image 2*
+
 Ảnh `c1-pro-personal-brand.png` xứng đáng làm Hero Day 16 vì:
 
 - ✅ Production value cao nhất trong batch
@@ -334,7 +432,13 @@ Sau khi test 15 ảnh + verify pattern, đây là cheatsheet mình đề xuất 
 
 🥈 **`day-16-c2-pro-affiliate-product.png`** — Stress-test typography Việt dày đặc PASS hoàn hảo. Use case affiliate vô địch.
 
+![Hero phụ #2 - C2 Pro Affiliate Product](../assets/images/day-16-c2-pro-affiliate-product.png)
+*🥈 50+ phrases Việt có dấu render perfect — vô địch use case affiliate e-commerce*
+
 🥉 **`day-16-c5-pro-bad-boy-magazine.png`** — Magazine collage layout perfect + Kodak Portra 400 film frame tự sinh. Vibe K-fashion editorial 100%.
+
+![Hero phụ #3 - C5 Pro K-Fashion Magazine](../assets/images/day-16-c5-pro-bad-boy-magazine.png)
+*🥉 Magazine collage editorial perfect — Kodak Portra film frame là detail GPT tự sinh không có trong prompt*
 
 ---
 
