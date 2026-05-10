@@ -1,0 +1,466 @@
+═══════════════════════════════════════════════════════════════
+DAY 18 — STORYBOARD SHEETS: "ĐÔI KIẾM TIÊN"
+       4 boards × 4x4 grid (16 panels) = 64 panels total
+       Animation production storyboard reference
+═══════════════════════════════════════════════════════════════
+
+📊 SETUP TEST:
+- 4 prompts cho 4 storyboard boards
+- Mỗi board: 4x4 grid layout = 16 panels
+- Tổng: 64 panels cover full short film "Đôi Kiếm Tiên"
+- Workflow: Image-to-Image với 2 character sheets làm reference
+- Model: GPT Image 2 (best cho image-to-image consistency)
+- Cost dự kiến: 4 × 900 = ~3,600 credit (~3,600đ)
+- Time dự kiến: 30-50 phút
+
+🎭 CHARACTER REFERENCES (từ Day 17):
+- LINH NHI (C1 character sheet): 
+  → assets/images/day-17-bonus-c1-character-sheet-girl.png
+- HÀN LẬP (C5 character sheet):
+  → assets/images/day-17-bonus-c5-character-sheet-boy.png
+
+📝 NAMING CONVENTION:
+- storyboard-twinsword-board-1-act1-setup.png
+- storyboard-twinsword-board-2-act2-meeting.png
+- storyboard-twinsword-board-3-act3-threat.png
+- storyboard-twinsword-board-4-act4-resolution.png
+
+🎨 ĐẶC TRƯNG STORYBOARD SHEETS NÀY:
+✓ Layout 4x4 grid (16 panels mỗi board) clean uniform
+✓ NO TEXT — không có titles, captions, scene numbers, watermarks
+✓ MOTION LINES vẽ rõ trên action panels:
+  • Sword swing arcs (đường cong cho swing kiếm)
+  • Movement direction arrows (mũi tên chỉ hướng)
+  • Speed lines (đường thẳng song song show tốc độ)
+  • Trail effects (đường dọc theo flying object)
+  • Action burst lines (vạch tỏa từ impact point)
+✓ Same characters consistent qua mọi panel (anchor từ character sheet)
+✓ Camera variety: wide / medium / close-up / dynamic angle
+✓ Panel borders clean white/transparent dividing 16 frames
+✓ Style: Phàm Nhân Tu Tiên + Pixar 3D animation production reference
+
+💡 WORKFLOW TRÊN 0AI.VN:
+
+1. Vào 0ai.vn → bấm vào mục **"Tạo ảnh"**
+2. Chọn model **Image 2** (GPT Image 2)
+3. Chọn tỉ lệ **16:9** (cinematic storyboard)
+4. Chọn chế độ generate (Low / Medium / High):
+   - Low: rẻ nhất, nhanh nhưng quality thấp
+   - **Medium: ⭐ RECOMMEND** — ổn định nhất + nhanh nhất + giá hợp lí
+   - High: chất lượng cao nhất nhưng đắt + chậm hơn
+5. Chọn độ phân giải **2K** (cần resolution cao cho 16 panels rõ ràng)
+6. Upload character reference:
+   - Boards có Linh Nhi: upload `day-17-bonus-c1-character-sheet-girl.png`
+   - Boards có Hàn Lập: upload `day-17-bonus-c5-character-sheet-boy.png`
+   - Boards có cả 2 nhân vật (Boards 2, 3, 4): upload cả 2 character sheets
+     (nếu 0ai.vn support multi-ref) HOẶC upload 1 trước, mô tả character
+     kia chi tiết trong prompt
+7. Paste prompt từ file này vào ô input
+8. Số ảnh: 1 (re-gen nếu cần)
+9. Generate → đợi 60-90 giây
+10. Verify: 16 panels có rõ ràng không? Character có consistent không?
+    Motion lines có hiện rõ không?
+11. Save với naming convention chính xác
+
+📌 GHI CHÚ: Model Image 2 đã được verify handle được 4x4 grid với 16 panels
+tốt (Linh đã test trước đó). Nếu output không như ý → re-gen 1 lần với
+seed mới thường work.
+
+═══════════════════════════════════════════════════════════════
+🎬 BOARD 1 — ACT 1 SETUP (Lone training & flying & discovery)
+File: storyboard-twinsword-board-1-act1-setup.png (16:9, 4x4 grid)
+Reference: Cả 2 character sheets (C1 + C5)
+═══════════════════════════════════════════════════════════════
+
+📝 Prompt:
+
+Tạo ảnh storyboard sheet animation production phong cách Phàm Nhân Tu Tiên
++ Pixar 3D, layout 4x4 grid CHÍNH XÁC 16 panels uniform với clean white
+borders dividing panels, 16 panels show progression của ACT 1 SETUP trong
+short film xianxia "Đôi Kiếm Tiên".
+
+ABSOLUTELY NO TEXT: không có titles, không có captions, không có scene
+numbers, không có panel labels, không có watermarks, không có speech bubbles.
+
+Giữ nguyên 100% nhân vật từ ảnh tham chiếu:
+- LINH NHI: cô gái xianxia hanfu trắng tinh khiết thêu hoa văn ngọc bích,
+  tóc đen dài búi cao cài trâm bạc khắc rồng phượng, mắt nâu hổ phách,
+  kiếm trường ngọc bích phát quang xanh
+- HÀN LẬP: chàng trai cultivator hanfu xám đen nhiều tầng thêu hoa văn
+  vàng, tóc đen dài búi cao cài ngọc bích, mắt sharp đen sâu, kiếm phi
+  xanh ngọc bích phát quang
+
+LAYOUT 16 PANELS (4 hàng × 4 cột, đọc từ trái-phải, trên-xuống):
+
+HÀNG 1 (panels 1-4) — Linh Nhi luyện kiếm trên đỉnh núi tuyết bình minh:
+• Panel 1: Wide establishing shot — Linh Nhi đứng nhỏ trên đỉnh núi tuyết,
+  biển mây bồng bềnh, mặt trời mọc bình minh
+• Panel 2: Medium shot — Linh Nhi nâng kiếm ngọc bích lên ngang vai pose
+  ready, motion arc line trên đầu kiếm chỉ direction
+• Panel 3: Close-up — mặt Linh Nhi determined focused mắt sáng
+• Panel 4: Action shot — Linh Nhi swinging kiếm chiêu thức, motion arc
+  curve mạnh follow swing path, hanfu bay theo gió
+
+HÀNG 2 (panels 5-8) — Hàn Lập phi kiếm vượt biển mây tiên:
+• Panel 5: Wide establishing — Hàn Lập trên kiếm phi nhỏ giữa biển mây
+  panoramic, núi tiên xa
+• Panel 6: Side profile — Hàn Lập flying nghiêng, motion trail lines xanh
+  ngọc bích phía sau show tốc độ và direction
+• Panel 7: Close-up — mặt Hàn Lập cool determined focused
+• Panel 8: Dynamic angle — Hàn Lập với speed lines mạnh song song phía sau,
+  áo choàng bay phấp phới motion blur
+
+HÀNG 3 (panels 9-12) — Hàn Lập phát hiện yêu ma đe dọa:
+• Panel 9: Hàn Lập nhìn xa, sight line dotted dẫn về phía mây đen yêu ma
+  background phải
+• Panel 10: Close-up Hàn Lập mặt alert concerned tense
+• Panel 11: Hàn Lập quay đầu sharp với motion blur lines lateral
+• Panel 12: Hàn Lập decision moment, fist clenched với action burst lines
+  nhỏ tỏa từ tay
+
+HÀNG 4 (panels 13-16) — Hàn Lập dive xuống cứu Linh Nhi:
+• Panel 13: Hàn Lập nghiêng người chuẩn bị dive với arrow lớn chỉ xuống
+  diagonal
+• Panel 14: Hàn Lập bắt đầu lao xuống với motion lines mạnh trail phía sau
+• Panel 15: Action shot Hàn Lập diving extreme với speed lines song song
+  nhiều, sword trail xanh ngọc bích dài
+• Panel 16: Hàn Lập cuối panel nhìn về phía Linh Nhi target dưới, góc
+  chéo dramatic
+
+MOTION LINES STYLE:
+• Sword arc curves: nét cong mảnh follow swing path
+• Movement arrows: mũi tên đậm chỉ direction
+• Speed lines: nét song song mảnh show velocity
+• Trail effects: nét dài kết thúc fade theo flying object
+• Action burst: nét tỏa radial từ impact/decision point
+• Tất cả vẽ tinh tế production-quality, không cartoon doodle
+
+STYLE TỔNG THỂ:
+Phong cách 3D animation Phàm Nhân Tu Tiên + Pixar production storyboard
+reference, sub-surface scattering da nhân vật, ray-traced lighting subtle
+within panels, hanfu texture detailed, swords glow ngọc bích trong action
+panels, atmospheric perspective trong wide shots.
+
+PANEL BORDERS:
+Clean white borders 8-10px dividing 4x4 grid uniform, không có rounded
+corners, panel size đều nhau 25% width × 25% height.
+
+LIGHTING NHẤT QUÁN trong sequence:
+Bình minh golden hour cool morning xianxia, key light từ mặt trời mọc,
+mood determined cool peaceful trong ACT 1.
+
+Tỉ lệ ảnh ngang 16:9 (1920x1080px) layout 4x4 storyboard sheet animation
+production quality.
+
+Negative: text labels in panels, captions, titles, scene numbers,
+watermarks, speech bubbles, panel labels, photorealistic photograph,
+real human photo, modern clothing, modern setting, low quality, mặt méo
+qua các panels, tỉ lệ không nhất quán giữa panels, body framing gợi cảm,
+brand logo, character drift between panels, mismatched character
+appearance, blank empty panels, panels with only motion lines no character,
+dragon, female character in Hàn Lập panels, male character in Linh Nhi
+panels, romantic intimate poses.
+
+═══════════════════════════════════════════════════════════════
+🎬 BOARD 2 — ACT 2 MEETING (Rescue & First Encounter)
+File: storyboard-twinsword-board-2-act2-meeting.png (16:9, 4x4 grid)
+Reference: Cả 2 character sheets (C1 + C5)
+═══════════════════════════════════════════════════════════════
+
+📝 Prompt:
+
+Tạo ảnh storyboard sheet animation production phong cách Phàm Nhân Tu Tiên
++ Pixar 3D, layout 4x4 grid CHÍNH XÁC 16 panels uniform với clean white
+borders, 16 panels show progression của ACT 2 MEETING trong short film
+xianxia "Đôi Kiếm Tiên".
+
+ABSOLUTELY NO TEXT: không titles, không captions, không scene numbers,
+không panel labels, không watermarks.
+
+Giữ nguyên 100% nhân vật từ ảnh tham chiếu (như Board 1):
+- LINH NHI: hanfu trắng + kiếm ngọc bích + tóc búi cao trâm bạc
+- HÀN LẬP: hanfu xám đen + kiếm phi xanh + tóc dài búi cao
+
+LAYOUT 16 PANELS:
+
+HÀNG 1 (panels 1-4) — Hàn Lập phi kiếm tốc độ cao dive xuống:
+• Panel 1: Wide shot Hàn Lập từ trên cao lao xuống chéo, sword trail dài
+• Panel 2: Hàn Lập motion blur extreme, speed lines dày đặc
+• Panel 3: Close-up mặt Hàn Lập determined urgent
+• Panel 4: Hàn Lập gần đáp xuống, motion lines kết thúc fade-in
+
+HÀNG 2 (panels 5-8) — Linh Nhi cảm nhận và quay lại:
+• Panel 5: Linh Nhi đang luyện kiếm thì pause, kiếm hạ xuống
+• Panel 6: Linh Nhi đầu nghiêng listening (cảm nhận sound từ phía sau)
+• Panel 7: Linh Nhi quay đầu sharp với motion blur lines lateral
+• Panel 8: Close-up mặt Linh Nhi surprised curious mắt mở rộng
+
+HÀNG 3 (panels 9-12) — Hàn Lập đáp xuống đỉnh núi:
+• Panel 9: Hàn Lập đáp xuống tuyết, dust và snow particles bay tỏa từ
+  impact point (action burst lines)
+• Panel 10: Hàn Lập đứng thẳng sau đáp, kiếm phi hạ chạm tuyết
+• Panel 11: 2 shot — Linh Nhi nhìn Hàn Lập từ xa, distance giữa 2 người
+• Panel 12: Linh Nhi nâng kiếm ngọc bích pose cautious ready
+
+HÀNG 4 (panels 13-16) — First meeting & spark moment:
+• Panel 13: 2 shot — 2 người đối mặt cách 3 mét, mặt cả 2 visible
+• Panel 14: Close-up Hàn Lập mặt thâm trầm focused respectful
+• Panel 15: Close-up Linh Nhi mặt cautious nhưng hiểu là đồng minh
+• Panel 16: Wide 2-shot — 2 người đứng đối mặt, mặt trời mọc background
+  giữa 2 người tạo halo divine, sparkles năng lượng giữa 2 người
+
+MOTION LINES (specific cho board này):
+• Panel 1, 2: Speed lines + sword trail dài (Hàn Lập diving)
+• Panel 7: Motion blur lines lateral (Linh Nhi quay đầu)
+• Panel 9: Action burst radial từ impact (đáp xuống)
+• Panel 14, 15, 16: Sparkles/spark effects nhỏ (spark moment)
+
+STYLE TỔNG THỂ:
+Phong cách 3D animation Phàm Nhân Tu Tiên + Pixar production storyboard,
+sub-surface scattering, ray-traced lighting, atmospheric.
+
+PANEL BORDERS: Clean white 8-10px uniform 4x4 grid.
+
+LIGHTING NHẤT QUÁN:
+Bình minh golden hour transitioning, panels 1-4 cool xianxia tone,
+panels 13-16 warm spark moment với halo divine từ mặt trời.
+
+Tỉ lệ 16:9 (1920x1080px) storyboard sheet 4x4 production quality.
+
+Negative: text labels, captions, titles, scene numbers, watermarks,
+speech bubbles, photorealistic photograph, real human photo, modern
+clothing, low quality, character drift, mismatched appearance, romantic
+kissing pose, body framing gợi cảm, brand logo, blank panels, single
+character only when scene needs both, female Hàn Lập, male Linh Nhi.
+
+═══════════════════════════════════════════════════════════════
+🎬 BOARD 3 — ACT 3 THREAT (Demon attacks, ready to fight)
+File: storyboard-twinsword-board-3-act3-threat.png (16:9, 4x4 grid)
+Reference: Cả 2 character sheets (C1 + C5)
+═══════════════════════════════════════════════════════════════
+
+📝 Prompt:
+
+Tạo ảnh storyboard sheet animation production phong cách Phàm Nhân Tu Tiên
++ Pixar 3D + Marvel cinematic action, layout 4x4 grid CHÍNH XÁC 16 panels
+uniform với clean white borders, 16 panels show progression của ACT 3
+THREAT trong short film xianxia "Đôi Kiếm Tiên".
+
+ABSOLUTELY NO TEXT: không titles, captions, scene numbers, watermarks.
+
+Giữ nguyên 100% nhân vật từ ảnh tham chiếu:
+- LINH NHI: hanfu trắng + kiếm ngọc bích
+- HÀN LẬP: hanfu xám đen + kiếm phi xanh ngọc bích
+
+Thêm yêu ma creature design: huge silhouette quái vật Trung Quốc nửa rồng
+nửa hổ với mắt đỏ rực phát quang, sừng đen xoắn, móng vuốt vàng đen sắc,
+vảy đen tím, aura đen tím ác độc.
+
+LAYOUT 16 PANELS:
+
+HÀNG 1 (panels 1-4) — Yêu ma xuất hiện trong mây bão:
+• Panel 1: Wide shot mây đen bão tố cuồn cuộn kéo đến từ chân trời
+• Panel 2: Lightning đen tím xé ngang mây với electric lines mạnh
+• Panel 3: Yêu ma silhouette huge bắt đầu emerge từ mây với aura đen
+• Panel 4: Close-up yêu ma mắt đỏ rực phát quang threatening, mouth
+  growl với teeth lộ
+
+HÀNG 2 (panels 5-8) — 2 người cảm nhận và sẵn sàng:
+• Panel 5: 2 shot Linh Nhi và Hàn Lập đang nhìn về phía yêu ma
+• Panel 6: Close-up Linh Nhi mặt determined ready
+• Panel 7: Close-up Hàn Lập mặt cool ready
+• Panel 8: 2 shot — 2 người di chuyển lại gần nhau, motion lines movement
+
+HÀNG 3 (panels 9-12) — Back-to-back ready fight pose:
+• Panel 9: Wide low angle hero shot — 2 người back-to-back trên đỉnh
+  núi, swords ready, mây bão fill background
+• Panel 10: Medium shot 2 người back-to-back, swords vertical 2 bên
+• Panel 11: Close-up Linh Nhi với swords arc nhẹ (preparation movement)
+• Panel 12: Close-up Hàn Lập với swords arc nhẹ phía đối diện
+
+HÀNG 4 (panels 13-16) — Yêu ma lao đến tấn công:
+• Panel 13: Yêu ma từ background lao xuống diagonal với speed lines
+  extreme và roar action burst
+• Panel 14: 2 người chuẩn bị dodge, body lean dramatic, motion lines
+  sẵn sàng split apart
+• Panel 15: Linh Nhi nghiêng trái với kiếm ngọc bích nâng block,
+  motion arc curve
+• Panel 16: Hàn Lập nghiêng phải với kiếm phi nâng counter, sword
+  trail và action burst lines impact
+
+MOTION LINES (specific cho board này):
+• Panel 2: Electric lightning lines đen tím dày
+• Panel 8: Movement arrows giữa 2 người (lại gần nhau)
+• Panel 13: Speed lines + roar burst (yêu ma lao)
+• Panel 14: Split-direction arrows (2 người dodge ngược)
+• Panel 15, 16: Sword arcs + impact burst lines
+
+STYLE TỔNG THỂ:
+Phong cách 3D animation Phàm Nhân Tu Tiên + Marvel cinematic 3D action
+intense, sub-surface scattering, ray-traced lighting strong contrast cool
+vs dark warm, atmospheric perspective, dramatic mood.
+
+PANEL BORDERS: Clean white 8-10px uniform 4x4 grid.
+
+LIGHTING NHẤT QUÁN:
+Dark stormy mood throughout, panels 1-4 dramatic dark threat, panels 9-12
+hero rim light từ swords, panels 13-16 intense action contrast.
+
+Tỉ lệ 16:9 (1920x1080px) storyboard 4x4 production quality.
+
+Negative: text labels, captions, titles, scene numbers, watermarks,
+photorealistic photograph, real human photo, modern clothing, low quality,
+character drift, peaceful happy mood, blood gore explicit, brand logo,
+blank panels, romantic intimate pose, body framing gợi cảm, child
+character.
+
+═══════════════════════════════════════════════════════════════
+🎬 BOARD 4 — ACT 4 RESOLUTION (Battle climax & flying into sunset)
+File: storyboard-twinsword-board-4-act4-resolution.png (16:9, 4x4 grid)
+Reference: Cả 2 character sheets (C1 + C5)
+═══════════════════════════════════════════════════════════════
+
+📝 Prompt:
+
+Tạo ảnh storyboard sheet animation production phong cách Phàm Nhân Tu Tiên
++ Pixar 3D + Marvel cinematic, layout 4x4 grid CHÍNH XÁC 16 panels uniform
+với clean white borders, 16 panels show progression của ACT 4 RESOLUTION
+trong short film xianxia "Đôi Kiếm Tiên".
+
+ABSOLUTELY NO TEXT: không titles, captions, scene numbers, watermarks.
+
+Giữ nguyên 100% nhân vật từ ảnh tham chiếu:
+- LINH NHI: hanfu trắng + kiếm ngọc bích
+- HÀN LẬP: hanfu xám đen + kiếm phi xanh ngọc bích
+
+LAYOUT 16 PANELS:
+
+HÀNG 1 (panels 1-4) — Linh Nhi phóng kiếm chiêu thức peak attack:
+• Panel 1: Linh Nhi pose ready, hanfu bay, energy aura quanh người bắt đầu
+• Panel 2: Linh Nhi nâng kiếm cao lên đầu, energy charge với inward arrow
+  lines (gathering power)
+• Panel 3: Magic circle pattern hoa văn cổ xuất hiện dưới chân Linh Nhi
+• Panel 4: Linh Nhi phóng kiếm chiêu thức — sword energy beam ngọc bích
+  khổng lồ vertical lên trời với explosion burst lines mạnh
+
+HÀNG 2 (panels 5-8) — Hàn Lập support, 2 kiếm hợp nhất:
+• Panel 5: Hàn Lập từ phía đối diện điều khiển kiếm phi pose ready
+• Panel 6: Hàn Lập phóng kiếm phi với energy beam horizontal-diagonal về
+  phía Linh Nhi, sword trail dài
+• Panel 7: 2 sword energy beams gặp nhau giữa khung hình, fusion explosion
+  với radial burst lines mạnh
+• Panel 8: Combined energy explosion khổng lồ giữa 2 người, particles fill
+  panel
+
+HÀNG 3 (panels 9-12) — Yêu ma bị đánh bại:
+• Panel 9: Yêu ma background với combined energy chiếu vào, scream
+• Panel 10: Yêu ma bắt đầu tan rã, particles đen tỏa
+• Panel 11: Yêu ma fade out với fade lines, mây đen bắt đầu tan
+• Panel 12: Wide shot — sky clearing, mây tan, mặt trời break qua
+
+HÀNG 4 (panels 13-16) — Cùng phi kiếm bay vào hoàng hôn:
+• Panel 13: 2 shot Linh Nhi và Hàn Lập đứng cạnh nhau trên đỉnh núi sau
+  battle, kiếm cầm thấp peaceful
+• Panel 14: 2 người step lên thanh kiếm phi xanh ngọc bích lớn cùng nhau
+• Panel 15: Wide shot — 2 người trên kiếm phi bay slow rời khỏi đỉnh núi,
+  kiếm phi tạo motion trail nhẹ
+• Panel 16: Wide silhouette — 2 người trên kiếm phi bay xa vào mặt trời
+  lặn cam vàng, biển mây vàng cam, hạc tiên bay xếp V theo, ending
+  romantic peaceful
+
+MOTION LINES (specific cho board này):
+• Panel 2: Inward arrows lines (gathering power)
+• Panel 4: Vertical explosion burst (peak attack)
+• Panel 6: Horizontal sword trail
+• Panel 7, 8: Radial burst lines (fusion explosion)
+• Panel 10, 11: Fade-out particle lines (yêu ma dissolving)
+• Panel 15: Light motion trail (kiếm phi bay)
+
+STYLE TỔNG THỂ:
+Phong cách 3D animation Phàm Nhân Tu Tiên + Pixar + Marvel cinematic 3D
+climax, transition từ action peak (panels 1-8) sang peaceful resolution
+(panels 9-16), color palette transition từ dark stormy → bright explosion
+→ warm sunset golden hour.
+
+PANEL BORDERS: Clean white 8-10px uniform 4x4 grid.
+
+LIGHTING NHẤT QUÁN:
+Panels 1-4 hero attack với rim light xanh ngọc bích, panels 5-8 climax
+explosion bright, panels 9-12 transition mây tan, panels 13-16 golden
+hour warm peaceful sunset.
+
+Tỉ lệ 16:9 (1920x1080px) storyboard 4x4 production quality.
+
+Negative: text labels, captions, titles, scene numbers, watermarks,
+photorealistic photograph, real human photo, modern clothing, low quality,
+character drift, romantic kissing pose explicit, brand logo, blank panels,
+body framing gợi cảm, modern setting urban.
+
+═══════════════════════════════════════════════════════════════
+HƯỚNG DẪN TEST
+═══════════════════════════════════════════════════════════════
+
+📊 TỔNG KẾT FILE NÀY:
+- 4 prompts cho 4 storyboard boards
+- Mỗi board: 4x4 grid = 16 panels
+- Tổng: 64 panels cover full short film "Đôi Kiếm Tiên"
+- Cost: 4 × 900 = 3,600 credit (~3,600đ)
+
+📋 ORDER TEST RECOMMEND:
+
+1. **Test Board 1 (ACT 1 SETUP) trước** — verify:
+   - 4x4 grid layout có hiện rõ ràng không?
+   - 16 panels có distinct từng panel không?
+   - Character có giữ consistent không?
+   - Motion lines có visible không?
+   - NO TEXT có được respect không?
+
+   → Nếu Board 1 OK → tiếp Boards 2, 3, 4
+   → Nếu Board 1 fail → adjust prompt + re-test
+
+2. **Test Board 2 (ACT 2 MEETING)** — verify spark moment panels (cả 2
+   nhân vật) đẹp không
+
+3. **Test Board 3 (ACT 3 THREAT)** — verify yêu ma creature design +
+   action panels có dramatic không
+
+4. **Test Board 4 (ACT 4 RESOLUTION)** — verify climax explosion +
+   ending sunset có cinematic không
+
+📝 NAMING (4 files):
+- storyboard-twinsword-board-1-act1-setup.png
+- storyboard-twinsword-board-2-act2-meeting.png
+- storyboard-twinsword-board-3-act3-threat.png
+- storyboard-twinsword-board-4-act4-resolution.png
+
+💡 TIPS:
+
+🔄 **Nếu output không như ý ở lần generate đầu, pattern thường gặp:**
+- AI tạo 9 panels (3x3) thay vì 16 (4x4) → adjust prompt: thêm "EXACTLY
+  16 panels in 4 rows of 4 columns"
+- Một số panels giống nhau → thêm "each panel must show DIFFERENT moment"
+- Character drift → nhấn mạnh "EXACT same character throughout all panels"
+- Motion lines mờ → thêm "VISIBLE prominent motion lines drawn on action
+  panels"
+- Có text xuất hiện → nhấn mạnh negative "NO TEXT, NO labels, NO numbers"
+
+🔄 **RE-GEN STRATEGY:**
+- Lần 1 fail: Re-gen với prompt giữ nguyên (random seed có thể work)
+- Lần 2 fail: Adjust prompt nhấn mạnh element đang fail theo bảng trên
+
+📌 Model Image 2 đã verify handle 4x4 grid tốt — re-gen 1 lần với seed mới
+thường giải quyết được hầu hết case.
+
+📊 SAU KHI TEST XONG:
+- Mình sẽ finalize Day 18.md với:
+  * Embed 4 storyboard boards với caption analysis
+  * Insights về 4x4 grid storyboard generation feasibility
+  * Hero board (board đẹp nhất)
+  * ROI và workflow learnings
+- Day 19 sẽ là Image-to-Video Seedance: dùng 4 boards làm reference cho
+  16 video clips × 4 boards = 64 video clips → 1 short film hoàn chỉnh
+  (hoặc subset key panels)
+
+═══════════════════════════════════════════════════════════════
+END OF DAY 18 PROMPTS
+═══════════════════════════════════════════════════════════════
