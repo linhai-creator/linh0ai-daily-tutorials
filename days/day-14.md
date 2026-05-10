@@ -49,6 +49,9 @@ Tuần 2 đã khép lại với những con số ấn tượng:
 - ✅ Có **Cheatsheet 4-trong-1** in-out 1 trang
 - ✅ Sẵn sàng cho Tuần 3 — **Practical Production**
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-14.txt`](../prompts/day-14.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## 📊 Phần 1 — Recap Day 8-13: Bảng Tổng Hợp
