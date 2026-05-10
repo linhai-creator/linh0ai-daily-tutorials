@@ -218,10 +218,10 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 | **Resolution** | **720p** (HD 16:9) |
 | **Frame rate** | 24fps cinematic ⭐ |
 | **Cost/clip 15s** | **36,000 credit** |
-| **Cost actual tổng** | **144,000 credit** (~144K VND) |
+| **Cost actual tổng** | **216,000 credit** (~216K VND, 6 lần generate) |
 | **Time generate** | ~60-90 phút (không hàng chờ với VIP) |
 | **Time edit CapCut** | ~30-60 phút |
-| **Re-gen rate actual** | 1-2 video re-gen từ prompt cũ |
+| **Re-gen rate actual** | 2/4 video re-gen 1 lần (test 2 phiên bản prompt) |
 
 ---
 
@@ -231,31 +231,33 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 | Clip | ACT | Star | Character consistency | Motion lines clean? | Sound respect? | Note |
 |------|-----|------|------------------------|---------------------|----------------|------|
-| **Clip 1** | SETUP | ⭐⭐⭐⭐⭐⭐ | ✅ Perfect | ✅ Clean | _Linh fill_ | Discovery moment + dive emerald trail epic |
-| **Clip 2** | MEETING | ⭐⭐⭐⭐⭐⭐⭐ | ✅ Perfect | ✅ Clean | _Linh fill_ | **AI bonus:** divine face overlay từ mây artistic |
-| **Clip 3** | THREAT | ⭐⭐⭐⭐⭐⭐ | ✅ Perfect | ✅ Clean | _Linh fill_ | **🏆 Hero candidate:** back-to-back hero shot iconic |
-| **Clip 4** | RESOLUTION | ⭐⭐⭐⭐⭐⭐⭐ | ✅ Perfect | ✅ Clean | _Linh fill_ | Triple palette + fusion + sunset ending |
-| **Tổng trung bình** | | **6.5/5 ⭐** | **4/4 perfect** | **4/4 clean** | | |
+| **Clip 1** | SETUP | ⭐⭐⭐⭐⭐⭐ | ✅ Perfect | ✅ Clean | ✅ ASMR clean | Discovery moment + dive emerald trail epic |
+| **Clip 2** | MEETING | ⭐⭐⭐⭐⭐⭐⭐ | ✅ Perfect | ✅ Clean | ✅ ASMR clean | **AI bonus:** divine face overlay từ mây artistic |
+| **Clip 3** | THREAT | ⭐⭐⭐⭐⭐⭐ | ✅ Perfect | ✅ Clean | ✅ ASMR clean | **🏆 Hero candidate:** back-to-back hero shot iconic |
+| **Clip 4** | RESOLUTION | ⭐⭐⭐⭐⭐⭐⭐ | ✅ Perfect | ✅ Clean | ✅ ASMR clean | Triple palette + fusion + sunset ending |
+| **Tổng trung bình** | | **6.5/5 ⭐** | **4/4 perfect** | **4/4 clean** | **4/4 ASMR clean** | |
+
+> Sound design respect — Seedance 2.0-Omni Professional-VIP respect "no BGM" requirement. Output có natural ambient sounds (gió núi, vải bay, kiếm hum) đúng prompt ASMR cinematic.
 
 ### Re-gen tracking
 
 | Clip | Số lần generate | Cost actual |
 |------|-----------------|-------------|
-| Clip 1 | _Linh fill_ | 36,000 credit |
-| Clip 2 | _Linh fill_ | 36,000 credit |
-| Clip 3 | _Linh fill_ | 36,000 credit |
-| Clip 4 | _Linh fill_ | 36,000 credit |
-| **Tổng base** | **4 lần** | **144,000 credit** |
-| Re-gen extra (1-2 video) | _Linh fill_ | _Linh fill_ |
-| **Grand total** | _Linh fill_ | _Linh fill_ |
+| Clip 1 | 1 lần | 36,000 credit |
+| Clip 2 | 2 lần (re-gen từ prompt cũ) | 72,000 credit |
+| Clip 3 | 1 lần | 36,000 credit |
+| Clip 4 | 2 lần (re-gen từ prompt cũ) | 72,000 credit |
+| **Grand total** | **6 lần generate** | **216,000 credit (~216K VND)** |
 
-> **Note:** Mỗi clip 15s ở Professional-VIP cost 36,000 credit. 1-2 video cần re-gen từ prompt cũ → cost extra ~36-72K credit.
+> **Note:** 2/4 video phải re-gen 1 lần — không phải vì output fail mà vì Linh thử với **2 phiên bản prompt khác nhau** (prompt original + prompt sửa) để chọn version tốt nhất. Đây là cost của việc test prompt iteration, không phải technical fail.
+
+> Pattern Storyboard-to-Video work tốt nhờ character lock kép từ Day 18 storyboard + Professional-VIP mode + tiếng Trung pure pattern.
 
 ### Gallery 4 video clips
 
 #### 🎬 Clip 1 — ACT 1 SETUP
 
-[![Clip 1 ACT 1 SETUP — Linh Nhi training + Hàn Lập flying + Discovery + Dive](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-1-act1-setup-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-1-act1-setup-15s.mp4)
+[![Clip 1 ACT 1 SETUP — Linh Nhi training + Hàn Lập flying + Discovery + Dive](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-1-act1-setup-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-1-act1-setup-15s.mp4)
 
 > 👆 Click thumbnail để xem video MP4 (15s, 7.8MB)
 
@@ -267,7 +269,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 Clip 2 — ACT 2 MEETING
 
-[![Clip 2 ACT 2 MEETING — First meeting với divine face overlay](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-2-act2-meeting-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-2-act2-meeting-15s.mp4)
+[![Clip 2 ACT 2 MEETING — First meeting với divine face overlay](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-2-act2-meeting-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-2-act2-meeting-15s.mp4)
 
 > 👆 Click thumbnail để xem video MP4 (15s, 8.8MB)
 
@@ -278,7 +280,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 Clip 3 — ACT 3 THREAT 🏆
 
-[![Clip 3 ACT 3 THREAT — Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-3-act3-threat-15s.mp4)
+[![Clip 3 ACT 3 THREAT — Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4)
 
 > 👆 Click thumbnail để xem video MP4 (15s, 9.7MB) — **Hero Day 19**
 
@@ -290,7 +292,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 Clip 4 — ACT 4 RESOLUTION
 
-[![Clip 4 ACT 4 RESOLUTION — Sunset ending silhouette](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-4-act4-resolution-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-4-act4-resolution-15s.mp4)
+[![Clip 4 ACT 4 RESOLUTION — Sunset ending silhouette](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-4-act4-resolution-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-4-act4-resolution-15s.mp4)
 
 > 👆 Click thumbnail để xem video MP4 (15s, 11MB)
 
@@ -302,7 +304,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 #### 🎬 FINAL FILM 60s
 
-[![Final Film 60s — Đôi Kiếm Tiên xianxia short film hoàn chỉnh](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-final-film-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-final-edited-60s.mp4)
+[![Final Film 60s — Đôi Kiếm Tiên xianxia short film hoàn chỉnh](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-final-film-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-final-edited-60s.mp4)
 
 > 👆 Click thumbnail để xem **Final Film 60s** — short film xianxia "Đôi Kiếm Tiên" hoàn chỉnh sau ghép CapCut với transitions + sound design.
 
@@ -352,7 +354,7 @@ Clip 2 frame 14s — AI tự thêm **divine face overlay từ mây** làm spirit
 
 ## 🏆 Hero Day 19 — Clip 3 Back-to-Back Hero Shot
 
-[![Hero Day 19 - Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/twinsword-clip-3-act3-threat-15s.mp4)
+[![Hero Day 19 - Back-to-back hero shot iconic](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-19-clip-3-act3-threat-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4)
 
 > 👆 Click để xem Clip 3 — Hero của Day 19
 
@@ -476,16 +478,16 @@ Clip 2 frame 14s — AI tự thêm **divine face overlay từ mây** làm spirit
 | Resolution | 720p HD 16:9 |
 | Frame rate | 24fps cinematic |
 | Model | Seedance 2.0-Omni Professional-VIP |
-| Cost actual | **144,000 credit** (4 × 36,000) |
+| Cost actual | **216,000 credit** (6 lần generate × 36,000) |
 | Cost/clip 15s | 36,000 credit (~36K VND) |
-| Re-gen rate | 1-2 video |
+| Re-gen rate | 2/4 clips re-gen 1 lần |
 | Time generate | ~60-90 phút (không hàng chờ với VIP) |
 | Time edit | ~30-60 phút |
 | **Output** | **1 short film xianxia 60s** |
 | **Star average** | **6.5/5 ⭐** — vượt expectation |
 | Use case practical | Portfolio / TikTok / YouTube / Animation studio reference |
 
-> **ROI thực tế:** 1 short film xianxia 60s production-quality có thể bán cho clients (animation studio, brand campaign, music video) **2-5 triệu VND**. Cost generation ~144K VND → margin **>95%**. Đây là **portfolio piece** thật sự cho creator AI Việt Nam.
+> **ROI thực tế:** 1 short film xianxia 60s production-quality có thể bán cho clients (animation studio, brand campaign, music video) **2-5 triệu VND**. Cost generation ~216K VND → margin **>90%**. Đây là **portfolio piece** thật sự cho creator AI Việt Nam.
 
 > **So sánh Standard vs Professional-VIP:**
 > Standard mode rẻ hơn 3-5x nhưng: face consistency có thể bị block, AI hiểu prompt phức tạp kém hơn, có hàng chờ queue. Cho project pro, Professional-VIP là **must-have** — tiết kiệm 100K credit nhưng mất 1 ngày chờ + re-gen 5 lần là không đáng.
@@ -497,11 +499,11 @@ Clip 2 frame 14s — AI tự thêm **divine face overlay từ mây** làm spirit
 | 14 ảnh xianxia 3D | 17 | 12,600 credit | Hero shots, banners |
 | 2 character sheets | 17 BONUS | (included) | Reference cho series content |
 | 4 boards × 16 panels = 64 panels storyboard | 18 | 3,600 credit | Animation production reference |
-| 4 video clips × 15s | 19 | 144,000 credit | Short film raw materials |
+| 4 video clips × 15s | 19 | 216,000 credit | Short film raw materials |
 | **1 short film xianxia 60s** | 19 final | (edit only) | **Portfolio + commercial** |
-| **Tổng pipeline** | 17-19 | **~160,200 credit (~160K VND)** | **Bộ deliverable studio level** |
+| **Tổng pipeline** | 17-19 | **~232,200 credit (~232K VND)** | **Bộ deliverable studio level** |
 
-→ **Pipeline hoàn chỉnh:** 14 ảnh + 64 panels + 4 video + 1 short film = bộ deliverable mà animation studio Vietnamese mất 1-2 tuần với team 3 người (cost ~30-50 triệu VND). Linh build solo trong **3 ngày** với **~160K VND** = ROI nhân **150-300x**.
+→ **Pipeline hoàn chỉnh:** 14 ảnh + 64 panels + 4 video + 1 short film = bộ deliverable mà animation studio Vietnamese mất 1-2 tuần với team 3 người (cost ~30-50 triệu VND). Linh build solo trong **3 ngày** với **~232K VND** = ROI nhân **130-220x**.
 
 ---
 
