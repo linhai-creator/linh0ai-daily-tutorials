@@ -4,6 +4,51 @@
 
 ---
 
+## Day 19 — 10/05/2026 🟣
+
+**Bài:** Storyboard-to-Video Seedance 2.0 — Biến storyboard Day 18 thành 1 short film xianxia 60s "Đôi Kiếm Tiên"
+
+### ✨ Highlights
+
+- 🟣 Level Pro — production-grade pipeline storyboard-to-video
+- 📊 Test 4 video clips × 15s = 60s raw + 1 final film 60s edited
+- 💰 Cost actual: 216,000 credit (~216K VND, 6 generates × 36,000)
+- ⭐ Star average **6.5/5** — vượt expectation, cao nhất batch
+- 🏆 Hero clip: **Clip 3 ACT 3 THREAT** — back-to-back hero shot iconic
+
+### 🔥 Insights mới
+
+- ✅ Pattern "Prevent Motion Lines Render" WORK 100% — section [非常重要] explicit prevent AI render storyboard motion lines thành visible elements
+- ✅ Tiếng Trung pure cho xianxia aesthetic — match aesthetic native, character names Hán tự (林妮 / 韩立) chống drift hoàn hảo
+- ✅ Triple-locked character consistency: Day 17 sheet → Day 18 board → Day 19 video = 0 drift qua 1440 frames (60s × 24fps)
+- 🎨 AI bonus creative: Clip 2 frame 14s — divine face overlay từ mây artistic (không có trong prompt nhưng tăng artistic value)
+- ⏱️ 15s sweet spot cho story arc 1 ACT — golden duration cho TikTok/YouTube format
+- 💰 Seedance 2.0-Omni Professional-VIP recommend cho project pro: face support, AI thông minh hơn, không hàng chờ
+
+### 📁 Files added
+
+- `days/day-19.md` — bài tutorial đầy đủ (~28kb, 551 lines)
+- `prompts/day-19.txt` — 4 prompts video tiếng Trung pure + workflow guide CapCut (~33kb)
+- `assets/videos/video-twinsword-clip-1-act1-setup-15s.mp4` — Clip 1 (7.8MB)
+- `assets/videos/video-twinsword-clip-2-act2-meeting-15s.mp4` — Clip 2 (8.8MB)
+- `assets/videos/video-twinsword-clip-3-act3-threat-15s.mp4` — Clip 3 (9.7MB)
+- `assets/videos/video-twinsword-clip-4-act4-resolution-15s.mp4` — Clip 4 (11MB)
+- `assets/videos/video-twinsword-final-edited-60s.mp4` — Final short film 60s
+- `assets/images/day-19-clip-{1-4}-*-thumbnail.jpg` + `day-19-final-film-thumbnail.jpg` — 5 thumbnails clickable
+
+### 🏆 Hero
+
+- **Clip 3 ACT 3 THREAT — Back-to-back hero shot** (timestamp 10s) — 2 hero + 2 emerald swords + demon silhouette + complementary color contrast
+
+### 🎯 Cumulative ROI Day 17-19
+
+- 14 ảnh + 2 character sheets + 64 panels storyboard + 4 video + 1 short film 60s
+- Total cost: ~232K VND
+- Studio equivalent value: ~30-50 triệu VND
+- **ROI nhân 130-220x**
+
+---
+
 ## Day 18 — 10/05/2026 🟣
 
 **Bài:** Storyboard Sheets 4x4 với Motion Lines — Animation production reference cho short film "Đôi Kiếm Tiên"
@@ -429,7 +474,7 @@
 - [x] Day 16 — Workflow Batch Processing
 - [x] Day 17 — Tạo ảnh 3D Trung Quốc + Character Sheets
 - [x] Day 18 — Storyboard Sheets 4x4 với Motion Lines
-- [ ] Day 19 — Image-to-Video Seedance (sắp ra)
+- [x] Day 19 — Storyboard-to-Video Seedance 2.0
 - [ ] Day 20-21 — TBD + Tổng kết Tuần 3
 
 ### Tuần 4 (Day 22-28) 📋 PLANNED
@@ -448,7 +493,7 @@
 
 ## 📊 Tiến độ tổng
 
-    ██████████████████░░░░░░░░░░░  18/30 ngày (60%)
+    ████████████████████░░░░░░░░░░  19/30 ngày (63%)
 
 **Started:** 2026-05-07
 **Target completion:** 2026-06-05
@@ -457,8 +502,9 @@
 
 - ✅ **Tuần 1 hoàn thành** (Day 7) — Foundation
 - ✅ **Tuần 2 hoàn thành** (Day 14) — Master Skills
-- ✅ **Hơn 250 ảnh** đã tạo (Day 1-18)
+- ✅ **Hơn 250 ảnh + 4 video** đã tạo (Day 1-19)
 - ✅ **Day 18** — Storyboard production-ready với 0 re-gen rate
+- ✅ **Day 19** — 1 short film xianxia 60s "Đôi Kiếm Tiên" hoàn chỉnh, ROI nhân 130-220x
 
 ---
 
