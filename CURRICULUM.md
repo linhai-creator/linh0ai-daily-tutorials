@@ -1,8 +1,8 @@
 # 📚 CURRICULUM — 0ai.vn Daily Tutorials 30 Ngày
 
-> **Phiên bản 2.4** — Cập nhật ngày 11/05/2026
+> **Phiên bản 2.5** — Cập nhật ngày 11/05/2026
 > **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
-> **Status:** Tuần 1 ✅ | Tuần 2 ✅ | Tuần 3 🔄 (6/7 done) | Tuần 4 📋 Planned
+> **Status:** Tuần 1 ✅ | Tuần 2 ✅ | Tuần 3 ✅ COMPLETE (7/7) | Tuần 4 📋 Planned
 
 ---
 
@@ -75,7 +75,7 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-## 🟣 Tuần 3 — Practical Production (Day 15-21) 🔄 6/7 DONE
+## 🟣 Tuần 3 — Practical Production (Day 15-21) ✅ COMPLETE
 
 > **Mục tiêu tuần:** Đi từ "biết kỹ năng" lên "production-ready workflow" — từ file management cho creator, batch processing, đến tạo character consistent + storyboard cho animation thực sự.
 >
@@ -227,7 +227,36 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-### Day 21 — Tổng kết Tuần 3 + Cheatsheet Pipeline 📅 Coming
+### Day 21 — Tổng kết Tuần 3 + Cheatsheet + Mini Challenge ✅
+
+> *Recap chi tiết 6 days + 7 insights lớn + master cheatsheet pipeline Day 17-20 + Mini Challenge cộng đồng*
+
+**Mục tiêu:**
+- Recap chi tiết Day 15-20 (mỗi day 1 section)
+- Hiểu 2 mạch pipeline xuyên Tuần 3 (Mạch A foundation + Mạch B video production)
+- Master cheatsheet 1 trang cho pipeline Storyboard-to-Video
+- Tham gia Mini Challenge cộng đồng
+
+**Content nổi bật:**
+- 2 mạch pipeline song song (Day 15-16 foundation + Day 17-20 video production)
+- 7 insights lớn cross-day (tiếng Việt thuần / tiếng Trung pure / @image1 king / camera 30-40-20-10 / metaphor concept / [非常重要] section / cross-genre universal)
+- Master cheatsheet 4-step pipeline
+- Mini Challenge: Short film 30s tự do, genre any, open-ended self-pace
+
+**Mini Challenge spec:**
+- Deliverable: 1 video 30s (genre tự do)
+- Pipeline: Apply Day 17-20 (1 char sheet + 2+ storyboards + 2 video × 15s + edit)
+- Cost dự kiến: ~75-76K VND
+- Duration: Open-ended self-pace
+
+**Cost cumulative Tuần 3:** ~357,300 VND (35.7% gói Ultra Member 1 triệu credit/tháng)
+
+**Output Tuần 3:**
+- 2 short films production-grade (xianxia "Đôi Kiếm Tiên" 60s + comedy "Chef vs Cockroach" 41s)
+- 128+ visual elements + 9 video files
+- 3 character sheets + 7 storyboards 4x4 (112 panels) + 14 ảnh xianxia + 15 ảnh viral
+
+📄 [days/day-21.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-21.md)
 
 > Topics có thể là: Mini Challenge, Multi-character series, Video editing advanced — mình sẽ chốt sau khi Day 19 hoàn thành để đảm bảo content khớp với gì creator Việt cần thật.
 
@@ -291,7 +320,7 @@ Sau 30 ngày, bạn sẽ:
 
 ## 📊 Mục tiêu KPIs 30 ngày
 
-- [x] Đăng đủ **20/30 bài** (67%)
+- [x] Đăng đủ **21/30 bài** (70%)
 - [ ] **100+ stars** trên GitHub repo
 - [ ] **1.000+ followers** Facebook fanpage
 - [ ] **500+ followers** X (Twitter)
@@ -362,6 +391,7 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 | --- | --- | --- |
+| **v2.5** | 11/05/2026 | ✅ **Day 21 hoàn thành** — Tổng kết Tuần 3 + Master cheatsheet pipeline + Mini Challenge cộng đồng. **Tuần 3 COMPLETE 7/7** với 2 short films production-grade (xianxia 60s + comedy 41s) + 128+ visual elements. Cost cumulative Tuần 3: ~357,300 VND (35.7% gói Ultra). Mini Challenge: Short film 30s tự do, open-ended self-pace. Progress: 21/30 (70%). |
 | **v2.4** | 11/05/2026 | ✅ **Day 20 hoàn thành** — Pattern Pipeline Complete trong 1 Session + Pixar Western comedy genre (8/5⭐ average, HIGHEST 30 days). Project "Chef vs Cockroach" 41s short film. Cost cumulative Day 17-20: ~343,800 VND. Tuần 3 status: 6/7 done. |
 | **v2.3** | 10/05/2026 | ✅ **Day 19 hoàn thành** — Storyboard-to-Video Seedance 2.0 (6.5/5⭐ average, 1 short film xianxia 60s "Đôi Kiếm Tiên" complete). Cost cumulative Day 17-19: ~232,200 VND. Tuần 3 status: 5/7 done. |
 | **v2.2** | 10/05/2026 | 🔄 **Tuần 3 PIVOT từ "Image Workflows" sang "Practical Production"** (file management, batch processing, 3D animation Trung Quốc, storyboard 4x4). Lý do: creator Việt cần workflow production thật hơn là kỹ thuật image manipulation đơn lẻ. Update: Tuần 2 ✅ Done, Day 17 + Day 18 đã hoàn thành với insights ấn tượng (character sheet feature, storyboard 4x4 64 panels, 0 re-gen rate). |
@@ -373,4 +403,4 @@ Nếu bạn có:
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 11/05/2026 | Phiên bản 2.4*
+*Cập nhật lần cuối: 11/05/2026 | Phiên bản 2.5*
