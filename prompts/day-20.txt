@@ -1,0 +1,351 @@
+═══════════════════════════════════════════════════════════════
+DAY 20 — VIDEO PROMPTS Seedance 2.0-Omni
+       Project: "CHEF VS COCKROACH" 
+       3 video clips × 15s = 45s short film comedy
+═══════════════════════════════════════════════════════════════
+
+📊 SETUP TEST:
+- 3 prompts video tiếng Trung (Linh đã viết)
+- Duration mỗi clip: 15 giây
+- Aspect ratio: 16:9 (1280×720 HD, 24fps cinematic)
+- Workflow: Image-to-Video Seedance 2.0-Omni Professional-VIP
+- Resolution: 720p
+- Tổng raw video: 45 giây
+- Cost dự kiến: 3 × 36,000 = 108,000 credit (~108K VND)
+
+🎭 CHARACTERS LOCK (từ character sheet):
+
+HEAD CHEF (~185cm):
+- Tall, elegant, angular silhouette
+- Curly dark brown hair (kept distinct in all videos)
+- White chef coat with gold trim, gold star detail on chest
+- White apron, black pants, polished black shoes
+- 6 expressions: Focused / Confident / Surprised / Frustrated / Exhausted / Panic
+
+CUTE COCKROACH (~2.5cm):
+- Small, round, bouncy silhouette
+- Brown shiny shell + transparent beige wings (FLIES!)
+- Big expressive Pixar eyes
+- Long antennae (lead the emotion)
+- Personality: Mischievous troublemaker, fast, agile, adorably fearless
+- Special pose: Tongue out (cheeky teasing)
+
+📝 NAMING CONVENTION (5 files):
+- video-chef-cockroach-clip-1-act1-skills-15s.mp4
+- video-chef-cockroach-clip-2-act2-meeting-15s.mp4
+- video-chef-cockroach-clip-3-act3-chaos-15s.mp4
+- video-chef-cockroach-final-edited-45s.mp4
+
+💡 WORKFLOW SEEDANCE 2.0-OMNI:
+
+1. Vào 0ai.vn → bấm "Video"
+2. Chọn model Seedance 2.0-Omni
+3. Chọn tỉ lệ 16:9
+4. Chọn chế độ Professional-VIP ⭐
+5. Chọn độ phân giải 720p
+6. Upload @image1 = storyboard tương ứng:
+   - Clip 1: storyboard-chef-cockroach-board-1-act1-skills.png
+   - Clip 2: storyboard-chef-cockroach-board-2-act2-plating.png
+   - Clip 3: storyboard-chef-cockroach-board-3-act3-chaos.png
+7. Paste prompt tiếng Trung tương ứng
+8. Duration: 15s
+9. Generate → đợi 2-5 phút mỗi video (không hàng chờ với VIP)
+10. Verify output → save với naming chính xác
+
+💰 COST PROFESSIONAL-VIP:
+- 36,000 credit / 15s clip
+- 3 clips × 36,000 = 108,000 credit (~108K VND)
+- Lý do VIP: chất lượng tốt, AI thông minh, hỗ trợ khuôn mặt, không hàng chờ
+
+🎯 STORY ARC 45s "CHEF VS COCKROACH":
+- Hồi 1 (0-15s): WOW Chef Skills — chef khoe kỹ năng
+- Hồi 2 (15-30s): Plating + Roach Appears — món hoàn hảo + cockroach reveal
+- Hồi 3 (30-45s): Chase & Chaos — tornado-cockroach phá món + punchline
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT VIDEO 1 — HỒI 1 WOW CHEF SKILLS (15s)
+File output: video-chef-cockroach-clip-1-act1-skills-15s.mp4
+Reference: storyboard-chef-cockroach-board-1-act1-skills.png
+═══════════════════════════════════════════════════════════════
+
+🎯 STORY: Chef khoe kỹ năng đỉnh cao từ wide hero shot → knife skills → 
+flambé → seasoning → final plating → beauty shot ending.
+
+📷 PACING: 8 segments × ~1.9s (cinematic showcase pace)
+
+📝 PROMPT:
+
+请严格参考 @image1 生成一支 15秒、16:9、电影级3D动画短片。
+@image1 是本支视频的分镜板、角色造型、厨房空间、灯光氛围与料理风格参考。必须保持同一位年轻男主厨的脸型、五官比例、发型、眉眼神态、修长体型、白色厨师服、金色纽扣细节与整体气质。必须保持同一间高端专业厨房的温暖金色灯光、金属厨具、灶台、料理台、铜锅与高级餐厅后厨氛围。
+本支视频只表现：一位天才主厨展示顶级烹饪技巧与精致摆盘能力。整体节奏要高级、流畅、爽感强，像一段动画电影里的主厨高光秀。不要出现蟑螂。不要出现其他人物。不要出现文字、字幕、logo、水印。
+
+【整体风格】
+高级3D动画电影质感，温暖金色厨房灯光，电影级运镜，浅景深，细节丰富，动作干净利落，节奏越来越燃，画面宽阔有呼吸感，不要拥挤，不要一直贴脸近拍。主厨必须显得专业、精准、优雅、自信、帅气。
+
+【时间结构】
+0s–2s：
+宽镜头开场。主厨站在高端专业厨房中央，姿态自信从容，背景可见灶台、铜锅、料理台、暖色吊灯与金属厨具。镜头缓慢推进，建立"天才主厨登场"的气场。
+
+2s–4s：
+切到中近景。主厨俯身精细摆盘，用手或小镊子轻轻放置嫩芽与装饰。动作极稳，眼神专注，表现他对细节的极致控制。镜头从侧前方轻微推进。
+
+4s–6s：
+主厨帅气拿起主厨刀，刀刃闪光。随后快速切碎香草，刀工利落，动作带有轻微残影和弧线动势。快速切到蘑菇被切成极薄片，薄片轻盈飞起，排列整齐。
+
+6s–8s：
+展示精准切丝。主厨把胡萝卜和绿色蔬菜切成极细、极整齐的丝。镜头在手部特写和中景之间快速切换。随后加入一个干净帅气的转刀动作，突出他的技巧和自信。
+
+8s–10s：
+主厨单手掂锅，食材高高翻起，在空中形成优美弧线。镜头跟随锅的运动轻微摇移。随后接一记大火翻锅，火焰腾起，视觉冲击强烈，但主厨表情依然从容淡定。
+
+10s–12s：
+主厨从高处撒盐或撒调味料，颗粒像雨一样落下，在暖光中闪闪发亮。紧接着切到锅中翻炒，蒸汽升起，食材色泽诱人，动作丝滑连贯。
+
+12s–14s：
+回到摆盘台。主厨快速而优雅地完成最后组装：摆放主菜、配菜、酱汁点线、嫩芽装饰。加入一个俯拍镜头，展示盘中构图精致完整，像一件艺术品。
+
+14s–15s：
+结尾主厨将完成的高级料理端向镜头，露出自信满足的神情。最后一帧给成品一个精致特写：白色大盘、漂亮切面的肉、蔬菜、嫩芽、酱汁点线与温暖高光，呈现米其林级别的完成感。
+
+【镜头语言】
+多使用宽镜头、中景、手部特写、食材特写、成品特写的交替节奏。运镜要丝滑，像动画电影预告片，不要生硬跳切。画面要有空间感和呼吸感，避免过度拥挤。
+
+【动作要求】
+主厨动作必须专业、精准、帅气，不能笨拙。刀的运动要清晰、快速、有控制感。食材飞起和落下要符合重力逻辑。火焰要壮观但受控。摆盘必须高级、干净、精致。
+
+【禁止内容】
+不要出现蟑螂。
+不要出现其他人物。
+不要出现文字、字幕、logo、水印。
+不要改变主厨身份，不要换脸。
+不要变成真人写实摄影，必须保持高完成度3D动画电影质感。
+不要搞笑混乱，本段只表现"顶级主厨的高光烹饪秀"。
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT VIDEO 2 — HỒI 2 PLATING + ROACH APPEARS (15s)
+File output: video-chef-cockroach-clip-2-act2-meeting-15s.mp4
+Reference: storyboard-chef-cockroach-board-2-act2-plating.png
+═══════════════════════════════════════════════════════════════
+
+🎯 STORY: Chef hoàn thành plating đỉnh cao → moment satisfaction → 
+cute cockroach reveal → first eye contact suspense.
+
+📷 PACING: 9 segments × ~1.7s (slow elegant đầu, accelerate cuối)
+
+📝 PROMPT:
+
+请严格参考 @image1 生成一支 15秒、16:9、电影级3D动画短片。
+
+@image1 是本支视频的分镜板、角色造型、厨房空间、灯光氛围、料理造型与镜头节奏参考。必须保持同一位年轻男主厨的脸型、五官比例、发型、眉眼神态、修长体型、白色厨师服、金色纽扣细节与整体气质。必须保持同一只可爱调皮的小蟑螂角色：圆润小身体、棕色亮壳、大眼睛、长触角、表情可爱灵动，不恶心、不恐怖。
+
+本支视频是第2段，核心内容是：主厨完成顶级5星料理的最后摆盘，短暂享受完美时刻，然后一只可爱调皮的小蟑螂悄悄出现，靠近料理，主厨发现它，形成一个紧张又好笑的对视。整体情绪从"精致完美"逐渐转向"意外惊喜"和"喜剧悬念"。
+
+【整体风格】
+高级3D动画电影质感，温暖金色厨房灯光，浅景深，细节丰富，镜头流畅，节奏优雅但逐渐变得有趣。画面要宽阔、有呼吸感，不要拥挤，不要一直贴脸近拍。不要出现文字、字幕、logo、水印。不要出现其他人物。
+
+【时间结构】
+
+0s–2s：
+从精致摆盘特写开始。主厨用手或小镊子轻轻放置最后几片嫩芽，动作极稳，眼神专注。镜头从低角度靠近白色大盘，突出肉、蔬菜、酱汁点线和嫩芽的高级质感。
+
+2s–4s：
+主厨继续完成最后细节：轻轻调整嫩芽、点缀酱汁、用滴管或小工具补上最后一滴亮泽酱汁。镜头在手部特写和侧面中近景之间丝滑切换，表现他对完美的极致追求。
+
+4s–6s：
+加入俯拍镜头，盘中构图完整呈现：白色大盘、漂亮切面的肉、精致蔬菜、深色酱汁点线、金色脆片与嫩芽。镜头轻微旋转，像展示一件艺术品。随后主厨轻轻擦拭盘边，让画面更干净高级。
+
+6s–8s：
+成品料理 beauty shot。暖色灯光照在料理上，酱汁和肉的表面有漂亮高光。主厨站在料理后方，露出自信、满足、骄傲的表情，像终于完成了一件杰作。
+
+8s–9.5s：
+主厨把完成的料理轻轻推向镜头或端起展示，姿态优雅。镜头稍微拉宽，让厨房空间更开阔，背景可见灶台、铜锅、金属厨具和暖色灯光。
+
+9.5s–11s：
+突然切到低角度极近景：金属料理台边缘，几只小小的蟑螂脚轻轻出现，触角从画面边缘探进来。动作很轻，带一点可爱和好奇，不要恐怖。
+
+11s–12.5s：
+可爱小蟑螂从金属锅或容器后面探出头，大眼睛眨动，触角轻轻摆动，表情调皮又无辜。它看向远处那盘漂亮料理，露出好奇兴奋的神情。
+
+12.5s–13.5s：
+小蟑螂快速但可爱地跑向盘子，动作轻快，有简单的运动弧线。它停在盘边，抬头看着料理，像看到宝藏一样开心。料理仍然保持完整干净，不要被破坏。
+
+13.5s–14.5s：
+主厨突然发现小蟑螂。镜头切到主厨脸部中近景：他的眼睛慢慢睁大，表情从骄傲变成震惊和不敢相信。动作要有喜剧停顿感。
+
+14.5s–15s：
+最后形成紧张又搞笑的对视。主厨俯身靠近盘子，表情严肃又震惊；小蟑螂站在盘边，抬头看着他，大眼睛无辜又调皮，触角轻轻晃动。结尾停在这个悬念画面，为下一段追逐戏做铺垫。
+
+【镜头语言】
+前半段以高级摆盘、俯拍、成品特写为主，节奏优雅精致。后半段逐渐加入低角度、小蟑螂视角和主厨反应镜头，制造喜剧悬念。镜头要丝滑，不要生硬跳切。画面要有空间感和呼吸感。
+
+【动作要求】
+主厨动作必须专业、精准、优雅。小蟑螂动作必须可爱、轻快、调皮，不要恶心。小蟑螂出现时不要破坏料理，本段只建立"发现小蟑螂"的悬念。料理必须保持高级、完整、漂亮。
+
+【禁止内容】
+不要出现其他人物。
+不要出现文字、字幕、logo、水印。
+不要让主厨用盖子、锅、盘子或任何物体砸向料理。
+不要让料理在本段被破坏。
+不要让小蟑螂变得恐怖或恶心。
+不要改变主厨和小蟑螂的身份与造型。
+不要变成真人写实摄影，必须保持高完成度3D动画电影质感。
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT VIDEO 3 — HỒI 3 CHASE & CHAOS — TORNADO COCKROACH (15s)
+File output: video-chef-cockroach-clip-3-act3-chaos-15s.mp4
+Reference: storyboard-chef-cockroach-board-3-act3-chaos.png
+═══════════════════════════════════════════════════════════════
+
+🎯 STORY: Stand-off → cockroach takes flight → tornado-cockroach forms → 
+food gets pulled into spiral → ruined dish → cockroach VICTORY POSE 🏆
+
+📷 PACING: 8 segments × ~1.9s (3-act mini structure trong 15s)
+
+🌪️ CONCEPT CORE: Mini-tornado-maker cockroach — chaos không phải chef phá, 
+mà cockroach bay vòng tạo tornado cuốn food → animation comedy logic clear.
+
+📝 PROMPT:
+
+请严格参考 @image1 生成一支 15秒、16:9、电影级3D动画短片。
+
+@image1 是本支视频的完整分镜板参考。必须严格保持同一位年轻男主厨的脸型、五官比例、眉眼神态、卷发造型、修长体型、白色厨师服、金色纽扣细节与整体气质。必须严格保持同一只可爱小蟑螂的角色设定：圆润小身体、棕色亮壳、大眼睛、长触角、小翅膀、会飞、表情非常可爱、调皮、会吐舌头，但绝不恶心、绝不恐怖。
+
+本支视频是第3段，核心内容是：
+主厨和小蟑螂对视之后，小蟑螂突然飞起来，围着主厨和盘子快速绕圈飞行，像一个调皮的小型龙卷风制造者。它越飞越快，带起微型旋风，把盘中的嫩芽、脆片、酱汁、小配菜和轻的装饰逐渐卷起来。整个过程是典型动画喜剧逻辑：不是主厨故意破坏料理，而是小蟑螂的飞行轨迹像旋风一样，把一切卷乱。最后料理彻底变成一团搞笑的混乱，小蟑螂飞出来停在食物上，吐舌头调皮嘲笑，主厨站在后面双手抱头崩溃。
+
+【整体风格】
+高级3D动画电影质感，温暖金色后厨灯光，镜头流畅，节奏清晰，动作逻辑明确，喜剧感强但画面依然高级。整体是 Pixar / Disney 式高完成度动画短片质感。画面要宽阔，有空间感，有明确的动作因果关系。不要混乱到看不清，不要乱切，不要无意义爆炸。每一步动作都要清楚：起飞、绕圈、形成旋风、卷起食材、盘子被毁、主厨崩溃、小蟑螂胜利。
+
+【时间结构】
+
+0s–2s：
+延续上一段最后的状态。主厨俯身盯着盘边的小蟑螂，眼神严肃又震惊。小蟑螂也站在盘边抬头看着主厨，气氛短暂停顿，形成搞笑对峙。镜头中近景，盘子和两者都清楚可见。
+
+2s–3.5s：
+小蟑螂突然张开小翅膀，可爱地起飞，先从盘边轻快地飞到主厨脸旁边。主厨吓一跳，眼睛睁大，头微微后仰。动作要轻快、可爱，带一点调皮感。
+
+3.5s–5s：
+小蟑螂开始围着主厨头部绕小圈飞行，白色或浅色的飞行轨迹清楚可见。主厨眼神跟着它转，脖子和头开始左右追踪，表情从严肃变成迷惑和不安。此时只卷起极少量轻微的嫩芽和小叶子。
+
+5s–7s：
+小蟑螂加速，绕圈范围扩大，从主厨头部扩展到主厨肩膀和盘子上方，形成明显的旋风感。空气流动变强，头发前端、衣领、袖口、几片嫩芽和盘边的轻装饰开始被卷起来。主厨伸手去抓，但完全抓不到，动作开始慌乱。
+
+7s–9s：
+小蟑螂继续高速飞行，形成真正的迷你龙卷风。盘中的微型配菜、嫩芽、脆片碎屑、少量酱汁点、装饰小叶子被一层层卷到空中。镜头要清楚表现"旋转轨迹"与"被卷起的食材"之间的关系。主厨转身、伸手、试图护住盘子，但越慌越乱。
+
+9s–11s：
+旋风达到高潮。小蟑螂像风眼一样在旋风中心高速绕圈，盘子上方形成夸张但清晰可读的动画旋涡。肉块基本还在盘上，但表面装饰、配菜、酱汁线条、脆片和小颗粒配料被卷得七零八落，在空中围成螺旋。主厨双手张开，惊恐地看着一切失控。
+
+11s–12.5s：
+旋风突然减弱，所有被卷起的食材、装饰和酱汁开始噼里啪啦掉回盘子里，形成一团搞笑的混乱摆盘。不是完全炸开，而是"被打乱成一堆"，保留动画喜剧感。主厨站在后面，表情绝望、不可置信。
+
+12.5s–14s：
+镜头给 ruined dish 一个清楚的中近景：原本高级精致的5星料理，现在变成乱七八糟但仍然很好看的搞笑版本。主厨在后面慢慢双手抱头，眼睛瞪大，整个人崩溃。
+
+14s–15s：
+最后收尾。小蟑螂从旋风中轻快飞出，落在乱掉的料理上，展开小翅膀，转头看向主厨，开心地吐舌头调皮嘲笑，表情超级可爱。主厨在背景虚化中双手抱头，彻底绝望。最后一帧停留在"小蟑螂胜利"的搞笑英雄镜头上。
+
+【镜头语言】
+前段用中近景和对视镜头建立关系。
+中段重点表现绕圈飞行轨迹，必须清楚看到小蟑螂围绕主厨和盘子飞。
+后段用更宽一点的镜头表现旋风把食材卷起，再切回中近景展示主厨崩溃和最终结局。
+运镜要顺滑，像动画电影，不要生硬跳切。
+飞行轨迹和旋风轨迹必须清晰可读，方便后续视频动作延展。
+
+【动作逻辑要求】
+所有混乱都来自"小蟑螂飞行形成的旋风"。
+不要让主厨用盖子砸、用盘子拍、用器具故意破坏料理。
+不要做成普通追逐打闹，要突出"小蟑螂像迷你龙卷风制造者"这个核心创意。
+小蟑螂必须非常可爱、灵活、轻盈、淘气。
+主厨必须保持同一张脸与同一气质，表情变化路线清晰：严肃对视 → 吓到 → 困惑追踪 → 慌乱 → 惊恐 → 崩溃。
+
+【禁止内容】
+不要出现其他人物。
+不要出现文字、字幕、logo、水印。
+不要把小蟑螂做得恶心、写实、可怕。
+不要让画面过于混乱导致看不清动作逻辑。
+不要把料理炸飞成灾难片。
+不要改变角色身份与造型。
+不要变成真人写实摄影，必须保持高完成度3D动画电影风格。
+
+═══════════════════════════════════════════════════════════════
+🎬 EDIT WORKFLOW CAPCUT — Ghép 3 clip → 1 short film 45s
+═══════════════════════════════════════════════════════════════
+
+📋 STEPS:
+
+1. Mở CapCut → New Project
+2. Import 3 video clips theo order:
+   - Clip 1 (Hồi 1: Skills)
+   - Clip 2 (Hồi 2: Meeting)
+   - Clip 3 (Hồi 3: Chaos)
+3. Drag vào timeline theo thứ tự
+4. Add transitions giữa clips:
+   - Clip 1→2: Smooth crossfade hoặc match cut từ plating
+   - Clip 2→3: Eye contact freeze beat → action zoom (match mood transition)
+5. Audio:
+   - Verify Seedance ASMR audio respect "no BGM" requirement
+   - Nếu có auto-BGM, mute và add custom SFX:
+     • Kitchen ambient (sizzling, simmering, ventilation)
+     • Knife chopping, sword whoosh cho knife flourish
+     • Flame whoosh cho flambé
+     • Seasoning pour
+     • Cockroach footsteps (light, comedic)
+     • Wing buzzing (cockroach flying)
+     • Whoosh sounds cho tornado
+     • Plate clatter, sauce splash
+     • Defeated chef sigh
+   - Optional: Add light Pixar-style comedy music (CapCut audio library)
+6. Color grading:
+   - CapCut Filter "Cinematic" hoặc "Warm"
+   - Adjust contrast +5, saturation +3 cho vivid Pixar look
+7. Export:
+   - Resolution: 720p (giữ nguyên gốc) hoặc upscale 1080p
+   - Frame rate: 24fps cinematic
+   - Bitrate: "Tốc độ bit: Được đề xuất" hoặc Medium 6-8 Mbps
+   - Format: MP4 H.264
+   - Save as: video-chef-cockroach-final-edited-45s.mp4
+
+═══════════════════════════════════════════════════════════════
+HƯỚNG DẪN TEST
+═══════════════════════════════════════════════════════════════
+
+📋 ORDER TEST RECOMMEND:
+
+1. Test Clip 1 trước (Hồi 1 Skills) — verify Seedance handle Pixar Western 
+   style + character lock từ storyboard
+2. Nếu Clip 1 OK → tiếp Clip 2 (Meeting), Clip 3 (Chaos) lần lượt
+3. Re-gen video nào không đạt 5⭐ (1-2 re-gen mỗi clip nếu cần)
+
+📝 NAMING (4 files):
+- video-chef-cockroach-clip-1-act1-skills-15s.mp4
+- video-chef-cockroach-clip-2-act2-meeting-15s.mp4
+- video-chef-cockroach-clip-3-act3-chaos-15s.mp4
+- video-chef-cockroach-final-edited-45s.mp4
+
+💡 TIPS QUAN TRỌNG:
+
+✅ **Storyboard-to-Video pattern**: 3 storyboards Day 20 (4x4 grid) làm 
+@image1 reference cho 3 video clips. Pattern same Day 19, character lock kép.
+
+✅ **Tiếng Trung pure cho concept clarity**: Mặc dù Pixar Western style, 
+tiếng Trung handle nuanced concepts (旋风/tornado, 喜剧停顿/comedy pause) 
+tốt hơn tiếng Anh translation.
+
+✅ **15s sweet spot**: Đủ time cho 8-9 segments mỗi clip story arc 1 hồi.
+
+✅ **3-act mini structure trong 15s** (Video 3): Stand-off 23% → Tornado 
+formation 50% → Aftermath punchline 27%. Classic Hollywood pacing.
+
+⚠️ **Cockroach phải CUTE Pixar verify**: Mỗi prompt explicit "不恶心、不恐怖". 
+Nếu output có realistic disgusting bug → re-gen với emphasize Pixar character.
+
+⚠️ **Sound design verify**: 3 prompts không có 声音要求 section. Seedance có 
+thể auto-add BGM. Verify output, mute và add custom SFX trong CapCut nếu cần.
+
+⚠️ **Resolution 720p HD**: Default Seedance Professional-VIP. Chấp nhận được 
+cho TikTok/YouTube Short, không cần upscale 1080p.
+
+═══════════════════════════════════════════════════════════════
+END OF DAY 20 VIDEO PROMPTS
+═══════════════════════════════════════════════════════════════
