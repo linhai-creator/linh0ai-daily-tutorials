@@ -1,0 +1,477 @@
+═══════════════════════════════════════════════════════════════
+DAY 20 — IMAGE PROMPTS để tái tạo 4 ảnh ref
+       Project: "CHEF VS COCKROACH" (Pixar 3D slapstick comedy)
+═══════════════════════════════════════════════════════════════
+
+📊 PROJECT INFO:
+- Genre: Slapstick comedy (Tom & Jerry vibe)
+- Style: Pixar 3D animated feature quality
+- Total runtime: 45s (Hồi 1: 15s + Hồi 2: 12s + Hồi 3: 18s)
+- Quote: "It's not about the size of the chef... It's about the chaos of the chase!"
+
+📋 SCOPE Day 20:
+- 1 character sheet (Image 1)
+- 3 storyboards × 16 panels = 48 panels (Image 2, 3, 4)
+- 3 video clips × 15s = 45s short film (sẽ làm sau)
+
+🎭 CHARACTERS LOCK:
+
+HEAD CHEF (~185cm):
+- Tall, elegant, angular silhouette
+- Dark curly brown hair
+- White chef coat with gold trim, gold star detail on chest
+- White apron, black pants, polished black shoes
+- Personality: Talented, passionate, perfectionist with high standards
+- Easily flustered by chaos (especially tiny chaos)
+
+CUTE COCKROACH (~2.5cm):
+- Small, round, bouncy silhouette
+- Brown chitinous body
+- Transparent beige wings
+- Big expressive Pixar eyes (white highlight)
+- Personality: Tiny troublemaker, fast, cheeky, adorably fearless
+- Adorably fearless, mischievous, teasing
+
+🎨 COLOR PALETTE (lock cho consistency):
+1. Chef White (#F5F0E8 - warm cream white)
+2. Gold Trim (#D4A04A - rich gold)
+3. Hair Dark Brown (#2A1A12 - very dark brown)
+4. Kitchen Warm Light (#E8B978 - warm amber)
+5. Cockroach Brown (#5C3A20 - rich chestnut brown)
+6. Wings Trans. Beige (#D4B896 - translucent warm beige)
+7. Eye Highlight (#FFFFFF - bright white)
+
+🏢 KITCHEN ENVIRONMENT (locked across all 4 images):
+- Premium professional restaurant kitchen
+- Copper pots hanging
+- Marble or stainless steel counters
+- Bottles of oil/wine on shelves
+- Warm golden cinematic lighting
+- Background blurred with bokeh
+- Steel/copper details for premium feel
+
+🎯 MODEL RECOMMEND:
+- Image 1 (Character Sheet): GPT Image 2 (single high-res render)
+  → Setting Medium-2K
+- Image 2-4 (Storyboards): GPT Image 2 với @image1 = Image 1 character sheet
+  → Setting Medium-2K, image-to-image workflow
+
+═══════════════════════════════════════════════════════════════
+🖼️ PROMPT 1 — CHARACTER SHEET "Chef vs Cockroach"
+File output: chef-cockroach-character-sheet.png
+Workflow: Single image generation (no reference)
+═══════════════════════════════════════════════════════════════
+
+🎯 GOAL: Tạo 1 character sheet đa section premium quality, làm anchor 
+character cho 3 storyboards sau. Tương tự Day 17 character sheet.
+
+📝 PROMPT TIẾNG ANH (recommend cho Pixar Western style):
+
+Premium professional character design sheet for animated short film "CHEF VS COCKROACH". Pixar 3D animated feature render quality. Cream beige paper background with subtle vintage texture. Premium serif typography for titles, elegant layout, art-direction-grade design sheet.
+
+LAYOUT (multi-section, organized like a real production sheet):
+
+TOP-LEFT — Project header:
+"PROJECT: CHEF VS COCKROACH | SHORT FILM | DATE: 05/20/2024"
+
+TOP-RIGHT — Director credit:
+"DIRECTOR: YOUR NAME | ART DIRECTOR: YOUR NAME"
+
+CENTER TOP TITLE:
+"CHARACTER SHEET" (large bold serif font)
+"Head Chef & Cute Cockroach" (subtitle script font)
+
+UPPER SECTION — HEAD CHEF (left side):
+- Section header "HEAD CHEF ★"
+- 3 design notes bullets:
+  • "Talented, passionate, and precise"
+  • "Perfectionist with high standards"
+  • "Easily flustered by chaos (especially tiny chaos)"
+- 4 character angle views in a row, full body, labeled below:
+  • Front
+  • 3/4 View
+  • Side
+  • Back
+  Tall man (~185cm), elegant angular silhouette, curly dark brown hair, white chef coat with gold trim and gold star detail on chest, white apron, black pants, polished shoes
+
+UPPER SECTION — FACIAL EXPRESSIONS (center):
+- Section header "FACIAL EXPRESSIONS"
+- 6 expression headshots arranged in 2 rows × 3 columns, labeled:
+  Row 1: Focused | Confident | Surprised
+  Row 2: Frustrated | Exhausted | Panic!
+
+UPPER SECTION — ACTION POSES (right):
+- Section header "ACTION POSES"
+- 3 dynamic action shots of chef:
+  1. Focused plating (leaning over plate with tweezers)
+  2. Running with frying pan
+  3. Diving lunge with frying pan extended
+
+MIDDLE SECTION — CUTE COCKROACH:
+- Section header "CUTE COCKROACH ★"
+- 3 design notes bullets:
+  • "Tiny troublemaker with big personality"
+  • "Fast, cheeky, and impossible to catch"
+  • "Adorably fearless"
+- 5 angle views in a row, labeled below:
+  • Front | 3/4 View | Side | Back | Wings Open
+  Small (~2.5cm) round bouncy creature, brown body, transparent beige wings, big expressive Pixar eyes
+
+MIDDLE SECTION — COCKROACH FACIAL/PERSONALITY:
+- Section header "FACIAL / PERSONALITY EXPRESSIONS"
+- 6 expression closeups, 2 rows × 3 columns:
+  Row 1: Cute & Innocent | Curious | Proud
+  Row 2: Mischievous | Teasing (Tongue Out) | Flying Escape!
+
+MIDDLE SECTION — COCKROACH ACTION:
+- Section header "ACTION POSES"
+- 4 action poses with motion lines, labeled:
+  1. Scurry!
+  2. Stop & Look
+  3. Tease!
+  4. Fly Away!
+
+BOTTOM-LEFT — SIZE COMPARISON:
+- Section header "SIZE COMPARISON"
+- Chef silhouette (~185cm = 6'1") next to tiny cockroach silhouette (~2.5cm = 1 inch)
+- Scale lines showing height comparison
+
+BOTTOM-CENTER — ACTION MOMENTS TOGETHER:
+- Section header "ACTION MOMENTS TOGETHER"
+- 3 dynamic scenes showing chef and cockroach interacting:
+  1. Chef precision plating with cockroach watching from corner
+  2. Chef chasing cockroach with pan, mid-run motion
+  3. Chef diving lunge while cockroach flies away
+
+BOTTOM-RIGHT — COLOR PALETTE:
+- Section header "COLOR PALETTE"
+- 7 color swatches in a row, each labeled:
+  • Chef White
+  • Gold Trim
+  • Hair Dark Brown
+  • Kitchen Warm Light
+  • Cockroach Brown
+  • Wings Trans. Beige
+  • Eye Highlight
+
+BOTTOM ROW — 3 INFO BOXES:
+1. "DESIGN NOTES":
+   • Chef silhouette is tall, elegant, and angular
+   • Cockroach silhouette is round, small, and bouncy
+   • Strong contrast in scale and personality drives the comedy
+   • Keep movements clear, readable, and exaggerated for maximum appeal
+
+2. "PERSONALITY & RELATIONSHIP":
+   "Perfectionist In Control ←CHAOS→ Hard To Catch, Impossible To Ignore"
+   "(In a Tiny Package)"
+
+3. "ANIMATION NOTES":
+   • Chef: sharp, precise, controlled animation. Frustration builds into big, explosive poses.
+   • Cockroach: quick, snappy, elastic, and playful. Antennae lead the emotion!
+
+BOTTOM RIGHT QUOTE (decorative):
+"It's not about the size of the chef..."
+"It's about the chaos of the chase!"
+(Chef hat icon + bee/insect icon decorations)
+
+STYLE TECHNICAL:
+- Pixar 3D animated feature render quality
+- Sub-surface scattering on skin
+- Detailed fabric texture on chef coat
+- Realistic insect carapace shading on cockroach
+- Cream beige paper background with subtle aged texture
+- Warm cinematic professional lighting on character renders
+- Premium production-grade character sheet quality
+- Aspect ratio: 4:3 horizontal landscape (~1500×1100 minimum)
+
+NEGATIVE PROMPT:
+- No anime style, no manga style, no flat 2D cartoon
+- No realistic photography (must stay 3D animated)
+- No watermark, no studio logos beyond "Your Name" placeholder
+- No misspellings in labels
+- No grotesque/scary cockroach (must stay cute Pixar style)
+- No graphic content
+- No text errors
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT 2 — STORYBOARD 1 "Hồi 1: WOW Chef Skills" (0-15s)
+File output: storyboard-chef-cockroach-board-1-act1-skills.png
+Workflow: GPT Image 2 với @image1 = chef-cockroach-character-sheet.png
+═══════════════════════════════════════════════════════════════
+
+🎯 GOAL: Storyboard 4x4 grid (16 panels) cho Hồi 1 — chef khoe skill nấu ăn
+Premium kỹ thuật từ wide hero shot đến plating final.
+
+📝 PROMPT TIẾNG ANH:
+
+Pixar 3D animated short film storyboard sheet. 4x4 grid layout — exactly 16 panels arranged in 4 rows and 4 columns. Each panel is 16:9 cinematic format. SEAMLESS layout: NO panel borders, NO gutters, NO numbers, NO text inside panels, NO captions, NO frame separators. Panels flow together as a continuous grid.
+
+Reference @image1: Use the character sheet for HEAD CHEF appearance — tall man with dark curly hair, white chef coat with gold trim and gold star detail, black pants, polished shoes. Maintain EXACT character consistency across all 16 panels.
+
+ENVIRONMENT (consistent across all panels):
+Premium professional restaurant kitchen — copper pots hanging, marble or stainless steel counters, herb plants, warm golden cinematic lighting, slightly blurred background with bokeh.
+
+CAMERA VARIETY (Linh's rule):
+- 30% wide shots (kitchen space, full body)
+- 40% medium shots (action + body language)  
+- 20% close-ups (skill detail)
+- 10% extreme close-ups (food beauty)
+
+16 PANELS LEFT-TO-RIGHT, TOP-TO-BOTTOM:
+
+ROW 1 — INTRO + KNIFE SKILLS:
+Panel 1: WIDE HERO SHOT — Chef standing confident center frame in pristine professional kitchen, arms crossed at chest, full body, smiling subtly, copper pots and herbs visible, warm window light from left
+Panel 2: MEDIUM SHOT — Chef leaning over white plate, placing tiny microgreen leaves with precision tweezers, focused expression, beautiful plated dish forming
+Panel 3: MEDIUM HERO SHOT — Chef standing tall, holding chef knife dramatically up high above head, blade catching warm light glint, confident smile
+Panel 4: ACTION SHOT — Chef rapid-chopping fresh herbs on cutting board, knife motion blur trail visible, chopped herbs flying up
+
+ROW 2 — VEGETABLE PREP MASTERY:
+Panel 5: ACTION SHOT — Chef chopping mushrooms, multiple thin mushroom slices flying in air with motion blur, dramatic precision
+Panel 6: MEDIUM CLOSE — Chef cutting carrots and green beans on wooden cutting board, julienne precision, hands visible
+Panel 7: HERO ACTION SHOT — Chef performing knife flourish/spin in mid-air with circular motion arc lines around blade, showing showmanship
+Panel 8: ACTION WIDE — Chef tossing pan over flame, vegetables flying up in spiral motion blur arc, dramatic cooking
+
+ROW 3 — STOVE STATION FIREWORKS:
+Panel 9: DRAMATIC SHOT — Massive flambé flames bursting from frying pan, intense orange-red fire, chef silhouetted to one side, dramatic shadow
+Panel 10: MEDIUM SHOT — Chef sprinkling seasoning from height, salt/pepper particles raining down like snow toward pan or plate
+Panel 11: ACTION MEDIUM — Chef stirring/cooking with knife in pan, steam rising elegantly, focused
+Panel 12: MEDIUM SHOT — Chef beginning final plating, placing seared meat carefully on white plate
+
+ROW 4 — PLATING ELEGANCE + BEAUTY SHOT:
+Panel 13: MEDIUM CLOSE — Chef using precision tweezers placing final garnish on dish, intense focus
+Panel 14: TOP-DOWN BEAUTY SHOT — Finished plated dish from directly above, perfect composition (steak, sauce drops, microgreens, vegetables, gold edge)
+Panel 15: HERO SHOT — Chef holding plate proudly with both hands, presenting it confidently toward camera, satisfied smile
+Panel 16: BEAUTY EXTREME CLOSE-UP — Final beauty shot of plated dish (sliced steak, vegetables, sauce drops, herbs garnish), shallow depth of field, warm light, gourmet magazine quality
+
+STYLE:
+- Pixar 3D animated feature render quality
+- Warm golden professional kitchen lighting throughout
+- Sub-surface scattering on skin
+- Detailed fabric, copper, marble textures
+- Cinematic shallow depth of field on close-ups
+- Mood: Skilled, confident, elegant, "WOW" appeal
+- Aspect: Each panel 16:9, full image 4 wide × 4 tall = 4:3 overall
+
+NEGATIVE PROMPT:
+- NO panel borders, gutters, frames, or separators
+- NO numbers, text, captions, watermarks, UI elements
+- NO speech bubbles, dialogue boxes
+- NO modern logos or branded products
+- NO low quality, no character drift between panels
+- NO inconsistent chef appearance
+- NO scary or unsettling expressions (chef should be confident/happy)
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT 3 — STORYBOARD 2 "Hồi 2: Plating + Roach Appears" (15-27s)
+File output: storyboard-chef-cockroach-board-2-act2-plating.png
+Workflow: GPT Image 2 với @image1 = chef-cockroach-character-sheet.png
+═══════════════════════════════════════════════════════════════
+
+🎯 GOAL: Storyboard 4x4 grid cho Hồi 2 — plating perfect + cockroach reveal
+Tone: Đẹp → satisfaction → bất ngờ comedic.
+
+📝 PROMPT TIẾNG ANH:
+
+Pixar 3D animated short film storyboard sheet. 4x4 grid layout — exactly 16 panels in 4 rows × 4 columns. Each panel 16:9 cinematic. SEAMLESS layout: NO borders, NO gutters, NO numbers, NO text, NO captions, NO frame lines.
+
+Reference @image1: Use character sheet for HEAD CHEF appearance + CUTE COCKROACH appearance. Maintain EXACT character consistency.
+
+ENVIRONMENT: Same premium professional kitchen, warm golden cinematic lighting, copper/marble surfaces.
+
+16 PANELS:
+
+ROW 1 — PERFECT PLATING DETAIL:
+Panel 1: CLOSE-UP — Chef hand placing fresh microgreen leaves precisely on already plated steak dish with tweezers, intense focus
+Panel 2: MEDIUM CLOSE — Chef adjusting garnish placement, tweezers visible, focused intense look on face
+Panel 3: CLOSE-UP — Chef using small sauce dropper/squeeze bottle creating elegant sauce dots and lines around plate
+Panel 4: TOP-DOWN BEAUTY — Beautifully plated dish from directly above, perfect circular composition with sauce dots, garnish, meat
+
+ROW 2 — FINAL TOUCHES + PERFECTIONIST DETAIL:
+Panel 5: CLOSE-UP — Chef hand placing crispy golden tuile/wafer on top of dish as finishing element, motion arcs showing placement
+Panel 6: MEDIUM SHOT — Chef adjusting tuile placement, hand gesture, focused look, motion lines showing micro-adjustments
+Panel 7: MEDIUM SHOT — Chef cleaning plate rim with white cloth (perfectionist detail), smudge being wiped away
+Panel 8: BEAUTY SHOT 3/4 ANGLE — Fully plated dish showing all elements: sliced pink-medium steak, microgreens, golden tuile, sauce, vegetables, premium presentation
+
+ROW 3 — SATISFACTION + COCKROACH FIRST APPEARANCE:
+Panel 9: WIDE SHOT — Chef stepping back from finished dish, both hands on hips, satisfied confident expression looking at his masterpiece
+Panel 10: MEDIUM SHOT — Chef lifting plate proudly with both hands to present, beaming smile
+Panel 11: EXTREME CLOSE-UP — Tiny cockroach legs (just antennae and 2 front legs visible) appearing from behind something on counter, suspense reveal moment
+Panel 12: CLOSE-UP — Cute cockroach peeking out from behind a tall steel pot or can, just head and antennae visible, big curious Pixar eyes, adorable expression
+
+ROW 4 — COCKROACH SCURRY + CHEF NOTICES:
+Panel 13: MEDIUM ACTION — Cockroach scurrying across the metallic counter with motion blur lines behind, Mischievous expression
+Panel 14: CLOSE-UP — Cockroach climbing onto edge of plate, near the food, looking up curiously at the dish like exploring a new world
+Panel 15: MEDIUM CLOSE — Chef notices cockroach, Surprised expression close-up, wide eyes, mouth slightly open in shock
+Panel 16: 2-SHOT MEDIUM — FREEZE BEAT moment: Chef leaning forward looking down at cockroach on plate, cockroach looking up at chef, eye contact, comedic timing tension
+
+STYLE:
+- Pixar 3D animated feature render
+- Warm golden kitchen lighting
+- Mood progression: Elegant satisfaction → curious suspense → comedic shock
+- Beauty + perfectionism in first half, comedic reveal in second half
+- Aspect: Each panel 16:9
+
+NEGATIVE PROMPT:
+- NO panel borders, gutters, numbers, text, captions
+- NO grotesque cockroach (must stay cute Pixar character)
+- NO scary or horror tone (must stay comedic)
+- NO character drift, no costume changes
+- NO modern logos, no real brands
+
+═══════════════════════════════════════════════════════════════
+🎬 PROMPT 4 — STORYBOARD 3 "Hồi 3: Chase & Chaos" (27-45s)
+File output: storyboard-chef-cockroach-board-3-act3-chaos.png
+Workflow: GPT Image 2 với @image1 = chef-cockroach-character-sheet.png
+═══════════════════════════════════════════════════════════════
+
+🎯 GOAL: Storyboard 4x4 cho Hồi 3 — chase scene escalating chaos + punchline ending
+Tone: Slapstick comedy peak, Tom & Jerry chaos.
+
+📝 PROMPT TIẾNG ANH:
+
+Pixar 3D animated short film storyboard sheet. 4x4 grid — 16 panels, each 16:9 cinematic. SEAMLESS layout: NO borders, NO gutters, NO numbers, NO text, NO captions.
+
+Reference @image1: HEAD CHEF and CUTE COCKROACH from character sheet. EXACT consistency.
+
+ENVIRONMENT: Same kitchen, but mood escalating to chaos. Sauce splatters, food particles flying, motion blur, dynamic action throughout.
+
+16 PANELS:
+
+ROW 1 — COCKROACH ESCAPES:
+Panel 1: CLOSE-UP — Chef face-to-face with cockroach across the plate, intense look, "I see you" moment, both eyes locked
+Panel 2: MEDIUM SHOT — Cockroach launches into flight with wings spread (escape mode), chef has Surprised expression, wide eyes, mouth open
+Panel 3: WIDE-MEDIUM — Cockroach flying around chef's head in spiral motion path, chef startled, head turning trying to track it
+Panel 4: MEDIUM ACTION — Chef reaching out hand to grab cockroach, cockroach evading agilely, motion lines
+
+ROW 2 — CHASE BEGINS, ACCIDENTS START:
+Panel 5: MEDIUM SHOT — Chef leaning down toward plate trying to catch cockroach, cockroach already escaping, garnish slightly disturbed
+Panel 6: MEDIUM ACTION — Chef reaching across plate, hand sweeping motion, garnish flying up off plate (motion lines showing disruption)
+Panel 7: WIDE ACTION — Things scattering from plate: chef arms outstretched mid-grab, plate ingredients flying — sauce drops, microgreens, vegetable pieces in motion
+Panel 8: CLOSE — Cockroach flying away victoriously, plate visibly getting messier, garnish out of place
+
+ROW 3 — ESCALATING CHAOS:
+Panel 9: ACTION WIDE — Spiral motion of sauce/ingredients swirling around the plate, cockroach in middle of swirl, Frustrated chef expression in background
+Panel 10: ACTION MEDIUM — Chef hands swiping at air, sauce splashing, food particles flying everywhere, panicked expression
+Panel 11: WIDE PANIC — Chef arms up defensively, food/sauce falling everywhere around him, full Panic expression
+Panel 12: TOTAL CHAOS WIDE — Sauce splatters, garnish flying in circular motion, plate is now being completely destroyed, swirling motion lines
+
+ROW 4 — PUNCHLINE ENDING:
+Panel 13: MEDIUM CLOSE — Cockroach circling messy food on plate (which is now just a mess of meat, sauce, broken garnish)
+Panel 14: MEDIUM CLOSE — Plate is now a complete mess (food piled together, sauce drips, ruined presentation), chef looking shocked at result, Exhausted expression
+Panel 15: MEDIUM SHOT — Chef hands on his head in defeat, devastated expression looking at ruined dish, classic "ohh no" pose
+Panel 16: PUNCHLINE BEAUTY SHOT — Cockroach perched on top of the messy food pile, sticking tongue out cheekily (Teasing pose), Chef in background hands on head with PANIC expression. Comedic punchline ending.
+
+STYLE:
+- Pixar 3D animated feature render quality
+- Warm kitchen lighting but with chaotic energy
+- Heavy use of motion blur, motion lines, particles flying
+- Sauce splatters, food in motion
+- Comedic timing energy: building tension → explosive chaos → punchline
+- Aspect: Each panel 16:9
+
+NEGATIVE PROMPT:
+- NO panel borders, gutters, numbers, text, captions
+- NO grotesque/scary content (slapstick comedy only, no horror)
+- NO blood, no gore, no violent destruction
+- NO grotesque cockroach (must stay cute Pixar)
+- NO real brand logos
+- NO inconsistent character appearance
+
+═══════════════════════════════════════════════════════════════
+🎯 WORKFLOW TEST DAY 20 (recommend cho Linh)
+═══════════════════════════════════════════════════════════════
+
+📋 ORDER TEST:
+
+Bước 1: Test PROMPT 1 (Character Sheet)
+- Vào 0ai.vn → GPT Image 2
+- Setting: Medium 2K, ratio 4:3 hoặc 3:2 (landscape)
+- Paste PROMPT 1
+- Generate → verify match với Image 1 ref
+- Re-gen 1-2 lần nếu cần chỉnh layout/details
+- Save: chef-cockroach-character-sheet.png
+
+Bước 2: Test PROMPT 2 (Storyboard 1 — Hồi 1 Chef Skills)
+- Vào 0ai.vn → GPT Image 2
+- Setting: Medium 2K, ratio 16:9
+- Upload @image1 = character sheet vừa tạo
+- Paste PROMPT 2
+- Generate → verify 16 panels match Image 2 ref
+- Save: storyboard-chef-cockroach-board-1-act1-skills.png
+
+Bước 3: Test PROMPT 3 (Storyboard 2 — Hồi 2 Plating + Roach)
+- Same workflow như Bước 2
+- Save: storyboard-chef-cockroach-board-2-act2-plating.png
+
+Bước 4: Test PROMPT 4 (Storyboard 3 — Hồi 3 Chase & Chaos)
+- Same workflow
+- Save: storyboard-chef-cockroach-board-3-act3-chaos.png
+
+📝 NAMING CONVENTION:
+- chef-cockroach-character-sheet.png
+- storyboard-chef-cockroach-board-1-act1-skills.png
+- storyboard-chef-cockroach-board-2-act2-plating.png
+- storyboard-chef-cockroach-board-3-act3-chaos.png
+
+💰 COST DỰ KIẾN:
+- Image 1 (character sheet): 1 ảnh × ~900 credit = 900 credit
+- Image 2-4 (storyboards): 3 ảnh × ~900 credit = 2,700 credit
+- Tổng: ~3,600 credit (~3.6K VND, giống Day 18)
+
+⏱️ TIME DỰ KIẾN:
+- 4 ảnh × ~5-10 phút generate = 20-40 phút
+- Re-gen 1-2 ảnh = 10-20 phút
+- Tổng: ~30-60 phút
+
+═══════════════════════════════════════════════════════════════
+TIPS QUAN TRỌNG
+═══════════════════════════════════════════════════════════════
+
+✅ **Tiếng Anh native cho Pixar Western style:**
+Khác Day 17-19 (xianxia → tiếng Trung), project Chef vs Cockroach là 
+Western Pixar comedy → tiếng Anh là natural language. Đừng dịch sang
+tiếng Việt hoặc tiếng Trung.
+
+✅ **Character sheet là @image1 anchor:**
+Tương tự Day 18, sau khi tạo xong character sheet (Image 1), upload làm 
+@image1 reference cho 3 storyboards → chống character drift qua 48 panels.
+
+✅ **NO panel borders, NO numbers, NO text:**
+4x4 grid là layout tự nhiên, KHÔNG có borders/gutters/numbers như comic. 
+Negative prompt explicit prevent.
+
+✅ **Camera variety rule (Linh đã định):**
+- 30% wide
+- 40% medium  
+- 20% close-up
+- 10% extreme close-up
+→ Tránh dồn toàn cận mặt, không gian thoáng hơn.
+
+✅ **Color palette lock (7 màu):**
+Reference 7 swatches từ character sheet để consistency.
+
+✅ **Mood progression rõ ràng 3 hồi:**
+- Hồi 1: WOW skills (confident, elegant)
+- Hồi 2: Satisfaction + curious suspense
+- Hồi 3: Chaos escalating + punchline
+
+⚠️ **Cockroach phải CUTE Pixar:**
+- KHÔNG để AI render realistic disgusting bug
+- Big expressive eyes, anthropomorphic
+- Brown body nhưng adorable, không scary
+→ Negative prompt explicit "cute Pixar character only".
+
+⚠️ **Chef expression range:**
+- Hồi 1: Confident, focused, satisfied
+- Hồi 2: Surprised at end
+- Hồi 3: Frustrated → Panic → Exhausted
+→ Match với 6 expressions trong character sheet.
+
+⚠️ **GPT Image 2 vs other models:**
+- GPT Image 2: Best cho Pixar 3D Western style
+- NBN2 / Seedream 4.5: Có thể work nhưng style hơi khác
+- Recommend stick GPT Image 2 cho consistency với pattern Day 17-18.
+
+═══════════════════════════════════════════════════════════════
+END OF DAY 20 IMAGE PROMPTS
+═══════════════════════════════════════════════════════════════
