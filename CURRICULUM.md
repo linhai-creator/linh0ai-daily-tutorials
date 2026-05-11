@@ -1,8 +1,8 @@
 # 📚 CURRICULUM — 0ai.vn Daily Tutorials 30 Ngày
 
-> **Phiên bản 2.3** — Cập nhật ngày 10/05/2026
+> **Phiên bản 2.4** — Cập nhật ngày 11/05/2026
 > **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
-> **Status:** Tuần 1 ✅ | Tuần 2 ✅ | Tuần 3 🔄 (5/7 done) | Tuần 4 📋 Planned
+> **Status:** Tuần 1 ✅ | Tuần 2 ✅ | Tuần 3 🔄 (6/7 done) | Tuần 4 📋 Planned
 
 ---
 
@@ -75,7 +75,7 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-## 🟣 Tuần 3 — Practical Production (Day 15-21) 🔄 5/7 DONE
+## 🟣 Tuần 3 — Practical Production (Day 15-21) 🔄 6/7 DONE
 
 > **Mục tiêu tuần:** Đi từ "biết kỹ năng" lên "production-ready workflow" — từ file management cho creator, batch processing, đến tạo character consistent + storyboard cho animation thực sự.
 >
@@ -196,7 +196,38 @@ Sau 30 ngày, bạn sẽ:
 
 ---
 
-### Day 20-21 — TBD + Tổng kết Tuần 3 📅 Planned
+### Day 20 — Pipeline Complete trong 1 Session (Pixar Comedy) ✅
+
+> *1 character sheet + 3 storyboards + 3 video clips = 1 short film comedy 41s trong 1 session work*
+
+**Mục tiêu:**
+- Master pattern "Pipeline complete trong 1 session" (kịch bản → ảnh → video → final)
+- Học cách viết kịch bản chi tiết 45s với 3 hồi + camera rules + beat-by-beat
+- Master Pixar 3D Western comedy genre (khác xianxia Day 17-19)
+- Verify tiếng Trung pure cho Pixar Western (counter-intuitive but works)
+
+**Skill nổi bật:**
+- Kịch bản chi tiết 45s với 3 hồi rõ ràng + camera rules 30/40/20/10 + beat-by-beat
+- Concept "Tornado-Cockroach": Creative metaphor solve logic narrative problem
+- Triple-locked character consistency cross-genre
+- AI bonus creative interpretations (antennae reveal, vertical tornado)
+
+**Project:** "Chef vs Cockroach" (Tom & Jerry-style slapstick comedy)
+
+**Test:** 1 character sheet + 3 storyboards × 16 = 49 visual + 3 videos × 15s = 45s raw → 41s edited final film | 111,600 credit total
+
+**Insight:**
+- Star average **8/5⭐** — HIGHEST của 30 days
+- Pattern Storyboard-to-Video work tốt cross-genre (xianxia → comedy)
+- Pattern pipeline complete 1 session là pattern khác Day 18-19 (3 patterns parallel, không hierarchy)
+- Hero clip: Clip 3 ACT 3 — cockroach victory pose punchline iconic
+- Cost cumulative Day 17-20: ~343,800 VND → 2 short films + 113 visual elements
+
+📄 [days/day-20.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-20.md)
+
+---
+
+### Day 21 — Tổng kết Tuần 3 + Cheatsheet Pipeline 📅 Coming
 
 > Topics có thể là: Mini Challenge, Multi-character series, Video editing advanced — mình sẽ chốt sau khi Day 19 hoàn thành để đảm bảo content khớp với gì creator Việt cần thật.
 
@@ -235,7 +266,7 @@ Sau 30 ngày, bạn sẽ:
 
 > *Project tổng hợp tất cả skills 28 ngày*
 
-**Deliverable:** 1 video quảng cáo 30s hoàn chỉnh cho 1 sản phẩm thật (Linh tự chọn hoặc community vote)
+**Deliverable:** 1 video quảng cáo 30s hoàn chỉnh cho 1 sản phẩm thật (tự chọn hoặc community vote)
 **Bao gồm:** ~10 ảnh storyboard + 5 video clip + ghép lại
 **Credit dự kiến:** ~15,000 credit
 
@@ -260,7 +291,7 @@ Sau 30 ngày, bạn sẽ:
 
 ## 📊 Mục tiêu KPIs 30 ngày
 
-- [x] Đăng đủ **19/30 bài** (63%)
+- [x] Đăng đủ **20/30 bài** (67%)
 - [ ] **100+ stars** trên GitHub repo
 - [ ] **1.000+ followers** Facebook fanpage
 - [ ] **500+ followers** X (Twitter)
@@ -331,7 +362,8 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 | --- | --- | --- |
-| **v2.3** | 10/05/2026 | ✅ **Day 19 hoàn thành** — Storyboard-to-Video Seedance 2.0 (6.5/5⭐ average, 1 short film xianxia 60s "Đôi Kiếm Tiên" complete). Cumulative ROI Day 17-19: ~232K VND → bộ deliverable studio-level. Tuần 3 status: 5/7 done. |
+| **v2.4** | 11/05/2026 | ✅ **Day 20 hoàn thành** — Pattern Pipeline Complete trong 1 Session + Pixar Western comedy genre (8/5⭐ average, HIGHEST 30 days). Project "Chef vs Cockroach" 41s short film. Cost cumulative Day 17-20: ~343,800 VND. Tuần 3 status: 6/7 done. |
+| **v2.3** | 10/05/2026 | ✅ **Day 19 hoàn thành** — Storyboard-to-Video Seedance 2.0 (6.5/5⭐ average, 1 short film xianxia 60s "Đôi Kiếm Tiên" complete). Cost cumulative Day 17-19: ~232,200 VND. Tuần 3 status: 5/7 done. |
 | **v2.2** | 10/05/2026 | 🔄 **Tuần 3 PIVOT từ "Image Workflows" sang "Practical Production"** (file management, batch processing, 3D animation Trung Quốc, storyboard 4x4). Lý do: creator Việt cần workflow production thật hơn là kỹ thuật image manipulation đơn lẻ. Update: Tuần 2 ✅ Done, Day 17 + Day 18 đã hoàn thành với insights ấn tượng (character sheet feature, storyboard 4x4 64 panels, 0 re-gen rate). |
 | **v2.0** | 08/05/2026 | 🔄 Đổi Tuần 2 từ "Test các model mới" sang "Master Skills" (5 chuyên đề kỹ năng + 1 model deep-dive). Lý do: content kỹ năng evergreen hơn, không bị outdated. |
 | **v1.5** | ~06/05/2026 | Đổi Tuần 2 từ "Flux series" sang "Test Seedream 5/Z-Image/NBN Pro/Kling" (vì 0ai.vn không có Flux). |
@@ -341,4 +373,4 @@ Nếu bạn có:
 
 *Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 10/05/2026 | Phiên bản 2.3*
+*Cập nhật lần cuối: 11/05/2026 | Phiên bản 2.4*
