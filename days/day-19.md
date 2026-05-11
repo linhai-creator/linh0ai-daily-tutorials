@@ -155,7 +155,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 
 | Lợi ích | Detail |
 |---------|--------|
-| ✅ **Chất lượng đầu ra tốt hơn** | Verify qua 4 clip Linh đã test — output Pixar-quality |
+| ✅ **Chất lượng đầu ra tốt hơn** | Verify qua 4 clip đã test — output Pixar-quality |
 | ✅ **AI thông minh hơn** | Handle prompt phức tạp 13-17 segments tốt hơn standard |
 | ✅ **Hỗ trợ khuôn mặt** | Character consistency không bị block bởi face policy |
 | ✅ **Không vi phạm bản quyền** | Output safe cho commercial use |
@@ -185,7 +185,7 @@ Day 19 4 video clips (characters PERFECT consistent qua 60s)
 | Story compress quá nhanh | Tăng segments specification trong 镜头节奏 |
 | Camera movement không match | Re-emphasize 镜头语言 section |
 
-> Re-gen 1 lần với seed mới thường giải quyết 80% vấn đề. Linh đã verify với batch này.
+> Re-gen 1 lần với seed mới thường giải quyết 80% vấn đề. Đã verify với batch này.
 
 ### Bước 4: Edit workflow CapCut (final film 60s)
 
@@ -487,7 +487,7 @@ Clip 2 frame 14s — AI tự thêm **divine face overlay từ mây** làm spirit
 | **Star average** | **6.5/5 ⭐** — vượt expectation |
 | Use case practical | Portfolio / TikTok / YouTube / Animation studio reference |
 
-> **ROI thực tế:** 1 short film xianxia 60s production-quality có thể bán cho clients (animation studio, brand campaign, music video) **2-5 triệu VND**. Cost generation ~216K VND → margin **>90%**. Đây là **portfolio piece** thật sự cho creator AI Việt Nam.
+> **Use case practical:** 1 short film xianxia 60s production-quality dùng được làm portfolio piece cho creator AI Việt Nam, content TikTok/YouTube, hoặc demo capability cho commercial opportunity. Cost generation ~216K VND trên 0ai.vn. Selling price phụ thuộc client/scope/license — mình không có data chính xác để quote.
 
 > **So sánh Standard vs Professional-VIP:**
 > Standard mode rẻ hơn 3-5x nhưng: face consistency có thể bị block, AI hiểu prompt phức tạp kém hơn, có hàng chờ queue. Cho project pro, Professional-VIP là **must-have** — tiết kiệm 100K credit nhưng mất 1 ngày chờ + re-gen 5 lần là không đáng.
@@ -503,7 +503,9 @@ Clip 2 frame 14s — AI tự thêm **divine face overlay từ mây** làm spirit
 | **1 short film xianxia 60s** | 19 final | (edit only) | **Portfolio + commercial** |
 | **Tổng pipeline** | 17-19 | **~232,200 credit (~232K VND)** | **Bộ deliverable studio level** |
 
-→ **Pipeline hoàn chỉnh:** 14 ảnh + 64 panels + 4 video + 1 short film = bộ deliverable mà animation studio Vietnamese mất 1-2 tuần với team 3 người (cost ~30-50 triệu VND). Linh build solo trong **3 ngày** với **~232K VND** = ROI nhân **130-220x**.
+→ **Pipeline hoàn chỉnh:** 14 ảnh + 64 panels + 4 video + 1 short film = bộ deliverable production-grade, build solo trong **3 ngày** với cost ~232,200 VND trên 0ai.vn (1 credit ≈ 1 VND).
+
+> **Note honest:** Mình không có data chính xác để estimate "studio equivalent value" cho output này. Selling price phụ thuộc client, scope, license, deadline — không quote số ở đây để tránh tâng bốc.
 
 ---
 
