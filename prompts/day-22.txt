@@ -1,0 +1,183 @@
+═══════════════════════════════════════════════════════════
+DAY 22 — PROMPTS
+Brief & Kịch bản Quảng cáo AI 30 Giây
+═══════════════════════════════════════════════════════════
+
+CONTEXT
+-------
+Bài Day 22 chủ yếu là planning (brief + kịch bản + timecode).
+Phần generation duy nhất là 1 demo product hero shot 15s bằng Seedance 2.0-Omni.
+
+File này chứa:
+1. Template prompt Seedance 10 section (tiếng Trung) — universal cho mọi product shot
+2. Prompt cụ thể cho demo cà phê sữa đá (Ví dụ 1 trong tutorial)
+
+CẢI TIẾN TỪ DAY 19-20:
+Day 19-20 dùng template 8 section cho action/narrative shot (xianxia, comedy).
+Day 22 nâng cấp lên 10 section cho commercial product shot:
+- Tách 【风格】 thành section riêng (style descriptor focused)
+- Thêm 【连续性要求】 — chống object morphing
+- Thêm lighting warning specific (chống over-exposure / over-orange)
+- Đổi 【动作】 thành 【动作时间线】 với 3 phase breakdown
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 1 — TEMPLATE 10 SECTION (cho mọi product shot)
+═══════════════════════════════════════════════════════════
+
+Setup chung:
+- Model: Seedance 2.0-Omni
+- Duration: 15s (chuẩn Seedance, đủ thấy full pacing + camera + continuity)
+- Resolution: 720p
+- Ratio: 16:9 (Day 22 chưa test 9:16)
+- Cost: 2,400 credit/s × 15s = 36,000 VND
+
+Template (điền vào ngoặc vuông [...] cho sản phẩm của bạn):
+
+[Loại sản phẩm] 产品广告视频，16:9横屏，真实写实商业广告风格，时长15秒。
+
+【主体】
+[Mô tả chi tiết sản phẩm: 1 sản phẩm duy nhất, màu sắc, vật liệu, kích thước, đặc điểm].
+
+【场景】
+[Bối cảnh đặt sản phẩm: nơi đặt, background, đạo cụ xung quanh, không khí tổng thể].
+
+【动作时间线】
+0–3秒：
+[Setup phase: starting position, ánh sáng setup, không có chuyển động phức tạp].
+
+3–10秒：
+[Main action phase: chuyển động chính cụ thể, camera movement, animation nhẹ trên sản phẩm].
+
+10–15秒：
+[Ending phase: emphasis hold, detail closer, frame ending stable].
+
+【镜头】
+[Loại shot + chuyển động camera + composition + độ sâu trường ảnh].
+始终保持[sản phẩm]为唯一视觉主体。
+
+【光线】
+[Hướng + loại + nhiệt độ ánh sáng].
+[Warning: 不要过曝，不要过度 + tone màu cần tránh].
+
+【风格】
+[Style descriptor cụ thể: real-life feel, premium feel, clean composition, natural texture].
+
+【声音】
+[Âm thanh phù hợp: chỉ ambient + product sound, không dialogue, không music nếu muốn add SFX rời].
+
+【连续性要求】
+始终保持同一个[sản phẩm]、同样的[material/texture]、同样的[background]、同样的光线氛围，不要有任何突然变化。
+
+【严格避免】
+不要复制[sản phẩm]，不要多出第二个，不要扭曲变形，不要[texture errors specific],
+不要背景突变，不要镜头跳切，不要文字，不要水印，不要logo。
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 2 — DEMO CÀ PHÊ SỮA ĐÁ (cụ thể, copy-paste sẵn)
+═══════════════════════════════════════════════════════════
+
+Setup:
+- Model: Seedance 2.0-Omni
+- Duration: 15s
+- Resolution: 720p
+- Ratio: 16:9
+- Cost: 15s × 2,400 credit/s = 36,000 VND
+
+Prompt:
+
+越南冰咖啡产品广告视频，16:9横屏，真实写实商业广告风格，时长15秒。
+
+【主体】
+单一透明玻璃杯装越南冰咖啡，杯中装满冰块，深棕色咖啡液体，杯壁有清晰自然的凝结水珠。
+
+【场景】
+温暖的西贡现代咖啡馆内景，木质柜台桌面，背景为柔焦琥珀色吊灯与温馨咖啡馆环境，整体氛围自然、亲切、干净、舒适。
+
+【动作时间线】
+0–3秒：
+玻璃杯稳定放置在木质桌面中央，画面安静干净，晨光从右侧照入，冰块与咖啡表面出现自然高光。
+
+3–10秒：
+镜头缓慢推进，凝结水珠沿着杯壁缓慢滑落，冰块在杯中轻微闪光，咖啡液面有温暖晨光反射，动作细微真实，节奏平稳。
+
+10–15秒：
+继续轻微推进镜头，玻璃杯始终稳定清晰，凝结水珠与冰块细节更明显，形成高级感产品定格结尾。
+
+【镜头】
+近景产品拍摄，缓慢稳定推进镜头，稳定居中构图，浅景深，背景自然虚化。始终保持玻璃杯为唯一视觉主体。
+
+【光线】
+右侧射入温暖金色晨光，形成柔和自然高光与阴影。玻璃、冰块、咖啡液面有真实细腻反射，不要过曝，不要过度偏橙黄。
+
+【风格】
+真实越南咖啡店商业广告风格，温暖晨光，生活感，高级感，干净构图，质感自然，写实高级饮品广告效果。
+
+【声音】
+轻微冰块碰撞声，安静咖啡馆环境音，无对白，无旁白，无背景音乐。
+
+【连续性要求】
+始终保持同一个玻璃杯、同样的咖啡液体质感、同样的冰块形态、同样的木质桌面、同样的咖啡馆背景与光线氛围，不要有任何突然变化。
+
+【严格避免】
+不要复制杯子，不要出现第二个杯子，不要扭曲玻璃，不要变形冰块，不要液体闪烁，不要背景突变，不要镜头跳切，不要文字，不要水印，不要logo。
+
+
+═══════════════════════════════════════════════════════════
+GHI CHÚ
+═══════════════════════════════════════════════════════════
+
+1. Tại sao tiếng Trung?
+   Day 19-20 đã verify Seedance 2.0-Omni cho output ổn định với prompt
+   tiếng Trung. Mình giữ pattern này cho Tuần 4 commercial.
+   Khi đến Day 25, mình sẽ test thêm với product shot 9:16 để verify
+   ratio dọc có work không.
+
+2. Tại sao 10 section thay vì 8 (Day 19-20)?
+   Commercial product shot có nhu cầu khác xianxia/comedy:
+   - Tách 【风格】 riêng → style descriptor cụ thể hơn
+   - 【连续性要求】 mới → chống Seedance morph sản phẩm giữa các frame
+     (đặc biệt quan trọng với liquid, glass, ice — dễ bị warp)
+   - Lighting có warning cụ thể (不要过曝，不要过度橙黄) →
+     Seedance hay over-saturate warm light, warning sẽ pull back
+
+3. Tại sao 【动作时间线】 thay vì 【动作】?
+   Action narrative thường chỉ cần 1 mô tả tổng. Product hero shot cần
+   pacing rõ ràng vì static-ish — nếu không breakdown phase, Seedance
+   có thể render lurch ở đầu hoặc tự "bịa" motion. Breakdown 3 phase
+   (setup / main / ending) giúp model hiểu rhythm.
+
+4. Section 【严格避免】 đặc thù commercial:
+   So với Day 19-20 thêm:
+   - 不要文字 (không text)
+   - 不要水印 (không watermark)
+   - 不要logo (không logo)
+   Vì product shot dễ bị Seedance tự render watermark/brand sai.
+
+5. Tại sao 15s?
+   15s là duration chuẩn của Seedance — đủ để show full pacing, camera
+   movement và continuity quality thật sự của model. Cắt xuống ngắn hơn
+   để tiết kiệm credit là sai mindset cho bài học: học viên cần thấy
+   full capability của model, không phải bản rút gọn.
+   
+   Phases 3-phase trong template scale theo duration:
+   - 15s: 0-3s / 3-10s / 10-15s (default Day 22)
+   - 10s: 0-2s / 2-7s / 7-10s
+   - 8s: 0-2s / 2-5s / 5-8s
+
+6. Generate 2-3 lần nếu cần:
+   Cost 1 lần 36,000 VND. Nếu lần 1 lỗi nặng (ly méo, đá vỡ kỳ lạ),
+   gen lại lần 2. Đừng cố "cứu" clip lỗi bằng edit.
+
+7. Adapt cho sản phẩm khác:
+   Dùng PROMPT 1 (template) và fill vào ngoặc vuông cho sản phẩm
+   của các bạn. Mỗi section điền chi tiết, đừng để trống.
+
+   Đặc biệt chú ý:
+   - 【动作时间线】 phải có 3 phase rõ ràng, time cộng đúng tổng duration
+   - 【连续性要求】 phải list cụ thể những gì cần giữ nhất quán
+   - 【严格避免】 phải list lỗi đặc thù sản phẩm
+     (vd: vải/quần áo → "不要变形布料"; mỹ phẩm → "不要液体溢出")
+
+═══════════════════════════════════════════════════════════
