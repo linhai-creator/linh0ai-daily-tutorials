@@ -5,179 +5,490 @@ Brief & Kịch bản Quảng cáo AI 30 Giây
 
 CONTEXT
 -------
-Bài Day 22 chủ yếu là planning (brief + kịch bản + timecode).
-Phần generation duy nhất là 1 demo product hero shot 15s bằng Seedance 2.0-Omni.
+File này chứa 5 prompts cho Day 22:
+1. MASTER TEMPLATE universal (refined từ 4 prompts thực)
+2. PROMPT cụ thể — Sneaker (✅ TESTED — HIGH risk failure case)
+3. PROMPT cụ thể — Cà phê sữa đá (✅ TESTED — LOW risk PASS)
+4. PROMPT cụ thể — Serum dưỡng da (✅ TESTED — LOW risk EXCELLENT)
+5. PROMPT cụ thể — Bánh mì Sài Gòn (✅ TESTED — LOW risk EXCELLENT)
 
-File này chứa:
-1. Template prompt Seedance 10 section (tiếng Trung) — universal cho mọi product shot
-2. Prompt cụ thể cho demo cà phê sữa đá (Ví dụ 1 trong tutorial)
+Tổng cost test Day 22: 4 × 36,000 = 144,000 VND.
+
+Risk Matrix CONFIRMED với 4 data points:
+- 3 LOW risk: all PASS (no branding violations)
+- 1 HIGH risk: FAIL on logo, brand swap, multi-product
+
+3 insights mới rút ra (chi tiết cuối file):
+- Risk Matrix Seedance vs branded products
+- Liquid state lock (từ coffee test)
+- Auto multi-environment (từ bánh mì test)
 
 CẢI TIẾN TỪ DAY 19-20:
-Day 19-20 dùng template 8 section cho action/narrative shot (xianxia, comedy).
-Day 22 nâng cấp lên 10 section cho commercial product shot:
-- Tách 【风格】 thành section riêng (style descriptor focused)
-- Thêm 【连续性要求】 — chống object morphing
-- Thêm lighting warning specific (chống over-exposure / over-orange)
-- Đổi 【动作】 thành 【动作时间线】 với 3 phase breakdown
+Template 8 section → 11 section commercial-grade:
+- Tách 【风格】 riêng
+- 【连续性要求】 mới — chống object morphing
+- 【转场要求】 mới — match cut, light wipe (cấm hard cut)
+- 【动作与镜头时间线】 5 phase camera language
+- 【严格避免】 thêm lỗi đặc thù commercial
 
 
 ═══════════════════════════════════════════════════════════
-PROMPT 1 — TEMPLATE 10 SECTION (cho mọi product shot)
+PROMPT 1 — MASTER TEMPLATE UNIVERSAL
 ═══════════════════════════════════════════════════════════
 
 Setup chung:
 - Model: Seedance 2.0-Omni
-- Duration: 15s (chuẩn Seedance, đủ thấy full pacing + camera + continuity)
+- Duration: 15s
 - Resolution: 720p
 - Ratio: 16:9 (Day 22 chưa test 9:16)
 - Cost: 2,400 credit/s × 15s = 36,000 VND
 
-Template (điền vào ngoặc vuông [...] cho sản phẩm của bạn):
+Cách dùng: Replace 【...】 placeholders cho sản phẩm của bạn.
+Đọc Phần 6 trong day-22.md để biết decision tree khi adapt.
 
-[Loại sản phẩm] 产品广告视频，16:9横屏，真实写实商业广告风格，时长15秒。
+Template:
 
-【主体】
-[Mô tả chi tiết sản phẩm: 1 sản phẩm duy nhất, màu sắc, vật liệu, kích thước, đặc điểm].
-
-【场景】
-[Bối cảnh đặt sản phẩm: nơi đặt, background, đạo cụ xung quanh, không khí tổng thể].
-
-【动作时间线】
-0–3秒：
-[Setup phase: starting position, ánh sáng setup, không có chuyển động phức tạp].
-
-3–10秒：
-[Main action phase: chuyển động chính cụ thể, camera movement, animation nhẹ trên sản phẩm].
-
-10–15秒：
-[Ending phase: emphasis hold, detail closer, frame ending stable].
-
-【镜头】
-[Loại shot + chuyển động camera + composition + độ sâu trường ảnh].
-始终保持[sản phẩm]为唯一视觉主体。
-
-【光线】
-[Hướng + loại + nhiệt độ ánh sáng].
-[Warning: 不要过曝，不要过度 + tone màu cần tránh].
-
-【风格】
-[Style descriptor cụ thể: real-life feel, premium feel, clean composition, natural texture].
-
-【声音】
-[Âm thanh phù hợp: chỉ ambient + product sound, không dialogue, không music nếu muốn add SFX rời].
-
-【连续性要求】
-始终保持同一个[sản phẩm]、同样的[material/texture]、同样的[background]、同样的光线氛围，不要有任何突然变化。
-
-【严格避免】
-不要复制[sản phẩm]，不要多出第二个，不要扭曲变形，不要[texture errors specific],
-不要背景突变，不要镜头跳切，不要文字，不要水印，不要logo。
-
-
-═══════════════════════════════════════════════════════════
-PROMPT 2 — DEMO CÀ PHÊ SỮA ĐÁ (cụ thể, copy-paste sẵn)
-═══════════════════════════════════════════════════════════
-
-Setup:
-- Model: Seedance 2.0-Omni
-- Duration: 15s
-- Resolution: 720p
-- Ratio: 16:9
-- Cost: 15s × 2,400 credit/s = 36,000 VND
-
-Prompt:
-
-越南冰咖啡产品广告视频，16:9横屏，真实写实商业广告风格，时长15秒。
+[高端/真实/自然]【Sản phẩm + nguồn gốc】产品广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实[商业/美容商业/街头美食/时尚运动品牌]广告风格。
 
 【主体】
-单一透明玻璃杯装越南冰咖啡，杯中装满冰块，深棕色咖啡液体，杯壁有清晰自然的凝结水珠。
+单一【sản phẩm + đặc điểm vật lý】，主要材质为【material + màu + texture】，产品干净、清晰、质感高级。突出【sell point 1】、【sell point 2】、【sell point 3】。始终保持同一个【sản phẩm】，不要复制，不要改变【physical attributes】。
 
 【场景】
-温暖的西贡现代咖啡馆内景，木质柜台桌面，背景为柔焦琥珀色吊灯与温馨咖啡馆环境，整体氛围自然、亲切、干净、舒适。
+【Location cụ thể】，【props/đạo cụ】，【color palette】，整体氛围【3-4 mood keywords】。
 
-【动作时间线】
+【动作与镜头时间线】
 0–3秒：
-玻璃杯稳定放置在木质桌面中央，画面安静干净，晨光从右侧照入，冰块与咖啡表面出现自然高光。
+Hook 开场。连续3个极近景镜头快速但平滑衔接：
+1）【macro detail 1】；
+2）【macro detail 2】；
+3）【macro detail 3】。
+最后以一道光线扫过整个产品，形成强烈视觉抓力。前3秒必须高级、干净、吸睛。
 
-3–10秒：
-镜头缓慢推进，凝结水珠沿着杯壁缓慢滑落，冰块在杯中轻微闪光，咖啡液面有温暖晨光反射，动作细微真实，节奏平稳。
+3–6秒：
+镜头拉开到 3/4 角度，完整展示【sản phẩm】放在【scene central position】。摄影机缓慢推进或环绕，灯光扫过产品，质感清晰可见。
 
-10–15秒：
-继续轻微推进镜头，玻璃杯始终稳定清晰，凝结水珠与冰块细节更明显，形成高级感产品定格结尾。
+6–9秒：
+展示产品的关键卖点或使用感：【action specific tới sản phẩm: 倒入/拿起/打开/佩戴/光线扫过/液体流动/包装打开】。动作自然真实，节奏慢而高级。
+
+9–12秒：
+通过自然转场进入【human interaction OR lifestyle context】：【người dùng tương tác với sản phẩm HOẶC sản phẩm trong môi trường thực】。转场通过【specific transition cho sản phẩm】完成，不要跳切。
+
+12–15秒：
+最终 hero shot。【sản phẩm】成为画面绝对核心，镜头轻微慢推，光线形成漂亮高光，背景柔焦。最后定格在干净、稳定、高级的产品广告画面。
+
+【转场要求】
+所有镜头通过光线扫过、镜头滑动、产品遮挡、match cut、focus shift、【product-specific motion】完成自然平滑转场。不要硬切，不要闪烁，不要突然换背景。
 
 【镜头】
-近景产品拍摄，缓慢稳定推进镜头，稳定居中构图，浅景深，背景自然虚化。始终保持玻璃杯为唯一视觉主体。
+16:9横屏，macro close-up、3/4 product shot、【shot type theo sản phẩm】、hero shot 结合。镜头运动包括缓慢推进、平滑环绕、焦点转移。画面稳定、流畅、专业。
 
 【光线】
-右侧射入温暖金色晨光，形成柔和自然高光与阴影。玻璃、冰块、咖啡液面有真实细腻反射，不要过曝，不要过度偏橙黄。
+【Lighting style: 温暖晨光/冷白科技光/柔和棚拍光/金色夕阳光】，突出产品表面的真实反射、纹理和材质。不要过曝，不要颜色过饱和。
 
 【风格】
-真实越南咖啡店商业广告风格，温暖晨光，生活感，高级感，干净构图，质感自然，写实高级饮品广告效果。
+真实写实商业广告风格，【industry-specific style descriptor】，画面干净，浅景深，质感自然，电影级产品广告效果。
 
 【声音】
-轻微冰块碰撞声，安静咖啡馆环境音，无对白，无旁白，无背景音乐。
+自然产品环境音：【sound 1】、【sound 2】、【ambient】。无对白，无旁白，无背景音乐。
 
 【连续性要求】
-始终保持同一个玻璃杯、同样的咖啡液体质感、同样的冰块形态、同样的木质桌面、同样的咖啡馆背景与光线氛围，不要有任何突然变化。
+始终保持同一个产品、同样的外观、同样的材质、同样的颜色、同样的场景和同样的光线风格。产品不能变形，结构不能改变。
 
 【严格避免】
-不要复制杯子，不要出现第二个杯子，不要扭曲玻璃，不要变形冰块，不要液体闪烁，不要背景突变，不要镜头跳切，不要文字，不要水印，不要logo。
+不要复制产品，不要变形，不要文字，不要logo，不要水印，不要卡通，不要动漫风，不要背景突变，不要镜头跳切，【3-5 industry-specific anti-patterns】。
 
 
 ═══════════════════════════════════════════════════════════
-GHI CHÚ
+PROMPT 2 — SNEAKER HIGH-END (✅ TESTED — xem Risk Matrix cuối file)
 ═══════════════════════════════════════════════════════════
 
-1. Tại sao tiếng Trung?
-   Day 19-20 đã verify Seedance 2.0-Omni cho output ổn định với prompt
-   tiếng Trung. Mình giữ pattern này cho Tuần 4 commercial.
-   Khi đến Day 25, mình sẽ test thêm với product shot 9:16 để verify
-   ratio dọc có work không.
+Industry: Fashion / Sports
+Risk: 🔴 HIGH (branded products bias)
+Cost: 36,000 VND
 
-2. Tại sao 10 section thay vì 8 (Day 19-20)?
-   Commercial product shot có nhu cầu khác xianxia/comedy:
-   - Tách 【风格】 riêng → style descriptor cụ thể hơn
-   - 【连续性要求】 mới → chống Seedance morph sản phẩm giữa các frame
-     (đặc biệt quan trọng với liquid, glass, ice — dễ bị warp)
-   - Lighting có warning cụ thể (不要过曝，不要过度橙黄) →
-     Seedance hay over-saturate warm light, warning sẽ pull back
+高端运动鞋产品广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实商业广告风格。
 
-3. Tại sao 【动作时间线】 thay vì 【动作】?
-   Action narrative thường chỉ cần 1 mô tả tổng. Product hero shot cần
-   pacing rõ ràng vì static-ish — nếu không breakdown phase, Seedance
-   có thể render lurch ở đầu hoặc tự "bịa" motion. Breakdown 3 phase
-   (setup / main / ending) giúp model hiểu rhythm.
+【主体】
+单一高端运动鞋产品，一双现代感强的运动鞋，鞋面材质高级，细节清晰，鞋底结构有层次感，整体配色干净时尚。始终保持同一双鞋，不要改变款式、颜色和结构。
 
-4. Section 【严格避免】 đặc thù commercial:
-   So với Day 19-20 thêm:
-   - 不要文字 (không text)
-   - 不要水印 (không watermark)
-   - 不要logo (không logo)
-   Vì product shot dễ bị Seedance tự render watermark/brand sai.
+【场景】
+高级极简摄影棚与都市生活场景结合。前半段在黑灰色高级摄影棚，地面轻微反光；后半段过渡到现代都市街头或干净建筑空间，突出时尚感与实穿感。整体氛围高级、干净、年轻、动感。
 
-5. Tại sao 15s?
-   15s là duration chuẩn của Seedance — đủ để show full pacing, camera
-   movement và continuity quality thật sự của model. Cắt xuống ngắn hơn
-   để tiết kiệm credit là sai mindset cho bài học: học viên cần thấy
-   full capability của model, không phải bản rút gọn.
-   
-   Phases 3-phase trong template scale theo duration:
-   - 15s: 0-3s / 3-10s / 10-15s (default Day 22)
-   - 10s: 0-2s / 2-7s / 7-10s
-   - 8s: 0-2s / 2-5s / 5-8s
+【动作与镜头时间线】
+0–3秒：
+Hook 开场。极近景 macro shot，从鞋底纹理、鞋侧线条、鞋带细节开始，快速但平滑地切换3个高质感细节镜头：
+1）镜头掠过鞋底纹理，突出抓地力与结构；
+2）镜头滑过鞋面材质与缝线，突出做工；
+3）镜头快速推近鞋侧 logo 区域或鞋身流线。
+最后以一道光线扫过整双鞋，形成强烈视觉抓力。前3秒必须高级、干净、吸睛。
 
-6. Generate 2-3 lần nếu cần:
-   Cost 1 lần 36,000 VND. Nếu lần 1 lỗi nặng (ly méo, đá vỡ kỳ lạ),
-   gen lại lần 2. Đừng cố "cứu" clip lỗi bằng edit.
+3–6秒：
+镜头拉开到 3/4 角度，完整展示单只鞋站立在摄影棚中央。摄影机缓慢环绕鞋子移动，展示鞋头、鞋侧、鞋跟和鞋底轮廓。灯光扫过鞋面，金属感或织物质感清晰可见。
 
-7. Adapt cho sản phẩm khác:
-   Dùng PROMPT 1 (template) và fill vào ngoặc vuông cho sản phẩm
-   của các bạn. Mỗi section điền chi tiết, đừng để trống.
+6–9秒：
+低角度 hero shot，镜头从鞋前方向上微微推进，鞋子显得更有力量感和设计感。可以加入轻微悬浮展示或鞋子缓慢旋转，但动作必须稳定自然，不要夸张。通过鞋身边缘遮挡完成自然转场。
 
-   Đặc biệt chú ý:
-   - 【动作时间线】 phải có 3 phase rõ ràng, time cộng đúng tổng duration
-   - 【连续性要求】 phải list cụ thể những gì cần giữ nhất quán
-   - 【严格避免】 phải list lỗi đặc thù sản phẩm
-     (vd: vải/quần áo → "不要变形布料"; mỹ phẩm → "不要液体溢出")
+9–12秒：
+自然过渡到穿着场景：同一双鞋穿在模特脚上，模特走在现代都市街头或极简建筑空间。镜头包括：
+- 低机位跟拍脚步前进
+- 侧面 tracking shot 展示鞋子与步伐
+- 脚步落地瞬间的近景
+突出鞋子的上脚效果、舒适感与时尚感。动作自然流畅，不要跳切。
+
+12–15秒：
+最后进入产品 hero ending。镜头回到产品主画面，一双鞋干净地摆放在高级背景中，摄影机轻微慢推近，光线在鞋面和鞋底边缘形成漂亮高光，最后定格在完整清晰的产品广告结尾画面，质感高级。
+
+【转场要求】
+所有镜头通过光线扫过、镜头滑动、鞋身遮挡、match cut、脚步动作衔接来完成自然平滑转场。不要硬切，不要闪烁，不要突然变背景。
+
+【镜头】
+16:9横屏，macro close-up、3/4 product shot、low-angle hero shot、tracking shot、on-foot walking shot 结合使用。镜头运动包括缓慢推进、平滑环绕、低角度推近、跟拍移动。画面稳定、流畅、专业。
+
+【光线】
+前半段摄影棚使用高级定向灯光，突出鞋面材质、鞋底结构和边缘高光；后半段都市场景使用自然日光或柔和商业时尚光。整体光线高级、干净、真实，不要过曝，不要过度炫光。
+
+【风格】
+真实写实商业广告风格，时尚运动品牌视觉，年轻、高级、都市感、电影感。画面干净，浅景深，产品质感强，像专业鞋类品牌广告。
+
+【声音】
+轻微脚步声、鞋底落地声、安静空间环境音、轻微空气感。无对白，无旁白，无背景音乐。
+
+【连续性要求】
+始终保持同一双鞋、同样的配色、同样的材质、同样的结构细节。穿着镜头中的鞋必须与产品展示镜头完全一致。场景变化要自然，光线风格统一，画面不能闪烁。
+
+【严格避免】
+不要复制鞋子，不要出现多双不同鞋，不要鞋子变形，不要鞋底结构乱变，不要人物肢体变形，不要背景突变，不要闪烁，不要镜头跳切，不要文字，不要logo，不要水印，不要卡通，不要动漫风，不要廉价电商感。
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 3 — CÀ PHÊ SỮA ĐÁ (✅ TESTED — LOW risk validation)
+═══════════════════════════════════════════════════════════
+
+Industry: F&B (Vietnamese iced coffee)
+Risk: 🟢 LOW (generic F&B, không branded)
+Test result: ✅ PASS (minor content evolution issue)
+Cost: 36,000 VND
+File: day-22-test-coffee-product-15s.mp4
+
+Test findings:
+- ✅ NO brand logo
+- ✅ NO text bịa
+- ✅ Single product consistent (1 ly cố định)
+- ✅ Hand looks natural, fingers proper
+- ⚠️ Minor: Liquid evolve (foam → milk coffee → đen đá foam)
+- 💡 Insight: Liquid products cần lock state cụ thể bằng
+  "已经混合好的" (already mixed) thay vì để model interpret mixing
+
+越南冰咖啡产品广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实商业广告风格。
+
+【主体】
+单一透明玻璃杯装越南冰咖啡，杯中有清晰冰块，深棕色咖啡与奶层自然融合，杯壁有凝结水珠，质感真实清爽。始终保持同一个玻璃杯，不要复制杯子，不要改变杯子形状。
+
+【场景】
+温暖的西贡现代咖啡馆，木质桌面与木质柜台，背景有柔焦琥珀色吊灯、咖啡机、绿植和晨光窗户。整体氛围温暖、自然、干净、商业感高级。
+
+【动作与镜头时间线】
+0–3秒：
+Hook 开场。连续3个极近景镜头快速但平滑衔接：
+1）冰块特写，冰块在咖啡中轻微闪光；
+2）杯壁凝结水珠特写，水珠慢慢滑下玻璃；
+3）深棕咖啡与奶层交融特写，形成漂亮流动纹理。
+前3秒必须让人立刻想喝，清爽、有食欲、高级。
+
+3–6秒：
+镜头拉开到中近景，完整展示一杯越南冰咖啡放在木质桌面中央。右侧温暖晨光照在杯子上，玻璃边缘出现自然高光，背景咖啡馆柔焦。
+
+6–9秒：
+镜头慢慢推进，咖啡表面轻微晃动，冰块轻轻碰撞，杯壁水珠继续下滑。画面稳定，产品保持居中，突出冰凉感和咖啡质感。
+
+9–12秒：
+一只自然的手从画面边缘轻轻拿起玻璃杯，动作缓慢真实，杯子没有变形，冰块轻微移动。通过杯子靠近镜头形成自然转场。
+
+12–15秒：
+最终 hero shot。玻璃杯被轻轻放回木桌中央，镜头慢推近，冰块、咖啡色泽、水珠和晨光高光清晰可见。最后定格在一杯完整越南冰咖啡的高级商业广告画面。
+
+【转场要求】
+所有转场通过水珠滑落、冰块反光、镜头推进、手部拿杯、杯子靠近镜头完成自然衔接。不要硬切，不要闪烁，不要突然换背景。
+
+【镜头】
+16:9横屏，macro close-up、中近景产品镜头、手部动作镜头、hero shot 结合。镜头运动包括缓慢推进、轻微滑动、焦点转移。画面稳定，无手持抖动。
+
+【光线】
+右侧温暖金色晨光，背景琥珀色吊灯柔焦，玻璃、冰块和咖啡液面有真实反射。光线温暖但不要过度橙黄，不要过曝。
+
+【风格】
+真实越南咖啡店商业广告风格，温暖晨光，清爽冰感，高级饮品广告，生活感自然，画面干净，浅景深。
+
+【声音】
+自然声音：轻微冰块碰撞声、杯子接触木桌的轻响、安静咖啡馆环境音。无对白，无旁白，无背景音乐。
+
+【连续性要求】
+始终保持同一个玻璃杯、同样的咖啡颜色、同样的冰块形态、同样的木桌、同样的咖啡馆背景和同样的晨光氛围。
+
+【严格避免】
+不要复制杯子，不要出现第二个杯子，不要扭曲玻璃，不要变形冰块，不要液体闪烁，不要背景突变，不要镜头跳切，不要文字，不要logo，不要水印，不要人物脸部特写，不要卡通，不要动漫风。
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 4 — SERUM DƯỠNG DA (✅ TESTED — LOW risk validation)
+═══════════════════════════════════════════════════════════
+
+Industry: Beauty / Skincare (generic, no brand)
+Risk: 🟢 LOW (chai nondescript, no logo)
+Test result: ✅ EXCELLENT (no violations)
+Cost: 36,000 VND
+File: day-22-test-serum-product-15s.mp4
+
+Test findings:
+- ✅ NO brand logo
+- ✅ NO text bịa
+- ✅ Bookend structure perfect (Phase 1 ↔ Phase 5 same scene)
+- ✅ Skin texture natural (không 塑料质感, không 过度磨皮)
+- ✅ Drop landing on glass dish: ripple effect đẹp
+- 💡 Insight: Industry-specific anti-patterns trong 【严格避免】
+  ACTUALLY WORK cho LOW risk categories
+
+高端护肤精华液产品广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实美容商业广告风格。
+
+【主体】
+单一透明玻璃精华液瓶，瓶身简洁无文字无logo，内含清透微金色精华液，搭配玻璃滴管。产品质感高级、干净、通透，突出水润、轻盈、细腻的护肤感觉。始终保持同一瓶精华液，不要改变瓶身形状。
+
+【场景】
+高级简约浴室或护肤梳妆台场景，米白色背景，浅色石材台面，小绿植、柔软毛巾、自然晨光。整体氛围干净、温柔、高级、可信赖。
+
+【动作与镜头时间线】
+0–3秒：
+Hook 开场。连续3个极近景高质感镜头平滑衔接：
+1）玻璃瓶表面高光特写，光线扫过瓶身；
+2）滴管吸起精华液，液体在玻璃管内缓慢流动；
+3）一滴精华液从滴管尖端形成圆润水滴，即将滴落。
+前3秒必须高级、干净、抓眼，让人感受到水润质感。
+
+3–6秒：
+镜头拉开到产品 3/4 角度，精华液瓶放在浅色石材台面中央，背景柔焦。晨光从右侧进入，瓶身透明反射自然细腻。
+
+6–9秒：
+滴管慢慢将一滴精华液滴在手背或干净的玻璃小碟上。液体缓慢铺开，质地清透轻盈，有细腻光泽。动作真实，不要夸张，不要变成油腻质感。
+
+9–12秒：
+镜头切换到使用感细节：手指轻轻推开精华液，液体在皮肤表面形成薄薄水润光泽。只展示局部手部或脸颊边缘，不做夸张美容效果。通过手部遮挡自然转场。
+
+12–15秒：
+最终 hero shot。精华液瓶稳定放在台面中央，滴管靠在瓶口旁边，背景浅景深，晨光形成柔和高光。镜头轻微慢推，最后定格在干净高级的护肤产品广告画面。
+
+【转场要求】
+所有镜头通过光线扫过、滴管动作、液体滴落、手部遮挡、焦点转移完成自然转场。不要硬切，不要闪烁，不要突然换背景。
+
+【镜头】
+16:9横屏，macro close-up、3/4 product shot、texture shot、hero shot 结合。镜头运动包括缓慢推进、轻微滑动、焦点转移。画面稳定、干净、专业。
+
+【光线】
+柔和自然晨光从右侧进入，配合白色柔光反射，突出玻璃瓶、透明液体和皮肤表面的真实光泽。不要过曝，不要过度磨皮，不要塑料质感。
+
+【风格】
+真实高端护肤品商业广告，干净、温柔、可信赖、轻奢美容风格。画面浅景深，色调米白、浅金、自然肤色，质感清透。
+
+【声音】
+自然声音：玻璃滴管轻微碰撞声、精华液滴落的细微声音、安静室内环境音。无对白，无旁白，无背景音乐。
+
+【连续性要求】
+始终保持同一瓶精华液、同样的玻璃瓶形状、同样的液体颜色、同样的护肤台面、同样的晨光和同样的高级干净风格。
+
+【严格避免】
+不要复制瓶子，不要出现多个不同产品，不要瓶身变形，不要文字，不要logo，不要水印，不要夸张美白效果，不要医学治疗暗示，不要皮肤变形，不要手指变形，不要过度磨皮，不要卡通，不要动漫风，不要背景突变，不要镜头跳切。
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 5 — BÁNH MÌ SÀI GÒN (✅ TESTED — LOW risk validation)
+═══════════════════════════════════════════════════════════
+
+Industry: Street Food (Vietnamese bánh mì)
+Risk: 🟢 LOW (generic Vietnamese street food)
+Test result: ✅ EXCELLENT (no violations)
+Cost: 36,000 VND
+File: day-22-test-banhmi-product-15s.mp4
+
+Test findings:
+- ✅ NO brand logo
+- ✅ NO text bịa
+- ✅ Street stall atmosphere authentic (motorbikes, shophouses)
+- ✅ Food NOT over-greasy, NOT over-saturated, NOT messy
+  (3 food anti-patterns đặc thù đều work)
+- ✅ Hands natural, ingredient layers clear
+- 💡 Insight: Seedance "auto-generate" multi-environment
+  (kitchen prep → street stall serving) dù prompt chỉ ghi 1 environment.
+  Creative interpretation feature — đôi khi tốt, đôi khi noise.
+
+西贡越南法棍面包街头美食广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实街头美食商业广告风格。
+
+【主体】
+一个新鲜西贡越南法棍面包，外壳金黄酥脆，内部夹有烤肉、火腿、黄瓜、香菜、腌萝卜、辣椒和酱汁。面包质感真实诱人，食材新鲜清晰。始终保持同一个主面包，不要变形，不要复制。
+
+【场景】
+西贡街头早餐摊，温暖晨光，简单不锈钢小摊车，木质或金属操作台，背景有柔焦摩托车、街边树影、路人经过。氛围热闹但干净，真实越南街头生活感。
+
+【动作与镜头时间线】
+0–3秒：
+Hook 开场。连续3个高食欲近景镜头快速平滑衔接：
+1）烤热法棍表皮特写，金黄酥脆，轻微裂纹清晰；
+2）刀切开面包时外壳发出酥脆感觉，面包屑轻轻掉落；
+3）酱汁从勺子上缓慢淋入面包内部，食材色彩立刻变得诱人。
+前3秒必须有强烈食欲感，让人想马上吃。
+
+3–6秒：
+镜头切到摊主双手快速但干净地夹入烤肉、火腿、黄瓜、香菜、腌萝卜。动作自然流畅，食材层次清楚，画面真实，不要夸张飞溅。
+
+6–9秒：
+低角度近景，完整展示正在装满食材的 bánh mì。镜头沿着面包侧面缓慢滑动，突出酥脆外壳、丰富内馅、酱汁光泽和新鲜香菜。
+
+9–12秒：
+摊主用纸袋或白色食品纸轻轻包住 bánh mì，递向镜头。背景西贡街头柔焦，摩托车经过，晨光照在面包边缘。通过面包靠近镜头形成自然转场。
+
+12–15秒：
+最终 hero shot。一个完整 bánh mì 放在干净的桌面或小托盘上，旁边有少量香菜、黄瓜和辣椒作为点缀。镜头轻微慢推，面包占据画面中心，外壳金黄、内馅饱满，最后定格成高级街头美食广告结尾。
+
+【转场要求】
+所有转场通过刀切动作、酱汁淋下、手部装料、面包靠近镜头、焦点转移完成自然衔接。不要硬切，不要闪烁，不要突然换背景。
+
+【镜头】
+16:9横屏，macro food close-up、手部制作镜头、低角度美食镜头、递给镜头的动作镜头、hero shot 结合。镜头运动包括缓慢推进、横向滑动、低角度推近、焦点转移。画面稳定、真实、有食欲。
+
+【光线】
+温暖自然晨光，轻微金色高光照在面包表皮和食材上。阴影柔和，色彩自然，不要过度饱和，不要假亮，不要廉价滤镜感。
+
+【风格】
+真实越南街头美食商业广告，西贡早餐氛围，亲切、热闹、干净、有食欲。高级但不失街头烟火气，浅景深，真实质感。
+
+【声音】
+自然声音：刀切面包的酥脆声、夹食材的轻微声音、纸袋摩擦声、远处摩托车和街头环境音。无对白，无旁白，无背景音乐。
+
+【连续性要求】
+始终保持同一个 bánh mì，同样的面包外形、同样的食材层次、同样的摊位环境、同样的晨光氛围。制作过程中面包不能突然变大、变小或改变结构。
+
+【严格避免】
+不要复制面包，不要出现多个主面包，不要食材变形，不要手指变形，不要画面脏乱，不要背景突变，不要镜头跳切，不要文字，不要logo，不要水印，不要卡通，不要动漫风，不要过度油腻，不要颜色过饱和。
+
+
+═══════════════════════════════════════════════════════════
+KẾT QUẢ TEST SNEAKER (PROMPT 2) — 1 lần generate
+═══════════════════════════════════════════════════════════
+
+✅ NHỮNG GÌ WORK:
+- 5 phase camera language structure render distinct
+- Phase 1: 3 sub-shots macro + light wipe smooth
+- Phase 2: Medium 3/4 + line lights studio premium
+- Phase 3: Low-angle hero + levitation effect (giày bay) work
+- Phase 4: Multi-environment transition studio → urban street SMOOTH
+- Phase 5: Return to studio hero ending (slight delay 1s)
+- Transitions: Light wipe + focus shift + match cut, KHÔNG hard cut
+
+⚠️ NHỮNG GÌ FAIL (chỉ với branded products):
+1. Logo brand thật render rõ — NEW BALANCE và ASICS xuất hiện
+   dù 【严格避免】 ghi "不要logo"
+2. Brand switching giữa các phase (NB → ASICS → NB → ASICS)
+3. Frame cuối: 2 chiếc giày khác brand cùng frame
+4. Text bịa "BIOTOR" trên đế giày dù "不要文字"
+
+LÝ DO:
+Training bias — Seedance trained trên data brand thật (Nike/NB/Asics).
+Constraint prompt KHÔNG đủ mạnh để override training bias.
+
+
+═══════════════════════════════════════════════════════════
+INSIGHT #1 TUẦN 4 — RISK MATRIX SEEDANCE (4 data points confirmed)
+═══════════════════════════════════════════════════════════
+
+| Sản phẩm                          | Risk | Test result | Recommend       |
+|-----------------------------------|------|-------------|-----------------|
+| Cà phê sữa đá (F&B liquid)        | LOW  | ✅ PASS     | ✅ Safe text-to-video |
+| Serum dưỡng da (Beauty generic)   | LOW  | ✅ EXCELLENT| ✅ Safe text-to-video |
+| Bánh mì Sài Gòn (Street food)     | LOW  | ✅ EXCELLENT| ✅ Safe text-to-video |
+| Sneaker (Fashion branded)         | HIGH | ❌ FAIL     | ❌ Cần image-to-video |
+| Electronics (phone, laptop)       | HIGH | (untested)  | ❌ Predict fail |
+| Xe hơi                            | HIGH | (untested)  | ❌ Predict fail |
+
+QUY TẮC TUẦN 4-5 (từ data thực):
+1. Generic products (LOW risk): text-to-video work 90%+, 1 lần generate
+   ra clean output
+2. Branded products (HIGH risk): text-to-video sẽ violate constraints,
+   cần image-to-video với reference ảnh sản phẩm thật (Day 25-26)
+3. Liquid products: lock state cụ thể bằng "稳定融合状态" hoặc
+   "已经混合好的" — không để model interpret mixing process
+
+
+═══════════════════════════════════════════════════════════
+INSIGHT #2 TUẦN 4 — LIQUID STATE LOCK (từ coffee test)
+═══════════════════════════════════════════════════════════
+
+Liquid products có MULTIPLE STATE (vd cà phê + sữa: đang pha vs đã pha).
+Nếu prompt không specify rõ state, Seedance sẽ render "process" thay vì
+"end state" — sản phẩm sẽ "transform" giữa các phase.
+
+Coffee test phase analysis:
+- Phase 1 (1.5s): cà phê + sữa foam top (mixing in progress)
+- Phase 2 (4.5s): đậm với sữa drip patterns (mixing)
+- Phase 3 (7.5s): completely uniform brown (mixed)
+- Phase 4 (10.5s): foam top + brown body (re-mixing??)
+- Phase 5 (14s): dark espresso + foam (different product!!)
+
+→ 5 phase = 5 different "moments" of mixing process. Sản phẩm cuối khác
+sản phẩm đầu.
+
+FIX trong prompt: thêm vào 【主体】:
+"已经完全混合好的稳定状态的越南冰咖啡" (cà phê sữa đá đã hoàn toàn
+trộn xong ở trạng thái ổn định) — không cho model interpret mixing process.
+
+Applies to: cà phê pha sữa, smoothie, cocktail, juice trộn, sốt, etc.
+
+
+═══════════════════════════════════════════════════════════
+INSIGHT #3 TUẦN 4 — AUTO MULTI-ENV (từ bánh mì test)
+═══════════════════════════════════════════════════════════
+
+Seedance có thể "creative interpretation" — auto-generate
+multi-environment dù prompt chỉ ghi 1 environment.
+
+Bánh mì test: prompt chỉ ghi "西贡街头早餐摊" (Sài Gòn street stall),
+output tự generate Phase 1 trong kitchen prep → Phase 3-5 trong street.
+
+Implications:
+- Đôi khi tốt (thêm dynamic range, narrative flow tự nhiên)
+- Đôi khi noise (model deviate prompt, không lock single env như yêu cầu)
+
+CONTROL trong prompt:
+- Nếu muốn auto multi-env (tốt cho narrative): để 【场景】 mở
+- Nếu muốn lock single env: thêm "整个视频保持在同一个场景中"
+  (cả video giữ trong cùng 1 environment) vào 【连续性要求】
+
+
+═══════════════════════════════════════════════════════════
+GHI CHÚ ADAPT TEMPLATE
+═══════════════════════════════════════════════════════════
+
+1. 6 decisions cần làm khi adapt (chi tiết trong day-22.md Phần 6.4):
+   - Positioning (premium/mass/street)
+   - Single hay multi-environment scene
+   - Phase 1: 3 macro details là gì
+   - Phase 4: human interaction kiểu nào (wearable/drinkable/applicable/transactional)
+   - Industry anti-patterns
+   - Product motion transitions
+
+2. Universal anti-patterns (8 lỗi cấm trong mọi prompt):
+   不要复制 / 不要变形 / 不要文字 / 不要logo / 不要水印 /
+   不要卡通 / 不要动漫风 / 不要背景突变 / 不要镜头跳切
+
+3. Industry-specific anti-patterns:
+   - Fashion sneaker: 不要廉价电商感
+   - F&B liquid: 不要液体闪烁, 不要人物脸部特写
+   - Beauty: 不要医学治疗暗示, 不要过度磨皮, 不要塑料质感
+   - Food: 不要过度油腻, 不要颜色过饱和, 不要画面脏乱
+
+4. Generate 2-3 lần nếu cần:
+   Cost 1 lần 36,000 VND. Nếu lần 1 lỗi nặng, gen lại lần 2.
+   Đừng cố "cứu" clip lỗi bằng edit.
+
+5. Test trước khi commit:
+   Trước khi adapt template cho client thật, test 1 lần với prompt
+   của các bạn để biết Seedance có render ổn không với sản phẩm cụ thể.
 
 ═══════════════════════════════════════════════════════════
