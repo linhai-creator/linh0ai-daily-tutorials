@@ -211,9 +211,8 @@ Tổng cost test: 4 × 36,000 = **144,000 VND**.
 
 Mình chọn sneaker làm demo chính vì đây là **failure mode case study** — show được limitations quan trọng của Seedance.
 
-[![Sneaker test thumbnail](../assets/images/day-22-test-shoe-product-thumbnail.jpg)](../assets/videos/day-22-test-shoe-product-15s.mp4)
-
-📹 **Video:** [day-22-test-shoe-product-15s.mp4](../assets/videos/day-22-test-shoe-product-15s.mp4) (15s, 720p, 16:9)
+[![Sneaker test - HIGH risk branded product failure case](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-22-test-shoe-product-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-22-test-shoe-product-15s.mp4)
+> 👆 Click thumbnail để xem video MP4 (15s, 9.6MB) — **HIGH risk demo**
 
 **Kết quả 5 phase camera language:**
 
@@ -240,11 +239,10 @@ Mình chọn sneaker làm demo chính vì đây là **failure mode case study** 
 
 Để verify Risk Matrix, mình test thêm 3 prompts với generic products (no brand, no real-world identity):
 
-**Test Coffee (cà phê sữa đá — F&B liquid)**
+#### 🎬 Test Coffee — Cà phê sữa đá (F&B liquid)
 
-[![Coffee test thumbnail](../assets/images/day-22-test-coffee-product-thumbnail.jpg)](../assets/videos/day-22-test-coffee-product-15s.mp4)
-
-📹 [day-22-test-coffee-product-15s.mp4](../assets/videos/day-22-test-coffee-product-15s.mp4)
+[![Coffee test - LOW risk F&B liquid product](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-22-test-coffee-product-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-22-test-coffee-product-15s.mp4)
+> 👆 Click thumbnail để xem video MP4 (15s, 4.3MB) — **LOW risk PASS**
 
 - ✅ NO brand logo
 - ✅ NO text bịa
@@ -253,11 +251,10 @@ Mình chọn sneaker làm demo chính vì đây là **failure mode case study** 
 - ⚠️ Minor: Liquid content evolve giữa các phase (foam/milk coffee/đen đá foam — sản phẩm "transform" trong 15s)
 - 💡 Insight mới: Liquid products có multiple state cần lock state cụ thể bằng "已经混合好的" (already mixed) thay vì để model interpret
 
-**Test Serum (serum dưỡng da — Beauty)**
+#### 🎬 Test Serum — Serum dưỡng da (Beauty)
 
-[![Serum test thumbnail](../assets/images/day-22-test-serum-product-thumbnail.jpg)](../assets/videos/day-22-test-serum-product-15s.mp4)
-
-📹 [day-22-test-serum-product-15s.mp4](../assets/videos/day-22-test-serum-product-15s.mp4)
+[![Serum test - LOW risk Beauty product](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-22-test-serum-product-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-22-test-serum-product-15s.mp4)
+> 👆 Click thumbnail để xem video MP4 (15s, 4.3MB) — **LOW risk EXCELLENT**
 
 - ✅ NO brand logo
 - ✅ NO text bịa
@@ -266,11 +263,10 @@ Mình chọn sneaker làm demo chính vì đây là **failure mode case study** 
 - ✅ Drop landing on glass dish: ripple effect đẹp
 - 💡 Insight: Industry-specific anti-patterns trong 【严格避免】 ACTUALLY WORK cho LOW risk categories
 
-**Test Bánh mì (bánh mì Sài Gòn — Street Food)**
+#### 🎬 Test Bánh mì — Bánh mì Sài Gòn (Street Food)
 
-[![Banh mi test thumbnail](../assets/images/day-22-test-banhmi-product-thumbnail.jpg)](../assets/videos/day-22-test-banhmi-product-15s.mp4)
-
-📹 [day-22-test-banhmi-product-15s.mp4](../assets/videos/day-22-test-banhmi-product-15s.mp4)
+[![Banh mi test - LOW risk Street Food product](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-22-test-banhmi-product-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-22-test-banhmi-product-15s.mp4)
+> 👆 Click thumbnail để xem video MP4 (15s, 5.0MB) — **LOW risk EXCELLENT**
 
 - ✅ NO brand logo
 - ✅ NO text bịa
