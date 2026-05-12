@@ -1,6 +1,6 @@
-# Day 23 — Shot List Sản xuất
+# Day 23 — 5 Craft Knowledge cho Ad AI 15s
 
-> Tuần 4 Day 2. Sau khi có brief + kịch bản 15s từ Day 22, bài này tách kịch bản thành shot list chi tiết — biến planning thành production blueprint. Bài này cũng quyết định approach: 1 clip Seedance 15s (như Day 22 demo) hay multi-shot 3-5 clips ghép trong CapCut.
+> Tuần 4 Day 2. Day 22 dạy planning side (brief + kịch bản + prompt structure). Day 23 deep dive vào 5 yếu tố **craft** quyết định 1 ad commercial AI có viral và convert không — những thứ prompt Seedance không cover được nhưng quyết định success của ad.
 
 ---
 
@@ -8,289 +8,515 @@
 
 Sau bài này, các bạn sẽ:
 
-- Hiểu 2 approaches cho 1 ad 15s: single-clip vs multi-shot
-- Biết khi nào chọn approach nào (decision tree concrete)
-- Tách kịch bản 15s thành shot list 3-5 shots
-- Áp dụng Risk Matrix Day 22 để chọn model phù hợp cho từng shot
-- Có asset checklist + risk checklist sẵn sàng cho Day 24
+- Master 5 hook patterns viral cho 3 giây đầu — nơi quyết định người xem ở lại hay scroll
+- Master 4 CTA design strategies cho 2 giây cuối — nơi quyết định conversion
+- Hiểu sound workflow 3 layers (BGM + Voice Over + SFX) trong CapCut sau Seedance
+- Hiểu text overlay rules — typography + timing + position cho mobile
+- Quyết aspect ratio cho 5 platforms VN (TikTok/Reels/YouTube/Instagram)
 
 ## Output cuối bài
 
-- 1 quyết định approach (single-clip hoặc multi-shot)
-- Nếu multi-shot: 1 shot list 3-5 shots với 2 bảng Planning + Execution
-- 1 bảng chọn model theo shot type
-- 1 asset checklist 6 nhóm
-- 1 risk checklist với mitigation rõ ràng
-
-## Cost dự kiến
-
-| Item | Cost |
-|------|------|
-| Planning thuần | 0 VND |
-| **Tổng Day 23** | **0 VND** |
-
-→ Day 23 không generate. Toàn bộ planning work để Day 24-26 (storyboard + Seedance + edit) hiệu quả, ít re-gen lãng phí credit.
+- 1 hook design + lý do cho brief Day 22 của mình
+- 1 CTA design với placement spec
+- 1 audio workflow plan (3 layers + volume levels)
+- 1 text overlay timeline + typography choice
+- 1 multi-platform ratio strategy
+- (Optional) 1 final edited ad — turn 1 clip Seedance Day 22 thành ad complete
 
 ---
 
-## Phần 1 — Vì sao cần shot list?
+## Phần 1 — Hook Design: 5 Patterns Viral cho 3 Giây Đầu
 
-Day 22 mình có brief + kịch bản 15s với 5 timecodes — Hook, Product, Benefit, Emotion, CTA. Đây là **high-level outline** cho audience experience, không phải production blueprint.
+3 giây đầu là **cửa ngõ duy nhất** của ad. Audience TikTok scroll trung bình 1.7 giây mỗi video — nếu hook không grab trong 3s, ad fail dù phần sau đẹp đến mấy.
 
-Nếu cầm kịch bản đó đi generate luôn, sẽ gặp 5 vấn đề:
+Mình note 5 patterns hook đã verified viral cho commercial AI ad:
 
-1. **Không quyết định trước approach** — 1 clip 15s hay multi-shot? Quyết sai = lãng phí credit
-2. **Tiêu credit lãng phí** — không identify risk trước, re-gen nhiều lần
-3. **Asset scramble** — đến shot cuối mới phát hiện cần logo PNG mà chưa có
-4. **Model mismatch** — dùng Seedance text-to-video cho branded product (HIGH risk theo Risk Matrix Day 22) → fail predictable
-5. **Edit chỉnh sửa muộn** — quay lại sửa shot 2 sau khi shot 5 đã render xong = lãng phí credit + thời gian
+### Pattern 1: Question Hook
 
-Shot list giải quyết 5 vấn đề này bằng cách **plan trước mọi technical decision** trước khi tiêu credit đầu tiên.
+Đặt câu hỏi audience đang quan tâm. Câu hỏi tốt audience tự trả lời "đúng vậy" trong đầu → tạo connection.
 
----
+| Sản phẩm | Question hook |
+|----------|---------------|
+| Cà phê | "Sáng nay cần tỉnh táo?" |
+| Serum | "Da khô bong tróc mãi không hết?" |
+| Bánh mì | "Đói trưa nay không biết ăn gì?" |
+| Sneaker | "Muốn 1 đôi vừa chạy bộ vừa style?" |
 
-## Phần 2 — 2 approaches cho ad 15s
+**Rules:**
+- Câu hỏi yes/no audience trả lời "đúng" được
+- Address pain point cụ thể
+- Tối đa 8-10 từ tiếng Việt (đọc kịp trong 3s)
 
-Trước khi viết shot list, mình quyết approach. Day 22 đã verify cả 2 approaches work, mỗi cái có trade-off riêng.
+### Pattern 2: Contrast Hook
 
-### Approach A — Single clip Seedance 15s
+Show 2 trạng thái khác nhau immediate. Visual tension grab attention.
 
-1 clip duy nhất render full 5 phases internal (như 4 tests Day 22).
+| Loại contrast | Example |
+|---------------|---------|
+| Before/After | Da khô (1.5s) → da căng mịn (1.5s) |
+| Big vs Small | Đôi giày tí hon (close-up) → bay vào không gian rộng |
+| Old vs New | Sản phẩm cũ vs mới của bạn |
+| Empty vs Full | Ổ bánh mì trống → đầy thịt |
 
-| Aspect | Detail |
-|--------|--------|
-| Số clips Seedance | 1 |
-| Duration mỗi clip | 15s |
-| Cost generate | 36,000 VND |
-| Edit phase | Minimal — chỉ add logo/text overlay + audio |
-| Risk | Cao nếu clip fail → re-gen full 36K |
-| Flexibility | Thấp — không thể thay 1 phase lẻ |
+**Rules:**
+- 2 visual states trong 3 giây
+- Transition phải clear (cut hoặc fast morph)
+- State 2 phải tied with product
 
-**Khi nào dùng:**
-- Sản phẩm generic LOW risk (cà phê, serum, bánh mì — Day 22 đã verify)
-- Budget tight (1 lần generate là xong)
-- Ad đơn giản, không cần camera variety phức tạp
+### Pattern 3: Surprise Hook
 
-### Approach B — Multi-shot 3-5 clips × 3-5s
+Unexpected visual hoặc motion. Pattern interrupt — não audience phải dừng để hiểu.
 
-Ghép nhiều clips ngắn trong CapCut. Mỗi clip = 1 shot riêng biệt.
+| Sản phẩm | Surprise hook |
+|----------|---------------|
+| Cà phê | Giọt nước slow-mo rơi xuống mặt cà phê tạo crown splash |
+| Serum | Giọt serum form droplet và rơi vào slow-motion |
+| Bánh mì | Bánh mì bị cắt, vụn rơi xuống bàn bay slow-mo |
+| Sneaker | Giày bay levitate trong không gian (Day 22 sneaker test) |
 
-| Aspect | Detail |
-|--------|--------|
-| Số clips Seedance | 3-5 |
-| Duration mỗi clip | 3-5s |
-| Cost generate | ~36-50K VND (tùy duration min Seedance) |
-| Edit phase | Phức tạp hơn — ghép transitions + audio sync |
-| Risk | Thấp — 1 clip fail chỉ re-gen 1 clip (~7-12K) |
-| Flexibility | Cao — đổi 1 phase mà không ảnh hưởng phase khác |
+**Rules:**
+- Slow motion (40-60% speed) cho dramatic effect
+- High contrast lighting để emphasize
+- 1 surprise duy nhất, không nhồi 2-3
 
-**Khi nào dùng:**
-- Branded products (HIGH risk) — cần image-to-video với reference từng shot
-- Ad cần camera variety phức tạp (macro + medium + tracking + hero không fit 1 prompt)
-- Khi có budget buffer để re-gen
-- Khi cần A/B test từng shot
+### Pattern 4: Pain Point Hook
 
-### Decision tree
+Direct address audience pain bằng câu/visual immediate.
+
+| Sản phẩm | Pain hook |
+|----------|-----------|
+| Cà phê | "Buồn ngủ giờ làm việc?" |
+| Serum | "Makeup không lên da khô?" |
+| Bánh mì | "Cơm văn phòng chán?" |
+| Sneaker | "Giày chạy bộ xấu mặc phố quê?" |
+
+**Rules:**
+- Câu cụ thể audience tự thấy mình
+- Tránh pain quá negative (depressed audience)
+- Pain mild + relatable, không apocalyptic
+
+### Pattern 5: Social Proof Hook
+
+Number-based, authority statement.
+
+| Sản phẩm | Social proof hook |
+|----------|-------------------|
+| Cà phê | "Quán cà phê đông nhất Sài Gòn?" |
+| Serum | "1000 cô gái đã thử serum này" |
+| Bánh mì | "Bánh mì bán 500 ổ mỗi sáng" |
+| Sneaker | "Top 3 sneaker bán chạy 2026" |
+
+**Rules:**
+- Number specific (1000 vs "rất nhiều")
+- Verifiable nếu có thể
+- Không exaggerate (consumer protection law VN)
+
+### Decision tree chọn hook
 
 ```
-Bắt đầu với kịch bản 15s
-        ↓
-Sản phẩm có brand/logo cần lock?
-   ├─ CÓ → Approach B (multi-shot với image-to-video)
+Sản phẩm có visual mạnh? (giọt nước, vụn bánh, smoke)
+   ├─ CÓ → Pattern 3 (Surprise) — dùng visual làm hook
    └─ KHÔNG → Tiếp tục
         ↓
-Camera variety có quá phức tạp cho 1 clip?
-   ├─ CÓ → Approach B
-   └─ KHÔNG → Approach A (single clip)
+Audience có pain point rõ?
+   ├─ CÓ → Pattern 1 (Question) hoặc 4 (Pain)
+   └─ KHÔNG → Pattern 5 (Social proof) nếu có numbers
 ```
 
-→ **Đa số creator solo nên start với Approach A.** Khi đã có experience, level up Approach B khi cần.
+---
+
+## Phần 2 — CTA Design: 4 Strategies cho 2 Giây Cuối
+
+CTA = conversion driver. Ad view cao nhưng CTA mơ hồ = không bán được. 4 strategies từ commercial production:
+
+### Strategy 1: Action Verb Cụ Thể
+
+Verb đầu tiên trong CTA phải là action concrete, không generic.
+
+| ❌ Vague | ✅ Concrete |
+|---------|-------------|
+| "Hãy ủng hộ" | "Ghé quán hôm nay" |
+| "Cảm ơn đã xem" | "Click link mua ngay" |
+| "Theo dõi để biết thêm" | "Inbox để mình tư vấn" |
+| "Hãy thử ngay" | "Mở app đặt giao 15 phút" |
+
+**Rules:**
+- Verb đầu câu: Ghé / Click / Inbox / Mở / Đặt / Mua / Save
+- Specific channel (app/web/store/IG)
+- Avoid "hãy ủng hộ" / "cảm ơn" / "follow để biết thêm" — toàn không actionable
+
+### Strategy 2: Urgency + Scarcity
+
+Tạo lý do hành động NGAY, không sau.
+
+| Pattern | Example |
+|---------|---------|
+| Time-limit | "Chỉ hôm nay" / "Hết tuần này" |
+| Quantity-limit | "Còn 5 phần cuối" / "Hết hàng nhanh" |
+| Discount-deadline | "Giảm 30% đến chủ nhật" |
+| Bonus-window | "Mua trong 24h tặng kèm X" |
+
+**Rules:**
+- Urgency phải thật (không bịa "chỉ hôm nay" mỗi ngày)
+- Specific deadline (hôm nay / 24h / chủ nhật), không "thời gian giới hạn"
+- Vietnam consumer protection: không claim sai sự thật
+
+### Strategy 3: Specific Outcome Promise
+
+Promise audience receive cái gì cụ thể.
+
+| Sản phẩm | Outcome promise |
+|----------|-----------------|
+| Cà phê | "Tỉnh cả buổi sáng — chỉ 25K" |
+| Serum | "Da căng mịn sau 7 ngày" |
+| Bánh mì | "No đến chiều với 1 ổ" |
+| Sneaker | "Đôi giày 1 mua dùng 6 tháng" |
+
+**Rules:**
+- Outcome verifiable (sau 7 ngày = đo được)
+- Tied to price/effort (25K = barrier cho action)
+- Avoid medical claims cho beauty/health (Vietnam regulation)
+
+### Strategy 4: Multiple Touchpoints
+
+Cho audience nhiều channels follow-up.
+
+| Layout | Example |
+|--------|---------|
+| App icon top-right corner | TikTok Shop / Shopee icon |
+| Text bottom CTA | "Inbox đặt hàng" |
+| Voice over CTA | "Inbox shop ngay để mình tư vấn" |
+| Logo + IG handle | "@brandname" |
+
+**Rules:**
+- Tối đa 3 touchpoints trong 2s (không overload)
+- Hierarchy: voice > text > icon (visual priority)
+- Match platform: TikTok → app icon; YouTube → link in bio
+
+### CTA placement timing trong 2s cuối
+
+```
+13.0s — Product hero shot stable
+13.5s — Voice over CTA bắt đầu
+14.0s — Text CTA appear (1 line, large)
+14.5s — App icon/IG handle appear (top corner)
+15.0s — Final stable frame, hold CTA
+```
 
 ---
 
-## Phần 3 — Anatomy shot list: 12 trường thông tin
+## Phần 3 — Sound Workflow: Seedance Silent + CapCut 3 Layers
 
-Nếu chọn Approach B (multi-shot), shot list cần 12 trường thông tin chia 2 bảng để dễ đọc trên mobile/GitHub.
+Day 22 prompt Seedance section 声音 ghi rõ: "无对白，无旁白，无背景音乐". Tại sao?
 
-### Bảng 1 — PLANNING (creative side)
+Vì **Seedance generate audio thường tệ** — voice unnatural, music bị lặp, SFX bị lệch. Workflow chuyên nghiệp: Seedance render silent → add audio trong CapCut với 3 layers riêng biệt.
 
-| Trường | Mục đích |
-|--------|----------|
-| Shot # | ID để reference (Shot 1, Shot 2...) |
-| Time | Vị trí trong kịch bản 15s (vd 0-3s) |
-| Phase công thức | Hook / Product / Benefit / Emotion / CTA |
-| Sản phẩm/Nhân vật | Subject chính trong shot |
-| Bối cảnh | Setting (cafe / studio / street...) |
-| Action chính | 1 hành động duy nhất (quy tắc Day 18) |
-| Camera | Loại shot (macro / medium / hero / wide...) |
-| Sound | Audio cụ thể (ambient / SFX / voice) |
+### 3 Layers Audio cho Ad 15s
 
-### Bảng 2 — EXECUTION (technical side)
+**Layer 1: BGM (Background Music)**
 
-| Trường | Mục đích |
-|--------|----------|
-| Shot # | Match Bảng 1 |
-| Model | Seedance text-to-video / image-to-video / GPT Image 2 keyframe / CapCut edit |
-| Duration | Thời lượng generate (3s, 4s, 5s) |
-| Asset cần chuẩn bị | Logo PNG / reference photo / font file... |
-| Risk lỗi | Identified risk từ Risk Matrix Day 22 |
+| Aspect | Setting |
+|--------|---------|
+| Volume | -18 dB to -22 dB |
+| Genre match brand | Cà phê → acoustic / Serum → ambient / Bánh mì → folk Việt / Sneaker → urban beat |
+| Duration | 15s loop, fade in 0.5s + fade out 0.5s |
+| Source | CapCut royalty-free / Epidemic Sound / YouTube Audio Library / Pixabay |
 
-→ Bảng 1 = "Cảnh gì?" Bảng 2 = "Làm thế nào?". Mỗi shot fill cả 2 bảng.
+**Layer 2: Voice Over (CTA + Key Text)**
 
-Nếu chọn Approach A (single clip), không cần shot list traditional — toàn bộ 5 phases đã trong 1 prompt Seedance (Day 22 template 11 section).
+| Aspect | Setting |
+|--------|---------|
+| Volume | -6 dB to -9 dB (cao hơn BGM rõ ràng) |
+| Voice | Vietnamese native, clear pronunciation |
+| Tools | ElevenLabs (premium) / TTS 0ai.vn / Smartphone record |
+| Duration | Phủ key moments: hook + CTA (không full 15s) |
 
----
+**Layer 3: SFX (Sound Effects)**
 
-## Phần 4 — Shot list mẫu Approach B: Cà phê sữa đá 15s
+| Aspect | Setting |
+|--------|---------|
+| Volume | -12 dB to -15 dB |
+| Match moments | Ice clink (Hook cà phê) / Knife cut (bánh mì) / Bottle sound (serum) / Footstep (sneaker) |
+| Source | Freesound / Pixabay / CapCut sound library |
+| Sync | Manual align với visual cues (snap to frame) |
 
-Áp dụng kịch bản Ví dụ 1 Day 22 (cà phê sữa đá quán nhỏ Sài Gòn). Kịch bản 5 timecodes 15s → tách thành 5 shots multi-clip.
+### Mixing Rules
 
-### Bảng 1 — PLANNING (cà phê 15s, multi-shot)
+**Ducking:** Khi voice over speak, BGM tự động giảm xuống -25 dB. Sau khi voice xong, BGM về -18 dB. CapCut có "Auto duck" feature.
 
-| Shot | Time | Phase | Sản phẩm/Nhân vật | Bối cảnh | Action chính | Camera | Sound |
-|------|------|-------|-------------------|----------|--------------|--------|-------|
-| 1 | 0-3s | Hook | Ly cà phê đá | Quầy cafe gỗ, sáng warm | Giọt nước condensation nhỏ giọt | Macro extreme close-up | Ice clink |
-| 2 | 3-6s | Product | Ly cà phê + tay barista | Quầy bar cafe | Rót cà phê đậm vào ly đá | Medium 3/4 angle | Coffee pouring |
-| 3 | 6-10s | Benefit | Ly cà phê + sữa hòa | Cận ly trên quầy gỗ | Khói + sữa hòa vào (stable state) | Macro top-down | Cafe ambience |
-| 4 | 10-13s | Emotion | Khách hớp + biểu cảm partial | Bàn cafe, background bokeh | Khách hớp ngụm, miệng mỉm | Medium portrait crop tight | Nhạc nhẹ + sip |
-| 5 | 13-15s | CTA | Ly cà phê hero + logo overlay | Quầy cafe central | Ly đặt centered, logo add edit | Hero shot centered | Ending music + CTA voice |
+**Stereo placement:**
+- Voice over: center
+- BGM: full stereo spread
+- SFX: có thể left/right cho dynamic
 
-### Bảng 2 — EXECUTION (cà phê 15s, multi-shot)
+**Transitions:**
+- Fade in 0.5s đầu bài
+- Fade out 0.5s cuối bài
+- Smooth crossfade nếu có multiple BGM tracks (rare cho ad 15s)
 
-| Shot | Model | Duration | Asset cần chuẩn bị | Risk lỗi |
-|------|-------|----------|--------------------|----------|
-| 1 | Seedance text-to-video | 3s | Không cần | Liquid state morph (Day 22 coffee insight) |
-| 2 | Seedance text-to-video | 3s | Không cần | Hand warp → crop chỉ tay + chai |
-| 3 | Seedance text-to-video | 4s | Không cần | Liquid state change → lock "stable mixed state" |
-| 4 | Seedance text-to-video | 3s | Không cần | Face full warp → crop partial (miệng + cằm) |
-| 5 | GPT Image 2 keyframe + Seedance image-to-video | 2s | Logo quán PNG + CTA copy | Logo render bịa → image lock, video add motion |
+### Reference levels chuẩn industry
 
-**Tổng duration generate:** 3 + 3 + 4 + 3 + 2 = 15s exact (nếu Seedance support min 2-3s). Nếu min Seedance là 5s, tăng mỗi shot lên 5s = total 25s raw, trim trong CapCut về 15s final.
+```
+Voice Over:    ━━━━━━━━━━━━━━━━━━━━ -6 dB  (loudest)
+SFX:           ━━━━━━━━━━━━━━━━     -12 dB
+BGM normal:    ━━━━━━━━━━━━         -18 dB
+BGM ducked:    ━━━━━                -25 dB (khi VO speak)
+```
 
-### Tổng cost ước tính cho Approach B (Day 25-26)
-
-| Item | Calc | Cost |
-|------|------|------|
-| Day 25 Seedance generate (15s total assuming min 3s) | 15 × 2,400 | ~36,000 VND |
-| Day 25 Seedance generate (25s total assuming min 5s) | 25 × 2,400 | ~60,000 VND |
-| Day 24 keyframes + storyboard | ~5 × 900 | ~4,500 VND |
-| Day 26 buffer re-gen 20-30% | | ~10-15K VND |
-| **Tổng Approach B ước tính** | | **~50-80K VND** |
-
-**So sánh Approach A:**
-- Approach A (1 clip 15s): ~36K + Day 24 keyframe ~900 = **~37K total**
-- Approach B (multi-shot): **~50-80K total** (tùy Seedance min duration)
-
-→ Approach A rẻ hơn nhưng Approach B linh hoạt hơn. Trade-off rõ ràng.
+→ Audience nghe voice over rõ ràng nhất, SFX support, BGM tạo mood nền.
 
 ---
 
-## Phần 5 — Bảng chọn model theo shot type
+## Phần 4 — Text Overlay: Typography + Timing + Position
 
-Decision tree này mình rút ra từ Day 22 Risk Matrix (4 tests, 144K VND data thực):
+Day 22 Risk Matrix: **KHÔNG generate text bằng AI** (sneaker test render "BIOTOR" bịa). Tất cả text phải add trong edit phase (CapCut).
 
-| Shot type | Best model | Lý do |
-|-----------|-----------|-------|
-| Product static hero (logo, brand cần lock) | **GPT Image 2 keyframe** | Precision lock, không cần motion |
-| Product action không brand (rót, nhỏ giọt) | **Seedance text-to-video** | Motion natural, generic LOW risk |
-| Product motion + brand cần consistent | **GPT Image 2 keyframe → Seedance image-to-video** | Image lock branding, video thêm motion |
-| Người + sản phẩm (LOW risk product) | **Seedance text-to-video** | Risk face warp manageable nếu crop partial |
-| Người + sản phẩm (HIGH risk branded) | **Seedance image-to-video** với reference | Image-to-video override training bias |
-| Text overlay (CTA, brand name) | **CapCut edit phase** | KHÔNG dùng AI generate text — 100% fail (Day 22 sneaker "BIOTOR") |
+### Typography Rules
 
-### 3 quy tắc chính từ Risk Matrix Day 22
+**Font selection:**
 
-1. **Branded products** → KHÔNG dùng Seedance text-to-video (HIGH risk fail)
-2. **Text/logo trên product** → KHÔNG generate bằng AI — luôn add edit phase trong CapCut
-3. **Static product hero** → keyframe (precision); **Motion shot** → video model
+| Use case | Font recommend |
+|----------|----------------|
+| Mobile readability (default) | Inter, Montserrat, Roboto |
+| Brand premium | Playfair Display, Cormorant |
+| Brand friendly | Quicksand, Comfortaa |
+| Brand bold | Bebas Neue, Anton |
+
+**Size rules (cho mobile 9:16):**
+
+| Type | Size |
+|------|------|
+| Hook text (3s đầu) | 60-80 pt |
+| Benefit text (middle) | 48-60 pt |
+| CTA text (cuối) | 72-96 pt (largest) |
+| Brand handle/footer | 24-32 pt |
+
+**Contrast rules:**
+- Light background → text dark + light outline 2px
+- Dark background → text light + dark shadow 4px offset
+- Busy background → semi-transparent black box behind text
+
+### Position Rules
+
+**Safe zones cho mobile 9:16:**
+
+```
+┌─────────────────┐
+│  Top 10% safe   │ ← Hook text + Logo
+├─────────────────┤
+│                 │
+│    Center       │ ← Visual focus (sản phẩm)
+│    (60%)        │
+│                 │
+├─────────────────┤
+│   Bottom 20%    │ ← Benefit + CTA
+│  (UI safe)      │ ← Avoid: TikTok UI bottom 15%
+└─────────────────┘
+```
+
+**TikTok/Reels UI overlap zones (AVOID text):**
+- Bottom 15%: TikTok UI buttons, captions
+- Right 12%: Like/comment/share buttons
+- Top 8%: Username area
+
+### Timing Rules
+
+| Text element | Duration on screen | Animation |
+|--------------|---------------------|-----------|
+| Hook text | 2.5s (0-2.5s) | Fade in 0.25s → hold 2s → fade out 0.25s |
+| Benefit text | 3s (6-9s) | Slide from bottom 0.3s → hold 2.4s → fade 0.3s |
+| CTA text | 1.8s (13.2-15s) | Pop scale 0.2s → hold 1.4s → light fade 0.2s |
+
+### 4 Animation Patterns
+
+**Pattern 1: Fade in/out** — Default safe, không distract from product
+**Pattern 2: Slide from bottom** — Urgency, attention grab
+**Pattern 3: Typewriter effect** — Info reveal, reading rhythm  
+**Pattern 4: Pop scale** — Emphasis cho CTA, highest attention
+
+→ Mix pattern: Hook = Fade (subtle), Benefit = Slide (engaging), CTA = Pop (urgent).
 
 ---
 
-## Phần 6 — Asset checklist trước Day 24
+## Phần 5 — Aspect Ratio Multi-Platform
 
-Sau khi có shot list, chuẩn bị 6 nhóm assets trước khi sang Day 24-26:
+Day 22 mình test 16:9 (đã verify Seedance work). Nhưng commercial real cần multi-platform với ratios khác nhau.
 
-| Nhóm | Mục tiêu | Format |
-|------|----------|--------|
-| Logo quán/brand | Add edit phase (Shot CTA) | PNG transparent, ≥500px |
-| Sản phẩm reference photo | Cho image-to-video nếu HIGH risk | JPG/PNG real shot |
-| Brand colors | Color grading consistent | Hex codes (vd #8B4513) |
-| Audio assets | Voice/BGM cho edit | MP3/WAV |
-| Font file | Text overlay | TTF/OTF |
-| CTA copy | Voice script + text on screen | Plain text |
+### 5 Platforms VN với Ratio Chuẩn
 
-**Risk nếu skip checklist:** Đến giữa Day 24 (storyboard) hoặc Day 25 (Seedance) mới phát hiện thiếu logo PNG → phải pause production, scramble find/create asset → lãng phí thời gian, mất flow.
+| Platform | Ratio chuẩn | Use case |
+|----------|-------------|----------|
+| TikTok | 9:16 | Native mobile fullscreen |
+| Instagram Reels | 9:16 | Native mobile fullscreen |
+| YouTube Shorts | 9:16 | Native mobile fullscreen |
+| Facebook Reels | 9:16 | Native mobile fullscreen |
+| YouTube long form | 16:9 | Desktop primary, smart TV |
+| Instagram Post (feed) | 1:1 (square) | Feed timeline |
+| Instagram Story | 9:16 | Fullscreen mobile |
+
+→ **9:16 là dominant ratio cho VN audience** vì mobile-first consumption.
+
+### 2 Workflows Multi-Platform từ 1 Brief
+
+**Workflow A — Render 1 ratio, crop sang ratios khác**
+
+```
+Render Seedance 16:9 master
+        ↓
+Crop trong CapCut:
+   ├─ 9:16 (TikTok/Reels) — center crop, lose 56% width
+   ├─ 1:1 (Instagram feed) — center crop, lose 25% width
+   └─ Keep 16:9 (YouTube)
+```
+
+| Pros | Cons |
+|------|------|
+| Chỉ 1 lần generate (36K) | 9:16 crop từ 16:9 mất composition |
+| Workflow nhanh | Subject phải centered trong original |
+
+**Workflow B — Render từng ratio riêng**
+
+```
+Render Seedance 3 lần:
+   ├─ 9:16 cho TikTok/Reels/Shorts (36K)
+   ├─ 16:9 cho YouTube long (36K)
+   └─ 1:1 cho Instagram feed (36K)
+   = Total 108K
+```
+
+| Pros | Cons |
+|------|------|
+| Composition optimal cho mỗi ratio | Cost x3 (~108K) |
+| Quality production-ready | Time x3 |
+
+### Recommend cho từng level
+
+| Level | Recommend | Lý do |
+|-------|-----------|-------|
+| Starter creator | Workflow A | Cost low, đủ tốt cho draft |
+| Pro creator | Workflow B | Quality optimal mỗi platform |
+| Agency client | Workflow B | Mỗi deliverable phải optimal |
+
+### Ratio Verification Status (sau Day 22)
+
+| Ratio | Status | Notes |
+|-------|--------|-------|
+| 16:9 | ✅ Tested (Day 22, 4 clips work) | Verified |
+| 9:16 | ⏳ Chưa test | Day 25 sẽ test với image-to-video |
+| 1:1 | ⏳ Chưa test | Optional Day 25 |
+
+**Cảnh báo:** Day 23 này là craft knowledge thuần. Linh chưa verify 9:16 trên Seedance. Nếu các bạn cần TikTok ngay, có thể test 1 prompt 9:16 sớm (cost 36K) để verify, hoặc dùng Workflow A (crop từ 16:9 đã có).
 
 ---
 
-## Phần 7 — Risk checklist: identify trước, mitigate sớm
+## Phần 6 — Demo cuối bài: Edit 1 Clip Day 22 thành Ad Complete
 
-Mỗi shot trong list cần identify ít nhất 1 risk + mitigation strategy. Đây là application thực tế Risk Matrix Day 22:
+Day 22 các bạn có 4 raw Seedance clips. Day 23 demo workflow turn 1 clip raw thành **ad commercial complete** với 5 craft yếu tố apply hết.
 
-| Shot | Risk identify | Mitigation strategy |
-|------|---------------|---------------------|
-| 1 — Macro cà phê | Liquid state morph (Day 22 coffee insight) | Prompt thêm "稳定融合状态" / "已经混合好的" |
-| 2 — Barista rót | Hand/body warp | Crop chỉ tay + chai cà phê, không show face barista |
-| 3 — Macro khói + sữa | Sản phẩm transform giữa frame | Lock single state, 1 action duy nhất (quy tắc Day 18) |
-| 4 — Khách hớp ngụm | Face full → warp risk cao | Crop partial face (chỉ miệng + cằm), hoặc back shot |
-| 5 — Product hero + logo | Logo render bịa (Day 22 BIOTOR pattern) | GPT Image 2 keyframe trước, CapCut edit thêm logo PNG sau |
+### Setup demo
 
-### 5 quy tắc chung mitigation
+**Input:** `day-22-test-coffee-product-15s.mp4` (raw từ Day 22, 4.3MB)
 
-1. **Generic products (LOW risk):** prompt text-to-video OK, không cần mitigation đặc biệt
-2. **Liquid products:** lock state cụ thể trong prompt — không để model interpret mixing process
-3. **Human + product:** crop tight, hạn chế full face/body để giảm warp risk
-4. **Branded products:** KHÔNG dùng text-to-video — luôn image-to-video với reference ảnh thật
-5. **Text/logo trên video:** add edit phase trong CapCut, KHÔNG generate AI
+**Tool:** CapCut (free download iOS/Android/desktop)
+
+**Cost:** 0 VND (edit thuần)
+
+### Workflow 6 bước trong CapCut
+
+**Bước 1: Import + trim (2 phút)**
+- Import clip cà phê 15s vào CapCut timeline
+- Trim đầu/cuối nếu cần (giữ 15s exact)
+
+**Bước 2: Hook text (3 phút)**
+- Pattern 1 (Question): "Sáng nay cần tỉnh táo?"
+- Position: Top center
+- Font: Inter Bold 60pt, white + black outline 2px
+- Animation: Fade in 0.25s → hold 2s → fade out 0.25s
+- Timing: 0-2.5s
+
+**Bước 3: Benefit text (3 phút)**
+- "ĐẬM — BÉO — MÁT"
+- Position: Bottom third (above TikTok UI safe zone)
+- Font: Bebas Neue 72pt, gold #D4A574 + black shadow
+- Animation: Slide from bottom 0.3s
+- Timing: 6-9s
+
+**Bước 4: CTA text + voice over (5 phút)**
+- Text: "Ghé quán mỗi sáng"
+- Voice: ElevenLabs hoặc smartphone record câu này
+- Position text: Bottom center large
+- Font: Montserrat ExtraBold 80pt, white + brown shadow
+- Animation: Pop scale 0.2s
+- Timing: 13.2-15s
+
+**Bước 5: Audio 3 layers (5 phút)**
+- BGM: warm acoustic café instrumental, -20 dB
+- Voice over CTA: -8 dB
+- SFX ice clink at 0.5s: -14 dB
+- SFX coffee pour at 3-6s: -14 dB
+- Enable Auto duck cho BGM
+
+**Bước 6: Color grading + export (3 phút)**
+- Filter "Warm" hoặc preset "Cinematic Warm"
+- Brightness +5, Saturation +10, Warmth +15
+- Export: 720p, 30fps, MP4, bitrate Recommended
+
+**Tổng thời gian edit:** ~20-25 phút cho 1 ad complete.
+
+### Output expected
+
+Raw cà phê clip (no audio, no text) → Ad cà phê complete (audio 3 layers + text 3 elements + warm grading) sẵn sàng đăng TikTok/Reels.
+
+→ Đây là **workflow turn 1 Seedance clip thành ad commercial production-ready**. Các bạn áp dụng được cho 4 brief Day 22 hoặc brief của mình.
 
 ---
 
-## Phần 8 — 6 lỗi thường gặp
+## Phần 7 — Lỗi Thường Gặp khi Apply 5 Craft
 
-**Skip quyết định approach.** Lao vào shot list multi-shot ngay mà không cân nhắc Approach A (1 clip 15s). Cà phê/serum/bánh mì test Day 22 đều work với 1 clip — không cần Approach B phức tạp.
+**Hook quá dài.** "Buổi sáng đi làm cần một ly cà phê đậm vị thơm ngon để tỉnh táo?" — 16 từ, đọc không kịp trong 3s. Cắt ngắn: "Sáng nay cần tỉnh táo?" — 4 từ.
 
-**Mỗi shot quá nhiều action.** "Shot 3: barista pha cà phê, rót sữa, trang trí, đưa cho khách" — 4 actions trong 1 shot vi phạm quy tắc Day 18 "1 shot = 1 action chính". AI render sẽ lỗi. Tách thành 4 shots riêng.
+**CTA không action verb.** "Sản phẩm tuyệt vời cho mọi nhà" không phải CTA — không có action audience làm. Sửa: "Mở app đặt giao 15 phút".
 
-**Không identify risk trước.** Risk Matrix Day 22 rút ra với cost 144K VND. Skip risk identification ở Day 23 = lãng phí experience đó.
+**Voice over đồng âm BGM.** VO speak khi BGM cao → audience không nghe rõ. Enable Auto duck CapCut để BGM tự giảm khi VO speak.
 
-**Chọn sai model.** Dùng Seedance text-to-video cho sneaker → predict fail từ Day 22 (logo brand thật + brand swap + Frankenstein). Phải dùng image-to-video với reference ảnh giày thật.
+**Text overlap TikTok UI.** Đặt CTA bottom 5% → bị che bởi TikTok UI buttons. Move lên bottom 20-25% safe zone.
 
-**Quên asset checklist.** Đến Day 24 phát hiện thiếu logo PNG → pause production. Asset checklist Day 23 prevent issue này hoàn toàn.
+**Font fancy khó đọc.** Script fonts (Italianno, Great Vibes) đẹp nhưng audience mobile đọc không kịp trong 2.5s. Stick với sans-serif clean.
 
-**Shot list trên giấy.** Viết tay, không sync với brief Day 22 → quên elements quan trọng trong brief (CTA cụ thể, brand colors). Shot list nên là file markdown/spreadsheet copy được vào project folder.
+**Logo render bằng AI.** Day 22 sneaker fail render "BIOTOR" text. Logo + brand name PHẢI add CapCut với PNG file, không generate AI.
+
+**Ratio mismatch platform.** Render 16:9 đăng TikTok → black bars trên/dưới → look amateur. Crop sang 9:16 hoặc render 9:16 riêng.
 
 ---
 
 ## Bài tập thực hành
 
-Chọn 1 brief từ 4 ví dụ Day 22 (cà phê / serum / bánh mì / sneaker) hoặc brief của bạn.
+Chọn 1 trong 4 clips Day 22 (cà phê / serum / bánh mì / sneaker), apply 5 craft elements:
 
-**Bước 1:** Quyết approach
-- Approach A nếu generic LOW risk + đơn giản
-- Approach B nếu branded HIGH risk hoặc cần variety phức tạp
+**Phần planning:**
+1. Pick hook pattern (1 trong 5) + viết hook text 6-10 từ
+2. Pick CTA strategy (1 trong 4) + viết CTA copy 4-6 từ
+3. Plan 3 audio layers với volume cụ thể
+4. Plan 3 text overlays với typography + timing
+5. Pick aspect ratio target + workflow A hoặc B
 
-**Bước 2:** Nếu chọn Approach B, tách shot list hoàn chỉnh:
-- Bảng 1 PLANNING — 3-5 shots với 8 columns
-- Bảng 2 EXECUTION — matching shots với 5 columns
+**Phần execute (optional, free):**
+6. Mở CapCut, edit clip Day 22 theo plan trên
+7. Export final ad
+8. Share output với community Linh0AI hoặc đăng test 1 lần platform target
 
-**Bước 3:** Asset checklist 6 nhóm
-
-**Bước 4:** Risk checklist với mitigation mỗi shot
-
-Shot list này là input cho Day 24 (storyboard + keyframe). Shot list tốt = Day 24 nhẹ nhàng.
+→ Đây là **first commercial AI ad production-ready** của bạn. Không gen mới, chỉ apply 5 craft vào clips đã có.
 
 ---
 
 ## Tiêu chí đạt bài
 
-- [ ] Có quyết định approach (A hoặc B) với lý do cụ thể
-- [ ] Nếu Approach B: Bảng 1 PLANNING có 3-5 shots, đủ 8 columns
-- [ ] Nếu Approach B: Bảng 2 EXECUTION có 3-5 shots, đủ 5 columns
-- [ ] Mỗi shot có 1 action chính (không nhồi nhiều action)
-- [ ] Mỗi shot có model assignment cụ thể từ Bảng chọn model
-- [ ] Asset checklist liệt kê ≥3 nhóm cần thiết
-- [ ] Risk checklist có mitigation rõ ràng cho ≥3 shots
-- [ ] Tổng duration shots = 15s
+- [ ] Hook design có pattern lý do cụ thể
+- [ ] CTA design có action verb concrete + strategy
+- [ ] Audio plan 3 layers với volume levels (-18 / -6 / -14 dB hoặc tương đương)
+- [ ] Text overlay plan với typography + position + timing
+- [ ] Aspect ratio decision + workflow A/B
+- [ ] (Optional) 1 edited ad complete dài 15s với 5 craft applied
 
 ---
 
@@ -299,18 +525,18 @@ Shot list này là input cho Day 24 (storyboard + keyframe). Shot list tốt = D
 | Item | Cost |
 |------|------|
 | Planning thuần | 0 VND |
+| (Optional) Edit demo CapCut | 0 VND |
 | **Tổng Day 23** | **0 VND** |
+
+→ Day 23 là **bài thay đổi nhiều giá trị nhất với chi phí thấp nhất** — học viên đầu tư 0 VND nhưng 4 clips Day 22 raw thành 4 ad commercial complete.
 
 ---
 
 ## Sang Day 24
 
-Day 24 mình sẽ generate **storyboard + keyframes** từ shot list này.
+Day 24 mình sẽ generate **storyboard + keyframes** với 5 craft elements đã planned từ Day 23. Storyboard sẽ visualize 5 phase camera + text overlay position + hook frame + CTA frame trước khi gen Seedance.
 
-- **Nếu Approach A:** 1 storyboard 5-panel overview + 1 keyframe hero shot
-- **Nếu Approach B:** 1 storyboard overview + 3-5 keyframes (1 per shot)
-
-Brief Day 22 + Shot list Day 23 = đủ input cho Day 24. Học viên hoàn thành Day 23 trước rồi sang.
+Brief Day 22 + Craft plan Day 23 = đủ input cho Day 24. Các bạn hoàn thành Day 23 trước khi sang.
 
 ---
 
@@ -322,8 +548,8 @@ Brief Day 22 + Shot list Day 23 = đủ input cho Day 24. Học viên hoàn thà
 
 ## 🏷️ Tags
 
-#0aiVN #Day23Linh0AI #ShotList #PreProduction #CommercialPipeline #RiskMatrix #AssetChecklist #SingleClipVsMultiShot #Tuan4
+#0aiVN #Day23Linh0AI #HookDesign #CTADesign #SoundDesign #TextOverlay #AspectRatio #CapCut #AdCommercial #Tuan4
 
 ---
 
-*Linh0AI Daily Tutorials — Day 23/30 (77%) Tuần 4 Day 2: Shot list 3-5 shots cà phê 15s + 2 approaches decision tree + Asset/Risk checklist + 0 VND cost (pure planning)*
+*Linh0AI Daily Tutorials — Day 23/30 (77%) Tuần 4 Day 2: 5 craft knowledge (Hook 5 patterns + CTA 4 strategies + Sound 3 layers + Text typography + Multi-platform ratio) + 0 VND cost (planning + free edit)*
