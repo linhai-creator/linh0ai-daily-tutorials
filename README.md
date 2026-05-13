@@ -16,15 +16,15 @@
 Tuần 1: ███████ 7/7 ✅ Foundation
 Tuần 2: ███████ 7/7 ✅ Master Skills
 Tuần 3: ███████ 7/7 ✅ Practical Production (2 short films + 128+ visuals)
-Tuần 4: ██░░░░░ 2/7 🔄 Commercial Production (Day 22-23 done)
+Tuần 4: ███░░░░ 3/7 🔄 Commercial Production (Day 22-24 done)
 Tuần 5: ░░░░░░░ 0/2 📋 Capstone + Tổng kết
 
-███████████████████████░░░░░░░  23/30 ngày (77%)
+████████████████████████░░░░░░  24/30 ngày (80%)
 ```
 
 > 🏆 **Tuần 3 đã COMPLETE** — 2 short films production: xianxia "Đôi Kiếm Tiên" 60s + comedy "Chef vs Cockroach" 41s.
 >
-> 🔄 **Tuần 4 đang chạy** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge cho ad AI) → ... → Day 28 Capstone full ad.
+> 🔄 **Tuần 4 đang chạy** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Full pipeline: 9 keyframes + 3 videos ad cà phê) → ... → Day 28 Capstone.
 
 ---
 
@@ -49,7 +49,7 @@ Sau 30 ngày, bạn sẽ biết:
 - 🎬 Tạo video AI bằng Seedance 2.0 (text-to-video + image-to-video)
 - 📋 Storyboard 4x4 + Character sheets cho video AI dài hơi
 - 🎞️ Pipeline storyboard-to-video cho short film 60s (Tuần 3)
-- 📢 **Commercial production pipeline cho ad TikTok/Reels** — brief + kịch bản 15s + 5-phase camera language + Risk Matrix model selection (Tuần 4)
+- 📢 **Commercial production pipeline cho ad TikTok/Reels** — brief + kịch bản 15s + image-to-video multi-reference + Risk Matrix model selection (Tuần 4)
 - 🎯 **Chọn đúng model theo từng nhu cầu** — xem [📖 Models Cheatsheet](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md)
 - 💰 Tối ưu chi phí — biết khi nào nạp Credit, khi nào dùng Subscription
 
@@ -105,10 +105,10 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | --- | --- | --- | --- |
 | **Day 22** | Brief & Kịch bản Quảng cáo AI 15s + Risk Matrix Seedance | 🔵🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-22.md) |
 | **Day 23** | 5 Craft Knowledge cho Ad AI (Hook + CTA + Sound + Text + Ratio) | 🔵🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-23.md) |
-| Day 24 | Storyboard thương mại & Keyframe | 🟣 | 📋 Coming soon |
-| Day 25 | Seedance Generation: Product/B-roll/Scene shot | 🟣 | 📋 Coming soon |
-| Day 26 | Rough cut & Re-gen | 🟣 | 📋 Coming soon |
-| Day 27 | Capstone Part 1 — Full commercial 30s | 🟣 | 📋 Coming soon |
+| **Day 24** | Storyboard + 9 Keyframes + 3 Videos Image-to-Video Pipeline | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-24.md) |
+| Day 25 | Pipeline Practice với brief khác | 🟣 | 📋 Coming soon |
+| Day 26 | Rough cut & Re-gen + CapCut workflow | 🟣 | 📋 Coming soon |
+| Day 27 | Capstone Part 1 — Full commercial ad | 🟣 | 📋 Coming soon |
 | Day 28 | Capstone Part 2 — Polish + Portfolio + SOP | 🟣 | 📋 Coming soon |
 
 ### Tuần 5 — Capstone (Day 29-30) 📋 Planned
@@ -122,16 +122,33 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 
 ---
 
-## 🆕 Highlight Tuần 4 — Commercial Production
+## 🆕 Highlight Tuần 4 — Commercial Production Pipeline
 
 Sau khi master short film pipeline (Tuần 3), Tuần 4 chuyển sang **commercial production cho ad TikTok/Reels/YouTube Shorts**:
 
-- **Day 22 — Master template 11 section** cho prompt commercial Seedance, kèm 4 tests thực (cà phê + serum + bánh mì + sneaker) với cost 144K VND data thực
-- **Risk Matrix Seedance vs Branded Products** — 4 data points confirmed: LOW risk categories (F&B, beauty generic, street food) work PASS với text-to-video; HIGH risk (sneaker, electronics, xe hơi) FAIL do training bias
-- **3 insights production:** Liquid state lock (coffee), Industry anti-patterns work (serum), Auto multi-environment (bánh mì)
-- **Day 23 — 5 craft knowledge** cho ad commercial: Hook 5 patterns + CTA 4 strategies + Sound 3 layers workflow + Text overlay typography + Multi-platform ratio strategy
+### Day 22 — Brief & Kịch bản 15s + Risk Matrix Seedance (verified với 144K data)
 
-→ Học viên sau Tuần 4 có thể nhận job freelance commercial ad cho brand nhỏ (cà phê/serum/F&B/street food), cost ~75-125K VND/ad.
+- Master template 11 section cho prompt Seedance commercial
+- **Risk Matrix Seedance vs Branded Products** — 4 data points confirmed: LOW risk categories (F&B, beauty generic, street food) work PASS với text-to-video; HIGH risk (sneaker, electronics, xe hơi) FAIL do training bias
+- 3 production insights: Liquid state lock (coffee), Industry anti-patterns work (serum), Auto multi-environment (bánh mì)
+- 4 demo tests thực tế: cà phê + serum + bánh mì + sneaker
+
+### Day 23 — 5 Craft Knowledge cho Ad AI
+
+- **Hook design** 5 patterns viral (Question / Contrast / Surprise / Pain / Social Proof)
+- **CTA design** 4 strategies (Action verb / Urgency / Outcome / Multi-touchpoint)
+- **Sound workflow** 3 layers (BGM -18dB / Voice Over -6dB / SFX -14dB)
+- **Text overlay** typography + timing + TikTok UI safe zones
+- **Aspect ratio** multi-platform strategy
+
+### Day 24 — Full Pipeline 9 Keyframes + 3 Videos Image-to-Video
+
+- 4 loại Master Images (Character / Product / Scene / 6 Shot Keyframes)
+- Multi-reference image-to-video workflow Seedance Omni 2.0 (3 @image refs per scene)
+- 3 insights mới verified: Multi-ref pipeline work / Anti-pop-in instruction effective / Ratio change KHÔNG simple swap
+- Cost actual: 116K VND cho 1 ad cà phê 15s production-ready
+
+→ Học viên sau Tuần 4 có thể **nhận job freelance commercial ad** cho brand nhỏ (cà phê / serum / F&B / street food), cost production ~75-150K VND/ad.
 
 ---
 
@@ -175,7 +192,8 @@ Nếu bạn làm theo bài học nhưng bị **lỗi ảnh, lỗi prompt** hoặ
 
 - `[Hỏi bài Day 3] Prompt của mình chưa ra đúng ảnh`
 - `[Hỏi bài Day 22] Cách viết prompt commercial Seedance`
-- `[Khoe kết quả] Ad cà phê của mình từ Day 22-23`
+- `[Hỏi bài Day 24] Pipeline image-to-video multi-reference`
+- `[Khoe kết quả] Ad cà phê của mình từ Day 24`
 
 ---
 
@@ -194,14 +212,15 @@ linh0ai-daily-tutorials/
 │   ├── day-01.md
 │   ├── day-02.md
 │   └── ...
-│   └── day-23.md
+│   └── day-24.md
 ├── prompts/               ← Thư viện prompt mẫu
 │   ├── day-01.txt
 │   ├── day-22-prompts.txt
-│   └── day-23-prompts.txt
+│   ├── day-23-prompts.txt
+│   └── day-24-prompts.txt
 └── assets/
-    ├── images/            ← Thumbnails, banner, demo images
-    └── videos/            ← Demo MP4 clips (Day 19-22)
+    ├── images/            ← Thumbnails, banner, keyframes, demo images
+    └── videos/            ← Demo MP4 clips (Day 19-24)
 ```
 
 ---
@@ -271,4 +290,4 @@ MIT — dùng tự do, ghi nguồn nếu repost.
 
 **Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
 
-**Cập nhật lần cuối:** Day 23 hoàn thành — 12/05/2026 (Tuần 4 Day 2)
+**Cập nhật lần cuối:** Day 24 hoàn thành — 12/05/2026 (Tuần 4 Day 3 — Full pipeline ad cà phê 15s production-ready)
