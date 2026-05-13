@@ -1,0 +1,621 @@
+═══════════════════════════════════════════════════════════
+DAY 24 — PROMPTS
+Storyboard thương mại & Keyframe + Video Generation
+═══════════════════════════════════════════════════════════
+
+CONTEXT
+-------
+Bài Day 24 là FULL PIPELINE từ keyframes đến video cho ad cà phê 
+sữa đá 15s. File này có 2 phần:
+
+PHẦN A — 9 IMAGE PROMPTS (GPT Image 2)
+  - Generate 9 keyframes tĩnh
+  - Cost: ~8,100 VND
+  - Output: 1 Character Master + 1 Product Master + 1 Scene Master 
+    + 6 Shot Keyframes
+
+PHẦN B — 3 VIDEO PROMPTS (Seedance Omni 2.0 image-to-video)
+  - Generate 3 videos × 15s từ 9 keyframes
+  - 9 keyframes chia thành 3 phân cảnh × 3 references
+  - Cost: ~108,000 VND
+  - Output: 3 videos × 15s = 45s raw → ghép CapCut thành ad final
+
+Tổng Day 24: ~116,100 VND (chưa buffer re-gen)
+Total budget với buffer 20%: ~140,000 VND
+
+Setup chung PHẦN A (Image):
+- Model: GPT Image 2 (trên 0ai.vn)
+- Ratio: 9:16 dọc
+- Resolution: Medium 2K
+- Language: Tiếng Việt thuần (Day 16 verified)
+
+Setup chung PHẦN B (Video):
+- Model: Seedance 2.0-Omni image-to-video
+- Duration: 15s/video
+- Resolution: 720p
+- Ratio: 9:16 dọc (sync với keyframes)
+- Language: Tiếng Trung (Day 22 verified)
+
+
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+PHẦN A — IMAGE PROMPTS (GPT Image 2)
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 1 — CHARACTER MASTER IMAGE (Lan barista)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-character-master-lan.png
+
+Mục đích: Tạo ảnh nhân vật chuẩn — Lan, barista 28 tuổi. Anchor cho mọi 
+shot có người sau này (Shot 2 và Shot 4).
+
+Prompt:
+
+Ảnh dọc 9:16 phong cách thương mại thực tế của Lan — nữ barista Việt Nam 
+28 tuổi, khuôn mặt trái xoan, nước da nâu sáng tự nhiên, mắt đen tự nhiên, 
+tóc đen buộc đuôi ngựa thấp, makeup tự nhiên nhẹ, nụ cười ấm áp thân thiện. 
+Mặc tạp dề màu beige bên ngoài áo sơ mi trắng tay ngắn. Đứng trong quán 
+cà phê Sài Gòn hiện đại ấm cúng, quầy gỗ phía sau, ánh sáng buổi sáng 
+warm tự nhiên từ phía bên phải. Bố cục clean thương mại, lifestyle chân 
+thực, không chữ, không logo, không watermark.
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 2 — PRODUCT MASTER IMAGE (Cà phê sữa đá)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-product-master-coffee.png
+
+Mục đích: Tạo ảnh sản phẩm chuẩn — ly cà phê sữa đá. Anchor cho mọi 
+shot có sản phẩm.
+
+Prompt:
+
+Ảnh dọc 9:16 chụp sản phẩm thực tế của một ly cà phê sữa đá Việt Nam 
+đặt trên bàn gỗ ấm áp của quán cafe. Ly thủy tinh trong suốt, màu cà 
+phê nâu đậm hòa với lớp sữa, đá viên rõ ràng và sạch trong ly, giọt nước 
+ngưng tụ tự nhiên trên thành ly thủy tinh. Background quán cafe Sài Gòn 
+ấm cúng mờ ảo nhẹ, đèn thả trần màu hổ phách phía sau. Ánh sáng buổi 
+sáng warm tự nhiên, độ sâu trường ảnh nông, phong cách quảng cáo cao 
+cấp đồ uống. Bố cục clean centered, không chữ, không logo, không watermark.
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 3 — SCENE MASTER IMAGE (Quán cafe Sài Gòn)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-scene-master-cafe.png
+
+Mục đích: Tạo ảnh bối cảnh chuẩn — quán cafe Sài Gòn. Reference cho 
+mood, lighting, color palette toàn bộ ad.
+
+Prompt:
+
+Ảnh dọc 9:16 thực tế của không gian nội thất quán cà phê Sài Gòn hiện 
+đại ấm cúng. Quầy gỗ tự nhiên màu nâu ấm, đèn thả trần màu hổ phách 
+treo thấp tạo glow ấm áp, tường màu kem nhẹ, một vài chậu cây xanh nhỏ 
+ở góc, máy pha cà phê espresso phía sau quầy mờ ảo. Ánh sáng buổi sáng 
+tự nhiên nhẹ từ phía bên phải qua cửa sổ. Bảng màu chính: nâu ấm, kem, 
+hổ phách. Bố cục thương mại clean, không có người trong ảnh, không 
+chữ, không logo, không watermark.
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 4 — SHOT 1 KEYFRAME (Hook — Macro ly cà phê)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-shot-1-keyframe-hook-macro.png
+
+Mục đích: Hook 3s đầu — Macro extreme close-up giọt nước trên thành 
+ly cà phê.
+
+Prompt (KHÔNG cần @image1):
+
+Ảnh dọc 9:16 keyframe shot 1 cho video quảng cáo cà phê Việt Nam.
+
+Chủ thể chính: Ly cà phê sữa đá Việt Nam — macro extreme close-up vào 
+giọt nước ngưng tụ chảy chậm xuống thành ly thủy tinh, đá viên rõ nét 
+phản chiếu ánh sáng.
+
+Bối cảnh: Bàn gỗ quán cafe Sài Gòn ấm áp, background mờ ảo hoàn toàn.
+
+Camera: Macro extreme close-up, độ sâu trường ảnh nông, focus sắc nét 
+vào giọt nước và texture đá.
+
+Ánh sáng: Warm morning light từ phía bên phải tạo highlight trên thành 
+ly và phản chiếu qua đá viên.
+
+Phong cách: Quảng cáo cao cấp đồ uống, texture rõ nét, lifestyle chân thực.
+
+Format: dọc 9:16, bố cục clean, không chữ, không logo, không watermark.
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 5 — SHOT 2 KEYFRAME (Product prep — Lan rót cà phê)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-shot-2-keyframe-lan-pouring.png
+
+Mục đích: Product moment 3-6s — Lan barista rót cà phê đậm vào ly đá.
+
+CÁCH DÙNG: Trên 0ai.vn, upload Character Master (Prompt 1) làm 
+@image1 để giữ consistency nhân vật Lan.
+
+Prompt:
+
+@image1 (Character Master Lan)
+
+Ảnh dọc 9:16 keyframe shot 2 cho video quảng cáo cà phê Việt Nam.
+
+Chủ thể chính: Lan barista trong tạp dề beige cầm bình cà phê đậm rót 
+xuống ly thủy tinh đầy đá viên. Tay cầm bình tự nhiên, dòng cà phê nâu 
+chảy mượt vào ly tạo sóng nhẹ.
+
+Bối cảnh: Quầy gỗ quán cafe Sài Gòn, background mờ ảo, không quá rối.
+
+Camera: Medium 3/4 angle, focus vào tay Lan + bình cà phê + ly. Không 
+cần show toàn bộ mặt Lan, có thể crop từ vai xuống.
+
+Ánh sáng: Warm morning light tự nhiên ấm áp từ phía bên phải.
+
+Phong cách: Thương mại lifestyle moment chân thực, ấm áp.
+
+Continuity: Cùng nhân vật Lan với outfit từ Character Master (tạp dề 
+beige + áo trắng), cùng tone màu warm, cùng quán cafe.
+
+Format: dọc 9:16, bố cục clean, không chữ, không logo, không watermark.
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 6 — SHOT 3 KEYFRAME (Texture — Macro đá + sữa)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-shot-3-keyframe-macro-swirl.png
+
+Mục đích: Benefit moment 6-10s — Macro top-down lớp sữa hòa vào cà phê.
+
+Prompt (KHÔNG cần @image1):
+
+Ảnh dọc 9:16 keyframe shot 3 cho video quảng cáo cà phê Việt Nam.
+
+Chủ thể chính: Ly cà phê sữa đá — macro top-down lớp sữa trắng đang 
+hòa vào cà phê nâu đậm, tạo những vân swirl tự nhiên đẹp. Đá viên 
+trong ly rõ nét phía dưới.
+
+Bối cảnh: Bàn gỗ quán cafe, background mờ ảo.
+
+Camera: Macro top-down view nhìn từ trên xuống miệng ly, focus vào 
+swirl của sữa và cà phê.
+
+Ánh sáng: Warm light tạo highlight nhẹ trên bề mặt cà phê và sữa, 
+phản chiếu qua đá.
+
+Phong cách: Quảng cáo cao cấp đồ uống, texture motion rõ nét.
+
+Continuity: Cùng ly cà phê, cùng tone màu warm, cùng quán cafe.
+
+Format: dọc 9:16, bố cục clean, không chữ, không logo, không watermark.
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 7 — SHOT 4 KEYFRAME (Character moment — Lan cầm ly)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-shot-4-keyframe-lan-smile.png
+
+Mục đích: Emotion 10-13s — Lan cầm ly cà phê, mỉm cười.
+
+CÁCH DÙNG: Upload Character Master (Prompt 1) làm @image1.
+
+Prompt:
+
+@image1 (Character Master Lan)
+
+Ảnh dọc 9:16 keyframe shot 4 cho video quảng cáo cà phê Việt Nam.
+
+Chủ thể chính: Lan barista đứng tại quầy, cầm ly cà phê sữa đá bằng 
+cả hai tay đưa lên ngang ngực, mỉm cười ấm áp thân thiện, ánh mắt 
+hướng nhẹ về phía camera.
+
+Bối cảnh: Quầy gỗ quán cafe Sài Gòn, background mờ ảo có đèn warm.
+
+Camera: Medium portrait shot từ ngực lên, focus vào Lan và ly cà phê 
+trong tay.
+
+Ánh sáng: Warm morning light từ phía sau Lan tạo halo nhẹ trên tóc, 
+ánh sáng chính từ phía bên phải.
+
+Phong cách: Thương mại human moment, chân thực ấm áp, mời gọi.
+
+Continuity: Cùng Lan với outfit từ Character Master (tạp dề beige + 
+áo trắng + tóc đuôi ngựa thấp), cùng ly cà phê, cùng quán cafe.
+
+Format: dọc 9:16, bố cục clean, không chữ, không logo, không watermark.
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 8 — SHOT 5 KEYFRAME (Benefit — Product hero shot)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-shot-5-keyframe-product-hero.png
+
+Mục đích: Product hero 13-14s — Ly cà phê centered, hero shot.
+
+Prompt (KHÔNG cần @image1):
+
+Ảnh dọc 9:16 keyframe shot 5 cho video quảng cáo cà phê Việt Nam.
+
+Chủ thể chính: Ly cà phê sữa đá Việt Nam đặt centered trên bàn gỗ, 
+hero shot product. Ly thủy tinh trong suốt với cà phê nâu đậm + lớp 
+sữa + đá viên rõ nét, giọt nước ngưng tụ trên thành ly.
+
+Bối cảnh: Bàn gỗ ấm quán cafe Sài Gòn, background mờ ảo có đèn hổ phách 
+phía sau tạo bokeh đẹp.
+
+Camera: Medium close-up centered composition, hero product shot, độ 
+sâu trường ảnh nông.
+
+Ánh sáng: Warm golden hour light tạo highlight đẹp trên thành ly và 
+đá viên, reflection chất lượng cao.
+
+Phong cách: Thương mại premium product photography, cinematic.
+
+Continuity: Cùng ly cà phê (với Product Master pattern), cùng tone 
+màu warm, cùng quán cafe.
+
+Format: dọc 9:16, bố cục clean centered, không chữ, không logo, không 
+watermark.
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 9 — SHOT 6 KEYFRAME (CTA — Final frame với text space)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-shot-6-keyframe-cta-final.png
+
+Mục đích: CTA final 14-15s — Ly cà phê với composition để dành space 
+cho text CTA overlay trong CapCut sau này.
+
+Prompt (KHÔNG cần @image1):
+
+Ảnh dọc 9:16 keyframe shot 6 cho video quảng cáo cà phê Việt Nam.
+
+Chủ thể chính: Ly cà phê sữa đá Việt Nam đặt centered ở phần dưới 
+1/2 khung hình, hero shot. Phần trên 1/3 khung hình trống (background 
+mờ + space cho text CTA add sau).
+
+Bối cảnh: Bàn gỗ quán cafe Sài Gòn, background blur nhẹ nhưng vẫn 
+nhận diện được không gian quán cafe ấm áp.
+
+Camera: Medium shot composition đặc biệt — sản phẩm ở bottom-center, 
+top 1/3 frame để trống cho text overlay.
+
+Ánh sáng: Warm soft morning light, không over-exposed, để text overlay 
+sau này dễ đọc.
+
+Phong cách: Thương mại final frame design, clean composition để add 
+text + logo overlay trong edit phase.
+
+Continuity: Cùng ly cà phê, cùng quán cafe, cùng tone màu warm với 
+các shot trước.
+
+Format: dọc 9:16, bố cục bottom-weighted với top space trống, không 
+chữ trong ảnh (text sẽ add CapCut), không logo, không watermark.
+
+
+═══════════════════════════════════════════════════════════
+GHI CHÚ WORKFLOW
+═══════════════════════════════════════════════════════════
+
+1. Thứ tự generate (recommend):
+   a. Character Master (Prompt 1) — generate first, làm anchor
+   b. Product Master (Prompt 2) — generate độc lập
+   c. Scene Master (Prompt 3) — generate độc lập
+   d. Shot 1, 3, 5, 6 (không có Lan) — generate độc lập
+   e. Shot 2, 4 (có Lan) — upload Character Master làm @image1
+
+2. Nếu Lan trong Shot 2 / Shot 4 không match Character Master:
+   - Re-generate Shot đó với @image1 lại
+   - Hoặc reduce thêm detail trong prompt về appearance
+
+3. Nếu Master Image không như ý:
+   - Re-generate Master TRƯỚC khi gen các shots khác
+   - Vì Master là anchor — Master sai = toàn bộ pipeline sai
+
+4. Tại sao tiếng Việt cho GPT Image 2?
+   Day 16 đã verify Tuần 1: "Tiếng Việt thuần đủ tốt cho GPT Image 2".
+   Mình giữ pattern này cho consistency Tuần 1-4.
+
+5. Tại sao 9:16 cho tất cả?
+   - Final deliverable là TikTok/Reels/Shorts (9:16 native)
+   - 0ai.vn GPT Image 2 đã verified support 9:16 (Linh confirm)
+
+6. Cost dự kiến tổng:
+   9 ảnh × ~900 VND = ~8,100 VND
+
+7. Re-gen buffer:
+   Nếu lần 1 fail 1-2 ảnh, gen lại = +1,800 VND.
+   Total budget Day 24: ~10,000 VND.
+
+8. Quy ước @image1 trên 0ai.vn:
+   - Upload ảnh Character Master vào ô image reference
+   - Prompt có ghi rõ "@image1" để model biết dùng reference
+   - Sync với Day 17-18 pattern
+
+
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+PHẦN B — VIDEO PROMPTS (Seedance Omni 2.0 image-to-video)
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+
+Sau khi có 9 keyframes từ Phần A, generate 3 videos × 15s.
+Chia 9 keyframes thành 3 phân cảnh × 3 references:
+
+| Phân cảnh | Narrative | 3 References |
+|-----------|-----------|--------------|
+| 1 | Establishment + Hook | Scene Master + Shot 1 + Product Master |
+| 2 | Production (Lan pha cà phê) | Character Master + Shot 2 + Shot 3 |
+| 3 | Emotion + CTA | Shot 4 + Shot 5 + Shot 6 |
+
+Workflow trên 0ai.vn:
+1. Mở Seedance 2.0-Omni
+2. Chọn mode image-to-video
+3. Upload 3 keyframes theo thứ tự (slot 1, 2, 3 = @image1, @image2, @image3)
+4. Paste prompt tiếng Trung
+5. Set duration 15s, ratio 9:16
+6. Generate
+
+LƯU Ý: Nếu Seedance 2.0-Omni chỉ support 1 image reference, dùng 
+@image1 (image quan trọng nhất của phân cảnh) — narrative trong 
+prompt sẽ describe các shots khác.
+
+
+═══════════════════════════════════════════════════════════
+PHÂN CẢNH 1 — ESTABLISHMENT + HOOK (15s)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-video-scene-1-establishment-hook-15s.mp4
+
+3 References (upload theo thứ tự):
+- @image1 = day-24-scene-master-cafe.png (quán cafe interior - environment)
+- @image2 = day-24-shot-1-keyframe-hook-macro.png (macro ly cà phê - detail)
+- @image3 = day-24-product-master-coffee.png (ly cà phê hero - complete product)
+
+Prompt:
+
+高级越南冰咖啡商业广告视频片段第一场，Seedance Omni 2.0，时长15秒，9:16竖屏，真实写实商业广告风格。
+
+参考图像：
+@image1 = 温暖现代西贡咖啡馆室内环境参考。
+@image2 = 越南冰咖啡 macro 细节参考，冰块、咖啡质感、凝结水珠。
+@image3 = 完整越南冰咖啡 hero product 参考。
+
+【主体锁定】
+只出现一杯越南冰咖啡。单一透明玻璃杯，杯型保持不变，杯中有清晰冰块，深棕色咖啡与奶白色咖啡层呈自然混合后的稳定纹理，杯壁有真实凝结水珠，质感清爽。
+整个视频始终保持同一个玻璃杯、同样杯型、同样咖啡颜色、同样奶层比例、同样冰块数量。不要复制杯子，不要出现第二杯，不要改变液体比例。
+
+【场景】
+温暖现代的西贡咖啡馆室内，木质桌面、木质柜台、柔焦琥珀色吊灯、咖啡机、绿植、晨光窗户。整体氛围温暖、自然、干净、高级商业广告感。
+
+【15秒镜头时间线】
+0–3秒：
+广角建立镜头。缓慢展示咖啡馆室内空间：木质柜台、琥珀色吊灯、绿植、柔和晨光从右侧窗户进入。镜头平稳向前移动，建立温暖高级的咖啡馆氛围。画面里不要出现人物。
+
+3–6秒：
+镜头自然推进到木桌上的单一杯越南冰咖啡。产品逐渐成为画面中心，背景开始柔焦。杯子稳定放在木桌上，不要突然出现，不要跳切。
+
+6–10秒：
+macro extreme close-up。镜头贴近玻璃杯壁，凝结水珠缓慢向下滑动，冰块在咖啡中反射晨光，咖啡和奶层纹理保持稳定。不要让液体比例突然变化，不要让咖啡疯狂旋转。
+
+10–13秒：
+镜头轻微绕杯子移动，展示杯身不同角度。玻璃、冰块、咖啡液面和水珠有真实反射，右侧晨光扫过杯身边缘，形成漂亮高光。
+
+13–15秒：
+最终 hero product shot。杯子稳定居中放在木桌上，背景完全柔焦，晨光在杯壁和冰块上形成柔和高光，画面安静、高级、稳定，停留作为广告收尾。
+
+【镜头语言】
+9:16 vertical commercial video。smooth dolly-in, focus shift, macro close-up, subtle orbit camera, final locked hero shot。所有转场通过镜头推进、焦点转移、光线扫过完成。不要硬切，不要闪烁，不要突然换背景。
+
+【光线】
+右侧温暖金色晨光从窗户进入，背景琥珀色吊灯柔焦。光线温暖但不要过度橙黄，不要过曝。玻璃、冰块、咖啡液面、水珠必须有真实高光和反射。
+
+【声音】
+无背景音乐，无旁白，无对白。
+只保留自然声音：轻微冰块碰撞声、安静咖啡馆环境音、远处咖啡机低声运作、细微冷凝水滴声。
+
+【严格避免】
+不要出现人物，不要出现手，不要出现脸部特写。
+不要复制杯子，不要出现第二个杯子。
+不要扭曲玻璃，不要变形冰块，不要液体比例突然改变，不要咖啡牛奶闪烁，不要背景突变。
+不要文字，不要 logo，不要水印，不要卡通，不要动漫风，不要低质量。
+
+
+═══════════════════════════════════════════════════════════
+PHÂN CẢNH 2 — LAN PRODUCTION / PHA CÀ PHÊ (15s)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-video-scene-2-lan-production-15s.mp4
+
+3 References (upload theo thứ tự):
+- @image1 = day-24-character-master-lan.png (Lan barista - character anchor)
+- @image2 = day-24-shot-2-keyframe-lan-pouring.png (Lan rót cà phê - action)
+- @image3 = day-24-shot-3-keyframe-macro-swirl.png (macro top-down swirl - detail)
+
+Prompt:
+
+高级越南冰咖啡商业广告视频片段第二场，Seedance Omni 2.0，时长15秒，9:16竖屏，真实写实商业广告风格。
+
+参考图像：
+@image1 = Lan 咖啡师角色标准外观参考。
+@image2 = Lan 倒咖啡动作参考。
+@image3 = 咖啡与奶层 swirl macro 俯视细节参考。
+
+【角色锁定】
+Lan，28岁越南女性咖啡师，椭圆脸型，自然暖棕色皮肤，自然黑眼，黑色长发低马尾，轻自然妆，温暖友好的微笑。穿米色围裙和白色短袖衬衫。
+整个视频始终保持同一个 Lan，同样脸型、同样发型、同样服装、同样温暖气质。不要换脸，不要改变发型，不要改变服装颜色，不要过度美颜。
+
+【产品锁定】
+只出现一杯越南冰咖啡。透明玻璃杯，杯中有清晰冰块。前半段是制作过程：深棕色咖啡倒入冰杯，随后奶白色液体进入咖啡形成自然 swirl。后半段咖啡逐渐稳定成漂亮的咖啡奶纹理。
+保持同一个杯子，不要复制杯子，不要改变杯型。
+
+【场景】
+温暖现代的西贡咖啡馆木质柜台，背景有柔焦咖啡机、木质柜台、绿植、琥珀色灯光。右侧窗户有温暖晨光进入。整体氛围专业、亲切、干净、高级。
+
+【15秒镜头时间线】
+0–3秒：
+中景人物镜头。Lan 站在咖啡馆柜台后方，穿米色围裙和白色衬衫，温暖微笑，眼神友好。镜头缓慢推进，建立人物亲和力。
+
+3–7秒：
+Lan 双手自然拿起玻璃咖啡壶，将深棕色咖啡缓慢倒入装有冰块的透明玻璃杯中。镜头 focus 在 Lan 的手部、咖啡壶和杯子。咖啡流线顺滑，冰块轻微碰撞，动作专业、真实、优雅。
+
+7–11秒：
+macro top-down 俯视特写。奶白色液体从上方进入深棕咖啡中，形成自然漂亮的 swirl 纹理，冰块清晰可见。swirl 要真实流体感，慢慢扩散，不要像抽象图案，不要闪烁，不要液体比例突然跳变。
+
+11–15秒：
+镜头缓慢拉远，回到 Lan 在柜台后方的中景。完成后的咖啡杯放在木质桌面或柜台上，Lan 看向杯子，露出满意、温柔的微笑。最终画面稳定，保留温暖人情味。
+
+【转场要求】
+所有转场通过手部动作、咖啡倒入动作、焦点从 Lan 转到杯子、俯视 macro、自然 pull back 完成。不要硬切，不要闪烁，不要突然换背景。
+
+【镜头】
+9:16 vertical commercial video。中景人物、手部动作特写、top-down macro、人物中景收尾。镜头运动包括 slow push-in、focus transition、macro cut-in、smooth pull-back。
+
+【光线】
+右侧温暖晨光照在 Lan、手部和咖啡杯上。背景琥珀色环境光柔焦。光线自然柔和，不要过曝，不要硬阴影。
+
+【声音】
+无背景音乐，无旁白，无对白。
+只保留自然声音：咖啡倒入冰块的声音、轻微冰块碰撞声、玻璃杯细微声音、咖啡馆环境音。
+
+【严格避免】
+不要改变 Lan 的脸、服装或发型。
+不要手指变形，不要多余手指，不要复制人物。
+不要复制杯子，不要出现第二个杯子。
+不要液体状态突然改变，不要杯子跳变，不要背景突变。
+不要文字，不要 logo，不要水印，不要卡通，不要动漫风，不要过度磨皮。
+
+
+═══════════════════════════════════════════════════════════
+PHÂN CẢNH 3 — EMOTION + CTA (15s)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-24-video-scene-3-emotion-cta-15s.mp4
+
+3 References (upload theo thứ tự):
+- @image1 = day-24-shot-4-keyframe-lan-smile.png (Lan cười cầm ly - emotion)
+- @image2 = day-24-shot-5-keyframe-product-hero.png (product hero shot)
+- @image3 = day-24-shot-6-keyframe-cta-final.png (CTA final với top space)
+
+Prompt:
+
+高级越南冰咖啡商业广告视频片段第三场，Seedance Omni 2.0，时长15秒，9:16竖屏，真实写实商业广告风格。
+
+参考图像：
+@image1 = Lan 双手举杯温暖微笑的情绪参考。
+@image2 = 越南冰咖啡 product hero shot 参考。
+@image3 = 最终 CTA 构图参考，杯子在画面下方，上方留白用于后期加文字。
+
+【角色锁定】
+Lan，28岁越南女性咖啡师，椭圆脸型，自然暖棕色皮肤，黑色长发低马尾，温暖友好的微笑，穿米色围裙和白色短袖衬衫。始终保持同一个 Lan，同样脸、发型、服装和气质。
+
+【产品锁定】
+只出现一杯越南冰咖啡。透明玻璃杯，深棕色咖啡与奶白色咖啡纹理稳定，清晰冰块，杯壁凝结水珠，质感真实清爽。始终保持同一杯子、同样杯型、同样咖啡颜色、同样冰块。
+
+【场景】
+温暖现代的西贡咖啡馆，木质柜台和木桌，背景有柔焦琥珀色吊灯、绿植和晨光。整体氛围温暖、亲切、高级商业感。
+
+【15秒镜头时间线】
+0–4秒：
+中景人物肖像。Lan 双手举着完整的越南冰咖啡杯，杯子在胸前，微笑温暖友好，眼神轻轻看向镜头。动作自然真实，杯子稳定清晰可见。
+
+4–8秒：
+Lan 轻轻将杯子放在木桌中央。镜头 focus 从 Lan 的脸和手转移到桌上的咖啡杯，背景中的 Lan 逐渐柔焦。放杯动作轻柔自然，不要跳切。
+
+8–12秒：
+product hero shot。玻璃杯居中放在木桌上，镜头缓慢推近。晨光扫过杯壁，冰块、咖啡纹理、凝结水珠清晰可见。背景柔焦，商业饮品广告质感高级。
+
+12–15秒：
+最终 CTA frame。杯子放在画面下方中心位置，约占下半部分；上方 1/3 到 1/2 画面保持干净柔焦留白，用于后期添加文字 CTA。背景温暖但不要太亮，不要有复杂物体遮挡留白区域。画面稳定停住。
+
+【转场要求】
+通过 Lan 放杯动作、焦点转移、自然 pull-back 和 product push-in 完成衔接。不要硬切，不要闪烁，不要突然换背景。
+
+【镜头】
+9:16 vertical commercial video。人物中景、放杯动作、产品 hero shot、final CTA clean frame。镜头运动包括 slow push-in、focus transition、smooth pull-back、final locked frame。
+
+【光线】
+右侧温暖晨光进入，柔和自然光照在 Lan 和咖啡上。最终 CTA frame 光线要均匀柔和，顶部留白区域不能过曝，方便后期加文字。
+
+【声音】
+无背景音乐，无旁白，无对白。
+只保留自然声音：杯子轻放在木桌上的声音、轻微冰块声、安静咖啡馆环境音、柔和空气感。
+
+【连续性要求】
+始终保持同一个 Lan、同一套服装、同一个玻璃杯、同样木桌、同样咖啡馆背景、同样暖色晨光。最终画面必须没有任何内置文字、logo、装饰性 CTA。
+
+【严格避免】
+不要改变 Lan 的脸、服装或发型。
+不要脸部变形，不要手指变形，不要复制人物。
+不要复制杯子，不要出现第二杯。
+不要液体状态突然改变，不要画面闪烁，不要镜头跳切。
+不要文字，不要 logo，不要水印。最终留白处必须干净。
+不要卡通，不要动漫风，不要过度磨皮。
+
+
+
+
+═══════════════════════════════════════════════════════════
+GHI CHÚ PHẦN B (VIDEO)
+═══════════════════════════════════════════════════════════
+
+1. Cấu trúc 11 sections kế thừa từ Day 22 Master Template (đã verified):
+   - Opening + 主体 + 场景 (Setup)
+   - 动作与镜头时间线 + 转场要求 + 镜头 (Storytelling)
+   - 光线 + 风格 + 声音 (Aesthetics)
+   - 连续性要求 + 严格避免 (Guardrails)
+
+2. Section "参考图像" mới (thêm cho Day 24 video):
+   Mô tả vai trò của mỗi @image trong scene cho model hiểu context.
+
+3. Lock state cho liquid (insight Day 22 coffee test):
+   Mọi prompt video đều ghi "已经混合好的稳定状态" để model không render
+   mixing process. Fix vấn đề coffee Day 22 (sản phẩm transform giữa
+   các phase).
+
+4. Continuity Lan:
+   Character Master Lan đã verified consistent across Shot 2 và Shot 4
+   Day 24 (PHẦN A). Phân cảnh 2 và 3 dùng những Lan keyframes này
+   làm anchor.
+
+5. Top space cho CTA text overlay (insight Day 23):
+   Phân cảnh 3 cuối ghi rõ "最终画面留白区域必须干净" để model leave
+   space cho text CTA add trong CapCut sau.
+
+6. Cost ước tính chi tiết:
+   - Phân cảnh 1: 15s × 2,400 = 36,000 VND
+   - Phân cảnh 2: 15s × 2,400 = 36,000 VND
+   - Phân cảnh 3: 15s × 2,400 = 36,000 VND
+   - Subtotal PHẦN B: 108,000 VND
+
+7. Workflow upload multi-image trên 0ai.vn:
+   Linh test xem 0ai.vn cho upload bao nhiêu image references đồng thời.
+   - Nếu support 3 refs: dùng nguyên prompt với @image1/2/3
+   - Nếu chỉ support 1-2 refs: ưu tiên @image1 (Character/Scene)
+
+8. Nếu lần 1 video fail:
+   - Check Lan consistency (Phân cảnh 2 và 3)
+   - Check liquid state (Phân cảnh 1, 2)
+   - Check final frame top space (Phân cảnh 3 — cần clean cho CTA)
+   - Re-gen với prompt tweak nếu cần
+
+9. Sau Day 24 có:
+   - 9 keyframes (Phần A) — assets/images/
+   - 3 videos × 15s = 45s raw (Phần B) — assets/videos/
+   - Tổng input cho Day 26 ghép trong CapCut
+
+═══════════════════════════════════════════════════════════
