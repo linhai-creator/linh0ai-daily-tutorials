@@ -1,0 +1,518 @@
+═══════════════════════════════════════════════════════════
+DAY 25 — PROMPTS
+3 Storyboard 4x4 + 3 Videos × 15s (3 brand khác nhau)
+═══════════════════════════════════════════════════════════
+
+CONTEXT
+-------
+Bài Day 25 = pipeline practice với 3 briefs khác nhau để verify pipeline
+Day 24 universal cho nhiều ngành. Mỗi brief có:
+- 1 storyboard 4x4 (16 panels) — GPT Image 2
+- 1 video 15s — Seedance Omni 2.0 image-to-video (@image1 = storyboard)
+
+3 Briefs:
+1. Sneaker high-end (Fashion) — VFX: Levitation + Light scan
+2. Serum dưỡng da (Beauty) — VFX: Slow-mo macro + Light scan
+3. Trà thảo mộc (Wellness) — VFX: Particle effects + Slow-mo pour
+
+Setup chung storyboard (Phần A):
+- Model: GPT Image 2 (trên 0ai.vn)
+- Ratio: 16:9 horizontal (để fit 4x4 grid + panels rộng)
+- Resolution: Medium 2K hoặc High 4K (Day 18 pattern)
+- Language: Tiếng Việt thuần (Day 16 verified)
+- Cost: 3 × ~900 = ~2,700 VND
+
+Setup chung video (Phần B):
+- Model: Seedance 2.0-Omni image-to-video
+- Ratio: 16:9 horizontal (sync với storyboard input)
+- Duration: 15s/video
+- Language: Tiếng Trung 11-section template Day 22
+- Cost: 3 × 36,000 = ~108,000 VND
+
+Tổng cost Day 25: ~110,700 VND
+Buffer re-gen 20%: ~133,000 VND total budget
+
+Pipeline reference:
+- Storyboard 4x4 pattern verified ở Day 18-19 short film
+- Image-to-video pattern verified ở Day 24 commercial
+- Day 25 = combine 2 patterns cho commercial production
+
+
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+PHẦN A — STORYBOARD 4x4 PROMPTS (GPT Image 2)
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════════
+STORYBOARD 1 — SNEAKER HIGH-END
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-25-storyboard-sneaker.png
+
+Mục đích: Storyboard 4x4 với 16 panels cho quảng cáo sneaker high-end 15s.
+VFX signature: Levitation + Light scan trên giày trong studio premium.
+
+Prompt:
+
+Storyboard thương mại dạng grid 4x4 với 16 panels, dành cho quảng cáo sneaker high-end 15 giây.
+
+Format: 1 canvas duy nhất chia làm 4 hàng x 4 cột = 16 panels, ratio tổng 16:9 horizontal. Mỗi panel có border màu đen nhẹ để phân biệt. Đọc panel theo thứ tự từ trái qua phải, từ trên xuống dưới (Panel 1 góc trên trái, Panel 16 góc dưới phải).
+
+Style: Photo realistic cinematic commercial, không phải sketch. Tone premium urban fashion ad — màu tối, đèn studio chiếu sáng giày, các tia ánh sáng quét qua.
+
+Sản phẩm chính: Một đôi sneaker high-end màu đen + trắng + xanh navy, thiết kế modern athletic, không có logo brand thật, không có chữ.
+
+Phân bổ 16 panels theo cấu trúc kịch bản 15s:
+
+HÀNG 1 (Panels 1-4): HOOK (0-3.75s) — Macro detail của giày
+
+Panel 1: Macro extreme close-up đế giày với texture rubber + tia ánh sáng quét qua đáy giày.
+Panel 2: Macro detail vải mesh trên thân giày, ánh sáng quét, không có logo.
+Panel 3: Macro detail dây giày đan chéo, vải đan rõ texture.
+Panel 4: Macro detail miếng pad gót giày, vải mềm, ánh sáng chiếu.
+
+HÀNG 2 (Panels 5-8): PRODUCT REVEAL (3.75-7.5s) — Giày full body
+
+Panel 5: Giày trong studio dark với line lights phía sau, medium 3/4 angle.
+Panel 6: Giày xoay từ side view sang front view, ánh sáng quét qua.
+Panel 7: Giày từ low-angle nhìn lên, dramatic perspective, line lights.
+Panel 8: Cận front view giày, light scan chạy qua thân giày tạo highlight.
+
+HÀNG 3 (Panels 9-12): VFX LEVITATION (7.5-11.25s) — Giày bay levitate
+
+Panel 9: Giày bắt đầu nâng lên khỏi mặt sàn, không có ground contact.
+Panel 10: Giày levitate trong không gian studio, hơi xoay nhẹ.
+Panel 11: Giày bay cao hơn, line lights quét quanh giày tạo dynamic.
+Panel 12: Giày bay đỉnh cao, tia ánh sáng từ phía sau xuyên qua tạo halo.
+
+HÀNG 4 (Panels 13-16): EMOTION + CTA (11.25-15s) — Người đi giày + hero ending
+
+Panel 13: Người đi giày tracking shot bàn chân trên đường phố urban.
+Panel 14: Người đi giày medium shot từ thắt lưng xuống, motion blur nhẹ.
+Panel 15: Giày trong studio hero shot centered, ánh sáng premium.
+Panel 16: Giày hero shot final với background blur, top space trống cho text CTA add sau.
+
+Yêu cầu chung:
+- Mỗi panel có ánh sáng warm tối + line lights premium
+- Không có chữ trong panel
+- Không có logo brand thật (Nike, Adidas, New Balance, ASICS, v.v.)
+- Không có watermark
+- Quality cinematic, photo realistic, không phải animation/cartoon
+- Tone color: dark + neon accent (xanh navy / xanh dương / vàng accent)
+
+
+═══════════════════════════════════════════════════════════
+STORYBOARD 2 — SERUM DƯỠNG DA
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-25-storyboard-serum.png
+
+Mục đích: Storyboard 4x4 với 16 panels cho quảng cáo serum dưỡng da 15s.
+VFX signature: Slow-mo macro giọt serum + Light scan trên chai.
+
+Prompt:
+
+Storyboard thương mại dạng grid 4x4 với 16 panels, dành cho quảng cáo serum dưỡng da 15 giây.
+
+Format: 1 canvas duy nhất chia làm 4 hàng x 4 cột = 16 panels, ratio tổng 16:9 horizontal. Mỗi panel có border màu đen nhẹ để phân biệt. Đọc panel theo thứ tự từ trái qua phải, từ trên xuống dưới.
+
+Style: Photo realistic cinematic commercial beauty ad. Tone premium beauty — màu sáng kem, nâu hồng nhẹ, ánh sáng tự nhiên warm, không gian sạch sang trọng.
+
+Sản phẩm chính: Chai serum thủy tinh trong suốt nhỏ với pipette dropper, chứa serum màu vàng nhạt trong suốt (như tinh dầu), nắp bạc kim loại. Không có logo brand, không có chữ.
+
+Phân bổ 16 panels theo cấu trúc kịch bản 15s:
+
+HÀNG 1 (Panels 1-4): HOOK (0-3.75s) — Macro slow-mo giọt serum
+
+Panel 1: Macro extreme close-up giọt serum vàng nhạt đang form ở đầu pipette dropper.
+Panel 2: Giọt serum rơi xuống slow-motion, kéo dài như thủy tinh lỏng.
+Panel 3: Giọt serum landing trên mặt phẳng glass dish, tạo ripple đẹp.
+Panel 4: Ripple lan tỏa từ giọt serum, light reflection trên bề mặt.
+
+HÀNG 2 (Panels 5-8): PRODUCT REVEAL (3.75-7.5s) — Chai serum full
+
+Panel 5: Chai serum 3/4 angle trên bàn marble trắng, background mờ ảo.
+Panel 6: Chai serum xoay nhẹ, ánh sáng quét qua thủy tinh tạo highlight.
+Panel 7: Chai serum medium shot, ánh sáng từ phía sau tạo backlight glow.
+Panel 8: Cận chai serum, light scan quét dọc theo chai tạo high light sang.
+
+HÀNG 3 (Panels 9-12): VFX SLOW-MO + LIGHT (7.5-11.25s) — Application
+
+Panel 9: Pipette nhỏ giọt serum xuống mu bàn tay slow-motion.
+Panel 10: Giọt serum landing trên da tay, lan tỏa nhẹ.
+Panel 11: Ngón tay khác thoa serum lên da, ánh sáng phản chiếu.
+Panel 12: Macro detail texture da sau khi thoa serum — da sáng dần lên, không bóng giả.
+
+HÀNG 4 (Panels 13-16): EMOTION + CTA (11.25-15s) — Use case + hero
+
+Panel 13: Cô gái Á Đông thoa serum lên má, ánh sáng warm morning.
+Panel 14: Cô gái smile nhẹ nhìn mirror, da sáng tự nhiên.
+Panel 15: Chai serum hero shot centered trên marble với morning rays.
+Panel 16: Chai serum + dropper resting cạnh glass dish, top space trống cho text CTA add sau.
+
+Yêu cầu chung:
+- Mỗi panel có ánh sáng warm morning natural
+- Không có chữ trong panel
+- Không có logo brand cụ thể
+- Không có watermark
+- Quality cinematic, photo realistic
+- Tone color: cream + nude + soft amber
+- Không hint medical/treatment (chỉ skincare lifestyle)
+- Da nhân vật natural texture, không quá smooth (không 塑料感)
+
+
+═══════════════════════════════════════════════════════════
+STORYBOARD 3 — TRÀ THẢO MỘC WELLNESS
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-25-storyboard-wellness-tea.png
+
+Mục đích: Storyboard 4x4 với 16 panels cho quảng cáo trà thảo mộc 15s.
+VFX signature: Particle effects (lá thảo mộc bay) + Slow-mo pour.
+
+Prompt:
+
+Storyboard thương mại dạng grid 4x4 với 16 panels, dành cho quảng cáo trà thảo mộc wellness 15 giây.
+
+Format: 1 canvas duy nhất chia làm 4 hàng x 4 cột = 16 panels, ratio tổng 16:9 horizontal. Mỗi panel có border màu đen nhẹ để phân biệt. Đọc panel theo thứ tự từ trái qua phải, từ trên xuống dưới.
+
+Style: Photo realistic cinematic commercial wellness ad. Tone organic warm natural — màu xanh thảo mộc, nâu gỗ, kem nhẹ, ánh sáng natural sunlight, không gian wellness cozy.
+
+Sản phẩm chính: Một tách trà thủy tinh trong suốt với trà thảo mộc màu vàng-cam ấm, có lá thảo mộc khô nổi nhẹ trên mặt (hoa cúc, lá bạc hà), đặt trên đĩa gỗ tự nhiên. Không có logo brand, không có chữ.
+
+Phân bổ 16 panels theo cấu trúc kịch bản 15s:
+
+HÀNG 1 (Panels 1-4): HOOK (0-3.75s) — Particle thảo mộc + setup
+
+Panel 1: Macro lá thảo mộc khô (hoa cúc) lơ lửng trong không gian, ánh sáng warm chiếu qua.
+Panel 2: Nhiều lá thảo mộc bay nhẹ như particle effect, slow-motion natural.
+Panel 3: Lá thảo mộc rơi xuống mặt nước trong tách, ripple tạo ra.
+Panel 4: Macro detail mặt nước với lá thảo mộc nổi, hơi nước bay lên nhẹ.
+
+HÀNG 2 (Panels 5-8): PRODUCT REVEAL (3.75-7.5s) — Tách trà + steam
+
+Panel 5: Tách trà 3/4 angle trên đĩa gỗ, hơi nước (steam) bốc lên nhẹ.
+Panel 6: Hơi nước cuộn nhẹ trên mặt trà, ánh sáng warm xuyên qua steam.
+Panel 7: Tách trà với morning sunlight từ phía bên phải, golden hour vibe.
+Panel 8: Cận mặt trà với màu vàng cam ấm, lá thảo mộc visible.
+
+HÀNG 3 (Panels 9-12): VFX SLOW-MO POUR (7.5-11.25s) — Pour + texture
+
+Panel 9: Bình thủy tinh rót trà thảo mộc xuống tách slow-motion.
+Panel 10: Dòng trà chảy mượt slow-mo, particle drops nhỏ tách ra.
+Panel 11: Trà landing vào tách, ripple lan tỏa, lá thảo mộc xoay nhẹ.
+Panel 12: Macro top-down nhìn xuống tách trà với swirl tự nhiên + lá nổi.
+
+HÀNG 4 (Panels 13-16): EMOTION + CTA (11.25-15s) — Use case + hero
+
+Panel 13: Bàn tay cầm tách trà, ngón tay tự nhiên, ánh sáng warm.
+Panel 14: Người uống ngụm trà, mắt khép nhẹ relax, smile mãn nguyện.
+Panel 15: Tách trà hero shot centered trên đĩa gỗ với morning rays.
+Panel 16: Tách trà + đĩa gỗ + 1-2 lá thảo mộc decorate quanh, top space trống cho text CTA.
+
+Yêu cầu chung:
+- Mỗi panel có ánh sáng warm morning natural sunlight
+- Không có chữ trong panel
+- Không có logo brand cụ thể
+- Không có watermark
+- KHÔNG hint medical/healing/chữa bệnh (chỉ wellness lifestyle drink)
+- KHÔNG show bác sĩ, dược sĩ, người mặc áo trắng y tế
+- Quality cinematic, photo realistic
+- Tone color: organic green + warm amber + natural wood brown
+
+
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+PHẦN B — VIDEO PROMPTS (Seedance Omni 2.0 image-to-video)
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+
+Sau khi có 3 storyboards Phần A, upload mỗi storyboard làm @image1 và
+generate 1 video 15s tương ứng.
+
+Workflow trên 0ai.vn:
+1. Mở Seedance 2.0-Omni image-to-video
+2. Upload 1 storyboard 4x4 làm @image1
+3. Paste prompt tiếng Trung tương ứng
+4. Set duration 15s, ratio 16:9
+5. Generate
+
+Pattern này verified Day 19 short film. Day 25 apply cho commercial.
+
+
+═══════════════════════════════════════════════════════════
+VIDEO 1 — SNEAKER HIGH-END (15s)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-25-video-sneaker-15s.mp4
+
+Reference: @image1 = day-25-storyboard-sneaker.png
+
+Prompt:
+
+高级运动鞋商业广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实高端商业广告风格，premium urban fashion aesthetic。
+
+【参考图像】
+@image1 仅作为分镜结构、镜头节奏、构图方向和视觉氛围参考。
+不要把@image1直接生成成storyboard拼图，不要出现grid、panel边框、分镜线、文字、编号、拼贴效果。
+
+【主体锁定】
+核心产品：同一款高端运动鞋，黑色 + 白色 + 深蓝色点缀，现代athletic设计，结构利落，材质高级，鞋底厚实有层次感。
+整个视频必须始终保持同一款鞋、同一配色、同一结构比例、同一材质语言。
+前半段studio产品镜头可以重点展示单只hero shoe。
+人物上脚段落可展示同款同配色的一双鞋穿在模特脚上，但绝对不能变成不同款式、不同品牌风格或不同结构的鞋。
+鞋面严禁出现任何品牌logo、品牌符号、品牌条纹、品牌文字或假文字。
+不要出现第二种鞋，不要切换鞋款，不要复制出不同设计版本。
+
+【场景设定】
+前半段：dark premium studio，黑色反光地面，蓝色与暖金色line lights，轻微空气雾化，空间干净克制，突出鞋体轮廓与材质。
+后半段：都市街头夜景/傍晚街景，地面略有反光，背景有城市灯光虚化与速度感。
+结尾：回到dark studio hero场景，画面干净，适合后期叠加CTA文字。
+
+【整体风格】
+真实写实，高级运动品牌广告质感，cinematic，dramatic，premium，urban athletic commercial。
+强调鞋底纹理、mesh鞋面、鞋带编织、鞋跟包裹、鞋身线条、反光高光、悬浮VFX和都市穿搭感。
+画面必须高级、干净、有节奏感，不要卡通，不要动漫，不要游戏CG感过重。
+
+【15秒镜头时间线】
+
+0–3秒（HOOK / Macro细节抓眼）
+使用4个快速但高级的macro close-up镜头，节奏紧凑，镜头之间用light wipe和focus carry自然衔接：
+1）鞋底橡胶纹理极近景，灯光扫过底纹，突出结构与摩擦纹路。
+2）鞋面mesh材质极近景，蓝色光线轻扫过表面，显出织物层次。
+3）鞋带交叉与鞋眼细节近景，质感清晰，微微高光。
+4）鞋跟padding与后跟稳定结构近景，背后有柔和轮廓光。
+整个hook段要有高级"抓眼"感，但不要闪烁过度，不要乱切。
+
+3–7秒（PRODUCT REVEAL / 产品展示）
+镜头进入dark studio完整展示鞋体：
+5）medium 3/4 angle hero shoe静置展示，背景line lights形成空间感。
+6）镜头缓慢推进，鞋子轻微旋转，从侧前方过渡到更接近正面的角度，光线扫过鞋身。
+7）low-angle镜头看鞋，突出体积感与鞋底结构，背景蓝金line lights交错。
+8）front / near-front angle镜头，light scan沿鞋头到鞋侧滑过，形成高级高光。
+这一段要明显完成"从局部细节到完整产品"的揭示。
+
+7–11秒（LEVITATION VFX / 悬浮高光段）
+9）鞋子从反光地面缓慢抬升，完全脱离地面，无任何支撑物，无ground contact。
+10）鞋子在空中轻微旋转，镜头小幅orbit环绕，line lights在后方穿行。
+11）鞋子悬浮更高，背景光线在鞋身周围形成动态光轨，空间感增强。
+12）悬浮高潮镜头，鞋子位于画面中心偏上，后方出现漂亮halo backlight，轮廓清晰，材质高级。
+悬浮段要稳定、丝滑、未来感强，但不能让鞋体变形，不要漂浮得太夸张，不要廉价特效感。
+
+11–13秒（URBAN USE CASE / 上脚都市感）
+13）切换到都市街头tracking shot，模特穿着同款同配色运动鞋在城市路面行走，镜头跟随脚步，突出落地与推进感。
+14）更动态一点的中低机位tracking镜头，轻微motion blur，背景城市灯光拖影，体现urban fashion与实际穿着氛围。
+这里重点展示"上脚后的帅感与机能感"，但鞋款必须和前面studio展示完全一致。
+
+13–15秒（FINAL HERO / CTA留白）
+15）回到dark studio，hero shoe稳定置于画面中下区域，镜头锁定，构图干净大气。
+16）最终hero shot，鞋子保持居中偏下，背景dark且有柔焦line lights，画面顶部和右侧保留足够干净留白，方便后期添加CTA文案。
+结尾必须稳定、简洁、有高级收束感，适合作为广告ending frame。
+
+【转场要求】
+所有转场通过以下方式自然完成：
+- light wipe
+- light scan sweep
+- focus shift / rack focus
+- match cut（相似角度或相似形态衔接）
+- smooth dolly continuation
+不要硬切，不要跳切，不要背景突然突变，不要频闪，不要镜头抖动。
+
+【镜头语言】
+使用：
+- macro extreme close-up
+- medium 3/4 product shot
+- low-angle hero shot
+- slow orbit around floating shoe
+- urban tracking on-foot shot
+- locked final hero composition
+镜头运动要稳定、克制、商业广告感强，不能像随手拍。
+
+【光线设计】
+Studio段：
+- dark studio base
+- 蓝色与暖金色line lights
+- 戏剧性背光与轮廓光
+- 鞋身上有高质量light scan
+Urban段：
+- 自然城市环境光 + 夜景/傍晚街头氛围
+- 背景略有bokeh与速度拖影
+整体光线必须premium、cinematic、层次清晰，不要过曝，不要脏乱。
+
+【声音】
+无对白，无旁白，无背景音乐。
+仅保留自然音效：
+- subtle light sweep / light wipe SFX
+- 轻微studio ambience
+- urban ambient
+- 脚步踩地声
+音效要克制、干净、商业感强。
+
+【连续性要求】
+始终保持：
+- 同一款鞋
+- 同一配色（黑 + 白 + 深蓝）
+- 同一鞋身结构
+- 同一材质逻辑
+- 同一dark + neon accent色彩体系
+- studio段统一的line lights世界观
+- urban段统一的街头氛围
+不能中途变款、变色、变材质、变品牌风格。
+
+【严格避免】
+不要出现任何品牌logo、品牌符号或品牌文字（Nike、Adidas、Puma、New Balance、ASICS等全部禁止）。
+不要生成假文字、乱码文字、鞋舌上的随机字母。
+不要把参考图生成成storyboard grid或拼贴图。
+不要复制出多双不同款式鞋。
+不要鞋体变形、鞋底扭曲、结构漂移。
+不要卡通，不要动漫，不要插画风，不要低质CG感。
+不要水印，不要字幕，不要画面中文字。
+
+
+═══════════════════════════════════════════════════════════
+VIDEO 2 — SERUM DƯỠNG DA (15s)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-25-video-serum-15s.mp4
+
+Reference: @image1 = day-25-storyboard-serum.png
+
+Prompt:
+
+高级护肤精华液商业广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实高级美妆广告风格。
+
+参考图像：
+@image1 = 精华液广告4x4分镜图，共16个panel。必须严格按照@image1的分镜顺序执行：从左到右、从上到下，依次推进，不得跳镜，不得省略开头分镜，不得打乱顺序。
+
+【主体锁定】
+单一透明玻璃精华液瓶，银色金属盖，白色滴管头，瓶内为淡金黄色透明精华液，无任何品牌logo、无文字。全片始终保持同一个瓶子、同一液体颜色、同一瓶型与质感，不得复制，不得变形。
+
+【场景】
+高级clean beauty空间，白色marble台面，柔焦背景，晨间暖阳从右侧进入，环境干净高级，自然通透。
+
+【严格按16个panel顺序生成】
+Panel 1：极近景，滴管头部形成一滴淡金色精华液，光泽清透。
+Panel 2：极近景，液滴被拉长下坠，慢动作，液体像液态玻璃。
+Panel 3：极近景，液滴落入透明液面，中心溅起小水冠。
+Panel 4：极近景，液面涟漪向外扩散，暖光反射在波纹上。
+Panel 5：中景产品镜头，精华液瓶3/4角度立于白色marble台面。
+Panel 6：中景，产品正面更居中，镜头轻推近，玻璃瓶高光更明显。
+Panel 7：中景偏逆光，晨光穿过瓶身，液体发出温暖透亮感。
+Panel 8：近景，瓶身局部高光扫过，强调玻璃质感与液体纹理。
+Panel 9：近景，滴管将一滴精华液滴在手背上，慢动作。
+Panel 10：极近景，精华液停留在手背表面，肌肤纹理清晰真实。
+Panel 11：近景，手指轻轻把精华液推开，质地顺滑延展。
+Panel 12：极近景，涂抹后的皮肤自然透亮，保留真实毛孔，不要塑料感。
+Panel 13：中近景，亚洲女性把精华液轻抹在脸颊，动作轻柔自然。
+Panel 14：中景，亚洲女性对镜轻微微笑，肤质自然通透。
+Panel 15：Hero shot，精华液瓶居中立于marble台面，晨光斜射，画面高级干净。
+Panel 16：Final hero shot，精华液瓶与滴管、玻璃小皿同框，右侧与上方留干净空间，方便后期添加CTA文字。
+
+【镜头运动】
+整体镜头以微距慢推、轻微拉近、轻柔焦点转移、稳定hero shot为主。转场必须柔和，依据液滴动作、焦点转移、光线扫过自然衔接，不要硬切，不要闪烁。
+
+【光线】
+暖色晨光从右侧进入，玻璃、液体、皮肤表面有自然高光，整体通透明亮但不过曝。
+
+【声音】
+无对白，无旁白，无背景音乐。仅保留自然环境声：轻微液滴声、玻璃轻碰声、柔和室内氛围声。
+
+【连续性要求】
+始终保持同一个精华液瓶、同样液体颜色、同样marble台面、同样暖晨光氛围、同一美妆空间。
+
+【严格避免】
+不要任何品牌logo、不要任何文字、不要watermark。不要医疗暗示、不要治疗感、不要医生白大褂。不要让皮肤过度磨皮，不要复制瓶子，不要改变瓶型或液体颜色，不要卡通，不要动漫风。
+
+
+═══════════════════════════════════════════════════════════
+VIDEO 3 — TRÀ THẢO MỘC WELLNESS (15s)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-25-video-wellness-tea-15s.mp4
+
+Reference: @image1 = day-25-storyboard-wellness-tea.png
+
+Prompt:
+
+高级草本养生茶商业广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实高级wellness广告风格。
+
+参考图像：
+@image1 = 草本茶广告4x4分镜图，共16个panel。必须严格按照@image1的分镜顺序执行：从左到右、从上到下，依次推进，不得跳镜，不得省略开头分镜，不得打乱顺序。
+
+【主体锁定】
+单一透明玻璃茶杯，内装温暖金黄色草本茶，表面可见菊花与薄荷叶，放在自然木质碟子上。无任何品牌logo、无文字。全片始终保持同一个茶杯、同样茶色、同样草本叶配置，不得复制，不得变形。
+
+【场景】
+温馨organic wellness空间，木质桌面，柔焦背景有植物与自然材质，晨间暖阳从右侧照入，整体舒适、宁静、自然高级。
+
+【严格按16个panel顺序生成】
+Panel 1：极近景，干燥菊花在空气中悬浮，暖阳穿过，像柔和particle。
+Panel 2：极近景，多种草本叶与花瓣在空中慢慢飘动，层次丰富。
+Panel 3：极近景，草本叶落入液面，溅起细小水花与波纹。
+Panel 4：极近景，茶面上漂浮草本叶，蒸汽轻轻升起。
+Panel 5：中景产品镜头，透明茶杯置于木质碟子上，茶色温暖，蒸汽可见。
+Panel 6：近景，镜头更靠近茶面与蒸汽，蒸汽卷动柔美。
+Panel 7：中景，晨光从右侧照射茶杯，杯中茶体透亮发光。
+Panel 8：近景，茶面与草本叶细节清晰，金黄茶色高级温润。
+Panel 9：中景，透明玻璃茶壶向茶杯缓慢倒茶。
+Panel 10：极近景，茶流顺滑落下，伴随细小液滴飞溅。
+Panel 11：近景，热茶落入杯中形成波纹，草本叶轻轻旋转。
+Panel 12：俯拍极近景，从上方看茶面自然旋涡，花叶漂浮其中。
+Panel 13：近景，双手自然捧起茶杯，动作温柔，暖光照在手部。
+Panel 14：中景，亚洲女性闭眼轻饮一口，神情放松满足，微笑自然。
+Panel 15：Hero shot，茶杯居中放在木质碟子上，晨光斜射，蒸汽轻升。
+Panel 16：Final hero shot，茶杯、木碟与少量草本叶装饰同框，顶部与右侧留干净空间，方便后期添加CTA文字。
+
+【镜头运动】
+整体以微距慢推、轻柔拉近、蒸汽与草本漂浮的自然过渡、稳定hero shot为主。转场通过蒸汽、液体波纹、漂浮草本、焦点转移自然衔接，不要硬切，不要闪烁。
+
+【光线】
+暖色晨间自然光从右侧穿过蒸汽与茶杯，形成柔和高光与舒适氛围，整体温暖但不过曝。
+
+【声音】
+无对白，无旁白，无背景音乐。仅保留自然声音：轻柔倒茶声、细微叶片飘动声、安静室内环境声。
+
+【连续性要求】
+始终保持同一个茶杯、同样茶色、同样草本叶配置、同样木质桌面、同样晨光氛围、同一wellness空间。
+
+【严格避免】
+不要任何品牌logo、不要任何文字、不要watermark。不要医疗、治愈、药效暗示，不要医生、药剂师、白大褂，不要药瓶包装。不要复制茶杯，不要让茶色突变，不要卡通，不要动漫风。
+
+
+═══════════════════════════════════════════════════════════
+GHI CHÚ
+═══════════════════════════════════════════════════════════
+
+1. Workflow tổng Day 25:
+   Bước 1: Generate 3 storyboards (Phần A) — cost ~2,700 VND
+   Bước 2: Review 3 storyboards quality
+   Bước 3: Generate 3 videos (Phần B) — cost ~108,000 VND
+   Bước 4: Review 3 videos quality
+   Bước 5: Re-gen video nào fail (buffer +36K mỗi re-gen)
+
+2. Pattern verified:
+   - Storyboard 4x4 GPT Image 2: Day 18 pattern verified
+   - Storyboard 4x4 làm input Seedance: Day 19 pattern verified (short film)
+   - Image-to-video commercial: Day 24 pattern verified
+
+3. Key insight Day 25 sẽ tìm:
+   - Pipeline universal cho 3 ngành khác nhau?
+   - VFX combo (2 VFX/brief) có work không?
+   - Branded products (sneaker) image-to-video có fix Risk Matrix Day 22?
+
+4. Compliance VN cho wellness drink:
+   - KHÔNG claim chữa bệnh
+   - KHÔNG dùng bác sĩ/dược sĩ
+   - KHÔNG hint medical
+   - Wellness lifestyle only
+
+5. Cost dự kiến chi tiết:
+   - 3 storyboards × 900 = 2,700
+   - 3 videos × 36,000 = 108,000
+   - Subtotal: 110,700 VND
+   - Buffer re-gen 20%: ~22,000 VND
+   - Total budget: ~133,000 VND
+
+═══════════════════════════════════════════════════════════
