@@ -469,7 +469,7 @@ Mỗi clip Seedance: 3 @image refs
 
 ---
 
-## Phần 7 — 2 Videos Kết quả Thực tế
+## Phần 7 — 2 Videos Seedance + 1 Video Final 30s Kết quả Thực tế
 
 ### 🎬 Video 1 — "TRƯỚC" (15s Setup + Confrontation)
 
@@ -522,7 +522,46 @@ Mỗi clip Seedance: 3 @image refs
 - ⚠️ Panel 9 minor deviation: An visible nửa người thay vì chỉ tay (prompt yêu cầu "chỉ tay") — không hurt story
 - ⚠️ Panel 13 ban đầu có duplicate person bug (2 mẹ trong frame) → Fix với explicit "CHỈ 1 NGƯỜI" instruction → bug resolved
 
-**Cost 2 videos:** ~72,000 VND (2 × 36K).
+### 🎬 Video Final — 30s đã ghép CapCut (Cinema Trailer Production-Ready)
+
+[![Final 30s thumbnail](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-26-phap-phuc-lam-30s-thumbnail.jpg)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-26-phap-phuc-lam-30s.mp4)
+> 👆 Click thumbnail để xem video MP4 final (~30s, ~10MB) — **Cinema-style 30s trailer hoàn chỉnh với nhạc + CTA**
+
+Đây là **output cuối cùng** của Day 26 — 2 videos × 15s đã ghép lại trong CapCut Desktop với **Hybrid workflow** (manual merge + AI music sync). Toàn bộ story arc 3-act + cliffhanger + Memorable Moment + Trust signal + CTA gói trong 30 giây.
+
+**Cấu trúc 30s timeline:**
+
+| Time | Phase | Mô tả |
+| --- | --- | --- |
+| 0-15s | Video 1 "TRƯỚC" | Setup + Confrontation + Cliffhanger ending |
+| 15s | **Hard cut** | Transition Video 1 → Video 2 (KHÔNG fade — preserve cliffhanger) |
+| 15-22s | Video 2 đầu | Resolution (mẹ nhận → mặc → ngắm) |
+| **22-25s** | **⭐ Memorable Moment** | **Mẹ peaceful rưng rưng dưới bồ đề (3s static)** |
+| 25-28s | Trust + Family | Wide bồ đề → Tay thợ may → Mẹ+Con cổng tam quan |
+| 27.5-29.2s | CTA text overlay | Fade in/out CTA "PHÁP PHỤC LAM HUẾ" |
+| 29.2-30s | Ending peaceful | Mẹ + An yên bình trước cổng |
+
+**Specs technical:**
+
+- **Resolution:** 1280×720 (720p)
+- **Duration:** 29.27s (CapCut auto-trim 0.73s ở cuối, acceptable)
+- **Codec:** H.264 video + AAC stereo audio 44.1kHz
+- **Bitrate:** 2.68 Mbps
+- **Frame rate:** 30fps (CapCut convert từ source 24fps)
+- **Watermark:** KHÔNG có (export clean cho commercial use)
+
+**Honest assessment:**
+
+- ✅ Cliffhanger 14.5s → Panel 9 payoff hard cut work cinematic — audience không cảm giác "ghép 2 video"
+- ✅ Memorable Moment Panel 12 giữ nguyên 3s static — KHÔNG bị Hybrid workflow shorten (insight kỹ thuật quan trọng)
+- ✅ CTA text bottom 1/3 frame — đọc rõ trên busy background nhờ shadow
+- ✅ Nhạc instrumental peaceful đồng bộ với tone video — không drop bass, không lyrics
+- ✅ Tone color consistent xuyên 30s (lam pastel + nâu gỗ + xanh lá bồ đề + trắng dịu)
+- ⚠️ CTA SĐT là placeholder `0XXX.XXX.XXX` — đây là video demo bài giảng. Khi áp dụng cho shop thật, thay bằng số thực tế.
+
+> 💡 **Lưu ý cho học viên:** Đây là video demo minh họa pipeline. Khi các bạn sản xuất ad cho shop thật, output này sẽ là kết quả các bạn submit cho khách hàng. Quality + duration + structure đã production-ready cho campaign Facebook/Instagram.
+
+**Cost 2 videos Seedance:** ~72,000 VND (2 × 36K).
 
 ---
 
