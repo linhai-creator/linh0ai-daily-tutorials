@@ -27,6 +27,23 @@ Sau bài này, các bạn sẽ:
 
 ---
 
+## 📄 Prompt file
+
+Tất cả prompt tiếng Việt + tiếng Trung dùng trong Day 26 được lưu trong:
+
+**[`prompts/day-26-prompts.txt`](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/prompts/day-26-prompts.txt)** (595 lines, 6 prompts đầy đủ)
+
+Cấu trúc file:
+
+- **Phần A — Master References** (Prompt 1-2): Character Sheet + Product Master — tiếng Việt cho GPT Image 2
+- **Phần B — Storyboards** (Prompt 3-4): 2 storyboards 4×2 với multi-ref — tiếng Việt cho GPT Image 2
+- **Phần C — Video Prompts** (Prompt 5-6): 2 videos Seedance Omni 2.0 — tiếng Trung 11-section template (mỗi prompt < 5000 ký tự để vừa Seedance input)
+- **GHI CHÚ**: Workflow tổng 10 bước + Cost breakdown + Compliance VN + Tips music/CTA
+
+Copy nguyên văn từng prompt vào 0ai.vn theo thứ tự để reproduce kết quả.
+
+---
+
 ## Phần 1 — Vì sao Cinema-Style 30s, không phải Feature Reel 15s?
 
 Day 24-25 mình đã verified pipeline cho **feature reel 15s** — format "show sản phẩm đẹp" với cấu trúc Hook → Reveal → VFX → Use case → CTA. Format này work tốt cho **product-focused ads**: cà phê, sneaker, serum, trà thảo mộc. Audience hiểu nhanh "đây là cái gì, nó tốt vì sao".
