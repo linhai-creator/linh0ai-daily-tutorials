@@ -16,15 +16,15 @@
 Tuần 1: ███████ 7/7 ✅ Foundation
 Tuần 2: ███████ 7/7 ✅ Master Skills
 Tuần 3: ███████ 7/7 ✅ Practical Production (2 short films + 128+ visuals)
-Tuần 4: ████░░░ 4/7 🔄 Commercial Production (Day 22-25 done)
+Tuần 4: █████░░ 5/7 🔄 Commercial Production (Day 22-26 done)
 Tuần 5: ░░░░░░░ 0/2 📋 Capstone + Tổng kết
 
-█████████████████████████░░░░░  25/30 ngày (83%)
+██████████████████████████░░░░  26/30 ngày (87%)
 ```
 
 > 🏆 **Tuần 3 đã COMPLETE** — 2 short films production: xianxia "Đôi Kiếm Tiên" 60s + comedy "Chef vs Cockroach" 41s.
 >
-> 🔄 **Tuần 4 đang chạy** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Pipeline cà phê 15s) → Day 25 (Practice 3 ngành + Risk Matrix verified) → ... → Day 28 Capstone.
+> 🔄 **Tuần 4 đang chạy** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Pipeline cà phê 15s) → Day 25 (Practice 3 ngành + Risk Matrix verified) → Day 26 (Cinema trailer 30s pháp phục lam) → ... → Day 28 Capstone.
 
 ---
 
@@ -49,7 +49,7 @@ Sau 30 ngày, bạn sẽ biết:
 - 🎬 Tạo video AI bằng Seedance 2.0 (text-to-video + image-to-video)
 - 📋 Storyboard 4x4 + Character sheets cho video AI dài hơi
 - 🎞️ Pipeline storyboard-to-video cho short film 60s (Tuần 3)
-- 📢 **Commercial production pipeline cho ad TikTok/Reels** — brief + kịch bản 15s + image-to-video multi-reference + Risk Matrix model selection (Tuần 4)
+- 📢 **Commercial production pipeline cho ad TikTok/Reels** — brief + kịch bản 15s + image-to-video multi-reference + Risk Matrix model selection + **cinema trailer 30s cho sản phẩm high-emotion** (Tuần 4)
 - 🎯 **Chọn đúng model theo từng nhu cầu** — xem [📖 Models Cheatsheet](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md)
 - 💰 Tối ưu chi phí — biết khi nào nạp Credit, khi nào dùng Subscription
 
@@ -107,7 +107,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 23** | 5 Craft Knowledge cho Ad AI (Hook + CTA + Sound + Text + Ratio) | 🔵🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-23.md) |
 | **Day 24** | Storyboard + 9 Keyframes + 3 Videos Image-to-Video Pipeline | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-24.md) |
 | **Day 25** | Pipeline Practice 3 ngành + Risk Matrix Verification (Sneaker FIXED) | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-25.md) |
-| Day 26 | Rough cut & Re-gen + CapCut workflow | 🟣 | 📋 Coming soon |
+| **Day 26** | Cinema-Style 30s Trailer — Pháp Phục Lam Phật Tử Việt Nam | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-26.md) |
 | Day 27 | Capstone Part 1 — Full commercial ad | 🟣 | 📋 Coming soon |
 | Day 28 | Capstone Part 2 — Polish + Portfolio + SOP | 🟣 | 📋 Coming soon |
 
@@ -156,7 +156,17 @@ Sau khi master short film pipeline (Tuần 3), Tuần 4 chuyển sang **commerci
 - Compliance VN cho wellness products verified (no medical claims)
 - Cost actual: 110K VND cho 3 ads từ 3 industries
 
-→ Học viên sau Tuần 4 có thể **nhận job freelance commercial ad** cho brand nhỏ (cà phê / serum / F&B / street food / **branded fashion**), cost production ~75-150K VND/ad.
+### Day 26 — Cinema-Style 30s Trailer cho sản phẩm high-emotion 🎬
+
+- Cinema trailer 30s = 2 videos × 15s ghép CapCut (Story arc 3-act: Setup → Confrontation → Resolution + ⭐ Memorable Moment + CTA)
+- **7 Câu Hỏi Strategic Framework** universal cho mọi commercial brief: Transformation / Enemy / Emotional Stakes / Hook / Memorable Moment / Trust / Action
+- **Multi-ref Hybrid Pattern:** Grid 4×2 (8 panels) + Character + Product master — verified work cho Seedance Omni 2.0 (rule Day 24 "không grid trong multi-ref" chỉ áp ≥4×4)
+- 2 unique bug discoveries: **Duplicate Person Bug Fix** (Character Sheet wide shot → 2 nhân vật bug) + **Visual Prior Bias** (KHÔNG upload Storyboard Part 1 làm ref cho Part 2)
+- **Memorable Moment 3s Static design** — 5 conditions để frame cry-trigger (single subject / static camera / duration unusual / small visual cue / dappled light)
+- Compliance VN cho religious products: peaceful tones (lam pastel + nâu gỗ + bồ đề + trắng dịu), no bàn thờ rõ nét / no glamour pose / no dramatic golden hour
+- Cost actual: 76K VND cho cinema trailer 30s ready (4 ảnh + 2 videos + CapCut hybrid edit)
+
+→ Học viên sau Tuần 4 có thể **nhận job freelance commercial ad** cho brand nhỏ (cà phê / serum / F&B / street food / **branded fashion / pháp phục tâm linh / gift hiếu thảo high-emotion**), cost production ~75-150K VND/ad.
 
 ---
 
@@ -201,6 +211,7 @@ Nếu bạn làm theo bài học nhưng bị **lỗi ảnh, lỗi prompt** hoặ
 - `[Hỏi bài Day 3] Prompt của mình chưa ra đúng ảnh`
 - `[Hỏi bài Day 22] Cách viết prompt commercial Seedance`
 - `[Hỏi bài Day 24] Pipeline image-to-video multi-reference`
+- `[Hỏi bài Day 26] Cinema trailer 30s + Memorable Moment design`
 - `[Khoe kết quả] Ad cà phê của mình từ Day 24`
 
 ---
@@ -220,16 +231,17 @@ linh0ai-daily-tutorials/
 │   ├── day-01.md
 │   ├── day-02.md
 │   └── ...
-│   └── day-25.md
+│   └── day-26.md
 ├── prompts/               ← Thư viện prompt mẫu
 │   ├── day-01.txt
 │   ├── day-22-prompts.txt
 │   ├── day-23-prompts.txt
 │   ├── day-24-prompts.txt
-│   └── day-25-prompts.txt
+│   ├── day-25-prompts.txt
+│   └── day-26-prompts.txt
 └── assets/
     ├── images/            ← Thumbnails, banner, keyframes, demo images
-    └── videos/            ← Demo MP4 clips (Day 19-25)
+    └── videos/            ← Demo MP4 clips (Day 19-26)
 ```
 
 ---
@@ -299,4 +311,4 @@ MIT — dùng tự do, ghi nguồn nếu repost.
 
 **Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
 
-**Cập nhật lần cuối:** Day 25 hoàn thành — 12/05/2026 (Tuần 4 Day 4 — Practice 3 ngành + Risk Matrix sneaker FIXED)
+**Cập nhật lần cuối:** Day 26 hoàn thành — 14/05/2026 (Tuần 4 Day 5 — Cinema trailer 30s pháp phục lam + 6 insights mới)
