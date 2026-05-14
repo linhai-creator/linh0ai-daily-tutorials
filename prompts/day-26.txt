@@ -1,0 +1,595 @@
+═══════════════════════════════════════════════════════════
+DAY 26 — PROMPTS
+Pháp Phục Lam Phật Tử — 2 Videos × 15s = 30s Cinema-style Trailer
+═══════════════════════════════════════════════════════════
+
+CONTEXT
+-------
+Bài Day 26 = pipeline thủ công cinema-style 30s, chia 2 videos × 15s,
+áp 7 câu hỏi strategic + cấu trúc kịch bản 3-act commercial agency.
+Khác với Day 24-25 (feature reel 15s) — Day 26 dạy mindset bán CẢM XÚC
+ngẫm về sản phẩm, không bán feature.
+
+Brief: Quảng cáo pháp phục lam Phật tử Việt Nam, 2 videos × 15s,
+combined 30s cinema-style trailer cho Facebook ad + landing page.
+Story: Con gái 19 tuổi tặng pháp phục mới cho mẹ 52 tuổi đi chùa cầu an.
+
+Cấu trúc 2 videos:
+- Video 1 "TRƯỚC" (0-15s): Setup + Confrontation, kết thúc cliffhanger
+- Video 2 "SAU" (0-15s): Resolution + Trust + CTA, Memorable Moment đỉnh
+  cảm xúc ở Panel 12 (mẹ rưng rưng peaceful dưới bồ đề)
+
+Setup chung character + product master (Phần A):
+- Model: GPT Image 2 (trên 0ai.vn)
+- Ratio: 16:9 horizontal (Facebook feed + landing page)
+- Resolution: Medium 2K
+- Language: Tiếng Việt thuần (Day 16 verified)
+- Cost: 2 × ~900 = ~1,800 VND
+
+Setup chung storyboard (Phần B):
+- Model: GPT Image 2
+- Ratio: 16:9 horizontal
+- Resolution: Medium 2K
+- Layout: 4 columns × 2 rows = 8 panels (khác Day 25's 4x4)
+- Language: Tiếng Việt thuần
+- References: Upload Character Sheet + Product Master + (Storyboard 1
+  cho Storyboard 2 để continuity)
+- Cost: 2 × ~900 = ~1,800 VND
+
+Setup chung video (Phần C):
+- Model: Seedance 2.0-Omni image-to-video
+- Ratio: 16:9 horizontal
+- Duration: 15s/video
+- Language: Tiếng Trung 11-section template Day 22
+- References: Multi-ref Day 24 (Character Sheet + Product Master +
+  Storyboard tương ứng)
+- Cost: 2 × 36,000 = ~72,000 VND
+
+Tổng cost Day 26: ~75,600 VND
+Buffer re-gen 20%: ~91,000 VND total budget
+
+Pipeline reference:
+- Multi-ref Seedance verified Day 24 (3 @image refs)
+- Storyboard-as-reference verified Day 25 (grid 4x4)
+- Day 26 = test hybrid (multi-ref + smaller grid 4x2) — new insight
+
+Luồng reference Day 26:
+- Prompt 1 + Prompt 2 → ref cho Prompt 3, 4, 5, 6
+- Prompt 3 → ref cho Prompt 5 (continuity)
+- Prompt 4 → ref cho Prompt 6 (continuity)
+
+
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+PHẦN A — CHARACTER + PRODUCT MASTER PROMPTS (GPT Image 2)
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 1 — CHARACTER SHEET (MẸ + CON GÁI)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-26-character-sheet-combined-turnaround.png
+
+Mục đích: Character Sheet technical reference cho production, lock identity
+mẹ Hương 52 tuổi và con gái An 19 tuổi xuyên suốt 4 prompts sau.
+Layout: 2 rows × 3 columns = 6 views (Front / 3/4 / Side mỗi nhân vật).
+
+Prompt:
+
+Character sheet technical reference cho production animation/AI, ratio 16:9 horizontal, chia thành grid 2 rows × 3 columns = 6 ô bằng nhau với viền mỏng ngăn cách, tổng cộng 6 views của 2 nhân vật Việt Nam khác nhau.
+
+Layout tổng thể:
+
+HÀNG 1 (Panels 1-3): 3 views của MẸ HƯƠNG 52 tuổi
+Panel 1 (cột 1): Front view — nhìn thẳng camera, full body từ đầu đến chân, pose neutral standing.
+Panel 2 (cột 2): 3/4 view — xoay 45 độ về phải, full body, pose neutral.
+Panel 3 (cột 3): Side view — profile nghiêng 90 độ, full body, pose neutral.
+
+HÀNG 2 (Panels 4-6): 3 views của CON GÁI AN 19 tuổi
+Panel 4 (cột 1): Front view — nhìn thẳng camera, full body, pose neutral.
+Panel 5 (cột 2): 3/4 view — xoay 45 độ, full body, pose neutral.
+Panel 6 (cột 3): Side view — profile nghiêng 90 độ, đuôi ngựa tóc thấy rõ ở side view.
+
+Đặc điểm nhân vật mẹ Hương (cố định xuyên Panel 1-2-3):
+Phụ nữ Việt Nam 52 tuổi, khuôn mặt phúc hậu tròn đầy hiền hậu, da nâu sáng tự nhiên với nếp nhăn nhẹ rõ ở khóe mắt và khóe miệng tuổi 50+ (KHÔNG over-smooth, giữ texture da thật). Tóc đen pha vài sợi bạc tự nhiên búi gọn thấp sau gáy theo kiểu Phật tử truyền thống. KHÔNG makeup, mặt mộc tự nhiên. Biểu cảm peaceful thanh thản mỉm cười nhẹ tự nhiên. Chiều cao 1m55-1m60, dáng người vừa. Mặc pháp phục lam Phật tử Việt Nam: áo dài tay rộng cổ tròn màu lam pastel (xanh lam nhạt pha xám) vải cotton mềm cài nút vải bên hông, quần ống suông cùng tone lam pastel. KHÔNG hoa văn, KHÔNG logo brand. Đi guốc gỗ hoặc dép vải đơn giản. Pose neutral standing: đứng thẳng tự nhiên, 2 tay xuôi nhẹ bên hông.
+
+Đặc điểm nhân vật con gái An (cố định xuyên Panel 4-5-6):
+Cô gái Việt Nam 19 tuổi, khuôn mặt TRÁI XOAN thanh tú xinh có nét hiền hậu thuần khiết (KHÁC HOÀN TOÀN khuôn mặt TRÒN ĐẦY phúc hậu của mẹ Row 1), da nâu sáng tự nhiên mịn (có lỗ chân lông nhỏ tự nhiên tuổi 19, KHÔNG AI plastic look). Mắt to đen long lanh, mí mắt tự nhiên (KHÔNG double eyelid Hàn cứng), lông mày tự nhiên, môi hồng tự nhiên. Makeup CỰC NHẸ tone nude tự nhiên. Tóc đen dài thẳng buộc đuôi ngựa thấp đơn giản sau gáy, vài sợi tóc mai rủ nhẹ bên má. Chiều cao 1m58-1m63, CAO HƠN MẸ NHẸ, dáng người mảnh mai vừa. Biểu cảm hiền hậu thuần khiết mỉm cười nhẹ tự nhiên. Mặc áo phông trắng cotton cổ tròn basic + quần jean xanh nhạt dài đơn giản, KHÔNG logo, KHÔNG họa tiết, KHÔNG accessory cầu kỳ. Đi giày bata trắng đơn giản. Pose neutral standing.
+
+Labels (text dưới mỗi panel, font sans-serif gọn, English):
+- Panel 1: "MOTHER - FRONT"
+- Panel 2: "MOTHER - 3/4"
+- Panel 3: "MOTHER - SIDE"
+- Panel 4: "DAUGHTER - FRONT"
+- Panel 5: "DAUGHTER - 3/4"
+- Panel 6: "DAUGHTER - SIDE"
+
+Background + Lighting:
+Background TRẮNG / XÁM NHẠT FLAT đồng nhất xuyên cả 6 ô (studio character sheet chuẩn industry), KHÔNG decoration, KHÔNG gradient, KHÔNG shadow background. Lighting FLAT đều xuyên cả 6 ô, soft daylight đều khắp nhân vật, KHÔNG dramatic shadow, KHÔNG side light đậm.
+
+Yêu cầu chung:
+- Photorealistic, không cartoon, không illustration
+- Full body từ đầu đến chân xuyên CẢ 6 panels
+- Mẹ và Con là 2 NHÂN VẬT KHÁC NHAU rõ ràng (khoảng cách tuổi 30+)
+- 3 views mỗi row = EXACT SAME PERSON (cùng mặt, cùng tóc, cùng outfit)
+- Skin texture tự nhiên: mẹ có nếp nhăn rõ tuổi 50+, con mịn có lỗ chân lông tuổi 19
+- Outfit cố định xuyên 3 views mỗi character
+- Ratio 16:9 ngang
+- Mẹ + con thấy rõ là người Việt Nam (KHÔNG Trung Quốc, KHÔNG Nhật, KHÔNG Hàn)
+
+Tránh:
+- Mẹ và Con trông giống chị em
+- 6 nhân vật khác nhau trong 6 panels
+- Mẹ trẻ hóa thành 35-40 (phải rõ 50-55)
+- Con già hóa thành 25+ (phải rõ 18-20)
+- Crop nửa người, mất chân
+- Pose dramatic / fashion / glamour / sexual undertone
+- Background gradient / shadow / decoration
+- Makeup đậm K-beauty / Trung
+- Outfit drift xuyên 3 views
+- Hoa văn / logo / chữ trên pháp phục mẹ
+- Logo / chữ trên áo phông con
+- AI face artifacts (mắt lệch, răng kỳ, ngón tay sai)
+- Watermark, chữ trong ảnh (ngoại trừ labels Panel cố định)
+- 2 nhân vật cùng 1 panel
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 2 — PRODUCT MASTER (PHÁP PHỤC LAM)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-26-product-master-phap-phuc-lam.png
+
+Mục đích: Product Master lock design pháp phục lam (vải, màu, form, nút,
+phụ kiện) xuyên 4 prompts sau. Flat lay product shot commercial.
+
+Prompt:
+
+Ảnh tĩnh sản phẩm pháp phục lam Phật tử Việt Nam, product photography commercial cao cấp, ratio 16:9 horizontal.
+
+Bộ pháp phục được gấp gọn một cách trang nghiêm và đặt trên nền vải đay tự nhiên màu be nhạt hoặc bàn gỗ mộc đơn giản, flat lay hoặc góc chéo 45 độ.
+
+Chi tiết sản phẩm:
+- Áo: kiểu dài tay rộng cổ tròn, vải cotton mềm màu lam pastel (xanh lam nhạt pha chút xám), gấp ngay ngắn để lộ độ rủ tự nhiên của vải, cài nút vải tròn bên hông.
+- Quần: ống suông dài rộng cùng tone lam pastel, gấp bên cạnh áo theo bộ.
+- KHÔNG hoa văn trang trí, KHÔNG họa tiết thêu, KHÔNG logo brand.
+- Vải mềm tự nhiên có texture nhìn rõ chất liệu cotton.
+
+Phụ kiện trang trí xung quanh (subtle, không lấn át sản phẩm):
+- 1-2 cành lá bồ đề tươi nhỏ đặt nhẹ một bên.
+- Một xâu chuỗi hạt gỗ nâu đặt phía trên góc áo.
+- KHÔNG hương, KHÔNG nến (tránh hiệu ứng dramatic).
+
+Ánh sáng: Soft natural sáng sớm chiếu nghiêng từ một bên (45 độ), dịu nhẹ trắng nhẹ pha xanh, tạo bóng nhẹ tự nhiên trên vải để show texture, KHÔNG dramatic high contrast, KHÔNG golden hour cam.
+
+Background: Đơn giản, tone be nhạt hoặc nâu gỗ tự nhiên, KHÔNG decoration cầu kỳ, focus 100% vào sản phẩm pháp phục.
+
+Tone color tổng thể: Lam pastel chủ đạo + be + nâu gỗ + xanh lá nhẹ từ lá bồ đề + trắng nhẹ ánh sáng.
+
+Phong cách: Product photography commercial cho thương hiệu pháp phục cao cấp Việt Nam, cinematic 16:9, depth of field shallow (áo sharp, background soft), texture vải nổi bật, chất liệu cao cấp.
+
+Yêu cầu:
+- Photorealistic chất liệu vải cotton thật
+- Đường nét sản phẩm sharp
+- Texture vải nổi bật tự nhiên
+- Không AI plastic look
+
+Tránh:
+- Người mẫu mặc (chỉ sản phẩm, không có người)
+- Mannequin (chỉ flat lay hoặc gấp)
+- Hoa văn trang trí trên áo
+- Logo brand
+- Chữ trong ảnh, watermark
+- Dramatic shadows, ánh sáng cam ấm
+- Hiệu ứng neon, glamour
+- AI plastic look
+
+
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+PHẦN B — STORYBOARD 4x2 PROMPTS (GPT Image 2 + References)
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+
+Sau khi có Character Sheet (Prompt 1) + Product Master (Prompt 2),
+upload làm references và generate 2 storyboards 4x2 cho 2 videos.
+
+Workflow trên 0ai.vn:
+1. Mở GPT Image 2
+2. Upload references: Character Sheet + Product Master
+3. Paste prompt tương ứng
+4. Set ratio 16:9, resolution 2K Medium
+5. Generate
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 3 — STORYBOARD VIDEO 1 "TRƯỚC" (4x2 = 8 PANELS)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-26-storyboard-video-1-truoc-8-panels.png
+
+Mục đích: Storyboard 4x2 với 8 panels cho Video 1 "TRƯỚC" (15s đầu).
+Story arc: Setup + Confrontation, kết thúc cliffhanger.
+
+References upload: day-26-character-sheet-combined-turnaround.png +
+day-26-product-master-phap-phuc-lam.png
+
+Prompt:
+
+Ảnh storyboard cinematic 16:9 horizontal chia thành grid 4 columns × 2 rows = 8 panels bằng nhau. Panels được ngăn cách bằng viền đen mỏng rõ ràng khoảng 3-5px, mỗi panel tỷ lệ 2:1 ngang nhẹ, phong cách storyboard pre-production phim cinema cao cấp.
+
+Đọc panel theo thứ tự từ trái qua phải, từ trên xuống dưới (Panel 1 góc trên-trái, Panel 8 góc dưới-phải).
+
+Đây là Video 1 "TRƯỚC" — 15 giây đầu của quảng cáo pháp phục lam Phật tử Việt Nam 30s. Story arc: Setup + Confrontation, kết thúc cliffhanger.
+
+Phân bổ 8 panels theo cấu trúc kịch bản 15s:
+
+HÀNG 1 (Panels 1-4): ESTABLISH (0-6s) — Mẹ trong sân chùa, áo lam cũ
+
+Panel 1: Wide establishing shot sân chùa cổ Việt Nam buổi sáng sớm, mái ngói rêu phong, cổng tam quan gỗ truyền thống, cây bồ đề lớn cổ thụ tán rộng, ánh sáng sáng sớm dịu nhẹ trắng pha xanh chiếu xiên qua tán bồ đề, không có người trong frame. Tone color: nâu rêu + xanh lá + trắng dịu. Mood peaceful trang nghiêm.
+
+Panel 2: Medium shot phụ nữ Việt 52 tuổi tên Hương (khuôn mặt phúc hậu, da nâu sáng có nếp nhăn nhẹ tuổi 50+, tóc đen pha sợi bạc búi gọn sau gáy, không makeup, biểu cảm peaceful thanh thản mắt nhắm nhẹ) đứng chắp tay cầu nguyện trong sân chùa, mặc pháp phục lam pastel CŨ — thấy rõ vải đã bạc màu nhẹ, mép tay áo xơ nhẹ. Background mái ngói và bồ đề soft focus. Tone color: lam pastel cũ + nâu + xanh lá. Mood peaceful nhưng có nỗi buồn lặng.
+
+Panel 3: Macro extreme close-up tay áo pháp phục lam pastel CŨ trên cánh tay mẹ, thấy rõ vải đã bạc màu, vài chỗ phai nhẹ, mép vải xơ nhẹ, kim chỉ cũ. Ngón tay nhăn nheo có chi tiết da tuổi 50+ thấy ở góc frame. Ánh sáng macro detail. Tone color: lam pastel phai + nâu rêu. Mood chi tiết buồn lặng làm khán giả nhận ra "áo này cũ rồi".
+
+Panel 4: Wide cinematic shot mẹ Hương đứng đơn độc dưới cây bồ đề lớn trong sân chùa cổ, mẹ mặc pháp phục lam cũ, thấy mẹ small in frame nhấn mạnh sự cô đơn và bối cảnh trang nghiêm. Ánh sáng nắng sớm xuyên qua tán bồ đề tạo dappled light pattern trên sân. Tone color: xanh lá bồ đề + nâu sân chùa + lam pastel cũ. Mood cinematic peaceful nhưng cô đơn.
+
+HÀNG 2 (Panels 5-8): BUILD TO ACTION (6-15s) — Con thấy mẹ → Quyết định → Cliffhanger
+
+Panel 5: Medium shot cô gái Việt 19 tuổi tên An (khuôn mặt trái xoan thanh tú xinh hiền hậu, da nâu sáng tự nhiên, tóc đen dài buộc đuôi ngựa thấp, áo phông trắng cotton + quần jean xanh nhạt, makeup cực nhẹ tone nude) đứng ở góc sân chùa cách xa mẹ, một phần thân che bởi cột gỗ tam quan, An nhìn về phía mẹ đang cầu nguyện, ánh mắt buồn áy náy quan sát. Background sân chùa soft focus. Tone color: trắng + nâu gỗ + xanh lá. Mood con thấy mẹ lén lút, áy náy.
+
+Panel 6: Extreme close-up đôi mắt to đen long lanh của An, ánh mắt buồn áy náy rưng rưng nhẹ (KHÔNG khóc, chỉ đọng nước mắt khóe mắt). Thấy rõ ánh phản chiếu nhỏ trong mắt — có thể là hình ảnh mờ của mẹ đang cầu nguyện. Tone color: nâu da + đen mắt + ánh phản chiếu lam pastel mờ. Mood cảm xúc áy náy hiếu thảo đỉnh cao.
+
+Panel 7: Close-up macro bàn tay An (da nâu sáng tự nhiên, móng tay sạch sẽ không sơn) đang gấp gọn trang nghiêm bộ pháp phục lam MỚI TINH KHÔI trên bàn gỗ trong nhà ấm cúng. Pháp phục lam pastel MỚI rõ texture vải cotton mềm rủ tự nhiên, màu lam pastel tươi tắn khác hoàn toàn áo cũ của mẹ. Bên cạnh có 1 cành lá bồ đề tươi nhỏ và xâu chuỗi hạt gỗ nâu. Ánh sáng natural từ cửa sổ chiếu nghiêng dịu nhẹ. Tone color: lam pastel mới tươi + nâu gỗ + trắng nhẹ. Mood trang nghiêm + động lực hiếu thảo.
+
+Panel 8: Medium shot An đứng dậy với hộp pháp phục lam mới đã gói gọn trong tay, ánh mắt kiên quyết quyết tâm hướng về phía cửa, môi khép nhẹ. Camera angle thấp nhìn lên (low angle) tạo cảm giác hùng dũng. Background phòng ấm cúng soft focus. Ánh sáng từ cửa sổ chiếu vào nửa mặt An tạo dramatic nhẹ. KHÔNG thấy mẹ trong frame — cliffhanger cố ý. Tone color: trắng + nâu gỗ + xanh lá bồ đề. Mood quyết tâm cao trào + cliffhanger khán giả tò mò "rồi mẹ phản ứng sao".
+
+Yêu cầu chung:
+- Phong cách cinematic commercial photography cao cấp, tone film noir nhẹ pastel (như commercial Apple/Nike emotional)
+- Tone color đồng nhất xuyên 8 panels: lam pastel + nâu gỗ + xanh lá bồ đề + trắng dịu
+- Photorealistic, skin texture tự nhiên
+- Mẹ Hương và con An giữ nguyên identity từ Character Sheet reference
+- Pháp phục lam giữ nguyên design từ Product Master reference
+- Phân biệt rõ áo CŨ (Panel 2, 3, 4) vs áo MỚI (Panel 7)
+- Mỗi panel có composition cinematic riêng (wide / medium / close-up / macro)
+
+Tránh:
+- Makeup đậm trên cả 2 nhân vật
+- Glamour pose, dramatic lighting
+- Golden hour cam đậm, đỏ rực
+- Hiệu ứng neon, dramatic high contrast
+- Hoa văn / logo trên pháp phục
+- Chữ trong ảnh, logo brand, watermark
+- Số panel hiển thị trong ảnh
+- AI face artifacts
+- Mẹ trẻ hóa, con già hóa
+- Pháp phục mới ở Panel 1-2-3-4 (chỉ áo cũ)
+- Pháp phục cũ ở Panel 7 (chỉ áo mới)
+- Reveal mẹ phản ứng ở Panel 8 (cliffhanger — mẹ KHÔNG xuất hiện)
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 4 — STORYBOARD VIDEO 2 "SAU" (4x2 = 8 PANELS)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-26-storyboard-video-2-sau-8-panels.png
+
+Mục đích: Storyboard 4x2 với 8 panels cho Video 2 "SAU" (15s cuối).
+Story arc: Resolution + Trust + CTA. Memorable Moment ở Panel 12.
+
+References upload: day-26-character-sheet-combined-turnaround.png +
+day-26-product-master-phap-phuc-lam.png
+
+⚠️ KHÔNG upload Storyboard Video 1 làm reference cho Prompt 4 này.
+Lý do: GPT Image 2 có visual prior bias — khi reference là 1 storyboard
+8 panels có sẵn content, AI có xu hướng COPY content reference thay vì
+follow text prompt mô tả content mới. Đây là pattern verified Day 24
+("không upload grid trong multi-ref single-clip"). Apply cho Day 26:
+chỉ dùng Character + Product master làm reference, để text prompt
+dictate 8 panels Video 2 hoàn toàn mới.
+
+Prompt:
+
+Ảnh storyboard cinematic 16:9 horizontal chia thành grid 4 columns × 2 rows = 8 panels bằng nhau. Panels được ngăn cách bằng viền đen mỏng rõ ràng khoảng 3-5px, mỗi panel tỷ lệ 2:1 ngang nhẹ, phong cách storyboard pre-production phim cinema cao cấp.
+
+Đọc panel theo thứ tự từ trái qua phải, từ trên xuống dưới (Panel 9 góc trên-trái, Panel 16 góc dưới-phải).
+
+Đây là Video 2 "SAU" — 15 giây cuối của quảng cáo pháp phục lam Phật tử Việt Nam 30s. Story arc: Resolution + Trust + CTA. Cảm xúc đỉnh cao ở Panel 12 (memorable moment).
+
+Phân bổ 8 panels theo cấu trúc kịch bản 15s:
+
+HÀNG 1 (Panels 9-12): REVEAL + MEMORABLE MOMENT (0-10s) — Mẹ nhận áo → Mặc → Rưng rưng peaceful
+
+Panel 9: Medium shot mẹ Hương 52 tuổi (khuôn mặt phúc hậu, da nâu sáng có nếp nhăn nhẹ, tóc đen pha sợi bạc búi gọn, không makeup, mặc pháp phục lam CŨ) đang ngồi bên bàn gỗ trong nhà ấm cúng. Mẹ nhận hộp pháp phục mới từ tay con gái An (chỉ thấy tay An ở mép frame, không thấy mặt An). Ánh mắt mẹ ngạc nhiên xúc động, miệng hé nhẹ. Ánh sáng natural từ cửa sổ chiếu nghiêng. Tone color: lam pastel cũ + nâu gỗ + trắng dịu. Mood bất ngờ xúc động.
+
+Panel 10: Medium shot mẹ Hương đứng trong phòng ngủ đơn giản Việt Nam (giường gỗ + cửa sổ + ánh sáng natural), mẹ vừa mặc xong pháp phục lam MỚI TINH KHÔI (màu lam pastel tươi tắn, vải cotton mềm mới rủ tự nhiên, không bạc màu, không xơ vải). Mẹ đang chỉnh lại cổ áo bằng 2 tay, biểu cảm tự nhiên trang trọng. Ánh sáng natural sáng dịu nhẹ. Tone color: lam pastel mới + nâu gỗ + trắng. Mood trang trọng + trải nghiệm mới.
+
+Panel 11: Medium close-up mẹ Hương đứng trước gương gỗ truyền thống nhỏ (hoặc nhìn xuống áo mới), tay nhẹ nhàng vuốt phần ngực áo lam mới, cảm nhận chất liệu vải cotton mới. Biểu cảm bắt đầu xúc động, môi khép nhẹ, mắt rưng rưng nhẹ nhìn xuống. Ánh sáng natural dịu. Tone color: lam pastel mới + nâu gỗ + trắng + phản chiếu mờ trong gương. Mood chuyển giao từ trang trọng sang xúc động.
+
+Panel 12 (MEMORABLE MOMENT — đỉnh cảm xúc): Medium portrait mẹ Hương 52 tuổi mặc pháp phục lam MỚI TINH KHÔI đứng cạnh cây bồ đề lớn trong sân chùa cổ Việt Nam (chuyển bối cảnh từ trong nhà ra sân chùa). Mẹ nhắm mắt nhẹ mỉm cười peaceful trang nghiêm, 2 HÀNG NƯỚC MẮT HẠNH PHÚC RƯNG RƯNG đọng ở khóe mắt (KHÔNG rơi xuống má, chỉ đọng). Ánh sáng sáng sớm dịu nhẹ chiếu nghiêng qua tán bồ đề tạo dappled light trên mặt mẹ. Camera giữ medium portrait. Tone color: lam pastel mới + xanh lá bồ đề + nâu + trắng dịu. Mood PEACEFUL + hạnh phúc thanh tịnh đỉnh cao — khán giả cry-trigger moment.
+
+HÀNG 2 (Panels 13-16): TRUST + CTA (10-15s) — Wide bồ đề → Thợ may → Mẹ con → CTA
+
+Panel 13: Wide cinematic shot mẹ Hương mặc pháp phục lam mới đứng peaceful dưới cây bồ đề lớn trong sân chùa cổ. Mẹ small trong frame, bối cảnh hùng vĩ trang nghiêm. Ánh nắng sớm xuyên qua tán bồ đề tạo dappled light đẹp. Tone color: lam pastel mới + xanh lá bồ đề rộng + nâu sân chùa + trắng dịu. Mood cinematic peaceful viên mãn.
+
+Panel 14: Extreme close-up macro bàn tay người thợ may Việt Nam (tay trung niên, da nâu, móng cắt gọn, có chai nhỏ ở đầu ngón do khâu lâu năm) đang khâu thủ công đường viền cổ áo pháp phục lam trên bàn may gỗ truyền thống. Chi tiết kim chỉ trắng và đường khâu tay tỉ mỉ rõ nét. Background xưởng may Huế truyền thống soft focus với ánh sáng tự nhiên qua cửa sổ gỗ. Tone color: lam pastel + nâu gỗ + ánh sáng vàng nhạt tự nhiên (KHÔNG cam đậm). Mood tỉ mỉ + thủ công + đáng tin cậy. TRUST SIGNAL.
+
+Panel 15: Medium shot cả mẹ Hương (mặc pháp phục lam mới) và con gái An (áo phông trắng đơn giản, tóc đen buộc đuôi ngựa thấp, makeup cực nhẹ) đứng cạnh nhau trong sân chùa cổ trước cổng tam quan. Mẹ mỉm cười peaceful nhìn về phía xa, An đứng bên cạnh hơi cúi đầu nhẹ hiền hậu, tay An nhẹ nhàng đặt trên tay mẹ. Background sân chùa với cây bồ đề soft focus. Ánh sáng sáng sớm dịu nhẹ. Tone color: lam pastel + trắng + nâu gỗ + xanh lá. Mood hiếu thảo ấm áp + peaceful gia đình.
+
+Panel 16: Medium wide shot mẹ Hương mặc pháp phục lam mới đứng peaceful ở sân chùa cổ. Camera góc lệch để dành khoảng trống phía trên 1/3 frame (vùng trên empty space soft focus background sân chùa) — chỗ này để add text CTA sau khi gen. KHÔNG có chữ trong ảnh ở Panel 16. Mẹ mỉm cười peaceful nhẹ. Ánh sáng dịu nhẹ. Tone color: lam pastel + nâu gỗ + xanh lá + trắng. Mood peaceful + invite action.
+
+Yêu cầu chung:
+- Phong cách cinematic commercial photography cao cấp, tone match Video 1
+- Tone color đồng nhất xuyên 8 panels: lam pastel + nâu gỗ + xanh lá bồ đề + trắng dịu
+- Photorealistic, skin texture tự nhiên (mẹ có nếp nhăn rõ, con mịn có lỗ chân lông)
+- Mẹ Hương và con An giữ nguyên identity từ Character Sheet reference (quan trọng cho continuity giữa Video 1 và Video 2)
+- Pháp phục lam MỚI giữ nguyên design từ Product Master reference xuyên Panel 10-16
+- Tone color + visual style match Storyboard Video 1 reference
+- Mỗi panel có composition cinematic riêng
+
+Tránh:
+- Makeup đậm, glamour pose, dramatic lighting
+- Golden hour cam đậm, đỏ rực
+- Hiệu ứng neon, hoa văn / logo trên pháp phục
+- Chữ trong ảnh ở bất kỳ panel nào (kể cả Panel 16 — CTA add sau, không gen sẵn)
+- Logo brand, watermark, số panel hiển thị
+- Nước mắt rơi xuống má ở Panel 12 (chỉ rưng rưng đọng khóe mắt)
+- Biểu cảm sad / khóc nức nở
+- Pháp phục cũ ở các panels có pháp phục mới (Panel 10-16 phải áo mới)
+- Mẹ mặc pháp phục cũ ở Panel 9 phải đúng (vì mẹ chưa nhận áo mới)
+- Identity drift giữa Video 1 và Video 2 — phải EXACT SAME mẹ + con
+- AI face artifacts
+
+
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+PHẦN C — VIDEO PROMPTS (Seedance Omni 2.0 image-to-video)
+═══════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════
+
+Sau khi có Character Sheet + Product Master + 2 Storyboards (Phần A + B),
+upload multi-ref vào Seedance Omni 2.0 image-to-video và generate 2 videos.
+
+Workflow trên 0ai.vn:
+1. Mở Seedance 2.0-Omni image-to-video
+2. Upload 3 references:
+   - @image1 = Storyboard tương ứng (Video 1 hoặc Video 2)
+   - @image2 = Character Sheet
+   - @image3 = Product Master
+3. Paste prompt tiếng Trung tương ứng
+4. Set duration 15s, ratio 16:9, quality Professional 720p
+5. Generate
+
+Pattern multi-ref hybrid Day 24 + Day 25 - test grid 4x2 (8 panels) có
+work cho Seedance không (Day 24 rule chỉ áp grid 4x4).
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 5 — VIDEO 1 "TRƯỚC" (15s Setup + Confrontation)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-26-video-1-truoc-15s.mp4
+
+Mục đích: Video 1 của 30s cinema-style trailer pháp phục lam.
+Story arc: Setup (mẹ áo cũ) + Confrontation (con thấy + quyết định)
++ Cliffhanger ending (không reveal mẹ phản ứng).
+
+References upload:
+- @image1 = day-26-storyboard-video-1-truoc-8-panels.png
+- @image2 = day-26-character-sheet-combined-turnaround.png
+- @image3 = day-26-product-master-phap-phuc-lam.png
+
+Prompt:
+
+越南佛教徒法师服蓝色商业广告视频，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实电影感商业广告风格。此为30秒cinema-style trailer第1部分 (Video 1 "TRƯỚC")，story arc：Setup + Confrontation，cliffhanger结尾。
+
+参考图像：
+@image1 = 8 panels storyboard Video 1，必须严格按此分镜顺序执行 Panel 1→Panel 8，不得跳镜不得打乱。
+@image2 = Character Sheet母亲Hương 52岁 + 女儿An 19岁身份锁定。
+@image3 = Product Master蓝色pastel法师服设计锁定。
+不要把@image1生成成grid拼图。
+
+【主体锁定】
+母亲Hương 52岁：越南慈祥圆脸，50+岁皱纹明显，黑发夹白丝低发髻，不化妆，peaceful表情。
+女儿An 19岁：越南鹅蛋脸清秀温柔，黑长发低马尾，极淡tone nude淡妆，白T恤+浅蓝牛仔裤。
+产品：越南蓝色pastel法师服 — 长袖宽松圆领，侧边布扣，无花纹无logo。
+- Panel 2/3/4：母亲穿旧褪色磨损法师服
+- Panel 7/8：全新tươi tắn法师服 (Panel 8已装入礼盒)
+身份与服装严格保持与@image2 @image3一致。
+
+【场景】
+寺院庭院 (Panel 1-2-4-5)：苔藓瓦顶，传统三关大门，巨大菩提树。
+温馨家居 (Panel 3-6-7-8)：木质桌椅，自然窗光。
+
+【15秒分镜时间线】
+0-2s Panel 1：Wide establishing寺院庭院黎明，无人物，菩提树dappled light。摄像机slow push-in。
+2-4s Panel 2：Medium shot母亲合十祈祷，穿旧法师服 (袖口磨损可见)，闭眼peaceful，背景瓦顶+菩提树软焦点。Slow dolly-in。
+4-5s Panel 3：Macro extreme close-up磨损法师服袖口，布料褪色起毛细节清晰，皱纹手指在画面边角。Quick静止shot。
+5-6s Panel 4：Wide cinematic母亲孤独站在巨大菩提树下，画面中身形小，dappled light pattern。Quick静止shot。
+6-8s Panel 5：Medium shot女儿An站在寺院拐角，被木柱部分遮挡，看向远处祈祷的母亲，眼神áy náy内疚。摄像机静止。
+8-10s Panel 6：Extreme close-up An大黑眼睛长睫毛，眼角积着泪rưng rưng (不流下来)，眼睛反射出远处母亲模糊image。摄像机静止。
+10-13s Panel 7：Close-up macro An手庄严折叠全新蓝pastel法师服在木桌上 (新衣tươi tắn明亮)，旁边菩提叶+木佛珠手串，窗光柔和。Slow push-in。
+13-15s Panel 8：Medium shot An站起，手中拿包装好的法师服礼盒 (有菩提叶绳装饰)，眼神quyết tâm看向门外，嘴唇微闭。Low angle仰拍创造hùng dũng感。窗光照亮半边脸。母亲绝对不在画面中 — CLIFFHANGER。
+
+【转场】
+Soft dissolve / cross-fade between panels。Focus rack过渡。Match cut (Panel 5-6通过focus shift)。不要硬切，不要跳切，不要频闪。Panel 3+4是quick shots，其余standard pace。
+
+【镜头语言】
+Wide establishing (Panel 1)，Medium portrait (Panel 2/5/8)，Macro extreme close-up (Panel 3/7)，Wide cinematic distance (Panel 4)，Extreme eye close-up (Panel 6)，Low angle medium (Panel 8)。摄像机稳定克制，多数slow push-in或静止，不要handheld shake。
+
+【光线】
+早晨柔和自然阳光，白色偏冷淡蓝色调。菩提树下dappled light (Panel 1/4)，寺院庭院自然光 (Panel 2/5)，室内窗光斜射柔和 (Panel 3/7/8)。不要golden hour橙色，不要dramatic high contrast，不要hard shadows。
+
+【声音】
+无对白，无旁白，无背景音乐 (用户后期CapCut添加)。仅自然环境声：寺院鸟鸣+菩提树叶微风 (Panel 1/2/4/5)，轻微布料声 (Panel 3/7)，纸礼盒轻摩擦声 (Panel 8)。Panel 6环境声降低让画面静谧。不要敲钟，不要诵经声 (避免over-spiritual)。
+
+【连续性】
+始终保持@image2 Character Sheet身份 (母亲+女儿)。法师服design与@image3 Product Master一致。旧法师服vs新法师服明确区分：Panel 2/3/4=旧 (褪色磨损)，Panel 7/8=新 (鲜明整洁)。色调统一：pastel蓝 + 木褐色 + 菩提绿 + 柔和白。早晨光照美学统一。
+
+【严格避免】
+不要佛坛佛像香炉烧香僧人 (religious sensitive)。不要glamour pose，不要fashion shoot，不要sexual undertone。母亲mặt mộc不化妆，女儿极淡淡妆。法师服上不要花纹刺绣logo文字。女儿T恤不要logo文字。不要卡通动漫插画风。不要把@image1生成成storyboard grid拼图。不要画面中文字水印字幕品牌logo。不要AI face artifacts (歪眼错齿错指不对称)。
+
+⚠️ DUPLICATE PERSON BUG PREVENTION：每个panel绝对只能有指定数量的人物，不要在同一frame中duplicate同一人物。Panel 1没有人物 (空寺院庭院)。Panel 2/4只有母亲1人 — 绝对不要复制出第2个母亲。Panel 3只有母亲的手臂袖口 (close-up，不完整人物)。Panel 5有1个女儿An (前景) + 1个模糊的母亲 (远处背景小身形) — 绝对不要复制出第2个An或第2个母亲。Panel 6只有1个女儿An的眼睛 close-up。Panel 7只有1对女儿An的手 close-up。Panel 8只有1个女儿An — 母亲绝对不在画面中 (cliffhanger)。如果@image2 Character Sheet中有母亲和女儿多个views，AI请理解那是身份reference，不是要在视频frame中显示多个人物。
+
+母亲绝对不在Panel 8 (cliffhanger必须保持)。不要pop-in artifacts (所有subject从panel开始就在画面中 - anti-pop-in Day 24)。不要母亲trẻ hóa成35-40 (必须50-55)，不要女儿già hóa成25+ (必须18-20)。不要金橘色温暖滤镜，不要over-saturated。不要剧烈镜头运动，不要抖动闪烁，不要全屏黑场过渡。
+
+
+═══════════════════════════════════════════════════════════
+PROMPT 6 — VIDEO 2 "SAU" (15s Resolution + Trust + CTA)
+═══════════════════════════════════════════════════════════
+
+Tên file output: day-26-video-2-sau-15s.mp4
+
+Mục đích: Video 2 của 30s cinema-style trailer pháp phục lam.
+Story arc: Resolution (mẹ nhận + mặc áo mới) + Memorable Moment
+(mẹ rưng rưng peaceful dưới bồ đề) + Trust (thợ may Huế) + CTA frame.
+
+References upload:
+- @image1 = day-26-storyboard-video-2-sau-8-panels.png
+- @image2 = day-26-character-sheet-combined-turnaround.png
+- @image3 = day-26-product-master-phap-phuc-lam.png
+
+Prompt:
+
+越南佛教徒法师服蓝色商业广告视频续篇，Seedance Omni 2.0，时长15秒，16:9横屏，真实写实电影感商业广告风格。此为30秒cinema-style trailer第2部分 (Video 2 "SAU")，story arc：Resolution + Trust + CTA，Panel 12为MEMORABLE MOMENT情感顶点。
+
+参考图像：
+@image1 = 8 panels storyboard Video 2，必须严格按此分镜顺序执行 Panel 9→Panel 16，不得跳镜不得打乱。
+@image2 = Character Sheet母亲Hương 52岁 + 女儿An 19岁 (与Video 1完全一致)。
+@image3 = Product Master蓝色pastel法师服设计锁定。
+不要把@image1生成成grid拼图。
+
+【主体锁定】
+母亲Hương 52岁、女儿An 19岁 — 与Video 1完全一致 (同脸同发型同身高)。
+产品：越南蓝色pastel全新法师服。
+- Panel 9：母亲穿旧法师服 (continuity from Video 1)
+- Panel 10-16：母亲穿全新法师服 (tươi tắn无褪色无磨损)
+身份与服装严格保持与@image2 @image3一致。
+
+【场景】
+室内温馨家居 (Panel 9-11)：木桌+卧室木床+传统镜子+自然窗光。
+越南古寺庭院 (Panel 12/13/15/16)：巨大菩提树+三关大门+苔藓瓦顶。
+顺化传统裁缝工作室 (Panel 14)：木质工作台+自然窗光+缝纫工具。
+
+【15秒分镜时间线】
+0-2s Panel 9：Medium shot母亲坐家居木桌旁，穿旧法师服，从女儿An手中接过纸礼盒 (只见An手在画面边缘不见脸)。母亲眼神惊讶xúc động感动，嘴巴微张温柔笑容。窗光自然斜射。摄像机静止。
+2-5s Panel 10：Medium shot母亲站越南卧室 (木床+窗户)，已穿全新蓝pastel法师服 (明显比旧的tươi tắn明亮)，双手轻整理领口，神情自然庄重trang trọng。摄像机slow dolly-in。
+5-7s Panel 11：Medium close-up母亲站小木质传统镜子前 (背景能看到镜框)，手轻抚摸新法师服胸前，感受新棉布质地。神情开始情感化xúc động，嘴唇轻闭，眼睛微微rưng rưng向下看。摄像机静止聚焦。
+7-10s Panel 12 ⭐ MEMORABLE MOMENT：Medium portrait母亲穿新法师服站越南古寺院巨大菩提树旁 (从室内smooth dissolve过渡到寺院)。母亲nhắm mắt nhẹ闭眼，微微peaceful庄重笑容，2行幸福泪水rưng rưng停留在眼角đọng ở khóe mắt (绝对不流到脸颊只是积着)。菩提树叶dappled light pattern在脸上。摄像机锁定medium portrait完全静止3秒不动 — 全片最长single shot，cry-trigger moment。
+10-11s Panel 13：Wide cinematic画面中CHỈ 1 NGƯỜI DUY NHẤT — 母亲穿新法师服peaceful站巨大菩提树下，画面中身形较小 (subject occupies ~30% frame)，背景宏伟庄严寺院结构。dappled light pattern。母亲是画面中唯一的人物 — 绝对不要出现第二个母亲，绝对不要duplicate person。Quick静止shot。
+11-13s Panel 14：Extreme close-up macro顺化传统裁缝中年人的手 (黄褐皮肤，指甲剪短，指尖有薄茧chai nhỏ) 正在白棉线手工缝制新法师服领口边缘，白线和đường khâu tay tỉ mỉ手工缝迹清晰。背景顺化裁缝工作室软焦点，木质工作台+窗光柔和偏暖但不橙。摄像机静止 — TRUST SIGNAL。
+13-14s Panel 15：Medium shot母亲 (穿新法师服) 和女儿An (白T恤+牛仔裤+低马尾+淡妆) 站越南古寺院三关大门前。母亲peaceful笑容看远方，An站旁hơi cúi đầu温柔hiền hậu稍微低头，An手nhẹ nhàng轻轻放在母亲手上。背景寺院庭院+菩提树软焦点。摄像机静止。
+14-15s Panel 16 CTA frame：Medium wide shot母亲穿新法师服peaceful站寺院庭院，构图偏移使画面上方留出干净留白空间 (顶部1/3 frame empty space soft focus background — 后期添加CTA文字用)。母亲微微peaceful笑容。窗光柔和。绝对不要有任何文字 (CTA在CapCut后期添加)。摄像机静止。
+
+【转场】
+Soft dissolve / cross-fade between panels。Light shift过渡。Match cut。Smooth time/scene transition (Panel 11室内→Panel 12寺院用cross-dissolve)。不要硬切，不要跳切，不要全屏黑场。Panel 12摄像机绝对静止3秒不动 (extended shot)。Panel 13是quick shot。其余standard pace。
+
+【镜头语言】
+Medium portrait static (Panel 9/10/12/15/16)，Medium close-up (Panel 11)，Wide cinematic (Panel 13)，Extreme close-up macro (Panel 14)。摄像机稳定克制，Panel 10有slow dolly-in，其余多数静止。Panel 12关键 — 锁定3秒完全不动让情感主导。
+
+【光线】
+早晨柔和自然阳光，色调与Video 1完全一致延续：白色偏冷淡蓝色调。室内panels (9/10/11)窗光斜射柔和。寺院panels (12/13/15/16)菩提树dappled light + 自然光。Panel 14裁缝工作室木窗自然光柔和偏暖但不橙色。不要golden hour橙色，不要dramatic shadows，不要hard shadows，不要过曝。
+
+【声音】
+无对白，无旁白，无背景音乐 (用户后期CapCut添加 — 建议peaceful instrumental)。仅自然环境声：室内panels (9/10/11)窗外微风+轻微纸礼盒摩擦+布料整理声。Panel 12 (MEMORABLE MOMENT)环境声音量降低，仅极轻微鸟鸣+微风让画面情感主导。Panel 13鸟鸣+菩提树叶风。Panel 14极轻微手工缝线声+裁缝工作室环境。Panel 15/16寺院庭院环境声。不要敲钟，不要诵经声 (避免over-spiritual)。
+
+【连续性】
+始终保持@image2 Character Sheet身份 (与Video 1完全一致 — 同脸同发型同身高比例)。法师服design与@image3一致。Panel 9母亲穿旧法师服 (continuity from Video 1)，Panel 10-16穿新法师服。色调统一：pastel蓝 + 木褐色 + 菩提绿 + 柔和白 (match Video 1)。早晨光照美学统一。身份漂移绝对不允许。
+
+【严格避免】
+不要佛坛佛像香炉烧香僧人 (religious sensitive)。不要glamour pose，不要fashion shoot，不要sexual undertone。母亲不化妆，女儿极淡淡妆。法师服上不要花纹刺绣logo文字。女儿T恤不要logo文字。不要卡通动漫插画风。不要把@image1生成成storyboard grid拼图。不要画面中文字水印字幕品牌logo (Panel 16保留留白但不预先添加CTA)。不要AI face artifacts。
+
+⚠️ DUPLICATE PERSON BUG PREVENTION：每个panel绝对只能有指定数量的人物，不要在同一frame中duplicate同一人物。Panel 9只有1个母亲 (+ An的手在画面边缘)。Panel 10/11/12/13/16只有母亲1人 — 绝对不要复制出第2个母亲。Panel 14只有裁缝的手 (没有完整人物)。Panel 15只有母亲+女儿2人 (不要复制An，不要复制母亲)。如果@image2 Character Sheet中有母亲多个views (front/3/4/side)，AI请理解那是身份reference，不是要在视频frame中显示多个母亲。
+
+Panel 12眼泪绝对不要流到脸颊 (只是积在眼角đọng ở khóe mắt)。Panel 12母亲嘴唇不要过度张开 (只是微微peaceful笑容)。Panel 12不要哭泣表情nức nở (必须是peaceful + 幸福的rưng rưng nhẹ)。不要pop-in artifacts (anti-pop-in Day 24)。身份不要漂移 — 母亲和女儿与Video 1完全一致。法师服design不要漂移 — 与@image3 + Video 1 Panel 7一致。不要金橘色温暖滤镜，不要over-saturated。不要剧烈镜头运动，不要抖动闪烁全屏黑场。Panel 16 frame中绝对不要有任何文字字符。
+
+
+═══════════════════════════════════════════════════════════
+GHI CHÚ
+═══════════════════════════════════════════════════════════
+
+1. Workflow tổng Day 26:
+   Bước 1: Generate Character Sheet (Prompt 1) — cost ~900 VND
+   Bước 2: Generate Product Master (Prompt 2) — cost ~900 VND
+   Bước 3: Review chất lượng 2 master, re-gen nếu identity drift
+           hoặc design không khớp brief
+   Bước 4: Generate Storyboard Video 1 (Prompt 3) — cost ~900 VND
+           Upload references: Character Sheet + Product Master
+   Bước 5: Generate Storyboard Video 2 (Prompt 4) — cost ~900 VND
+           Upload references: Character Sheet + Product Master
+           (CHỈ 2 refs — KHÔNG upload Storyboard Video 1, tránh
+           visual prior bias)
+   Bước 6: Review 2 storyboards, verify 16 panels đúng story arc
+   Bước 7: Generate Video 1 (Prompt 5 Seedance) — cost ~36,000 VND
+           Upload 3 refs: Storyboard Video 1 + Character + Product
+   Bước 8: Generate Video 2 (Prompt 6 Seedance) — cost ~36,000 VND
+           Upload 3 refs: Storyboard Video 2 + Character + Product
+   Bước 9: QC frame-by-frame 2 videos, re-gen panel nào fail
+   Bước 10: Ghép 2 videos trong CapCut + add nhạc + CTA text
+            → output final 30s
+
+2. Pattern verified Day 26:
+   - Character Sheet turnaround 2 hàng × 3 cột (mẹ + con cùng 1 ảnh)
+     — pattern mới Day 26, khác Day 24 (mỗi nhân vật 1 ảnh riêng)
+   - Storyboard 4x2 (8 panels) — work tốt với multi-ref Seedance,
+     không vi phạm rule Day 24 "không upload grid 4x4 in multi-ref"
+   - Multi-ref hybrid 3 refs cho Seedance (Storyboard + Character +
+     Product) — work
+   - Cinema-style 30s (2 videos × 15s) với cliffhanger ending +
+     memorable moment — story arc preserved qua 2 Seedance calls
+
+3. Insights chính Day 26 đã verify:
+   - Cinema-style 30s 2-part trailer cho sản phẩm high-emotion (gift,
+     religious, hiếu thảo) outperform feature reel 15s về cảm xúc
+   - 8 panels mỗi storyboard đủ depth cho 15s storytelling — không
+     cần 16 panels như Day 25
+   - Visual prior bias: KHÔNG upload Storyboard cũ làm reference khi
+     gen Storyboard mới (AI sẽ copy content thay vì follow text prompt)
+   - Duplicate person bug: khi Character Sheet có nhiều views của
+     cùng nhân vật, Seedance có thể merge views thành 2+ người trong
+     1 frame → fix bằng explicit "CHỈ 1 NGƯỜI DUY NHẤT" cho từng panel
+     có wide shot
+   - Memorable Moment 3s static camera ở Panel 12 (cry-trigger) làm
+     audience nhớ lâu nhất sau khi tắt video — đáng "đầu tư" thời
+     lượng cho 1 frame quan trọng
+
+4. Compliance VN cho religious product (pháp phục Phật tử):
+   - KHÔNG glamour pose, makeup đậm
+   - KHÔNG bàn thờ rõ nét, tượng Phật, hương, sư sãi trong background
+   - KHÔNG dramatic lighting / golden hour cam đậm
+   - Tone color peaceful: lam pastel + nâu gỗ + xanh lá bồ đề + trắng
+   - Trang nghiêm nhưng không over-spiritual (tránh khán giả hiểu
+     nhầm là quảng cáo dịch vụ tôn giáo)
+
+5. Cost dự kiến chi tiết:
+   - Character Sheet: 900 VND
+   - Product Master: 900 VND
+   - Storyboard 1: 900 VND
+   - Storyboard 2: 900 VND
+   - 2 videos × 36,000 = 72,000 VND
+   - Subtotal: 75,600 VND
+   - Buffer re-gen 20%: ~15,000 VND
+   - Total budget: ~91,000 VND
+
+6. Nhạc nền + ghép video:
+   Sau khi có 2 videos Seedance, dùng CapCut Desktop để ghép +
+   thêm nhạc. Nhạc nên là instrumental peaceful (zen / meditation /
+   piano emotional / bamboo flute), tempo chậm 60-80 BPM, không có
+   lời. Có thể tìm trong thư viện nhạc CapCut với keyword "zen",
+   "meditation", "emotional piano", hoặc download free từ Pixabay
+   Music. Tránh nhạc upbeat pop, EDM, hoặc TikTok viral sounds —
+   phá tone peaceful của bài quảng cáo. KHÔNG dùng SUNO gen nhạc
+   cho bài này vì SUNO mạnh ở vocal/lyrics nhưng yếu ở instrumental
+   meditation cinematic.
+
+7. CTA frame Panel 16:
+   Trong video demo bài giảng, CTA dùng SĐT placeholder
+   "0XXX.XXX.XXX". Khi áp dụng cho shop thật, thay bằng SĐT/Zalo/
+   link landing page thật. Cỡ chữ recommend cho CapCut 1080p:
+   11-14 (font Inter/Be Vietnam Pro). Position: bottom 1/3 frame
+   để không che mặt nhân vật. Thêm shadow nhẹ cho text trắng để
+   đọc rõ trên background busy.
+
+═══════════════════════════════════════════════════════════
