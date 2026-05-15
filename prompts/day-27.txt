@@ -1,0 +1,408 @@
+============================================================
+DAY 27 — PROMPTS LIBRARY
+"Cậu và Bơ — 30 năm Sài Gòn"
+Cinema-Style 70s Narrative
+============================================================
+
+Total: 16 prompts
+- 3 foundation images (F1-F3) — GPT Image 2
+- 5 storyboards (S1-S5) — GPT Image 2
+- 5 video segments (V1-V5) — Seedance Omni 2.0, prompt CN
+- 3 backup EN versions cho V2, V3, V4
+
+Stack:
+- Images: GPT Image 2 trên 0ai.vn
+- Videos: Seedance Omni 2.0 trên 0ai.vn (cap duration = 15s/segment)
+- Edit: CapCut
+
+============================================================
+F1 — CHARACTER + DOG COMBINED SHEET (16:9)
+============================================================
+
+Create a two-section character and dog reference sheet for a Vietnamese cinematic short film, 16:9 horizontal aspect ratio, hand-drawn storyboard aesthetic, neutral cream paper background, thin black vertical border separating left and right sections, label headers in clean serif font.
+
+LEFT SECTION (60% width) — CHARACTER SHEET "Cậu":
+Same Vietnamese man depicted at 4 ages, arranged in 4 stacked rows, each row showing front view and 3/4 angle view side by side. Distinguishing features consistent across all ages: tall straight nose, deep brown eyes, square jaw, small visible scar on the right eyebrow.
+
+- Row 1 — Age 25 (1995): black hair combed in a side part, light blue short-sleeve button-up shirt, smooth young skin, warm friendly expression, label "AGE 25 / 1995".
+- Row 2 — Age 30 (2000s): tidy black hair, thin metal-frame eyeglasses, beige short-sleeve shirt, slightly more mature expression, label "AGE 30 / 2000s".
+- Row 3 — Age 45 (2010s): black hair with visible white streaks at both temples, fine wrinkles around eyes, dark gray collared shirt, kept thin metal-frame glasses, label "AGE 45 / 2010s".
+- Row 4 — Age 55 (2025): 80% gray hair thinning at the crown, deep wrinkles around eyes and forehead, slightly sunken cheeks, white hospital pajama shirt, no glasses, label "AGE 55 / 2025".
+
+RIGHT SECTION (40% width) — DOG SHEET "Bơ":
+Same Vietnamese mongrel dog depicted at 3 life stages, arranged in 3 stacked rows, each row showing front view and side view side by side. Distinguishing features consistent across all stages: light orange-tan fur with white chest, four white socks on the paws, V-shaped pointed ears, medium-length muzzle, curled tail, small white heart-shaped marking on the forehead.
+
+- Row 1 — Stage 1 Puppy (1995, 3 months old): small body, slightly wet matted fur, ears not yet fully erect, big innocent brown eyes, label "PUPPY".
+- Row 2 — Stage 2 Adult (2000s-2010s, 5-12 years): smooth healthy coat, ears fully erect in V-shape, wearing a brown leather collar with a brass tag engraved "BƠ" hanging at the throat, alert expression, label "ADULT".
+- Row 3 — Stage 3 Senior (2025): gray fur around muzzle and ears, thinner aged body, slightly cloudy eyes, same brown leather collar now darkened with age and same brass tag "BƠ", gentle weary expression, label "SENIOR".
+
+Below the dog sheet rows, add a small inset macro close-up illustration of the brown leather dog collar with the brass tag clearly showing the engraved letters "BƠ", labeled "COLLAR & TAG — PROP".
+
+Style: Production reference sheet for a Vietnamese short film, hand-drawn aesthetic combining ink line work and soft watercolor wash, organized clean layout, cream paper texture background, thin black borders, label headers in clean serif font. Slightly stylized illustrations, realistic proportions, warm nostalgic tone.
+
+Avoid: photorealistic CGI render, digital glossy look, color overlay filters, modern UI elements, watermarks, logos, glamour pose, sexual content, Disney style, anime style, Shiba Inu features on the dog (must be Vietnamese mongrel), Japanese aesthetic.
+
+============================================================
+F2 — PROPS COLLECTION (16:9)
+============================================================
+
+Create a Vietnamese vintage cinematic short film prop reference sheet, 16:9 horizontal aspect ratio, hand-drawn pencil and watercolor wash style on cream paper background, organized layout with 3 sections separated by thin black borders, label headers in clean serif font.
+
+LEFT SECTION (35% width) — VEHICLE:
+A Honda Cub Dream 1995 motorcycle in classic red and black color scheme, side view, parked on a tiled floor, with clear visible details: round single headlight, red gas tank with white pinstripe, chrome handlebars, black leather seat, exposed engine, kick-starter pedal, vintage 1990s Vietnamese license plate format. Label header "HONDA CUB DREAM — 1995".
+
+CENTER SECTION (30% width) — KITCHENWARE:
+A Vietnamese Bat Trang ceramic rice bowl, white porcelain body with traditional cobalt blue trim pattern at the rim, viewed from a 3/4 angle showing the inside containing plain white steamed rice with a small amount of clear broth. Beside it, a pair of traditional Vietnamese chopsticks made of dark wood resting on a small ceramic chopstick holder. Below them, a smaller version of the same ceramic bowl shown empty in top-down view to display the blue rim pattern clearly. Label header "BAT TRANG CERAMIC BOWL — PROP".
+
+RIGHT SECTION (35% width) — WARDROBE:
+Four short-sleeve button-up shirts displayed flat-lay style stacked in a column, each shirt clearly visible with subtle aging signs progressing top to bottom:
+- Top: a brand-new light blue cotton short-sleeve shirt, 1990s cut, crisp ironed look, label "1995 — AGE 25".
+- Second: a beige cotton short-sleeve shirt, slightly relaxed fit, 2000s cut, lightly worn, label "2000s — AGE 30".
+- Third: a dark gray short-sleeve collared shirt, 2010s cut, faded slightly with subtle wash marks, label "2010s — AGE 45".
+- Bottom: a plain white cotton hospital pajama short-sleeve shirt with two front pockets, slightly creased and soft, label "2025 — AGE 55 — HOSPITAL".
+
+Style: Production prop reference sheet for a Vietnamese nostalgic short film, hand-drawn ink line work with soft watercolor wash, organized clean layout, cream paper texture background, thin black section borders, label headers in clean serif font. Realistic proportions, warm nostalgic tone, slight aged-paper feel.
+
+Avoid: photorealistic CGI render, digital glossy product photography, color overlay filters, modern motorcycle (must be 1995 vintage Honda Cub), Western kitchenware, Chinese ceramic style (must be Vietnamese Bat Trang), modern T-shirts, hoodies, fashion glamour, watermarks, logos, branded marks, Disney style, anime style.
+
+============================================================
+F3 — HOODED FIGURE SILHOUETTE (9:16)
+============================================================
+
+Create a cinematic atmospheric reference still for a Vietnamese emotional short film, 9:16 vertical aspect ratio, painterly watercolor illustration style.
+
+Subject: A tall solitary figure standing in the corner of a dimly-lit Vietnamese vintage hospital room. The figure wears a long flowing dark indigo cloak that reaches the floor, with a deep oversized hood. Inside the hood, only soft pure shadow is visible — no facial features, no eyes, completely empty darkness like the inside of a hollow well.
+
+Posture: Calm, still, standing peacefully at the foot of an iron hospital bed. Hands hidden inside long cloak sleeves, not visible.
+
+Atmosphere: Soft white mist coils gently around the figure's feet, blending into the floor. Dappled light from gauze hospital curtains falls in patches across the figure. The mood is contemplative, peaceful, sacred — like a quiet moment in a Vietnamese art film.
+
+Environment: Vintage Vietnamese hospital room with green-tiled lower walls, white upper walls, iron hospital bed with white linens visible at frame edge, single ceiling fan, gauze curtains creating dappled light.
+
+Style: Painterly watercolor and ink illustration, muted cool color palette of deep blues and soft grays, warm cream highlights from dappled light. Tone of contemplative Asian art cinema.
+
+Avoid: skeleton, bones, weapon, scythe, religious symbols, horror, scary mood, glowing features, ghost, demon, dark fantasy.
+
+============================================================
+S1 — STORYBOARD "Mưa & gặp gỡ" (1:1, 4 panels 2×2)
+============================================================
+Refs: @image_1 = F1
+
+REFERENCE IMAGES:
+@image_1 = Character and dog reference sheet. Use this strictly for character identity at age 25 (face structure, hair, light blue short-sleeve shirt) and puppy dog identity (Vietnamese mongrel, light orange fur, white socks, white heart marking on forehead). Do NOT copy the layout or style of this reference — render the storyboard in its own hand-drawn watercolor grid style.
+
+Create a 4-panel storyboard reference grid for a Vietnamese cinematic short film, 1:1 square aspect ratio, hand-drawn pencil and watercolor wash style on cream paper background, organized in a 2x2 grid layout with thin black borders separating each panel, shot numbers in top-left corner of each panel, shot type badge (WS/MS/CU) in top-right, one-line action description below each panel.
+
+PANEL 1 (top-left) — Shot 1, WS:
+A young Vietnamese man age 25 with black side-part hair and a light blue short-sleeve shirt, riding a red-black Honda Cub Dream motorcycle through a heavy rainy night on a Saigon street, headlights cutting through diagonal rain, blurry yellow neon shop signs in background "TIỆM TẠP HÓA", wet asphalt reflecting lights. Action label: "Cậu trai về nhà dưới mưa rào Sài Gòn 1995".
+
+PANEL 2 (top-right) — Shot 2, MS:
+A small wet Vietnamese mongrel puppy with light orange fur, white chest, small white heart-shaped marking on forehead, shivering and pressed against a vintage Vietnamese tile wall under a tiled awning, rainfall visible at the edges of frame, low-angle composition. Action label: "Puppy ướt rẩy run dưới mái hiên".
+
+PANEL 3 (bottom-left) — Shot 3, CU:
+Close-up of a Vietnamese man's hand wearing a Casio square watch extending palm-up toward the wet puppy, the puppy with white heart marking on forehead nuzzling into the palm, both shown in the rain, very intimate composition. Action label: "Tay cậu vươn ra — Bơ rúc vào lòng tay".
+
+PANEL 4 (bottom-right) — Shot 4, MS tracking-back:
+The same Vietnamese man age 25 carrying the wet puppy in his arms, entering a vintage Vietnamese house cấp 4 through a doorway with white gauze curtain, warm yellow ceiling light visible inside, green-white tile floor visible. Action label: "Bế Bơ vào nhà cấp 4 — đèn vàng ấm".
+
+Style: Hand-drawn storyboard with pencil line work and soft watercolor wash, cream paper texture background, thin black borders between panels, label text in clean simple sans-serif font, slightly stylized illustrations, warm nostalgic Vietnamese 1990s tone.
+
+Avoid: photorealistic CGI render, Shiba Inu features on the dog (must be Vietnamese mongrel), Japanese aesthetic, modern Saigon, LED lights, glamour, anime style, Disney style, text gibberish, watermarks, logos.
+
+============================================================
+S2 — STORYBOARD "Bữa cơm & bạn đồng hành" (16:9, 5 panels horizontal)
+============================================================
+Refs: @image_1 = F1 + @image_2 = F2
+
+REFERENCE IMAGES:
+@image_1 = Character and dog reference sheet. Use strictly for character identity (Cậu age 25 light blue shirt, age 30 with thin metal glasses and beige shirt) and dog identity (puppy stage and adult stage Vietnamese mongrel anchors).
+@image_2 = Props reference. Use for Bat Trang ceramic bowl design (white with cobalt blue trim), beige short-sleeve shirt for age 30.
+Do NOT copy the layout or style of these reference images — render the storyboard in its own hand-drawn watercolor grid style.
+
+Create a 5-panel storyboard reference grid for a Vietnamese cinematic short film, 16:9 horizontal aspect ratio, hand-drawn pencil and watercolor wash style on cream paper background, organized in a single horizontal row of 5 panels with thin black borders between each panel, shot numbers in top-left corner of each panel, shot type badge (WS/MS/CU) in top-right, one-line action description below each panel.
+
+PANEL 1 — Shot 5, CU:
+Close-up of a Vietnamese man's hands gently wiping the small wet puppy dry with a vintage blue plaid cotton towel, the puppy shivering with closed eyes, intimate calm composition. Action label: "Lau khô Bơ bằng khăn caro xanh".
+
+PANEL 2 — Shot 6, WS eye-level low:
+The Vietnamese man age 25 squatting on a green-white tile floor next to a Vietnamese Bat Trang white-with-blue-trim ceramic bowl, the puppy approaching the bowl curious and hungry, warm yellow ceiling light from above, vintage interior. Action label: "Cậu ngồi xổm — Bơ tiến tới tô cơm Bát Tràng".
+
+PANEL 3 — Shot 7, MS:
+Hands feeding the puppy with chopsticks holding plain white rice with broth from the Bat Trang ceramic bowl, the puppy eating eagerly, tail wagging visible for the first time, intimate warm composition. Action label: "Đút Bơ ăn cơm trắng — đuôi vẫy lần đầu".
+
+PANEL 4 — Shot 8, CU slow push-in:
+Extreme close-up of the puppy's deep brown eyes looking up gratefully at the off-frame man, the small white heart-shaped marking on the puppy's forehead clearly visible, emotional intimate composition. Action label: "Mắt Bơ ngước nhìn cậu — đốm tim trán rõ".
+
+PANEL 5 — Shot 9, MS:
+The same Vietnamese man now age 30 with tidy black hair and thin metal-frame glasses, wearing a beige short-sleeve shirt, lying in a fabric striped hammock on a Vietnamese balcony with yellow neon evening lighting, reading a Tuổi Trẻ newspaper 1998 issue, the adult Vietnamese mongrel dog Bơ now with light orange fur, V-shaped erect ears, brown leather collar with brass tag "BƠ" visible, curled under the hammock. Action label: "5 năm sau — Cậu 30y đọc Tuổi Trẻ, Bơ trưởng thành dưới võng".
+
+Style: Hand-drawn storyboard with pencil line work and soft watercolor wash, cream paper texture background, thin black borders between panels, label text in clean simple sans-serif font, warm nostalgic Vietnamese 1990s-2000s tone, sequential narrative reading left-to-right.
+
+Avoid: photorealistic CGI render, Shiba Inu features on the dog, Japanese aesthetic, modern interior, Western kitchen, glamour, anime style, text gibberish, watermarks, logos, time-jump too abrupt.
+
+============================================================
+S3 — STORYBOARD "Time passes → Hospital" (1:1, 4 panels 2×2)
+============================================================
+Refs: @image_1 = F1
+NOTE: Đây là version v2 sau khi fix Bơ position bug
+
+REFERENCE IMAGES:
+@image_1 = Character and dog reference sheet. Use strictly for Cậu identity at ages 30, 45, 55 (progressive aging with visible gray temples at 45) and dog Bơ identity at adult and senior stages (Vietnamese mongrel anchors, white heart marking, V-shaped ears, brown leather collar with brass tag "BƠ" aging from new to darkened).
+Do NOT copy the layout or style of this reference — render the storyboard in its own hand-drawn watercolor grid style.
+
+Create a 4-panel storyboard reference grid for a Vietnamese cinematic short film time-passing montage, 1:1 square aspect ratio, hand-drawn pencil and watercolor wash style on cream paper background, organized in a 2x2 grid layout with thin black borders separating each panel, shot numbers in top-left corner of each panel, shot type badge (WS/MS/CU/EWS) in top-right, one-line action description below each panel.
+
+PANEL 1 (top-left) — Shot 10, CU:
+Close-up of the Vietnamese man's hand petting the adult dog Bơ's golden orange fur on the Vietnamese balcony, the brown leather collar with brass tag engraved "BƠ" catching warm yellow evening light, intimate calm gesture. Action label: "Tay vuốt lông Bơ — vòng cổ tag BƠ ánh vàng".
+
+PANEL 2 (top-right) — Shot 11, WS slow dolly:
+The same Vietnamese man clearly aged 45 with prominently visible gray-white hair streaks at both temples, fine wrinkles around the eyes, wearing a dark gray short-sleeve shirt and thin metal-frame glasses, standing leaning on the railing of an aged Vietnamese balcony with iron flower-pattern grill, looking out at a vintage Saigon skyline with only OLD RED-TILE ROOFS and low buildings in evening light (NO modern skyscrapers, NO tall towers). The senior Vietnamese mongrel dog Bơ with gray fur around muzzle lying ON THE TILE FLOOR OF THE BALCONY, on the same side as the man INSIDE the iron railing, positioned just behind the man's feet (NOT outside the railing, NOT on rooftops in distance), clearly visible body with brown leather collar and brass tag "BƠ". Action label: "Cậu 45y sương tóc tựa ban công — Bơ già nằm phía sau".
+
+PANEL 3 (bottom-left) — Shot 12, CU:
+The aged hand of the Vietnamese man age 45 with subtle wrinkles gently petting the senior dog Bơ's head, the fur around the dog's muzzle clearly gray-white, the brown leather collar now darkened with age, intimate tender moment. Action label: "Tay sương vuốt đầu Bơ già — lông quanh mõm bạc".
+
+PANEL 4 (bottom-right) — Shot 13, EWS extreme wide:
+Extreme wide shot of a vintage Vietnamese hospital room — green-tiled lower walls, white upper walls, single ceiling fan, gauze curtains creating dappled light, white iron-framed hospital bed with yellowed paint in center, a Vietnamese man age 55 with 80% gray hair lying with transparent oxygen mask, the senior dog Bơ lying on the green-tile floor next to the bed faithfully. Action label: "2025 — Ông 55y hospital + Bơ già nằm sàn".
+
+Style: Hand-drawn storyboard with pencil line work and soft watercolor wash, cream paper texture background, thin black borders between panels, label text in clean simple sans-serif font, montage time-passing feel with each panel slightly more weathered than previous, somber transition into hospital scene in final panel.
+
+Avoid: photorealistic CGI render, Shiba Inu features on the dog, Japanese aesthetic, modern hospital LED lighting, modern Saigon skyscrapers in panel 2 background, glamour, MTV-style time-passes effects, abrupt jump cuts, character drift, dog positioned outside the balcony railing or on distant rooftops in panel 2.
+
+============================================================
+S4 ⭐ STORYBOARD "Memorable Moment" (1:1, 4 panels 2×2)
+============================================================
+Refs: @image_1 = F1 + @image_2 = F3
+
+REFERENCE IMAGES:
+@image_1 = Character and dog reference sheet. Use strictly for elderly Cậu age 55 identity and senior dog Bơ identity (gray muzzle, white heart marking on forehead, brown collar with brass tag "BƠ").
+@image_2 = Hooded figure reference. Use strictly for the figure's identity (long black cloak, deep hood, face completely hidden in shadow, NO skull, NO scythe, pale slender hand barely visible from sleeve, mist at feet).
+Do NOT copy the photorealistic cinematic style of these references — render the storyboard in its own hand-drawn watercolor grid style. Borrow only subject identity, not visual style.
+
+Create a 4-panel storyboard reference grid for the emotional peak of a Vietnamese cinematic short film, 1:1 square aspect ratio, hand-drawn pencil and watercolor wash style on cream paper background, organized in a 2x2 grid layout with thin black borders separating each panel, shot numbers in top-left corner of each panel, shot type badge (MS/CU/WS) in top-right, one-line action description below each panel. The third panel must be highlighted as a critical emotional peak.
+
+PANEL 1 (top-left) — Shot 14, MS static low angle:
+The senior Vietnamese mongrel dog Bơ lying on the green-tile floor of a Vietnamese vintage hospital, looking up worried at the off-frame elderly owner, ears slightly back, tail still, gray fur around muzzle clearly visible, brown leather collar with brass tag "BƠ" visible, vintage hospital with green-tiled lower walls and white upper walls in background. Action label: "Bơ già ngước nhìn chủ — lo lắng".
+
+PANEL 2 (top-right) — Shot 15, CU:
+Close-up of the elderly Vietnamese man age 55 with 80% gray thinning hair and deep wrinkles, transparent oxygen mask covering his nose and mouth, eyes closed peacefully, slow weak breathing visible, the gauze hospital curtain dappled light pattern faintly visible on his cheek. Action label: "Ông 55y mắt nhắm — hơi thở yếu dần".
+
+PANEL 3 (bottom-left) ⭐ MEMORABLE MOMENT — Shot 17, MS STATIC 6 seconds:
+The single most important panel. The senior dog Bơ with gray-muzzled face standing on the green-tile hospital floor, calmly stretching its neck upward and gently pressing its forehead with the white heart marking against a barely-visible pale slender hand emerging from the sleeve of a tall hooded figure in long black cloak. The hooded figure's face is completely hidden in deep shadow inside the hood — no skull, no features. Dappled light from gauze curtains creates patches of soft light across the dog and the figure. No barking, no resistance, complete stillness. Action label: "⭐ Bơ cọ đầu vào tay Tử thần — 6s static, hoàn toàn im lặng".
+
+PANEL 4 (bottom-right) — Shot 18, WS static:
+Wide shot of the doorway and hallway of the Vietnamese vintage hospital, the tall hooded figure in long black cloak and the senior dog Bơ silhouetted from behind walking together calmly into a corridor filled with soft white mist, blurring out softly, the dog's curled tail and the figure's flowing cloak both visible in silhouette. Action label: "Tử thần và Bơ vào sương trắng — silhouette mờ dần".
+
+Style: Hand-drawn storyboard with pencil line work and soft watercolor wash, cream paper texture background, thin black borders between panels, label text in clean simple sans-serif font, somber sacred contemplative tone, panel 3 should feel like a held breath, dappled light pattern motif consistent in panels 3 and 4.
+
+Avoid: photorealistic CGI render, Shiba Inu features on the dog, Grim Reaper skull or scythe, Western horror aesthetic, jump-scare composition, dog barking or growling expression, religious symbols, Buddhist imagery, cross, demon, ghost in white sheet, modern hospital LED lighting, glamour, dramatic action poses.
+
+============================================================
+S5 — STORYBOARD "Cõi vắng" (1:1, 4 panels 2×2)
+============================================================
+Refs: @image_1 = F1
+
+REFERENCE IMAGES:
+@image_1 = Character and dog reference sheet. Use strictly for elderly Cậu age 55 identity (gray hair, deep wrinkles, hospital pajama shirt) and the brown leather collar with brass tag "BƠ" prop from the dog sheet.
+Do NOT copy the layout or style of this reference — render the storyboard in its own hand-drawn watercolor grid style.
+
+Create a 4-panel storyboard reference grid for the resolution scene of a Vietnamese cinematic short film, 1:1 square aspect ratio, hand-drawn pencil and watercolor wash style on cream paper background, organized in a 2x2 grid layout with thin black borders separating each panel, shot numbers in top-left corner of each panel, shot type badge (MS/CU/ECU) in top-right, one-line action description below each panel.
+
+PANEL 1 (top-left) — Shot 19, MS static:
+The elderly Vietnamese man age 55 with 80% gray hair waking up alone on the vintage Vietnamese hospital bed, eyes slowly opening, slight dazed expression, oxygen mask now hanging loose at his neck, searching the room for something missing, the empty space where the dog used to be on the green-tile floor beside the bed visible, gauze curtain dappled light returning to soft normal. Action label: "Ông tỉnh — mắt mở, tìm Bơ".
+
+PANEL 2 (top-right) — Shot 20, CU slow push-in:
+Close-up of the elderly trembling aged hands holding an empty brown leather dog collar with brass tag engraved "BƠ" dangling and slowly swinging, fingers tracing the worn leather, deep wrinkles on the hands visible, soft emotional composition. Action label: "Tay run cầm vòng cổ rỗng — tag BƠ lúc lắc".
+
+PANEL 3 (bottom-left) — Shot 21, ECU extreme close-up:
+Extreme close-up of the brass tag "BƠ" lettering deeply engraved on the brass surface, the diacritic on the letter "ơ" clearly readable, a single tear drop just landed on top of the engraving creating a small reflective bead, very tight macro focus, emotional climax. Action label: "ECU tag BƠ — giọt nước mắt rơi".
+
+PANEL 4 (bottom-right) — Shot 21 alt angle, ECU side view:
+Alternative extreme close-up of the brass tag from a slight side angle, showing the leather strap connecting to the brass ring connecting to the tag, the engraved letters "BƠ" still readable but at angle, the tear drop has begun to slide down the surface. Action label: "ECU tag BƠ — side angle bonus shot".
+
+Style: Hand-drawn storyboard with pencil line work and soft watercolor wash, cream paper texture background, thin black borders between panels, label text in clean simple sans-serif font, emotional climax tone, intimate macro focus on hands and tag, panels reading top-left to bottom-right ending on the tag close-up.
+
+Avoid: photorealistic CGI render, crying face visible (only tear on the tag should be shown), Western emotional acting, religious imagery, hospital staff entering the frame, fast cuts, additional dialogue, on-screen text overlays, subtitles, voiceover indication, logos, watermarks, glamour close-up effects.
+
+============================================================
+V1 — VIDEO "Mưa & gặp gỡ" 15s (Seedance Omni 2.0, CN prompt)
+============================================================
+Refs: @image_1 = F1 + @image_2 = F2 + @image_3 = Storyboard S1
+
+创建一个12秒竖屏9:16电影感越南怀旧短片镜头序列,设定为1995年西贡雨夜。
+
+参考图片:
+@image_1 = 角色与狗的参考表(严格使用25岁越南男子身份锚点和幼犬阶段Bơ身份锚点)。
+@image_2 = 道具参考(用于1995年红黑色本田Cub Dream摩托车造型)。
+@image_3 = S1分镜头表(4个分镜面板显示精确镜头顺序 — 严格遵循面板1到面板4)。
+
+镜头序列(12秒共4个镜头):
+
+镜头1(0-3秒,WS广角缓慢推进):25岁越南男青年,黑色三七分头发,浅蓝色短袖衬衫,骑红黑色本田Cub Dream摩托车穿过西贡街头暴雨夜,车灯划破雨幕,黄色霓虹店招"TIỆM TẠP HÓA"在背景中模糊可见,湿亮的柏油路反射灯光。
+
+镜头2(3-5秒,MS中景静态低角度):一只浑身湿透的越南土狗幼犬,浅橙色毛,白色胸毛,额头有小白色心形斑纹,缩在贴老式越南瓷砖墙边的屋檐下发抖,画面边缘可见雨水落下。
+
+镜头3(5-7秒,CU特写静态):男人的手伸向幼犬,手腕戴Casio方形手表,幼犬带着湿润棕色眼睛抬头看他,鼻子轻轻蹭进他的手掌里,雨中亲密构图。
+
+镜头4(7-12秒,MS中景缓慢后拉跟随):男人怀抱湿淋淋的幼犬走进越南旧式平房,穿过挂白色薄纱门帘的门口,屋内温暖的黄色吊灯柔光可见,绿白相间花砖地面可见,1990年代越南怀旧室内。
+
+视觉风格:
+怀旧越南1990年代美学,温暖黄色霓虹街灯,雨水浸湿的柏油路反射灯光,越南热带城市怀旧氛围,电影感情感色调,轻微胶片颗粒。
+
+角色与狗的一致性:
+越南男子保持25岁形象 — 黑色三七分头发,浅蓝色短袖衬衫,鼻梁挺直,棕色眼睛,方下颌轮廓。幼犬保持越南土狗特征 — 浅橙色毛,胸前白毛,额头小白色心形斑,V形耳朵尚未完全竖立。
+
+音频:
+全程暴雨环境声,镜头1有本田Cub引擎声音,镜头2有幼犬轻柔呜咽声,镜头3雨声减弱至如心跳般安静,镜头4雨声变为闷响。
+
+避免:柴犬特征(必须是越南土狗混血)、日本美学、现代西贡、LED灯光、奢华时尚、MTV式快切、镜头眩光特效、网格输出(不要渲染为4面板网格 — 必须渲染为连续视频序列)、字幕、商标水印、现代摩托车(必须是1995年款本田Cub Dream)。
+
+============================================================
+V2 — VIDEO "Bữa cơm & bạn đồng hành" 15s (CN prompt, FIXED text bleed)
+============================================================
+Refs: @image_1 = F1 + @image_2 = Storyboard S2 (DROP F2 vì text bleed)
+
+创建一个15秒竖屏9:16电影感越南怀旧短片镜头序列,延续前一段:男主人照顾刚救回的幼犬,然后时间跳跃到5年后与已成年的Bơ。整段视频画面中完全不能出现任何文字、字幕、标签、招牌文字、报纸标题、或任何可读字符。
+
+参考图片:
+@image_1 = 角色与狗的参考表(请使用此参考保持男主人和幼犬Bơ的身份外观一致。请勿在视频中渲染参考图中的任何文字、标签或标题)。
+@image_2 = S2分镜头表(5个面板显示精确镜头顺序 — 严格按照面板1到面板5的顺序。请仅使用此参考作为分镜构图指南。绝对不要在视频中渲染分镜表中的任何文字标签、面板编号、镜头类型标识、动作说明文字或边框)。
+
+镜头序列(15秒共5个镜头):
+
+镜头5(0-3秒,CU特写静态):男人的手温柔地用复古蓝格棉毛巾擦干浑身湿透的幼犬,幼犬闭着眼睛微微发抖。
+
+镜头6(3-6秒,WS广角平视低角度):男主人蹲在绿白相间花砖地面上,身旁是越南钵场风格白瓷蓝边陶碗(碗上的蓝色花纹保持图案抽象,无具体文字),幼犬好奇又饥饿地走向碗,头顶吊灯洒下温暖的黄色灯光,1990年代越南怀旧室内。
+
+镜头7(6-9秒,MS中景静态):男人用筷子夹着白米饭蘸清汤喂幼犬,幼犬大口大口地吃,尾巴第一次摇起来。
+
+镜头8(9-11秒,CU特写缓慢推进):极特写幼犬深棕色眼睛感激地抬头看着画面外的男人,幼犬额头上小白色心形斑纹清晰可见。
+
+镜头9(11-15秒,MS中景):时间跳跃5年后。同一位男主人现在已步入而立之年,头发整齐,戴细金属边框眼镜,穿米色短袖衬衫,躺在越南阳台的条纹布吊床上,黄色霓虹晚灯光,手中拿着一份卷起的越南报纸作为道具(报纸上的文字保持模糊和无法阅读,只暗示阅读动作即可),已成年的越南土狗Bơ毛色金黄,V形耳朵竖立,戴棕色皮项圈和铜牌(铜牌上的图案保持简单不可读),蜷缩在吊床下。
+
+视觉风格:
+来自复古黄色吊灯的温暖室内灯光,1995年越南家中→2000年代阳台,柔和电影感情感色调,轻微胶片颗粒。时间跳跃在镜头9处必须是平滑的匹配剪辑。背景中任何招牌或文字必须保持完全模糊和无法阅读。
+
+音频:
+镜头5外面雨声闷响,柔和毛巾擦拭声,镜头6-7陶瓷勺碰撞声,柔和幼犬进食声,柔和钢琴乐从镜头8开始进入并延续。镜头9:远处蝉鸣和吊扇嗡嗡声。
+
+避免:
+绝对不要出现任何形式的可读文字 — 没有字幕,没有标题,没有报纸可读标题,没有招牌文字,没有商标文字,没有商品包装文字,没有水印,没有视频上方或下方的标签条,没有画面中的任何动作说明文字。背景中所有招牌、报纸、商品包装、铜牌刻字必须保持模糊或被遮挡不可阅读。柴犬特征,现代室内,西式厨房,快切,奢华时尚,LED灯光,男主人25岁与30岁不一致,网格输出。
+
+============================================================
+V3 — VIDEO "Time passes → Hospital" 15s (CN prompt, SOFTENED filter #c455)
+============================================================
+Refs: @image_1 = F1 + @image_2 = Storyboard S3
+
+创建一个15秒竖屏9:16电影感越南怀旧短片时光流逝蒙太奇,讲述男主人与他的狗Bơ多年来一起变老的故事,以医院场景结束。
+
+参考图片:
+@image_1 = 角色与狗的参考表(请使用此参考保持男主人和狗Bơ的身份外观一致)。
+@image_2 = S3分镜头表(4个面板 — 严格按照面板1到面板4的顺序)。
+
+镜头序列(15秒共4个镜头):
+
+镜头10(0-4秒,CU特写静态):一只手温柔抚摸成年金黄色毛Bơ的毛发,在越南阳台上,棕色皮项圈带刻"BƠ"铜牌在温暖的傍晚黄色光下闪烁。
+
+镜头11(4-8秒,WS广角缓慢推进):同一位男主人现在已步入中年,鬓角有明显白发丝,戴细金属眼镜穿深灰色短袖衬衫,倚在已显陈旧的越南阳台铁艺花格栏杆上,凝视傍晚光下的西贡老式街景——只有红瓦屋顶和低矮怀旧建筑(没有现代高楼)。同一只Bơ现在毛发已开始花白,趴在阳台地砖上,与他同侧,在铁艺栏杆内侧(不在栏杆外),靠近他的脚后,清楚可见棕色皮项圈和刻"BƠ"铜牌。
+
+镜头12(8-11秒,CU特写静态):同一位男主人苍老有皱纹的手温柔地抚摸花白嘴边的老年Bơ的头,棕色皮项圈因岁月而颜色加深,亲密温柔时刻。
+
+镜头13(11-15秒,EWS极广角静态):极广角展示越南老式医院房间——绿瓷砖下半墙,白色上半墙,单个吊扇,薄纱窗帘投下斑驳光线,白色铁架病床表面已泛黄,同一位男主人现在年长头发已白色戴透明氧气面罩躺在床上,老年Bơ忠诚地趴在床旁绿瓷砖地面上。
+
+视觉风格:
+时光流逝感,每个镜头比前一个更显沧桑。镜头10-12为温暖阳台傍晚灯光。镜头13为薄纱窗帘投下的清冷斑驳光线。电影绘画感色调,轻微胶片颗粒,如越南文艺片。
+
+音频:
+镜头10-12远处蝉鸣和吊扇嗡嗡声,柔和钢琴乐渐强。镜头13:医院环境音,监护仪规律滴声,外面隐约蝉鸣。
+
+避免:
+角色漂移(必须明显是同一人在老去),狗漂移(必须是同一只Bơ在老去),柴犬特征,现代医院LED白光,西式医院设计,奢华时尚,MTV式老化效果,网格输出,Bơ位于栏杆外或远处屋顶上,现代西贡高楼大厦。
+
+============================================================
+V4 ⭐ — VIDEO "Memorable Moment" 15s (CN prompt)
+============================================================
+Refs: @image_1 = F1 + @image_2 = F3 + @image_3 = Storyboard S4
+
+创建一个16秒竖屏9:16电影感越南情感短片高潮段落,带兜帽人物与狗的牺牲,越南医院斑驳光线,主要在静默和缓慢动作中展开。
+
+参考图片:
+@image_1 = 角色与狗的参考表(严格使用55岁锚点 + 老年Bơ锚点 — 嘴边毛发花白,额头小白色心形斑,棕色皮项圈和刻"BƠ"铜牌随岁月颜色加深)。
+@image_2 = 黑袍人物参考(长黑袍,脸完全藏在兜帽深色阴影中,没有骷髅,没有镰刀,袖口隐约可见苍白瘦长的手,脚边白色薄雾缭绕)。
+@image_3 = S4分镜头表(4个面板 — 严格按照面板1到面板4的顺序,面板3是6秒静态情感最高点)。
+
+镜头序列(16秒共4个镜头):
+
+镜头14(0-3秒,MS中景静态低角度):老年的越南土狗Bơ趴在越南医院绿瓷砖地面上,担忧地仰视画面外的年长主人,耳朵微微后压,尾巴不动,嘴边毛发花白清晰可见,棕色皮项圈和刻"BƠ"铜牌可见。
+
+镜头15(3-6秒,CU特写静态):55岁年长男子的脸部特写,戴透明氧气面罩,眼睛紧闭,深深的皱纹,呼吸缓慢微弱。
+
+镜头16(6-10秒,WS广角静态非常缓慢推进):黑袍人物在医院病床脚边的薄雾中浮现,身穿长黑袍,脸完全藏在兜帽的深色阴影中,只有隐约从袖口露出的苍白瘦长的手。绝不出现骷髅,绝不出现镰刀。
+
+⭐ 镜头17(10-16秒,MS中景静态6秒不切镜):老年的Bơ从瓷砖地面缓缓站起,平静地走向黑袍人物,温柔地将额头(白色心形斑可见)贴在黑袍人物隐约可见的苍白手上。没有吠叫,没有低吼,没有抗拒。斑驳光线穿过薄纱窗帘,在Bơ和黑袍人物身上洒下柔和光斑。在这6秒里完全静默。
+
+视觉风格:
+斑驳光线穿过薄纱窗帘,空气中飘着雾气微粒,沉静而神圣的色调,完全静默和缓慢。6秒的关键镜头必须完全静态,镜头不动。
+
+音频:
+镜头14-15医院环境音和沉重的呼吸声。镜头16隐约的雾气声。镜头17的6秒里完全静默(没有音乐,没有环境音,没有任何声音)。这种静默是关键。
+
+⚠️ NOTE: Seedance KHÔNG respect "TOTAL SILENCE" instruction (verified Day 27 — Insight 8). Phải mute manual 6s trong CapCut sau khi generate.
+
+避免:
+死神骷髅或镰刀(脸必须始终藏在阴影中,绝不出现任何武器),恐怖美学,跳吓镜头,快速运动,狗吠叫或低吼,角色移动,镜头17期间任何戏剧性音乐,宗教符号,佛教意象,十字架,恶魔,白衣鬼魂,超自然光效,快切,网格输出。
+
+============================================================
+V5 — VIDEO "Cõi vắng" 15s (CN prompt)
+============================================================
+Refs: @image_1 = F1 + @image_2 = Storyboard S5
+
+创建一个12秒竖屏9:16电影感越南情感短片结局段落,55岁越南男子在Bơ随黑袍人物离开后独自在医院醒来,握着空荡的狗项圈,最后情感特写镜头是铜牌和泪滴。
+
+参考图片:
+@image_1 = 角色与狗的参考表(严格使用55岁医院清醒状态锚点 + 棕色皮项圈和刻"BƠ"铜牌道具)。
+@image_2 = S5分镜头表(4个面板 — 严格按照面板1到面板4的顺序)。
+
+镜头序列(12秒共4个镜头):
+
+镜头18(0-2秒,WS广角静态):越南老式医院的门口和门外空荡的走廊,最后一缕白色薄雾正在消散,狗和黑袍人物已经离开,柔和的斑驳光线恢复正常。
+
+镜头19(2-5秒,MS中景静态):55岁越南男子头发已80%白,在医院病床上醒来,眼睛缓缓睁开,神情迷茫,氧气面罩现在松松地挂在脖子上,搜寻房间寻找消失的东西,目光落在床旁的空地上。
+
+镜头20(5-9秒,CU特写缓慢推进):男人颤抖的苍老的手握着空荡的棕色皮狗项圈,刻"BƠ"铜牌悬挂着轻轻晃动,手指轻抚磨损的皮带,深深的皱纹清晰可见。
+
+镜头21(9-12秒,ECU极特写静态):极特写铜牌"BƠ"刻字深深印在铜牌表面,字母"ơ"上的标记清晰可读,一滴泪水缓缓落在刻字上方形成小小的反光珠子,画面在12秒标记处缓慢淡出至黑场。
+
+视觉风格:
+薄纱窗帘投下柔和斑驳光线,情感高潮色调,最后镜头紧紧聚焦在手和铜牌上,轻微胶片颗粒。
+
+音频:
+镜头18隐约钢琴乐非常轻柔回归。镜头19心电监护仪恢复正常节奏。柔和情感钢琴乐从镜头20开始升起,在镜头21泪滴落下前到达顶峰。淡出至黑场时音乐继续然后渐渐淡出。
+
+避免:
+显示哭泣的脸(只显示铜牌上的泪水,绝不显示男人哭泣的脸),西式情感表演,宗教意象,医护人员入镜,快切,额外对话,旁白指示,屏幕字幕文字,商标水印,网格输出,奢华特写效果。
+
+============================================================
+END OF DAY 27 PROMPTS LIBRARY
+============================================================
+
+Total verified:
+- 3 foundation prompts (F1-F3) — EN
+- 5 storyboard prompts (S1-S5) — EN
+- 5 video prompts (V1-V5) — CN 中文
+= 13 unique prompts
+
+Cost actual Day 27: ~140K VND cho 70s cinema short film
+- Foundation: 17K
+- Storyboards: 25K
+- Videos: 95K + regen V3 (~5K)
+- Edit CapCut: free
+
+Insights verified: 8
+1. 0ai.vn Seedance cap duration = 15s
+2. Filter #c455 "real person" trigger pattern
+3. Storyboard text bleed mitigation
+4. Single F1 multi-age sheet efficient
+5. Hooded Figure VN-adapted compliance
+6. Multi-ref selective per segment
+7. CN prompt > EN for cinematic VN context
+8. Seedance KHÔNG respect "TOTAL SILENCE" — must edit CapCut
