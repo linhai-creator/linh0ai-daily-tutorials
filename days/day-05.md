@@ -413,7 +413,7 @@ Sau Day 5 bạn đã:
 
 ## ➡️ Ngày mai (Day 6)
 
-**Negative prompt & quality tags** — Bí kíp lọc lỗi và tăng chất lượng. Danh sách negative prompt "đa năng" + quality tags theo style.
+**Negative Prompt & Quality Tags: Bí Kíp Lọc Lỗi** — Bí kíp lọc lỗi và tăng chất lượng. Danh sách negative prompt "đa năng" + quality tags theo style.
 
 📌 **Đừng quên:** ⭐ Star repo, follow [Facebook](https://facebook.com/daclinh.tran) / [X](https://x.com/Daclinh0AI).
 
