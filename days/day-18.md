@@ -468,7 +468,7 @@ Kết quả là **summary poster đẹp epic** thay vì storyboard ACT 1.
 
 ## 🚀 Day 19 — Sneak peek
 
-Mai mình deep dive **Image-to-Video Seedance 2.0** — biến storyboard thành video:
+Mai mình deep dive **Storyboard-to-Video Seedance 2.0** — biến storyboard thành video:
 
 - Cách 1: Pick 12 key panels từ 4 boards → 12 video clips × 5s
 - Cách 2: Subset 6-8 panels chính → ngắn hơn nhưng tight hơn
@@ -494,7 +494,7 @@ Sau khi test Day 18, các bạn để ý 4 thứ:
 
 ## 📍 Navigation
 
-[⬅️ Day 17: Tạo ảnh hoạt hình 3D Trung Quốc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-17.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 19: Image-to-Video Seedance](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md)
+[⬅️ Day 17: Tạo ảnh hoạt hình 3D phong cách Trung Quốc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-17.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 19: Storyboard-to-Video Seedance 2.0](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md)
 
 ## 🏷️ Tags
 
