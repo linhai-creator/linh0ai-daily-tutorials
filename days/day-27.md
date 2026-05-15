@@ -1,5 +1,7 @@
 # Day 27 — Cinema-Style 70s Narrative: "Cậu và Bơ — 30 năm Sài Gòn"
 
+![Cậu và Bơ — Memorable Moment](../assets/images/day-27-cau-va-bo-70s-thumbnail.jpg)
+
 > **Level:** 🟣 Advanced
 > **Thời lượng đọc:** 25-30 phút
 > **Thời gian thực hành:** 4-6 tiếng (foundation + storyboards + videos + edit)
@@ -202,6 +204,18 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 | F2 | Props Collection (Honda Cub + Bát Tràng + Áo 4 màu) | GPT Image 2 | 16:9 | Props identity (DROP cho V2 vì bleed text) |
 | F3 | Hooded Figure silhouette in hospital | GPT Image 2 | 9:16 | Tử thần VN-adapted (no skull/scythe) |
 
+**F1 — Character + Dog combined sheet:**
+
+![F1 Character Dog Sheet](../assets/images/day-27-character-dog-sheet-combined.png)
+
+**F2 — Props Collection:**
+
+![F2 Props Collection](../assets/images/day-27-props-collection-honda-bowl-shirts.png)
+
+**F3 — Hooded Figure (VN-adapted, no skull/scythe):**
+
+![F3 Hooded Figure](../assets/images/day-27-hooded-figure-silhouette-hospital.png)
+
 **Critical anchors phải có trong F1:**
 - Cùng face structure 4 ages: mũi, mắt, hàm
 - Aging visible: tóc đen → sương → bạc rụng đỉnh
@@ -219,6 +233,26 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 | S4 ⭐ | Memorable Moment | 4 (2×2) | 1:1 | Shots 14-17: 42-58s |
 | S5 | Cõi vắng | 4 (2×2) | 1:1 | Shots 18-21: 58-70s |
 
+**S1 — Mưa & gặp gỡ:**
+
+![S1 Mưa & gặp gỡ](../assets/images/day-27-storyboard-1-mua-gap-go-4-panels.png)
+
+**S2 — Bữa cơm & bạn đồng hành (5 panels horizontal):**
+
+![S2 Bữa cơm](../assets/images/day-27-storyboard-2-bua-com-ban-dong-hanh-5-panels.png)
+
+**S3 — Time passes → Hospital:**
+
+![S3 Time passes](../assets/images/day-27-storyboard-3-time-passes-hospital-4-panels.png)
+
+**S4 ⭐ Memorable Moment (panel 3 highlight):**
+
+![S4 Memorable Moment](../assets/images/day-27-storyboard-4-memorable-moment-4-panels.png)
+
+**S5 — Cõi vắng:**
+
+![S5 Cõi vắng](../assets/images/day-27-storyboard-5-coi-vang-4-panels.png)
+
 **Pattern verified Day 26:** Hand-drawn watercolor + grid layout + thin black borders + shot number/type/action labels. Image 2 hôm nay handle tốt Vietnamese diacritics trong labels.
 
 **Recommend order tạo:** S4 ⭐ trước (test pattern Memorable Moment + Hooded Figure) → nếu pass thì batch S1, S2, S3, S5 song song trên 3-4 tab 0ai.vn.
@@ -234,6 +268,22 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 | V3 | 15s | F1 + S3 | Time passes 45y → hospital |
 | V4 ⭐ | 15s | F1 + F3 + S4 | Memorable Moment 6s static |
 | V5 | 15s | F1 + S5 | Cõi vắng + tag final |
+
+**V1 — Mưa & gặp gỡ (puppy adopt moment):**
+
+![V1 Thumbnail](../assets/images/day-27-video-1-mua-gap-go-thumbnail.jpg)
+
+**V3 — Time passes (Cậu 45y ban công + Bơ già):**
+
+![V3 Thumbnail](../assets/images/day-27-video-3-time-passes-thumbnail.jpg)
+
+**V4 ⭐ — Memorable Moment (Bơ cọ tay Tử thần):**
+
+![V4 Memorable Moment](../assets/images/day-27-video-4-memorable-moment-thumbnail.jpg)
+
+**V5 — Cõi vắng (tag "BƠ" + giọt nước mắt):**
+
+![V5 Final ECU](../assets/images/day-27-video-5-coi-vang-thumbnail.jpg)
 
 Tổng: 75s raw → cắt 1s/segment trong CapCut = **70s final**.
 
