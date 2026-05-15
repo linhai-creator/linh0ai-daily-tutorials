@@ -502,7 +502,7 @@ Lý thuyết: AI training data có nhiều ảnh **portrait đẹp** ở close-u
 
 ### 🔮 Day 14 — Sneak peek
 
-**TỔNG KẾT TUẦN 2 + chấm Mini Challenge "Phong cảnh Việt Nam"!**
+**Tổng Kết Tuần 2: Master Skills Đã Mở Khóa! 🏆**
 
 Sau 7 ngày Master Skills (Day 8-14), các bạn sẽ có:
 - ✅ Cheatsheet 4-trong-1: Composition + Lighting + Color + Lens
@@ -515,7 +515,7 @@ Sau 7 ngày Master Skills (Day 8-14), các bạn sẽ có:
 
 ## 📍 Navigation
 
-[⬅️ Day 12: Color Theory & Mood](./day-12.md) | [🏠 README](../README.md) | [➡️ Day 14: Tổng kết Tuần 2](./day-14.md)
+[⬅️ Day 12: Color Theory & Mood: 13 Dự Đoán SAI — GPT Cũng KHÔNG Có Điểm Yếu Văn Hóa](./day-12.md) | [🏠 README](../README.md) | [➡️ Day 14: Tổng kết Tuần 2](./day-14.md)
 
 ## 🏷️ Tags
 
