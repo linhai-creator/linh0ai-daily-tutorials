@@ -31,7 +31,7 @@ Sau bài này, các bạn sẽ:
 
 Tất cả prompt tiếng Việt + tiếng Trung dùng trong Day 26 được lưu trong:
 
-**[`prompts/day-26-prompts.txt`](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/prompts/day-26.txt)** (595 lines, 6 prompts đầy đủ)
+**[`prompts/day-26.txt`](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/prompts/day-26.txt)** (595 lines, 6 prompts đầy đủ)
 
 Cấu trúc file:
 
