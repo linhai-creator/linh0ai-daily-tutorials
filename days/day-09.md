@@ -410,7 +410,7 @@ Ngày mai mình deep dive **Composition & Framing** — 5 quy tắc kinh điển
 ---
 
 ## 📍 Navigation
-[⬅️ Day 8: Seedream 4.5 Deep Dive](./day-08.md) | [🏠 README](../README.md) | [➡️ Day 10: Composition & Framing](./day-10.md)
+[⬅️ Day 8: Seedream 4.5: Vũ khí bí mật cho chân dung & da người](./day-08.md) | [🏠 README](../README.md) | [➡️ Day 10: Composition & Framing](./day-10.md)
 
 ## 🏷️ Tags
 `#0aiVN #Day9Linh0AI #PromptEngineering #ÁoDàiAI #WeightedPrompt #VanHoaViet #AoDaiTet #PhoCoHaNoi #Seedream45 #GPTImage2`
