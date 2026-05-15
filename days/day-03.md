@@ -437,7 +437,7 @@ Sau Day 3 bạn đã:
 
 ## ➡️ Ngày mai (Day 4)
 
-**Aspect ratio, resolution & các thông số cơ bản** — Khi nào dùng 1:1, 9:16, 16:9, 4:5? Cách chọn đúng cho từng nền tảng (TikTok, Instagram, Facebook, banner web).
+**Aspect Ratio, Resolution & Settings Cơ Bản** — Khi nào dùng 1:1, 9:16, 16:9, 4:5? Cách chọn đúng cho từng nền tảng (TikTok, Instagram, Facebook, banner web).
 
 📌 **Đừng quên:** ⭐ Star repo, follow [Facebook](https://facebook.com/daclinh.tran) / [X](https://x.com/Daclinh0AI).
 
