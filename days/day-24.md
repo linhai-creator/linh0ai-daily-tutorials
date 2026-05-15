@@ -19,6 +19,9 @@ Sau bài này, các bạn sẽ:
 - 3 videos × 15s = 45s raw để Day 26 ghép trong CapCut
 - 1 set prompts tiếng Việt cho GPT Image 2 + 3 prompts tiếng Trung cho Seedance Omni 2.0
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-24-prompts.txt`](../prompts/day-24-prompts.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## Phần 1 — Storyboard Thương mại vs Storyboard 4x4 Day 18
