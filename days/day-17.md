@@ -673,15 +673,14 @@ Prompt mới (thanh niên 18 tuổi + magical orb + đất linh thiêng + rồng
 
 ## 🚀 Day 18 — Sneak peek
 
-Mai mình deep dive **Image-to-Video với Seedance 2.0**:
+Mai mình deep dive **Storyboard Sheets 4x4 Grid với Motion Lines**:
 
-- Lấy 6 ảnh hero từ Day 17 (1 ảnh/concept) → biến thành video 5-10 giây xianxia
-- Prompt motion cho Seedance: subtle vs dramatic
-- Camera movement: zoom, pan, tilt, orbit theo phong cách Trung Hoa
-- Subject motion: hanfu bay, kiếm phi, mây cuộn, hạc bay, fire lotus animation
-- Workflow batch render 6 video xianxia trong 30-45 phút
+- Master cách tạo storyboard sheet 4x4 grid chuẩn animation production
+- Biết viết prompt multi-panel layout với 16 panels distinct
+- Hiểu cách thêm motion lines (sword arcs, movement arrows, vv)
+- Workflow render 4 storyboard boards sẵn sàng làm reference cho video animation
 
-→ **Continuation tự nhiên:** Day 17 dạy tạo ảnh xianxia 3D → Day 18 biến thành video viral. Cùng 1 concept dùng được cho cả TikTok 9:16 + YouTube 16:9 + video.
+→ **Continuation tự nhiên:** Day 17 (single ảnh) → Day 18 (storyboard sheets) → chuẩn bị cho video animation.
 
 ---
 
@@ -701,7 +700,7 @@ Sau khi test Day 17, các bạn để ý 3 thứ:
 
 ## 📍 Navigation
 
-[⬅️ Day 16: Workflow Batch Processing](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-16.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 18: Image-to-Video Seedance](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-18.md)
+[⬅️ Day 16: Workflow Batch Processing](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-16.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 18: Storyboard Sheets 4x4 Grid với Motion Lines](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-18.md)
 
 ## 🏷️ Tags
 
