@@ -6,7 +6,7 @@
 
 ---
 
-**[← Day 26: Cinema Trailer 30s pháp phục lam](./day-26.md)** · **[📚 Mục lục 30 ngày](../README.md)** · **[Day 28: Audio Production cho AI video →](./day-28.md)**
+**[← Day 26: Cinema Trailer 30s pháp phục lam](./day-26.md)** · **[📚 Mục lục 30 ngày](../README.md)** · **[Day 28: Tổng kết Tuần 4 + Mini Challenge Video VN →](./day-28.md)**
 
 > **Level:** 🟣 Advanced
 > **Thời lượng đọc:** 25-30 phút
@@ -484,18 +484,20 @@ Các bạn chọn 1 trong 3 stories sau, thay context VN khác Sài Gòn:
 
 ## ➡️ Bài tiếp theo
 
-Day 28 sẽ chuyển focus sang **Audio Production cho AI video** — vì Day 27 đã verify Seedance audio default không đủ tốt. Mình sẽ dạy:
-- BGM cinematic cho 3 mood (sad / hopeful / suspense)
-- SFX layering: rain / ambience / piano / heartbeat
-- Voice-over Vietnamese narrative (sử dụng AI voice gen miễn phí)
-- Audio mixing trong CapCut: balance, ducking, silence drop
-- Music license free safe cho TikTok/Reels/YouTube
+Day 28 sẽ là **Tổng kết Tuần 4 + Launch Mini Challenge #3 "Video Việt Nam"**:
+
+- Recap 6 milestones Tuần 4 (Day 22-27) — từ Seedance basics đến Cinema 70s narrative
+- Cheatsheet 1 trang skills video AI production
+- Launch **Mini Challenge "Video Việt Nam"** — audience làm video theme VN tự chọn (gia đình / quê hương / pet / food / festival)
+- Deadline: Day 29 · Top 3 mention trong Day 30 wrap
+- Day 29 preview: **Capstone Case Study — Quảng cáo 30s**
+- Day 30 preview: **Tổng kết 30 ngày + Roadmap tiếp theo**
 
 **Hẹn các bạn Day 28!**
 
 ---
 
-**[← Day 26: Cinema Trailer 30s pháp phục lam](./day-26.md)** · **[📚 Mục lục 30 ngày](../README.md)** · **[Day 28: Audio Production cho AI video →](./day-28.md)**
+**[← Day 26: Cinema Trailer 30s pháp phục lam](./day-26.md)** · **[📚 Mục lục 30 ngày](../README.md)** · **[Day 28: Tổng kết Tuần 4 + Mini Challenge Video VN →](./day-28.md)**
 
 ---
 
