@@ -20,6 +20,9 @@ Sau bài này, các bạn sẽ:
 - 3 videos × 15s — Seedance Omni 2.0 image-to-video
 - 4 insights mới verified cho khóa học Tuần 4
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-25.txt`](../prompts/day-25.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## Phần 1 — Vì sao 3 briefs khác nhau?
