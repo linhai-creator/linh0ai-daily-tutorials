@@ -621,7 +621,7 @@ Sau khi setup xong, các bạn để ý 3 thứ trong tuần đầu:
 
 ## 📍 Navigation
 
-[⬅️ Day 14: Tổng kết Tuần 2](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-14.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 16: Workflow Batch Processing](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-16.md)
+[⬅️ Day 14: Tổng Kết Tuần 2: Master Skills Đã Mở Khóa! 🏆](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-14.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 16: Workflow Batch Processing](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-16.md)
 
 ## 🏷️ Tags
 
