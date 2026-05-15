@@ -1,12 +1,10 @@
-# 🎨 0ai.vn Daily Tutorials — 30 Ngày Làm Chủ AI Tạo Ảnh & Video
+# 🎨 0ai.vn Daily Tutorials — 28 Ngày Làm Chủ AI Tạo Ảnh & Video
 
-[![Banner](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/banner.png)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/assets/images/banner.png)
+[![Banner](https://github.com/linhai-creator/raw/main/assets/images/banner.png)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/assets/images/banner.png)
 
-> Hành trình 30 ngày học cách dùng **0ai.vn** để tạo ảnh trên nhiều model khác nhau, làm video bằng **Seedance 2.0**, và sản xuất quảng cáo commercial AI — từ con số 0 đến tự tin sản xuất nội dung.
+> Hành trình 28 ngày học cách dùng **0ai.vn** để tạo ảnh trên nhiều model khác nhau, làm video bằng **Seedance 2.0**, và sản xuất quảng cáo commercial AI — từ con số 0 đến tự tin sản xuất nội dung.
 >
 > 💡 **Bạn không cần biết code.** Chỉ cần đọc bài, copy prompt và thực hành trực tiếp trên 0ai.vn.
-
-[![Stars](https://img.shields.io/github/stars/linhai-creator/linh0ai-daily-tutorials?style=social)](https://github.com/linhai-creator/linh0ai-daily-tutorials) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -16,15 +14,14 @@
 Tuần 1: ███████ 7/7 ✅ Foundation
 Tuần 2: ███████ 7/7 ✅ Master Skills
 Tuần 3: ███████ 7/7 ✅ Practical Production (2 short films + 128+ visuals)
-Tuần 4: ██████░ 6/7 🔄 Commercial Production (Day 22-27 done)
-Tuần 5: ░░░░░░░ 0/2 📋 Capstone + Tổng kết
+Tuần 4: ███████ 7/7 ✅ Commercial Production + Cinema Narrative
 
-███████████████████████████░░░  27/30 ngày (90%)
+████████████████████████████  28/28 ngày (100%)
 ```
 
-> 🏆 **Tuần 3 đã COMPLETE** — 2 short films production: xianxia "Đôi Kiếm Tiên" 60s + comedy "Chef vs Cockroach" 41s.
+> 🏆 **Tuần 3 COMPLETE** — 2 short films production: xianxia "Đôi Kiếm Tiên" 60s + comedy "Chef vs Cockroach" 41s.
 >
-> 🔄 **Tuần 4 đang chạy** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Pipeline cà phê 15s) → Day 25 (Practice 3 ngành + Risk Matrix verified) → Day 26 (Cinema trailer 30s pháp phục lam) → Day 27 (Cinema narrative 70s Cậu và Bơ) → Day 28 Capstone.
+> 🎬 **Tuần 4 COMPLETE** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Pipeline cà phê 15s) → Day 25 (Practice 3 ngành + Risk Matrix verified) → Day 26 (Cinema trailer 30s pháp phục lam) → Day 27 (Cinema narrative 70s "Cậu và Bơ") → Day 28 (Tổng kết + Mini Challenge "Video VN").
 
 ---
 
@@ -38,22 +35,23 @@ Tuần 5: ░░░░░░░ 0/2 📋 Capstone + Tổng kết
 | --- | --- |
 | 🟢 **Người mới** | Đăng ký 0ai.vn, viết prompt cơ bản, hiểu sự khác nhau giữa các model, tạo ảnh đầu tiên |
 | 🔵 **Trung cấp** | Tối ưu prompt cho từng model, chỉnh sửa ảnh, làm video ngắn với Seedance 2.0 |
-| 🟣 **Nâng cao** | Workflow đa model, character consistency, short film pipeline, commercial production cho TikTok/Reels |
+| 🟣 **Nâng cao** | Workflow đa model, character consistency, short film pipeline, commercial production cho TikTok/Reels, cinema narrative dài form |
 
 ## 🎯 Học xong bạn sẽ làm được gì?
 
-Sau 30 ngày, bạn sẽ biết:
+Sau 28 ngày, bạn sẽ biết:
 
 - 🎨 Tạo ảnh AI bằng nhiều model trên 0ai.vn (**Nano Banana 2, GPT Image 2, Seedream 4.5** và các model khác)
 - ✍️ Viết prompt rõ ràng, dễ kiểm soát kết quả — không còn "đoán mò"
 - 🎬 Tạo video AI bằng Seedance 2.0 (text-to-video + image-to-video)
-- 📋 Storyboard 4x4 + Character sheets cho video AI dài hơi
+- 📋 Storyboard 4×4 + Character sheets cho video AI dài hơi
 - 🎞️ Pipeline storyboard-to-video cho short film 60s (Tuần 3)
 - 📢 **Commercial production pipeline cho ad TikTok/Reels** — brief + kịch bản 15s + image-to-video multi-reference + Risk Matrix model selection + **cinema trailer 30s cho sản phẩm high-emotion** (Tuần 4)
+- 🎭 **Cinema narrative dài form 70s** — multi-age character + multi-stage companion + 2 cry-trigger moments + edit CapCut với silence drops (Day 27 ⭐)
 - 🎯 **Chọn đúng model theo từng nhu cầu** — xem [📖 Models Cheatsheet](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md)
 - 💰 Tối ưu chi phí — biết khi nào nạp Credit, khi nào dùng Subscription
 
-→ **Tóm lại:** Sau 30 ngày, bạn có thể **kiếm tiền từ kỹ năng AI tạo ảnh/video** — làm cho khách, build content shop online, làm freelance creator, hoặc nhận job commercial ad cho brand nhỏ.
+→ **Tóm lại:** Sau 28 ngày, bạn có thể **kiếm tiền từ kỹ năng AI tạo ảnh/video** — làm cho khách, build content shop online, làm freelance creator, hoặc nhận job commercial ad cho brand nhỏ.
 
 Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào thì đọc kỹ phần đó, lướt nhanh phần khác.
 
@@ -61,7 +59,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 
 ## 🚀 Bắt đầu học tại đây
 
-⭐ **Star repo** để không bỏ lỡ bài mới · 📌 Mỗi ngày dành 15-30 phút đọc + thực hành
+⭐ **Mỗi ngày dành 15-30 phút đọc + thực hành**
 
 ### Tuần 1 — Foundation (Day 1-7) ✅
 
@@ -94,12 +92,12 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 15** | File & Folder Management cho creator AI | 🔵 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-15.md) |
 | **Day 16** | Workflow Batch Processing — 15 ảnh viral re-create | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-16.md) |
 | **Day 17** | Character Sheets xianxia — 4 views + 6 expressions | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-17.md) |
-| **Day 18** | Storyboard Sheets 4x4 — 16 panels grid | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-18.md) |
+| **Day 18** | Storyboard Sheets 4×4 — 16 panels grid | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-18.md) |
 | **Day 19** | Storyboard-to-Video Seedance — Short film "Đôi Kiếm Tiên" 60s | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md) |
 | **Day 20** | Pipeline 1 Session Pixar Comedy — "Chef vs Cockroach" 41s | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-20.md) |
 | **Day 21** | Tổng kết Tuần 3 + Master cheatsheet + Mini Challenge | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-21.md) |
 
-### Tuần 4 — Commercial Production (Day 22-28) 🔄 In progress
+### Tuần 4 — Commercial Production + Cinema Narrative (Day 22-28) ✅
 
 | Ngày | Chủ đề | Level | Link |
 | --- | --- | --- | --- |
@@ -108,25 +106,18 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 24** | Storyboard + 9 Keyframes + 3 Videos Image-to-Video Pipeline | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-24.md) |
 | **Day 25** | Pipeline Practice 3 ngành + Risk Matrix Verification (Sneaker FIXED) | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-25.md) |
 | **Day 26** | Cinema-Style 30s Trailer — Pháp Phục Lam Phật Tử Việt Nam | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-26.md) |
-| **Day 27** | Cinema-Style 70s Narrative: "Cậu và Bơ — 30 năm Sài Gòn" | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-27.md) |
-| Day 28 | Tổng kết Tuần 4 + Capstone setup | 🟣 | 📋 Coming soon |
+| **Day 27** ⭐ | Cinema-Style 70s Narrative: "Cậu và Bơ — 30 năm Sài Gòn" | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-27.md) |
+| **Day 28** | Tổng kết Tuần 4 + Mini Challenge #3 "Video Việt Nam" | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-28.md) |
 
-### Tuần 5 — Capstone (Day 29-30) 📋 Planned
-
-| Ngày | Chủ đề | Level | Link |
-| --- | --- | --- | --- |
-| Day 29 | Kling 3.0 Motion Control cơ bản | 🟣 | 📋 Coming soon |
-| Day 30 | Kling Motion library + Viral content + SOP đóng gói | 🟣 | 📋 Coming soon |
-
-📊 [Pricing Guide](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/PRICING.md) · 📖 [Models Cheatsheet](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md) · 📚 [Curriculum đầy đủ](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CURRICULUM.md) · 📝 [Changelog](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CHANGELOG.md) · 💬 [Nhóm Zalo](https://zalo.me/g/umthmp096) · 🐛 [Báo lỗi](https://github.com/linhai-creator/linh0ai-daily-tutorials/issues)
+📊 [Pricing Guide](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/PRICING.md) · 📖 [Models Cheatsheet](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md) · 📚 [Curriculum đầy đủ](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CURRICULUM.md) · 📝 [Changelog](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CHANGELOG.md) · 💬 [Nhóm Zalo](https://zalo.me/g/umthmp096)
 
 ---
 
-## 🆕 Highlight Tuần 4 — Commercial Production Pipeline
+## 🆕 Highlight Tuần 4 — Commercial + Cinema Narrative
 
-Sau khi master short film pipeline (Tuần 3), Tuần 4 chuyển sang **commercial production cho ad TikTok/Reels/YouTube Shorts**:
+Sau khi master short film pipeline (Tuần 3), Tuần 4 chuyển sang **commercial production cho ad TikTok/Reels/YouTube Shorts** rồi đỉnh điểm là **cinema narrative dài form**:
 
-### Day 22 — Brief & Kịch bản 15s + Risk Matrix Seedance (verified với 144K data)
+### Day 22 — Brief & Kịch bản 15s + Risk Matrix Seedance
 
 - Master template 11 section cho prompt Seedance commercial
 - **Risk Matrix Seedance vs Branded Products** — 4 data points confirmed: LOW risk categories (F&B, beauty generic, street food) work PASS với text-to-video; HIGH risk (sneaker, electronics, xe hơi) FAIL do training bias
@@ -150,7 +141,7 @@ Sau khi master short film pipeline (Tuần 3), Tuần 4 chuyển sang **commerci
 
 ### Day 25 — Pipeline Practice 3 Ngành + Risk Matrix Verification 🎯
 
-- 3 storyboards 4x4 + 3 videos × 15s cho 3 ngành (Sneaker / Serum / Wellness tea)
+- 3 storyboards 4×4 + 3 videos × 15s cho 3 ngành (Sneaker / Serum / Wellness tea)
 - **Risk Matrix Day 22 sneaker FAIL FIXED** với image-to-video pipeline (verified bằng data thực)
 - 2 prompt patterns mới: Anti-grid output + Strict panel order
 - Compliance VN cho wellness products verified (no medical claims)
@@ -164,28 +155,40 @@ Sau khi master short film pipeline (Tuần 3), Tuần 4 chuyển sang **commerci
 - 2 unique bug discoveries: **Duplicate Person Bug Fix** (Character Sheet wide shot → 2 nhân vật bug) + **Visual Prior Bias** (KHÔNG upload Storyboard Part 1 làm ref cho Part 2)
 - **Memorable Moment 3s Static design** — 5 conditions để frame cry-trigger (single subject / static camera / duration unusual / small visual cue / dappled light)
 - Compliance VN cho religious products: peaceful tones (lam pastel + nâu gỗ + bồ đề + trắng dịu), no bàn thờ rõ nét / no glamour pose / no dramatic golden hour
-- Cost actual: 76K VND cho cinema trailer 30s ready (4 ảnh + 2 videos + CapCut hybrid edit)
+- Cost actual: 76K VND cho cinema trailer 30s ready
 
-→ Học viên sau Tuần 4 có thể **nhận job freelance commercial ad** cho brand nhỏ (cà phê / serum / F&B / street food / **branded fashion / pháp phục tâm linh / gift hiếu thảo high-emotion**), cost production ~75-150K VND/ad.
+### Day 27 ⭐ — Cinema-Style 70s Narrative "Cậu và Bơ — 30 năm Sài Gòn" 🎥
 
----
+- **Phim ngắn cinema 70s narrative** push xa hơn Day 26: từ commercial 30s sang phim ngắn cinema dài form
+- **Multi-age character consistency** qua 30 năm thời gian: Cậu 4 ages (25 / 30 / 45 / 55) + Bơ 3 stages (puppy / adult / senior)
+- **21 shots Hollywood-style** + 2 cry-trigger moments (Memorable Moment + Final ECU tag)
+- **8 insights mới verified:**
+  - 0ai.vn Seedance duration cap = 15s/segment
+  - Filter #c455 "real person" trigger pattern + mitigation
+  - Storyboard text labels bleed vào video
+  - Single F1 multi-age sheet work cho 5 segments
+  - Hooded Figure VN-adapted (no skull/scythe) pass compliance
+  - Multi-ref selective per segment (drop refs có text)
+  - CN prompt > EN cho cinematic VN context
+  - Seedance KHÔNG respect "TOTAL SILENCE" → edit CapCut manual mute
+- **Pipeline pure Seedance** (không cần Kling Motion) với 5 segments × 15s
+- Cost actual: 140K VND cho 70s — efficient ratio 2.0K/s (giảm 20% vs Day 26)
 
-## 🤔 Không biết GitHub thì dùng thế nào?
+### Day 28 — Tổng kết Tuần 4 + Mini Challenge "Video Việt Nam"
 
-Bạn **không cần biết lập trình** để học repo này. Chỉ cần làm 3 bước:
+- Recap 6 milestones Tuần 4 (Day 22-27)
+- Cheatsheet 1 trang skills video AI production
+- **Launch Mini Challenge #3 "Video Việt Nam"** — audience làm video theme VN tự chọn (gia đình / quê hương / pet / food / festival)
+- 7 themes gợi ý + specs (30-60s · 9:16 · 1+ cry-trigger · VN authenticity)
+- Top 3 work mention spotlight + Best emotional moment + Best cost-efficiency
 
-1. Bấm vào thư mục `days`
-2. Chọn bài học theo ngày: `day-01.md`, `day-02.md`, `day-03.md`...
-3. Đọc hướng dẫn, copy prompt mẫu và thực hành trên 0ai.vn
-
-> 💡 Nếu muốn lưu lại repo này, hãy bấm nút **⭐ Star** ở góc trên bên phải.
-> Nút Star giống như nút "lưu lại / yêu thích" — sau này dễ tìm.
+→ Học viên sau Tuần 4 có thể **nhận job freelance commercial ad** cho brand nhỏ (cà phê / serum / F&B / street food / **branded fashion / pháp phục tâm linh / gift hiếu thảo high-emotion**), cost production ~75-150K VND/ad. Và **sản xuất phim ngắn cinema narrative** cho personal brand hoặc client niche emotional storytelling.
 
 ---
 
 ## 📅 Lịch cập nhật
 
-Repo được cập nhật theo tiến độ học của Linh.
+Repo được cập nhật theo tiến độ học của mình.
 
 - 🌱 **Mỗi ngày:** 1 bài học ngắn (15-30 phút đọc, 30-60 phút thực hành)
 - 📝 **Mỗi bài:** Có prompt mẫu + bài tập thực hành + insights honest từ tests thực
@@ -198,51 +201,7 @@ Repo được cập nhật theo tiến độ học của Linh.
 
 Nếu bạn làm theo bài học nhưng bị **lỗi ảnh, lỗi prompt** hoặc **chưa hiểu model nào nên dùng**:
 
-### Cách 1: Nhóm Zalo (recommend — trả lời nhanh)
-
-👉 [💬 Tham gia nhóm Zalo](https://zalo.me/g/umthmp096)
-
-### Cách 2: GitHub Issues (chính thức, lưu lại được)
-
-👉 Vào tab **`Issues`** → bấm **`New Issue`**
-
-**Tiêu đề gợi ý:**
-
-- `[Hỏi bài Day 3] Prompt của mình chưa ra đúng ảnh`
-- `[Hỏi bài Day 22] Cách viết prompt commercial Seedance`
-- `[Hỏi bài Day 24] Pipeline image-to-video multi-reference`
-- `[Hỏi bài Day 26] Cinema trailer 30s + Memorable Moment design`
-- `[Khoe kết quả] Ad cà phê của mình từ Day 24`
-
----
-
-## 📁 Cấu trúc repo
-
-```
-linh0ai-daily-tutorials/
-├── START-HERE.md          ← Đọc đầu tiên nếu bạn mới
-├── README.md              ← File này
-├── CURRICULUM.md          ← Lộ trình 30 ngày chi tiết
-├── PRICING.md             ← So sánh 22 gói + 6 mức Credit
-├── MODELS-CHEATSHEET.md   ← So sánh nhanh 3 model flagship
-├── TEMPLATE-day.md        ← Template chuẩn cho contributor
-├── CHANGELOG.md           ← Nhật ký cập nhật
-├── days/
-│   ├── day-01.md
-│   ├── day-02.md
-│   ├── day-26.md
-│   └── day-27.md
-├── prompts/               ← Thư viện prompt mẫu
-│   ├── day-01.txt
-│   ├── day-22-prompts.txt
-│   ├── day-23-prompts.txt
-│   ├── day-24-prompts.txt
-│   ├── day-25-prompts.txt
-│   └── day-26-prompts.txt
-└── assets/
-    ├── images/            ← Thumbnails, banner, keyframes, demo images
-    └── videos/            ← Demo MP4 clips (Day 19-26)
-```
+👉 [💬 Tham gia nhóm Zalo](https://zalo.me/g/umthmp096) — cộng đồng học AI hằng ngày, trả lời nhanh
 
 ---
 
@@ -253,8 +212,8 @@ Mỗi `day-XX.md` đều theo template:
 - 🎯 **Mục tiêu** — Hôm nay bạn học được gì
 - 🟢🔵🟣 **Level** — Bài này phù hợp với ai
 - 📖 **Nội dung chính** — Lý thuyết + ví dụ cụ thể
-- 🎬 **Video demo** — Clip ngắn 15-60s minh họa (Tuần 3-4)
-- 💡 **Prompt mẫu** — File `.txt` hoặc `.json` trong `/prompts/`
+- 🎬 **Video demo** — Clip ngắn 15-70s minh họa (Tuần 3-4)
+- 💡 **Prompt mẫu** — File `.txt` trong thư mục `/prompts/`
 - 💰 **Cost actual** — Số liệu thực tế VND chi cho generations
 - ⚡ **Bài tập thực hành** — Bài nhỏ để bạn tự làm
 - ❌ **Lỗi thường gặp** — Cách tránh & fix
@@ -276,16 +235,6 @@ Mỗi `day-XX.md` đều theo template:
 
 ---
 
-## 🤝 Đóng góp
-
-Bạn có prompt hay, kết quả đẹp, hoặc phát hiện lỗi?
-
-- ⭐ Star repo để ủng hộ
-- 🐛 [Mở Issue](https://github.com/linhai-creator/linh0ai-daily-tutorials/issues) báo lỗi hoặc đề xuất
-- 📤 Share repo cho bạn bè cần học AI
-
----
-
 ## 🚀 Bắt đầu thực hành ngay
 
 Sẵn sàng tạo ảnh/video AI đầu tiên của bạn? Làm theo 4 bước:
@@ -299,16 +248,10 @@ Sẵn sàng tạo ảnh/video AI đầu tiên của bạn? Làm theo 4 bước:
 📍 **Bắt đầu học:** [START-HERE.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/START-HERE.md)
 💬 **Cộng đồng hỗ trợ:** [Nhóm Zalo](https://zalo.me/g/umthmp096)
 
-> 💡 **Bí kíp thành công:** Đừng chỉ đọc — hãy **làm theo từng ngày**. Mỗi bài chỉ mất 30-60 phút thực hành. Sau 30 ngày, bạn sẽ ngạc nhiên về những gì mình tạo ra được.
-
----
-
-## 📄 License
-
-MIT — dùng tự do, ghi nguồn nếu repost.
+> 💡 **Bí kíp thành công:** Đừng chỉ đọc — hãy **làm theo từng ngày**. Mỗi bài chỉ mất 30-60 phút thực hành. Sau 28 ngày, bạn sẽ ngạc nhiên về những gì mình tạo ra được.
 
 ---
 
 **Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
 
-**Cập nhật lần cuối:** Day 27 hoàn thành — 15/05/2026 (Tuần 4 Day 6 — Cinema-Style 70s Narrative)
+**Cập nhật lần cuối:** Day 28 hoàn thành — 15/05/2026 (Tuần 4 Day 7 — Tổng kết Tuần 4 + Mini Challenge "Video Việt Nam")
