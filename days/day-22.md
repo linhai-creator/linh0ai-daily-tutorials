@@ -20,6 +20,9 @@ Sau bài này, các bạn sẽ:
 - 1 bảng timecode 5 row chi tiết
 - 1 video product shot demo 15s từ Seedance
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-22-prompts.txt`](../prompts/day-22-prompts.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ## Cost dự kiến
 
 | Item | Cost |
