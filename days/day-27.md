@@ -1,6 +1,6 @@
 # Day 27 — Cinema-Style 70s Narrative: "Cậu và Bơ — 30 năm Sài Gòn"
 
-![Cậu và Bơ — Memorable Moment](../assets/images/day-27-cau-va-bo-70s-thumbnail.jpg)
+[![Cậu và Bơ — Memorable Moment](../assets/images/day-27-cau-va-bo-70s-thumbnail.jpg)](../assets/videos/day-27-cau-va-bo-70s.mp4)
 
 > **Level:** 🟣 Advanced
 > **Thời lượng đọc:** 25-30 phút
@@ -206,7 +206,7 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 
 **F1 — Character + Dog combined sheet:**
 
-![F1 Character Dog Sheet](../assets/images/day-27-character-dog-sheet-combined.jpg)
+![F1 Character Dog Sheet](../assets/images/day-27-character-dog-sheet-combined.png)
 
 **F2 — Props Collection:**
 
@@ -271,19 +271,19 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 
 **V1 — Mưa & gặp gỡ (puppy adopt moment):**
 
-![V1 Thumbnail](../assets/images/day-27-video-1-mua-gap-go-thumbnail.jpg)
+[![V1 Thumbnail](../assets/images/day-27-video-1-mua-gap-go-thumbnail.jpg)](../assets/videos/day-27-video-1-mua-gap-go-12s.mp4)
 
 **V3 — Time passes (Cậu 45y ban công + Bơ già):**
 
-![V3 Thumbnail](../assets/images/day-27-video-3-time-passes-thumbnail.jpg)
+[![V3 Thumbnail](../assets/images/day-27-video-3-time-passes-thumbnail.jpg)](../assets/videos/day-27-video-3-time-passes-hospital-15s.mp4)
 
 **V4 ⭐ — Memorable Moment (Bơ cọ tay Tử thần):**
 
-![V4 Memorable Moment](../assets/images/day-27-video-4-memorable-moment-thumbnail.jpg)
+[![V4 Memorable Moment](../assets/images/day-27-video-4-memorable-moment-thumbnail.jpg)](../assets/videos/day-27-video-4-memorable-moment-16s.mp4)
 
 **V5 — Cõi vắng (tag "BƠ" + giọt nước mắt):**
 
-![V5 Final ECU](../assets/images/day-27-video-5-coi-vang-thumbnail.jpg)
+[![V5 Final ECU](../assets/images/day-27-video-5-coi-vang-thumbnail.jpg)](../assets/videos/day-27-video-5-coi-vang-12s.mp4)
 
 Tổng: 75s raw → cắt 1s/segment trong CapCut = **70s final**.
 
