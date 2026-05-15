@@ -901,7 +901,7 @@ Sau Day 27, các bạn sẽ làm được **phim ngắn cinema 70s emotional** t
 
 ## 📍 Navigation
 
-[⬅️ Day 25: Pipeline Practice 3 Ngành + Risk Matrix Verification](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-25.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 27: A/B Testing + Multi-Platform Optimization](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-27.md)
+[⬅️ Day 25: Pipeline Practice 3 Ngành + Risk Matrix Verification](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-25.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 27: Cinema-Style 70s Narrative: "Cậu và Bé — 30 năm Sài Gòn"](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-27.md)
 
 ---
 
