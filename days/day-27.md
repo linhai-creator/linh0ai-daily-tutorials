@@ -50,7 +50,7 @@ Sau Day 27 các bạn sẽ làm được:
 
 ## 📄 Prompt file
 
-Tất cả 13 prompts (3 foundation + 5 storyboards + 5 videos CN) có trong file [day-27-prompts.txt](../prompts/day-27-prompts.txt).
+Tất cả 13 prompts (3 foundation + 5 storyboards + 5 videos CN) có trong file [day-27.txt](../prompts/day-27.txt).
 
 ---
 
