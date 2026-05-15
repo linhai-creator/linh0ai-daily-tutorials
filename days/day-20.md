@@ -693,7 +693,7 @@ Sau khi test Day 20, các bạn để ý 5 thứ:
 
 ## 📍 Navigation
 
-[⬅️ Day 19: Storyboard-to-Video Seedance](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 21: Tổng kết Tuần 3](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-21.md)
+[⬅️ Day 19: Storyboard-to-Video Seedance 2.0](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 21: Tổng kết Tuần 3](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-21.md)
 
 ## 🏷️ Tags
 
