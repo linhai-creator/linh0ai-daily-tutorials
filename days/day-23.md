@@ -542,7 +542,7 @@ Brief Day 22 + Craft plan Day 23 = đủ input cho Day 24. Các bạn hoàn thà
 
 ## 📍 Navigation
 
-[⬅️ Day 22: Brief & Kịch bản 15s](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-22.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 24: Storyboard & Keyframe](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-24.md)
+[⬅️ Day 22: Brief & Kịch bản Quảng cáo AI 15 Giây](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-22.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 24: Storyboard Thương mại & Keyframe + Video Generation](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-24.md)
 
 ---
 
