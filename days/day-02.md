@@ -262,7 +262,7 @@ Sau Day 2 bạn đã:
 
 ## ➡️ Ngày mai (Day 3)
 
-**Anatomy of a Prompt — 5 thành phần cốt lõi**: Subject + Style + Composition + Lighting + Quality tags. Áp dụng cho mọi model. Phân tích 10 prompt từ dở → tốt.
+**Anatomy of a Prompt: 5 Thành Phần Cốt Lõi** — Subject + Style + Composition + Lighting + Quality tags. Áp dụng cho mọi model. Phân tích 10 prompt từ dở → tốt.
 
 📌 **Đừng quên:** ⭐ Star repo, follow [Facebook](https://facebook.com/daclinh.tran) / [X](https://x.com/Daclinh0AI).
 
