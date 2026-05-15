@@ -206,7 +206,7 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 
 **F1 — Character + Dog combined sheet:**
 
-![F1 Character Dog Sheet](../assets/images/day-27-character-dog-sheet-combined.png)
+![F1 Character Dog Sheet](../assets/images/day-27-character-dog-sheet-combined.jpg)
 
 **F2 — Props Collection:**
 
