@@ -519,10 +519,11 @@ Clip 2 frame 14s — AI tự thêm **divine face overlay từ mây** làm spirit
 
 ## 🚀 Day 20 — Sneak peek
 
-Mai mình sẽ deep dive một topic mới — Linh và mình sẽ chốt cụ thể sau khi xem feedback Day 19. Possible topics:
-- Multi-character consistency advanced
-- Video editing nâng cao (motion graphics)
-- Capstone Mini Challenge — tổng hợp Day 17-19 làm 1 project hoàn chỉnh
+Mai mình deep dive **Pipeline Complete trong 1 Session (Pixar 3D Comedy)**:
+
+- Áp dụng toàn bộ pipeline (character → storyboard → video) vào một project mới
+- Concept: Pixar 3D Comedy
+- Hoàn thành toàn bộ pipeline trong 1 session duy nhất
 
 ---
 
@@ -542,7 +543,7 @@ Sau khi test Day 19, các bạn để ý 5 thứ:
 
 ## 📍 Navigation
 
-[⬅️ Day 18: Storyboard Sheets 4x4](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-18.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 20: Coming](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-20.md)
+[⬅️ Day 18: Storyboard Sheets 4x4](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-18.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 20: Pipeline Complete trong 1 Session (Pixar 3D Comedy)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-20.md)
 
 ## 🏷️ Tags
 
