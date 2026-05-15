@@ -470,7 +470,7 @@ Ngày mai mình test **Color Theory & Mood** — bộ ba complementary, analogou
 ---
 
 ## 📍 Navigation
-[⬅️ Day 10: Composition & Framing](./day-10.md) | [🏠 README](../README.md) | [➡️ Day 12: Color Theory & Mood](./day-12.md)
+[⬅️ Day 10: Composition & Framing: GPT Image 2 KHÔNG Có Điểm Yếu](./day-10.md) | [🏠 README](../README.md) | [➡️ Day 12: Color Theory & Mood](./day-12.md)
 
 ## 🏷️ Tags
 `#0aiVN #Day11Linh0AI #Lighting #GoldenHour #BlueHour #RimLighting #Rembrandt #SplitLighting #Backlight #GPTImage2 #Sapa #BigWin`
