@@ -23,6 +23,9 @@ Sau bài này, các bạn sẽ:
 - 1 multi-platform ratio strategy
 - (Optional) 1 final edited ad — turn 1 clip Seedance Day 22 thành ad complete
 
+> 📋 **Prompts đầy đủ trong bài**: [`prompts/day-23-prompts.txt`](../prompts/day-23-prompts.txt)
+> Copy/download nguyên văn về paste vào 0ai.vn — không phải gõ lại từ trong bài.
+
 ---
 
 ## Phần 1 — Hook Design: 5 Patterns Viral cho 3 Giây Đầu
