@@ -453,7 +453,7 @@ Sau Day 6 bạn đã:
 
 ## ➡️ Ngày mai (Day 7)
 
-**Tổng kết tuần 1 + Mini Challenge** — Recap toàn bộ kiến thức Day 1-6, FAQ tổng hợp, **bài tập tự làm 5 ảnh theo theme** + cách nộp kết quả.
+**Tổng Kết Tuần 1 + Mini Challenge** — Recap toàn bộ kiến thức Day 1-6, FAQ tổng hợp, **bài tập tự làm 5 ảnh theo theme** + cách nộp kết quả.
 
 📌 **Đừng quên:** ⭐ Star repo, follow [Facebook](https://facebook.com/daclinh.tran) / [X](https://x.com/Daclinh0AI).
 
