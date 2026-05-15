@@ -4,6 +4,10 @@
 
 🎬 **[Tải video final 70s — "Cậu và Bơ — 30 năm Sài Gòn"](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-cau-va-bo-70s.mp4)**
 
+---
+
+**[← Day 26: Cinema Trailer 30s pháp phục lam](./day-26.md)** · **[📚 Mục lục 30 ngày](../README.md)** · **[Day 28: Audio Production cho AI video →](./day-28.md)**
+
 > **Level:** 🟣 Advanced
 > **Thời lượng đọc:** 25-30 phút
 > **Thời gian thực hành:** 4-6 tiếng (foundation + storyboards + videos + edit)
@@ -488,6 +492,10 @@ Day 28 sẽ chuyển focus sang **Audio Production cho AI video** — vì Day 27
 - Music license free safe cho TikTok/Reels/YouTube
 
 **Hẹn các bạn Day 28!**
+
+---
+
+**[← Day 26: Cinema Trailer 30s pháp phục lam](./day-26.md)** · **[📚 Mục lục 30 ngày](../README.md)** · **[Day 28: Audio Production cho AI video →](./day-28.md)**
 
 ---
 
