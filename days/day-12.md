@@ -505,7 +505,7 @@ Ngày mai mình deep dive **Camera & Lens trong Prompt** — focal length, DOF, 
 ---
 
 ## 📍 Navigation
-[⬅️ Day 11: Lighting Mastery](./day-11.md) | [🏠 README](../README.md) | [➡️ Day 13: Camera & Lens](./day-13.md)
+[⬅️ Day 11: Lighting Mastery: GPT Image 2 BIG WIN — Master Cả 6 Lighting Khó](./day-11.md) | [🏠 README](../README.md) | [➡️ Day 13: Camera & Lens](./day-13.md)
 
 ## 🏷️ Tags
 `#0aiVN #Day12Linh0AI #ColorTheory #VietnameseColorCulture #VietnameseTypography #Tet #HoiAn #Sapa #PhuQuoc #CaiRang #GPTImage2 #BigWin`
