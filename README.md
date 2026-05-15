@@ -16,15 +16,15 @@
 Tuần 1: ███████ 7/7 ✅ Foundation
 Tuần 2: ███████ 7/7 ✅ Master Skills
 Tuần 3: ███████ 7/7 ✅ Practical Production (2 short films + 128+ visuals)
-Tuần 4: █████░░ 5/7 🔄 Commercial Production (Day 22-26 done)
+Tuần 4: ██████░ 6/7 🔄 Commercial Production (Day 22-27 done)
 Tuần 5: ░░░░░░░ 0/2 📋 Capstone + Tổng kết
 
-██████████████████████████░░░░  26/30 ngày (87%)
+███████████████████████████░░░  27/30 ngày (90%)
 ```
 
 > 🏆 **Tuần 3 đã COMPLETE** — 2 short films production: xianxia "Đôi Kiếm Tiên" 60s + comedy "Chef vs Cockroach" 41s.
 >
-> 🔄 **Tuần 4 đang chạy** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Pipeline cà phê 15s) → Day 25 (Practice 3 ngành + Risk Matrix verified) → Day 26 (Cinema trailer 30s pháp phục lam) → ... → Day 28 Capstone.
+> 🔄 **Tuần 4 đang chạy** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Pipeline cà phê 15s) → Day 25 (Practice 3 ngành + Risk Matrix verified) → Day 26 (Cinema trailer 30s pháp phục lam) → Day 27 (Cinema narrative 70s Cậu và Bơ) → Day 28 Capstone.
 
 ---
 
@@ -108,8 +108,8 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 24** | Storyboard + 9 Keyframes + 3 Videos Image-to-Video Pipeline | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-24.md) |
 | **Day 25** | Pipeline Practice 3 ngành + Risk Matrix Verification (Sneaker FIXED) | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-25.md) |
 | **Day 26** | Cinema-Style 30s Trailer — Pháp Phục Lam Phật Tử Việt Nam | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-26.md) |
-| Day 27 | Capstone Part 1 — Full commercial ad | 🟣 | 📋 Coming soon |
-| Day 28 | Capstone Part 2 — Polish + Portfolio + SOP | 🟣 | 📋 Coming soon |
+| **Day 27** | Cinema-Style 70s Narrative: "Cậu và Bơ — 30 năm Sài Gòn" | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-27.md) |
+| Day 28 | Tổng kết Tuần 4 + Capstone setup | 🟣 | 📋 Coming soon |
 
 ### Tuần 5 — Capstone (Day 29-30) 📋 Planned
 
@@ -230,8 +230,8 @@ linh0ai-daily-tutorials/
 ├── days/
 │   ├── day-01.md
 │   ├── day-02.md
-│   └── ...
-│   └── day-26.md
+│   ├── day-26.md
+│   └── day-27.md
 ├── prompts/               ← Thư viện prompt mẫu
 │   ├── day-01.txt
 │   ├── day-22-prompts.txt
@@ -311,4 +311,4 @@ MIT — dùng tự do, ghi nguồn nếu repost.
 
 **Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
 
-**Cập nhật lần cuối:** Day 26 hoàn thành — 14/05/2026 (Tuần 4 Day 5 — Cinema trailer 30s pháp phục lam + 6 insights mới)
+**Cập nhật lần cuối:** Day 27 hoàn thành — 15/05/2026 (Tuần 4 Day 6 — Cinema-Style 70s Narrative)
