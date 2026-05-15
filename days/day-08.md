@@ -413,7 +413,7 @@ Ngày mai mình sẽ deep dive **Prompt Engineering Nâng Cao** — từ "biết
 ---
 
 ## 📍 Navigation
-[⬅️ Day 7: Tổng kết Tuần 1](./day-07.md) | [🏠 README](../README.md) | [➡️ Day 9: Prompt Engineering Nâng Cao](./day-09.md)
+[⬅️ Day 7: Tổng Kết Tuần 1 + Mini Challenge](./day-07.md) | [🏠 README](../README.md) | [➡️ Day 9: Prompt Engineering Nâng Cao](./day-09.md)
 
 ## 🏷️ Tags
 `#0aiVN #Seedream45 #ByteDance #ChânDungAI #Day8Linh0AI #AIImage #PortraitAI #VietnameseAI #ProductPhotography #FashionAI #AICopyrightWarning`
