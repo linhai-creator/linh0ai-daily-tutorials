@@ -1,8 +1,10 @@
 # Day 27 — Cinema-Style 70s Narrative: "Cậu và Bơ — 30 năm Sài Gòn"
 
-[![Cậu và Bơ — Memorable Moment](../assets/images/day-27-cau-va-bo-70s-thumbnail.jpg)](../assets/videos/day-27-cau-va-bo-70s.mp4)
+<video controls width="100%" poster="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-27-cau-va-bo-70s-thumbnail.jpg">
+  <source src="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-cau-va-bo-70s.mp4" type="video/mp4">
+</video>
 
-🎬 **[Xem / tải video final 70s — "Cậu và Bơ — 30 năm Sài Gòn"](../assets/videos/day-27-cau-va-bo-70s.mp4)**
+🎬 **[Xem / tải video final 70s — "Cậu và Bơ — 30 năm Sài Gòn"](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-cau-va-bo-70s.mp4)**
 
 > **Level:** 🟣 Advanced
 > **Thời lượng đọc:** 25-30 phút
@@ -208,7 +210,7 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 
 **F1 — Character + Dog combined sheet:**
 
-![F1 Character Dog Sheet](../assets/images/day-27-character-dog-sheet-combined.jpg)
+![F1 Character Dog Sheet](../assets/images/day-27-character-dog-sheet-combined.png)
 
 **F2 — Props Collection:**
 
@@ -237,7 +239,7 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 
 **S1 — Mưa & gặp gỡ:**
 
-![S1 Mưa & gặp gỡ](../assets/images/day-27-storyboard-1-mua-gap-go-4-panels.png)
+![S1 Mưa & gặp gỡ](../assets/images/day-27-storyboard-1-mua-gap-go-4-panels.jpg)
 
 **S2 — Bữa cơm & bạn đồng hành (5 panels horizontal):**
 
@@ -273,27 +275,35 @@ Mình prompt Memorable Moment 6 giây phải **TOTAL SILENCE** (no music, no amb
 
 **V1 — Mưa & gặp gỡ (puppy adopt moment):**
 
-[![V1 Thumbnail](../assets/images/day-27-video-1-mua-gap-go-thumbnail.jpg)](../assets/videos/day-27-video-1-mua-gap-go-12s.mp4)
+<video controls width="100%" poster="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-27-video-1-mua-gap-go-thumbnail.jpg">
+  <source src="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-video-1-mua-gap-go-12s.mp4" type="video/mp4">
+</video>
 
-🎬 [Xem / tải video V1 — Mưa & gặp gỡ (12s)](../assets/videos/day-27-video-1-mua-gap-go-12s.mp4)
+🎬 [Tải video V1 — Mưa & gặp gỡ (12s)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-video-1-mua-gap-go-12s.mp4)
 
 **V3 — Time passes (Cậu 45y ban công + Bơ già):**
 
-[![V3 Thumbnail](../assets/images/day-27-video-3-time-passes-thumbnail.jpg)](../assets/videos/day-27-video-3-time-passes-hospital-15s.mp4)
+<video controls width="100%" poster="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-27-video-3-time-passes-thumbnail.jpg">
+  <source src="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-video-3-time-passes-hospital-15s.mp4" type="video/mp4">
+</video>
 
-🎬 [Xem / tải video V3 — Time passes → Hospital (15s)](../assets/videos/day-27-video-3-time-passes-hospital-15s.mp4)
+🎬 [Tải video V3 — Time passes → Hospital (15s)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-video-3-time-passes-hospital-15s.mp4)
 
 **V4 ⭐ — Memorable Moment (Bơ cọ tay Tử thần):**
 
-[![V4 Memorable Moment](../assets/images/day-27-video-4-memorable-moment-thumbnail.jpg)](../assets/videos/day-27-video-4-memorable-moment-16s.mp4)
+<video controls width="100%" poster="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-27-video-4-memorable-moment-thumbnail.jpg">
+  <source src="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-video-4-memorable-moment-16s.mp4" type="video/mp4">
+</video>
 
-🎬 [Xem / tải video V4 ⭐ — Memorable Moment (15s)](../assets/videos/day-27-video-4-memorable-moment-16s.mp4)
+🎬 [Tải video V4 ⭐ — Memorable Moment (15s)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-video-4-memorable-moment-16s.mp4)
 
 **V5 — Cõi vắng (tag "BƠ" + giọt nước mắt):**
 
-[![V5 Final ECU](../assets/images/day-27-video-5-coi-vang-thumbnail.jpg)](../assets/videos/day-27-video-5-coi-vang-12s.mp4)
+<video controls width="100%" poster="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/images/day-27-video-5-coi-vang-thumbnail.jpg">
+  <source src="https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-video-5-coi-vang-12s.mp4" type="video/mp4">
+</video>
 
-🎬 [Xem / tải video V5 — Cõi vắng (12s)](../assets/videos/day-27-video-5-coi-vang-12s.mp4)
+🎬 [Tải video V5 — Cõi vắng (12s)](https://github.com/linhai-creator/linh0ai-daily-tutorials/raw/main/assets/videos/day-27-video-5-coi-vang-12s.mp4)
 
 Tổng: 75s raw → cắt 1s/segment trong CapCut = **70s final**.
 
