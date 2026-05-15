@@ -407,24 +407,13 @@ Chọn 1 brief của riêng bạn (sản phẩm shop, dịch vụ, brand nhỏ) 
 
 ## Sang Day 26
 
-Day 26 sẽ là **Rough cut & Edit phase** — ghép Day 24 + Day 25 ads thành **portfolio packages**:
-
-- Audio mixing (3 layers BGM/VO/SFX từ Day 23)
-- Text overlay (typography + timing từ Day 23)
-- Color grading + final export
-- Multi-platform versions (9:16 TikTok / 16:9 YouTube / 1:1 Instagram)
-
-Sau Day 26, các bạn có **4 ads commercial production-ready** cho portfolio freelance:
-- 1 cà phê (Day 24)
-- 1 sneaker (Day 25)
-- 1 serum (Day 25)
-- 1 wellness tea (Day 25)
+Day 26 sẽ là **Cinema-Style 30s Trailer: 2 Videos — 15s + 7 Câu Hỏi Strategic Framework** — nâng cấp từ quảng cáo 15s lên format trailer điện ảnh 30s với cấu trúc narrative phức tạp hơn.
 
 ---
 
 ## 📍 Navigation
 
-[⬅️ Day 24: Storyboard + Keyframe + Image-to-Video](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-24.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 26: Rough Cut + CapCut Edit](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-26.md)
+[⬅️ Day 24: Storyboard Thương mại & Keyframe + Video Generation](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-24.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 26: Cinema-Style 30s Trailer: 2 Videos — 15s + 7 Câu Hỏi Strategic Framework](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-26.md)
 
 ---
 
