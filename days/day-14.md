@@ -588,7 +588,7 @@ Tuần 3: ░░░░░░░ 0/7 ⏳ Ready!
 
 ## 📍 Navigation
 
-[⬅️ Day 13: Camera & Lens](./day-13.md) | [🏠 README](../README.md) | [➡️ Day 15: File & Folder Management](./day-15.md)
+[⬅️ Day 13: Camera & Lens trong Prompt: GPT Image 2 LỘ RA 1 ĐIỂM YẾU Đầu Tiên!](./day-13.md) | [🏠 README](../README.md) | [➡️ Day 15: File & Folder Management](./day-15.md)
 
 ## 🏷️ Tags
 
