@@ -720,12 +720,12 @@ Còn lại tháng: 642,700 credit (64.3%)
 
 | Day | Topic dự kiến | Skill focus |
 |-----|---------------|-------------|
-| Day 22 | Advanced Video Models Comparison | Sora vs Seedance vs Hailuo benchmark |
-| Day 23 | Long-form Video (60s+) | Multi-clip stitching, story arc dài |
-| Day 24 | Lip Sync + Talking Head | Dialogue scenes với character |
-| Day 25 | Camera Movement Advanced | Crane / dolly / orbit / Vertigo effect |
-| Day 26 | VFX Compositing AI + manual | AI footage + Photoshop overlay |
-| Day 27 | Music Video AI Production | Sync video to BGM beat-by-beat |
+| Day 22 | Brief & Kịch bản Quảng cáo AI 15 Giây | Khai thác Brief thực tế |
+| Day 23 | 5 Craft Knowledge cho Ad AI 15s | Frame composition, typography |
+| Day 24 | Storyboard Thương mại & Keyframe + Video Generation | Chuyển kịch bản thành video |
+| Day 25 | Pipeline Practice 3 Ngành + Risk Matrix Verification | Áp dụng đa ngành |
+| Day 26 | Cinema-Style 30s Trailer | 2 Videos × 15s + 7 Câu Hỏi Strategic Framework |
+| Day 27 | Cinema-Style 70s Narrative | Cậu và Bơ — 30 năm Sài Gòn |
 | Day 28 | Tổng kết Tuần 4 + Capstone setup | Final project Day 29-30 |
 
 > *Roadmap có thể thay đổi tùy feedback audience và testing thực tế.*
@@ -741,7 +741,7 @@ Còn lại tháng: 642,700 credit (64.3%)
 
 ## 📍 Navigation
 
-[⬅️ Day 20: Pipeline Complete trong 1 Session (Pixar Comedy)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-20.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 22: Advanced Video Models](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-22.md)
+[⬅️ Day 20: Pipeline Complete trong 1 Session (Pixar 3D Comedy)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-20.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 22: Brief & Kịch bản Quảng cáo AI 15 Giây](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-22.md)
 
 ---
 
