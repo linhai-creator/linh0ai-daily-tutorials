@@ -29,7 +29,7 @@ Tuần 4: ███████ 7/7 ✅ Commercial Production + Cinema Narrative
 
 ---
 
-## 📌 Repo này dành cho ai?
+## 📌 Quyển sách này dành cho ai?
 
 | Level | Bạn sẽ học được |
 | --- | --- |
