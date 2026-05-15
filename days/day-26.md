@@ -886,18 +886,17 @@ Chọn 1 brief của riêng bạn thuộc category **high-emotion** (gift, hiế
 
 ## Sang Day 27
 
-Day 27 sẽ là **A/B Testing + Multi-Platform Optimization**:
+Day 27 sẽ là **Cinema-Style 70s Narrative** — push xa hơn Day 26 từ commercial 30s sang phim ngắn cinema 70s:
 
-- Adapt cinema trailer 30s sang 3 versions cho 3 platforms:
-  - **Facebook Feed 16:9** (1080p × 1920p, full 30s)
-  - **TikTok/Reels 9:16** (vertical crop, có thể giữ 30s hoặc trim 15s)
-  - **YouTube Shorts 9:16** (vertical, full 30s)
-- Aspect ratio adaptation strategy (không phải mọi panel work cho 9:16)
-- Hook A/B testing — 2 phiên bản 3s đầu khác nhau
-- Performance metrics framework (CTR, completion rate, conversion)
+- **Story:** "Cậu và Bơ — 30 năm Sài Gòn" — phim ngắn 70s về tình bạn 30 năm giữa người và chó cỏ Việt
+- **Multi-age character:** 4 ages (25 / 30 / 45 / 55) trong cùng nhân vật chính
+- **Multi-stage companion:** Bơ qua 3 stages (puppy / adult / senior) với prop anchor xuyên suốt
+- **21 shots Hollywood-style** + 2 cry-trigger moments (Memorable Moment + Final ECU)
+- **Pipeline pure Seedance** (không cần Kling Motion) với 5 segments × 15s
+- **Né filter #c455** "real person" + text bleed mitigation
+- **Edit CapCut** với silence drop + color grading 2-era
 
-Sau Day 27, các bạn có **multi-platform package** ready deploy cho cùng 1 brief.
-
+Sau Day 27, các bạn sẽ làm được **phim ngắn cinema 70s emotional** từ AI workflow — long-form narrative chứ không chỉ commercial trailer.
 ---
 
 ## 📍 Navigation
