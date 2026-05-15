@@ -1,39 +1,40 @@
-# 📚 CURRICULUM — 0ai.vn Daily Tutorials 30 Ngày
+# 📚 CURRICULUM — 0ai.vn Daily Tutorials 28 Ngày
 
-> **Phiên bản 2.5** — Cập nhật ngày 11/05/2026
+> **Phiên bản 3.0** — Cập nhật ngày 15/05/2026
 > **Tác giả:** [Linh0AI](https://facebook.com/daclinh.tran)
-> **Status:** Tuần 1 ✅ | Tuần 2 ✅ | Tuần 3 ✅ COMPLETE (7/7) | Tuần 4 📋 Planned
+> **Status:** Tuần 1 ✅ | Tuần 2 ✅ | Tuần 3 ✅ | Tuần 4 ✅ — 28/28 DONE 🎉
 
 ---
 
 ## 🎯 Mục tiêu khóa học
 
-Sau 30 ngày, bạn sẽ:
+Sau 28 ngày, bạn sẽ:
 
 - ✅ Sử dụng thành thạo **3 model image flagship** trên 0ai.vn (Seedream 4.5, NBN2, GPT Image 2)
 - ✅ Làm chủ **5 kỹ năng cốt lõi** của AI image generation (prompt, composition, lighting, color, camera)
-- ✅ Tạo được **video AI** với Seedance 2.0
-- ✅ Có **portfolio thực tế** ~250+ ảnh và 5+ video tự tạo
+- ✅ Tạo được **video AI** với Seedance Omni 2.0 (text-to-video + image-to-video)
+- ✅ Sản xuất **short film 60s** (Tuần 3 pipeline)
+- ✅ Sản xuất **commercial ad 15-30s** cho TikTok/Reels (Tuần 4)
+- ✅ Sản xuất **cinema narrative 70s dài form** (Day 27)
+- ✅ Có **portfolio thực tế** ~250+ ảnh và 8+ video tự tạo
 - ✅ Biết **chiến lược chi phí** để tiết kiệm credit tối đa
-- ✅ Hoàn thành **case study quảng cáo 30 giây** thực hành
 
 ---
 
-## 🗺️ Bản đồ 30 ngày (Overview)
+## 🗺️ Bản đồ 28 ngày (Overview)
 
 | Tuần | Chủ đề chính | Tinh thần | Status |
 | --- | --- | --- | --- |
-| **Tuần 1** | Foundation — Làm quen 0ai.vn | "Học từ đầu cùng nhau" | ✅ **Done** |
-| **Tuần 2** | Master Skills — Kỹ năng cốt lõi | "Hiểu sâu mới làm pro" | ✅ **Done** |
-| **Tuần 3** | **Practical Production — Workflow thực tế** | "Production-ready cho creator" | 🔄 **4/7 done** |
-| **Tuần 4** | Video AI — Seedance 2.0 | "Bước sang thế giới video" | 📋 Planned |
-| **Day 29-30** | Case Study + Tổng kết | "Project cuối + chia tay" | 📋 Planned |
+| **Tuần 1** (Day 1-7) | Foundation — Làm quen 0ai.vn | "Học từ đầu cùng nhau" | ✅ Done |
+| **Tuần 2** (Day 8-14) | Master Skills — Kỹ năng cốt lõi | "Hiểu sâu mới làm pro" | ✅ Done |
+| **Tuần 3** (Day 15-21) | Practical Production — Short film pipeline | "Áp dụng vào dự án thật" | ✅ Done |
+| **Tuần 4** (Day 22-28) | Commercial + Cinema Narrative | "Production-ready output" | ✅ Done |
 
-**Tổng credit dự kiến cả khóa:** ~80,000-100,000 credit (~7-9% gói Ultra Member 1tr)
+**Tổng credit thực tế cả khóa:** ~240,000-460,000 credit (mỗi tuần có cost breakdown chi tiết trong từng bài)
 
 ---
 
-## 🟢 Tuần 1 — Foundation (Day 1-7) ✅ DONE
+## 🟢 Tuần 1 — Foundation (Day 1-7) ✅
 
 > **Mục tiêu tuần:** Quen với 0ai.vn, hiểu prompt cơ bản, biết test 2 model NBN2 + GPT Image 2
 
@@ -45,289 +46,99 @@ Sau 30 ngày, bạn sẽ:
 | **4** | Aspect Ratio, Resolution & Settings | Setting cơ bản | 12 | ✅ |
 | **5** | Prompt Tiếng Việt vs Tiếng Anh | Ngôn ngữ | 12 | ✅ |
 | **6** | Negative Prompt & Quality Tags | Negative prompt | 20 | ✅ |
-| **7** | Tổng kết Tuần 1 + Mini Challenge "Phong cảnh VN" | Recap + Launch challenge | 5 | ✅ |
+| **7** | Tổng kết Tuần 1 + Launch Mini Challenge "Phong cảnh VN" | Recap + Challenge | 5 | ✅ |
 
-**Tổng tuần 1:** ~85+ ảnh | Đã đăng đủ 7 bài
+**Tổng tuần 1:** ~85+ ảnh
 
 📍 **Folder:** [days/](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days)
 
 ---
 
-## 🔵 Tuần 2 — Master Skills (Day 8-14) ✅ DONE
+## 🔵 Tuần 2 — Master Skills (Day 8-14) ✅
 
 > **Mục tiêu tuần:** Master 1 model độc đáo (Seedream 4.5) + 5 kỹ năng cốt lõi của photography pro để áp dụng cho mọi model.
 >
 > **Tinh thần:** Sau Tuần 1 đã biết "tool", Tuần 2 học "skill" — ai nắm chắc lighting/composition/color sẽ tạo ảnh đẹp dù dùng model nào.
 
-| Day | Tiêu đề | Skill chính | Số ảnh | Status |
-| --- | --- | --- | --- | --- |
-| **8** | Seedream 4.5 Deep Dive — Vũ khí cho chân dung & sản phẩm | Model deep-dive | 9+1 bonus | ✅ |
-| **9** | Prompt Engineering nâng cao — Áo dài Việt | Weighted prompts, hierarchy ngôn ngữ | 12 | ✅ |
-| **10** | Composition & Framing — 5 quy tắc bố cục | Rule of thirds, leading lines, symmetry | 15 | ✅ |
-| **11** | Lighting Mastery — 6 loại ánh sáng cốt lõi | Golden hour, rim light, Rembrandt | 18 | ✅ |
-| **12** | Color Theory & Mood — Tone màu kể chuyện | Complementary, analogous, color schema | 12 | ✅ |
-| **13** | Camera & Lens trong Prompt | Focal length, f-stop, lens effects | 15 | ✅ |
-| **14** | Tổng kết Tuần 2 + Capstone Challenge | Tổng hợp 5 skills | 10 | ✅ |
+| Day | Tiêu đề | Skill chính | Highlight insight |
+| --- | --- | --- | --- |
+| **8** | Seedream 4.5 Deep Dive — Chân dung & Sản phẩm | Model deep-dive | 中文 > Hybrid > VN cho Seedream · Cảnh báo brand thật trong ảnh sản phẩm |
+| **9** | Prompt Engineering nâng cao — Áo dài Việt | 7 thành phần + weighted | Áo dài đỏ-phượng-đèn lồng = Tết VN authentic · Weighted `(keyword:1.4)` |
+| **10** | Composition & Framing — 5 rules cinema | Rule of Thirds + Golden Ratio + Leading Lines + Symmetry + Negative Space | Foreground/Midground/Background fix ảnh "flat" |
+| **11** | Lighting Mastery — 6 loại ánh sáng | Golden Hour + Blue Hour + Studio + Rim + Rembrandt + Neon | "Cinematic lighting" + "rim light" combo viral |
+| **12** | Color Theory & Mood — 4 schema | Complementary + Analogous + Triadic + Monochrome | Đổi 1 color keyword biến ảnh "đẹp bình thường" → "đẹp như poster phim" |
+| **13** | Camera & Lens — focal length + f-stop | 24/35/50/85/200mm + bokeh quality | "Shot on Sony A7IV, 85mm f/1.4" tăng realism 30% |
+| **14** | Tổng kết Tuần 2 + Capstone challenge | Tổng hợp 5 skills | 1 ảnh dùng đủ 5 skills = ngang ảnh stock trả phí |
 
-**Tổng tuần 2:** ~91 ảnh | ~37,300 credit
-
-📍 **Folder:** [days/](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days)
+**Tổng tuần 2:** ~91 ảnh
 
 ---
 
-## 🟣 Tuần 3 — Practical Production (Day 15-21) ✅ COMPLETE
+## 🟣 Tuần 3 — Practical Production (Day 15-21) ✅
 
-> **Mục tiêu tuần:** Đi từ "biết kỹ năng" lên "production-ready workflow" — từ file management cho creator, batch processing, đến tạo character consistent + storyboard cho animation thực sự.
+> **Mục tiêu tuần:** Đi từ "tạo 1 ảnh" lên "quy trình sản xuất thật" — short film pipeline với character sheets + storyboards + storyboard-to-video.
+
+| Day | Tiêu đề | Skill chính | Highlight |
+| --- | --- | --- | --- |
+| **15** | File & Folder Management cho creator AI | Workflow organization | Folder structure scale được cho production volume |
+| **16** | Workflow Batch Processing — 15 ảnh viral re-create | Batch production | 1 prompt template → 15 variations |
+| **17** | Character Sheets xianxia — 4 views + 6 expressions | Character consistency | Seedream 4.5 sheet pattern verified |
+| **18** | Storyboard Sheets 4×4 — 16 panels grid | Storyboard production | Hand-drawn watercolor + shot type badges |
+| **19** | Storyboard-to-Video Seedance — Short film "Đôi Kiếm Tiên" 60s | Pipeline production | Xianxia 60s film từ 1 session |
+| **20** | Pipeline 1 Session Pixar Comedy — "Chef vs Cockroach" 41s | Comedy pipeline | Pixar-style comedy 41s từ 1 session |
+| **21** | Tổng kết Tuần 3 + Master cheatsheet + Launch Mini Challenge "Cảnh phim VN" | Recap + Challenge | 2 short films verified + workflow cheatsheet |
+
+**Tổng tuần 3:** 2 short films production-ready (xianxia 60s + comedy 41s) + 128+ visuals
+
+---
+
+## 🟠 Tuần 4 — Commercial + Cinema Narrative (Day 22-28) ✅
+
+> **Mục tiêu tuần:** Production-ready commercial cho TikTok/Reels + cinema narrative dài form.
 >
-> **Tinh thần:** Sau Tuần 2 đã có skills, Tuần 3 build workflow để creator Việt **làm content thật** (không chỉ test).
->
-> **Lưu ý:** Tuần 3 đã pivot từ plan v2.0 ("Image-to-image, Inpainting, Upscale, Style Transfer") sang **Practical Production** vì creator Việt cần workflow thật hơn là kỹ thuật image manipulation đơn lẻ.
+> **Tinh thần:** Đỉnh kỹ thuật Tuần 4 — phim ngắn cinema 70s narrative emotional với multi-age character + multi-stage companion.
 
-### Day 15 — File & Folder Management cho Creator ✅
+| Day | Tiêu đề | Skill chính | Highlight insight |
+| --- | --- | --- | --- |
+| **22** | Brief & Kịch bản 15s + Risk Matrix Seedance | Commercial brief | Risk Matrix: LOW (F&B/beauty/street food) PASS · HIGH (sneaker/electronics) FAIL text-to-video |
+| **23** | 5 Craft Knowledge cho Ad AI | Hook + CTA + Sound + Text + Ratio | 5 hook patterns viral · 3-layer sound workflow |
+| **24** | Pipeline 9 Keyframes + 3 Videos Image-to-Video | Multi-ref pipeline | 4 loại Master Images · Anti-pop-in instruction · Cost 116K cho 1 ad 15s |
+| **25** | Pipeline Practice 3 ngành + Risk Matrix Verification | Industry adaptation | Sneaker FAIL FIXED với image-to-video · Anti-grid output pattern |
+| **26** | Cinema-Style 30s Trailer "Pháp phục lam" | Cinema commercial | Multi-ref Hybrid Pattern · Memorable Moment 5 conditions · Duplicate Person Bug Fix · Cost 76K |
+| **27** ⭐ | Cinema-Style 70s Narrative "Cậu và Bơ" | Cinema narrative dài form | **8 insights mới:** Seedance cap 15s · Filter #c455 · Text bleed · Single F1 multi-age · Hooded Figure VN-adapted · Multi-ref selective · CN > EN · Silence drops manual |
+| **28** | Tổng kết Tuần 4 + Launch Mini Challenge #3 "Video VN" | Recap + Challenge | Cheatsheet 1 trang · 7 themes gợi ý · Top 3 spotlight |
 
-> *Hệ thống folder để chứa 100+ ảnh test mà không loạn*
+**Tổng tuần 4:** 6+ videos production (4 commercial ads + 1 trailer 30s + 1 cinema 70s) · 8+ ảnh foundation · 8 storyboards · ~140-160K VND cost actual
 
-**Mục tiêu:**
-- Cấu trúc folder chuẩn cho creator AI image
-- Naming convention đồng nhất cho hàng trăm ảnh
-- Workflow backup + version control đơn giản
+### 📝 Note về pivot Tuần 4
 
-**Skill nổi bật:** Production hygiene — biết organize sớm = save 10h khi project lớn
+Curriculum v2.0 (08/05/2026) gốc planning Tuần 4 là:
+- D22 Intro Seedance · D23 Text-to-video · D24 Image-to-video · D25 Camera movement · D26 Character consistency · D27 So sánh Seedance vs VEO 3.1 vs Kling · D28 Tổng kết + Challenge
 
-📄 [days/day-15.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-15.md)
+→ **Mình đã pivot Tuần 4 v3.0 thực tế:** Skip phần "comparison test" (Day 26-27 gốc) và push lên **advanced production** (Cinema Trailer 30s + Cinema Narrative 70s). Decision rationale: Comparison test boring + outdated nhanh, advanced production viral + monetizable cho audience.
 
----
-
-### Day 16 — Workflow Batch Processing ✅
-
-> *Test 12+ ảnh trong 1 giờ thay vì 3-4 ảnh lẻ*
-
-**Mục tiêu:**
-- Batch test workflow: 5 concepts × 3 variants = 15 ảnh
-- Cách design batch để học insight nhanh
-- Naming convention cho batch outputs
-
-**Skill nổi bật:** Speed of iteration — quan trọng hơn quality từng ảnh đơn lẻ
-
-**Test:** 14-15 ảnh batch | ~12,500-13,500 credit
-
-📄 [days/day-16.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-16.md)
-
----
-
-### Day 17 — Tạo ảnh hoạt hình 3D Trung Quốc + Character Sheets ✅
-
-> *6 concepts xianxia × 2 ratio + 2 character sheets cho series content*
-
-**Mục tiêu:**
-- Master prompt 3D animation Trung Quốc (Phàm Nhân Tu Tiên + Ne Zha 2 + Bạch Xà style)
-- Phân biệt bố cục 9:16 (TikTok) vs 16:9 (YouTube)
-- Build **character sheet** giữ nhân vật consistent qua 30+ ảnh content
-
-**Skill nổi bật:**
-- 6 style references cụ thể tới phim Trung Quốc
-- 4 elements character sheet: multi-angle + expressions + poses + outfit close-up
-- 2 cách workflow: Single image character sheet / Image-to-Image với reference
-
-**Test:** 14 ảnh (12 chính + 2 BONUS character sheet) | ~12,600 credit
-
-**Insight:**
-- 13/14 đạt 5⭐ ngay lần đầu (92.8% thành công)
-- Hero: C5 Cultivator 16:9 — iconic xianxia hero shot
-- Character Sheet feature WORK — production-ready quality
-
-📄 [days/day-17.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-17.md)
-
----
-
-### Day 18 — Storyboard Sheets 4x4 với Motion Lines ✅
-
-> *4 boards × 4x4 grid = 64 panels production storyboard cho short film*
-
-**Mục tiêu:**
-- Tạo storyboard sheet 4x4 grid chuẩn animation production
-- Master prompt multi-panel layout với 16 panels distinct
-- Thêm motion lines (sword arcs, movement arrows, speed lines, trail effects)
-- Dùng character sheets từ Day 17 làm reference cho consistency
-
-**Skill nổi bật:**
-- Multi-panel storyboard generation với AI
-- 5 loại motion lines cho animation reference
-- "Couple-master" reference pattern cho 2-character scenes
-
-**Test:** 4 boards × 16 panels = 64 panels | ~3,600 credit (giảm 67% so với 12 single shots!)
-
-**Insight:**
-- 4/4 boards thành công ngay lần đầu — 0 re-gen needed
-- Star average 5.5/5 — cao nhất từ Tuần 2
-- Hero: Board 4 ACT 4 RESOLUTION — story arc emotional climax + sunset ending
-- Motion lines visible & useful cho video animation Day 19
-
-📄 [days/day-18.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-18.md)
-
----
-
-### Day 19 — Storyboard-to-Video Seedance 2.0 ✅
-
-> *Biến 4 boards storyboard Day 18 thành 1 short film xianxia 60s "Đôi Kiếm Tiên"*
-
-**Mục tiêu:**
-- Master workflow Image-to-Video với Seedance 2.0-Omni Professional-VIP
-- Hiểu pattern "Prevent Motion Lines Render" cho storyboard reference
-- Edit ghép 4 video clips thành 1 short film hoàn chỉnh trên CapCut
-- Pipeline production-grade Day 17 → 18 → 19
-
-**Skill nổi bật:**
-- 4 prompts video tiếng Trung pure (match xianxia aesthetic native)
-- Section [非常重要] explicit prevent AI render motion lines visible
-- Triple-locked character consistency: Day 17 sheet → Day 18 board → Day 19 video
-- Color palette progression dramatic (Clip 4 triple palette: dark → bright → sunset)
-
-**Test:** 4 video clips × 15s = 60s raw + 1 final film 60s | 216,000 credit (6 generates × 36K)
-
-**Insight:**
-- Star average **6.5/5** — vượt expectation
-- Hero clip: Clip 3 ACT 3 THREAT — back-to-back hero shot iconic
-- AI bonus creative: Clip 2 frame 14s — divine face overlay từ mây artistic
-- Pattern Storyboard-to-Video work tốt nhờ character lock kép từ Day 18
-- Cumulative ROI Day 17-19: ~232K VND → bộ deliverable studio level (~30-50tr VND value)
-
-📄 [days/day-19.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-19.md)
-
----
-
-### Day 20 — Pipeline Complete trong 1 Session (Pixar Comedy) ✅
-
-> *1 character sheet + 3 storyboards + 3 video clips = 1 short film comedy 41s trong 1 session work*
-
-**Mục tiêu:**
-- Master pattern "Pipeline complete trong 1 session" (kịch bản → ảnh → video → final)
-- Học cách viết kịch bản chi tiết 45s với 3 hồi + camera rules + beat-by-beat
-- Master Pixar 3D Western comedy genre (khác xianxia Day 17-19)
-- Verify tiếng Trung pure cho Pixar Western (counter-intuitive but works)
-
-**Skill nổi bật:**
-- Kịch bản chi tiết 45s với 3 hồi rõ ràng + camera rules 30/40/20/10 + beat-by-beat
-- Concept "Tornado-Cockroach": Creative metaphor solve logic narrative problem
-- Triple-locked character consistency cross-genre
-- AI bonus creative interpretations (antennae reveal, vertical tornado)
-
-**Project:** "Chef vs Cockroach" (Tom & Jerry-style slapstick comedy)
-
-**Test:** 1 character sheet + 3 storyboards × 16 = 49 visual + 3 videos × 15s = 45s raw → 41s edited final film | 111,600 credit total
-
-**Insight:**
-- Star average **8/5⭐** — HIGHEST của 30 days
-- Pattern Storyboard-to-Video work tốt cross-genre (xianxia → comedy)
-- Pattern pipeline complete 1 session là pattern khác Day 18-19 (3 patterns parallel, không hierarchy)
-- Hero clip: Clip 3 ACT 3 — cockroach victory pose punchline iconic
-- Cost cumulative Day 17-20: ~343,800 VND → 2 short films + 113 visual elements
-
-📄 [days/day-20.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-20.md)
-
----
-
-### Day 21 — Tổng kết Tuần 3 + Cheatsheet + Mini Challenge ✅
-
-> *Recap chi tiết 6 days + 7 insights lớn + master cheatsheet pipeline Day 17-20 + Mini Challenge cộng đồng*
-
-**Mục tiêu:**
-- Recap chi tiết Day 15-20 (mỗi day 1 section)
-- Hiểu 2 mạch pipeline xuyên Tuần 3 (Mạch A foundation + Mạch B video production)
-- Master cheatsheet 1 trang cho pipeline Storyboard-to-Video
-- Tham gia Mini Challenge cộng đồng
-
-**Content nổi bật:**
-- 2 mạch pipeline song song (Day 15-16 foundation + Day 17-20 video production)
-- 7 insights lớn cross-day (tiếng Việt thuần / tiếng Trung pure / @image1 king / camera 30-40-20-10 / metaphor concept / [非常重要] section / cross-genre universal)
-- Master cheatsheet 4-step pipeline
-- Mini Challenge: Short film 30s tự do, genre any, open-ended self-pace
-
-**Mini Challenge spec:**
-- Deliverable: 1 video 30s (genre tự do)
-- Pipeline: Apply Day 17-20 (1 char sheet + 2+ storyboards + 2 video × 15s + edit)
-- Cost dự kiến: ~75-76K VND
-- Duration: Open-ended self-pace
-
-**Cost cumulative Tuần 3:** ~357,300 VND (35.7% gói Ultra Member 1 triệu credit/tháng)
-
-**Output Tuần 3:**
-- 2 short films production-grade (xianxia "Đôi Kiếm Tiên" 60s + comedy "Chef vs Cockroach" 41s)
-- 128+ visual elements + 9 video files
-- 3 character sheets + 7 storyboards 4x4 (112 panels) + 14 ảnh xianxia + 15 ảnh viral
-
-📄 [days/day-21.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-21.md)
-
-> Topics có thể là: Mini Challenge, Multi-character series, Video editing advanced — mình sẽ chốt sau khi Day 19 hoàn thành để đảm bảo content khớp với gì creator Việt cần thật.
-
----
-
-**📊 Tổng tuần 3 dự kiến:**
-
-- ~150+ outputs (14 ảnh Day 17 + 64 panels Day 18 + 12-16 video Day 19 + Day 20-21)
-- ~95,000-100,000 credit (~9-10% gói Ultra Member)
-- 7 bài tutorial
-- Output cuối: 1 short film xianxia hoàn chỉnh (Day 19) + workflow production thực tế cho creator
-
----
-
-## 🟠 Tuần 4 — Video AI nâng cao + Multi-model (Day 22-28) 📋 PLANNED
-
-> **Mục tiêu tuần:** Mở rộng video AI ecosystem — so sánh Seedance vs VEO 3.1 vs Kling, character consistency video, ghép video phức tạp.
-
-| Day | Tiêu đề | Trọng tâm |
-| --- | --- | --- |
-| **22** | Text-to-video Seedance | Prompt video không cần ảnh source |
-| **23** | Camera movement nâng cao | Tracking shot, dolly, crane |
-| **24** | Character consistency video | Giữ nhân vật qua nhiều scene/clip |
-| **25** | So sánh Seedance vs VEO 3.1 | Pros/cons, when to use |
-| **26** | So sánh Seedance vs Kling | Pros/cons, when to use |
-| **27** | Multi-model workflow | Mix models cho project lớn |
-| **28** | Tổng kết Tuần 4 + Mini Challenge "Video Việt Nam" | Recap + Launch challenge |
-
-**Credit dự kiến tuần 4:** ~50,000-70,000 credit
-
----
-
-## 🏆 Day 29-30 — Capstone Project + Tổng kết 📋 PLANNED
-
-### Day 29 — Case Study: Quảng cáo 30 giây
-
-> *Project tổng hợp tất cả skills 28 ngày*
-
-**Deliverable:** 1 video quảng cáo 30s hoàn chỉnh cho 1 sản phẩm thật (tự chọn hoặc community vote)
-**Bao gồm:** ~10 ảnh storyboard + 5 video clip + ghép lại
-**Credit dự kiến:** ~15,000 credit
-
-### Day 30 — Tổng kết hành trình + Roadmap tiếp theo
-
-- Tổng kết 30 ngày — số liệu, insight, lesson learned
-- Top 10 tips không bao giờ dạy trong tutorial khác
-- Hướng đi tiếp theo cho người muốn pro hơn
-- Thank you community + roadmap "30 ngày tiếp theo" nếu có
+→ Trade-off: Bỏ qua một số topic basic (camera movement detailed, character consistency dedicated bài) → đã condense vào Day 25 + Day 26-27 thực hành.
 
 ---
 
 ## 🏆 Mini Challenges Schedule
 
-| Tên Challenge | Launch | Deadline | Chấm | Phần thưởng |
-| --- | --- | --- | --- | --- |
-| **#1 — Phong cảnh Việt Nam** | Day 7 | Day 13 | Day 14 | Top 3 mention trong Day 14 ✅ |
-| **#2 — Tái hiện cảnh phim Việt** | Day 14 | Day 20 | Day 21 | Top 3 mention + invite cộng đồng |
-| **#3 — Video Việt Nam** | Day 28 | Day 29 | Day 30 | Top 3 + spotlight trong tổng kết |
+| # | Tên Challenge | Launch | Deadline | Chấm | Phần thưởng |
+| --- | --- | --- | --- | --- | --- |
+| **#1** | Phong cảnh Việt Nam | Day 7 | Day 13 | Day 14 | Top 3 mention trong Day 14 |
+| **#2** | Tái hiện cảnh phim Việt | Day 14 | Day 20 | Day 21 | Top 3 mention + invite cộng đồng |
+| **#3** | Video Việt Nam | Day 28 | Day 29 | TBA | Top 3 spotlight + Best emotional moment + Best cost-efficiency |
 
 ---
 
-## 📊 Mục tiêu KPIs 30 ngày
+## 📊 KPIs Tuần 4 — đỉnh khóa học
 
-- [x] Đăng đủ **21/30 bài** (70%)
-- [ ] **100+ stars** trên GitHub repo
-- [ ] **1.000+ followers** Facebook fanpage
-- [ ] **500+ followers** X (Twitter)
-- [ ] **50+ người** tương tác đều trong Zalo group
-- [ ] **5+ bài viral** (>100 reactions)
-- [ ] Cộng đồng có **30+ submission** cho 3 Mini Challenges
-- [ ] Tổng cộng tạo **~250+ ảnh** + **5+ video** trong khóa (đang ~250 ảnh đã có)
+- ✅ Sản xuất **commercial ad 15-30s production-ready** với cost <100K VND
+- ✅ Sản xuất **cinema trailer 30s** cho sản phẩm high-emotion với Multi-ref Hybrid Pattern
+- ✅ Sản xuất **phim ngắn cinema narrative 70s** với multi-age character + 2 cry-trigger moments
+- ✅ Risk Matrix Seedance vs Branded Products verified với 6+ data points
+- ✅ 8 insights mới verified cho cinema narrative (Day 27)
+- ✅ Cost efficiency 2.0K VND/s cho cinema narrative (giảm 20% vs Day 26 trailer 2.5K/s)
 
 ---
 
@@ -338,7 +149,7 @@ Mọi bài tutorial đều theo:
 - ✅ **Friendly, conversational** — không academic
 - ✅ **Honest** — không tô vẽ, sẵn sàng nói tool có nhược điểm
 - ✅ **Practical first** — mọi tip phải actionable ngay
-- ✅ **Bilingual prompt** — luôn cho cả EN + VN version (hoặc CN nếu phù hợp)
+- ✅ **Bilingual prompt** — luôn cho cả EN + VN version (hoặc CN nếu phù hợp cho cinema)
 - ✅ **Có data thực tế** — số liệu từ test thật, không bịa
 - ✅ **Insight ít người dạy** — bí kíp pro mới cho người Việt
 - ✅ **Vietnamese first**, friendly, energetic emoji 🔥💪🚀
@@ -349,30 +160,22 @@ Mọi bài tutorial đều theo:
 
 Mỗi `day-XX.md` follow cấu trúc:
 
-1. Header (Title, Level 🟢🔵🟣, Time đọc/thực hành, ngày X/30)
-2. Mục tiêu hôm nay (3-5 bullets)
-3. Nội dung chính chia 3-7 phần
-4. Demo trực quan với ảnh comparison
-5. Cheatsheet 1 trang (nếu phù hợp)
-6. Thử thách hôm nay (3 cấp độ: 🟢 Newbie / 🔵 Intermediate / 🟣 Pro)
-7. FAQ (4-6 câu)
-8. Recap + Day tiếp theo
-9. Footer navigation + hashtags
-
----
-
-## 🤝 Đóng góp curriculum
-
-Curriculum này là **living document** — sẽ được điều chỉnh dựa trên feedback cộng đồng.
-
-Nếu bạn có:
-
-- 💡 **Đề xuất chuyên đề mới** cho Tuần 4
-- 🐛 **Phát hiện thông tin sai** trong bài đã đăng
-- 📊 **Data test khác** với Linh (rất quan trọng!)
-- 🎯 **Use case bạn muốn thấy** được cover
-
-→ Mở **Issue** trên repo, hoặc nhắn vào [Zalo group](https://zalo.me/g/umthmp096), hoặc comment dưới bài Facebook.
+1. Header (Title, Level 🟢🔵🟣, Time đọc/thực hành, ngày X/28)
+2. Top navigation (← Day prev · Index · Day next →)
+3. Mục tiêu hôm nay (3-5 bullets)
+4. Brief / Project (nếu phù hợp)
+5. Prompt file link (đầu bài cho audience access nhanh)
+6. Insights mới verified (nếu có)
+7. Nội dung chính chia 3-7 phần
+8. Demo trực quan với ảnh comparison hoặc embed video player
+9. Cheatsheet 1 trang (nếu phù hợp)
+10. Cost actual breakdown
+11. Bài tập thực hành (3 cấp độ: 🟢 Newbie / 🔵 Intermediate / 🟣 Pro)
+12. Lỗi thường gặp + cách tránh
+13. Recap + Day tiếp theo preview
+14. Bottom navigation
+15. Files đính kèm (nếu có)
+16. Footer date
 
 ---
 
@@ -391,16 +194,13 @@ Nếu bạn có:
 
 | Phiên bản | Ngày | Thay đổi |
 | --- | --- | --- |
-| **v2.5** | 11/05/2026 | ✅ **Day 21 hoàn thành** — Tổng kết Tuần 3 + Master cheatsheet pipeline + Mini Challenge cộng đồng. **Tuần 3 COMPLETE 7/7** với 2 short films production-grade (xianxia 60s + comedy 41s) + 128+ visual elements. Cost cumulative Tuần 3: ~357,300 VND (35.7% gói Ultra). Mini Challenge: Short film 30s tự do, open-ended self-pace. Progress: 21/30 (70%). |
-| **v2.4** | 11/05/2026 | ✅ **Day 20 hoàn thành** — Pattern Pipeline Complete trong 1 Session + Pixar Western comedy genre (8/5⭐ average, HIGHEST 30 days). Project "Chef vs Cockroach" 41s short film. Cost cumulative Day 17-20: ~343,800 VND. Tuần 3 status: 6/7 done. |
-| **v2.3** | 10/05/2026 | ✅ **Day 19 hoàn thành** — Storyboard-to-Video Seedance 2.0 (6.5/5⭐ average, 1 short film xianxia 60s "Đôi Kiếm Tiên" complete). Cost cumulative Day 17-19: ~232,200 VND. Tuần 3 status: 5/7 done. |
-| **v2.2** | 10/05/2026 | 🔄 **Tuần 3 PIVOT từ "Image Workflows" sang "Practical Production"** (file management, batch processing, 3D animation Trung Quốc, storyboard 4x4). Lý do: creator Việt cần workflow production thật hơn là kỹ thuật image manipulation đơn lẻ. Update: Tuần 2 ✅ Done, Day 17 + Day 18 đã hoàn thành với insights ấn tượng (character sheet feature, storyboard 4x4 64 panels, 0 re-gen rate). |
+| **v3.0** | 15/05/2026 | 🎉 **28/28 DONE** — Tuần 4 complete. Pivot Tuần 4 sang advanced production (Day 26 Cinema Trailer + Day 27 Cinema Narrative + Day 28 Recap & Mini Challenge). Bỏ Day 29-30 plan gốc — khóa kết thúc 28 ngày. Audience có thể vote khóa 31+ tiếp theo (audio production · multi-platform distribution · monetization). |
 | **v2.0** | 08/05/2026 | 🔄 Đổi Tuần 2 từ "Test các model mới" sang "Master Skills" (5 chuyên đề kỹ năng + 1 model deep-dive). Lý do: content kỹ năng evergreen hơn, không bị outdated. |
 | **v1.5** | ~06/05/2026 | Đổi Tuần 2 từ "Flux series" sang "Test Seedream 5/Z-Image/NBN Pro/Kling" (vì 0ai.vn không có Flux). |
 | **v1.0** | ~28/04/2026 | Curriculum gốc — Tuần 1 Foundation, Tuần 2 Flux series, Tuần 3 Workflows, Tuần 4 Video. |
 
 ---
 
-*Made with ❤️ by **Linh0AI** — chuỗi 30 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
+*Made with ❤️ by **Linh0AI** — chuỗi 28 ngày làm chủ AI tạo ảnh & video trên 0ai.vn 🇻🇳*
 
-*Cập nhật lần cuối: 11/05/2026 | Phiên bản 2.5*
+*Cập nhật lần cuối: 15/05/2026 | Phiên bản 3.0*
