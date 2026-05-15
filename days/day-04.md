@@ -333,7 +333,7 @@ Sau Day 4 bạn đã:
 
 ## ➡️ Ngày mai (Day 5)
 
-**Prompt tiếng Việt vs tiếng Anh — khi nào dùng cái nào?** Test thực tế: cùng 1 ý tưởng, 2 ngôn ngữ, kết quả khác nhau ra sao trên từng model.
+**Prompt Tiếng Việt vs Tiếng Anh: Khi nào dùng cái nào?** — Test thực tế: cùng 1 ý tưởng, 2 ngôn ngữ, kết quả khác nhau ra sao trên từng model.
 
 📌 **Đừng quên:** ⭐ Star repo, follow [Facebook](https://facebook.com/daclinh.tran) / [X](https://x.com/Daclinh0AI).
 
