@@ -461,7 +461,7 @@ Ngày mai mình deep dive **Lighting Mastery** — golden hour, blue hour, rim l
 ---
 
 ## 📍 Navigation
-[⬅️ Day 9: Prompt Engineering Nâng Cao](./day-09.md) | [🏠 README](../README.md) | [➡️ Day 11: Lighting Mastery](./day-11.md)
+[⬅️ Day 9: Prompt Engineering Nâng Cao: Áo Dài Việt qua Lăng Kính AI](./day-09.md) | [🏠 README](../README.md) | [➡️ Day 11: Lighting Mastery](./day-11.md)
 
 ## 🏷️ Tags
 `#0aiVN #Day10Linh0AI #Composition #RuleOfThirds #LeadingLines #Symmetry #NegativeSpace #Depth #GPTImage2 #HoiAn #ThaoDien #BrandCopyrightFix`
