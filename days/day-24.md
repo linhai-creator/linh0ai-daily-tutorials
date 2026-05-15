@@ -364,7 +364,7 @@ Sau Day 25, các bạn sẽ có **2 ads commercial production-ready** từ cùng
 
 ## 📍 Navigation
 
-[⬅️ Day 23: 5 Craft Knowledge](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-23.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 25: Pipeline Practice](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-25.md)
+[⬅️ Day 23: 5 Craft Knowledge cho Ad AI 15s](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-23.md) | [🏠 README](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/README.md) | [➡️ Day 25: Pipeline Practice 3 Ngành + Risk Matrix Verification](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-25.md)
 
 ---
 
