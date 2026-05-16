@@ -1,0 +1,157 @@
+============================================================
+DAY 30 — PROMPTS LIBRARY
+"Kling Motion 3.0 — Ghép động vật vào bối cảnh + Đổi dáng động vật theo người"
+============================================================
+
+Total: 2 image prompts VN
+- Prompt Dạng 1: Giữ nguyên bối cảnh, thay động vật giống dáng người
+- Prompt Dạng 2: Giữ nguyên bối cảnh động vật, đổi dáng theo người
+
+Note: Kling Motion 3.0 KHÔNG cần prompt — chỉ upload Ảnh ghép +
+Video motion ref, model tự động sao chép motion.
+
+Stack:
+- Image AI: GPT Image 2 hoặc Nano Banana 2 (trên 0ai.vn)
+- Video AI motion: Kling Motion 3.0 (trên 0ai.vn)
+- Edit: CapCut
+
+============================================================
+DẠNG 1 — GIỮ NGUYÊN BỐI CẢNH, THAY ĐỘNG VẬT GIỐNG DÁNG NGƯỜI
+============================================================
+Model: GPT Image 2 hoặc Nano Banana 2
+Refs: @image_1 = Ảnh 1 (bối cảnh + pose người mẫu)
+      @image_2 = Ảnh 2 (động vật)
+
+Use case:
+- Pet shop ad / coffee shop pet content
+- Meme "chó đi làm văn phòng"
+- Pet adoption story
+- Vlog pet creator
+
+Output: Động vật xuất hiện trong bối cảnh Ảnh 1, bắt chước
+        pose nhân vật Ảnh 1 (nhân hóa nhẹ, giữ giải phẫu).
+
+[PROMPT]
+
+Dùng Ảnh 1 làm bối cảnh, góc máy, bố cục và tư thế tham chiếu.
+Dùng Ảnh 2 làm động vật cần thay vào.
+Giữ nguyên bối cảnh, ánh sáng, màu sắc, góc máy, phối cảnh, bố cục và không gian của Ảnh 1.
+Thay nhân vật/chủ thể trong Ảnh 1 bằng con vật trong Ảnh 2.
+Giữ đúng nhận diện con vật ở Ảnh 2: loài, khuôn mặt, màu lông, pattern lông, tai, mắt, mũi, miệng, đuôi, vóc dáng và đặc điểm nổi bật riêng.
+Tư thế của con vật phải bám theo tinh thần pose của nhân vật trong Ảnh 1: vị trí trong khung hình, hướng cơ thể, góc đầu, hướng nhìn, trọng tâm, biểu cảm và dáng tổng thể.
+Cho phép nhân hoá nhẹ để con vật gần giống dáng nhân vật trong Ảnh 1 hơn, nhưng vẫn phải giữ hình thể động vật tự nhiên, hợp giải phẫu, không biến thành người hoàn toàn.
+
+Trang phục:
+Không lấy trang phục, phụ kiện, dây chuyền, áo, quần, mũ hoặc bất kỳ vật dụng nào của nhân vật trong Ảnh 1. Con vật trong Ảnh 2 phải giữ trạng thái gốc của nó. Nếu Ảnh 2 không có trang phục/phụ kiện thì con vật không mặc trang phục/phụ kiện. Nếu Ảnh 2 có phụ kiện thì chỉ giữ phụ kiện gốc của Ảnh 2.
+
+Hòa trộn con vật tự nhiên với bối cảnh Ảnh 1: ánh sáng, bóng đổ, độ nét, màu sắc, tiếp xúc mặt đất/bề mặt và tỷ lệ kích thước phải khớp môi trường.
+
+Negative:
+không lấy áo/quần/phụ kiện từ Ảnh 1, không mặc trang phục của nhân vật Ảnh 1 cho con vật, không thêm dây chuyền, không thêm mũ, không thêm phụ kiện lạ, không đổi bối cảnh, không đổi loài, không đổi màu lông, không đổi pattern lông, không biến thành người, không lai người-thú quá mức, không thừa chân, không thiếu chân, không méo mặt, không méo thân, không pose gượng ép, không viền cắt ghép, không chữ, không logo, không watermark.
+
+============================================================
+DẠNG 2 — GIỮ NGUYÊN BỐI CẢNH ĐỘNG VẬT, ĐỔI DÁNG THEO NGƯỜI
+============================================================
+Model: GPT Image 2 hoặc Nano Banana 2
+Refs: @image_1 = Ảnh 1 (CHỈ lấy pose/dáng người mẫu)
+      @image_2 = Ảnh 2 (động vật + bối cảnh động vật — ảnh chính)
+
+Use case:
+- Pet meme: chó bắt chước CEO/Iron Man pose
+- Pet portrait fashion magazine style
+- Viral content nhân vật nổi tiếng pose
+- Creative pet photoshoot
+
+Output: Động vật giữ nguyên identity + bối cảnh của Ảnh 2,
+        nhưng pose mới giống nhân vật Ảnh 1.
+
+[PROMPT]
+
+Dùng Ảnh 1 chỉ để tham chiếu pose/dáng đứng. Không lấy bối cảnh, khuôn mặt, trang phục, màu sắc hay ánh sáng từ Ảnh 1.
+Dùng Ảnh 2 làm ảnh chính. Giữ nguyên bối cảnh, góc máy, ánh sáng, màu sắc, phối cảnh và không gian của Ảnh 2. Giữ đúng nhận diện con vật trong Ảnh 2 gồm: loài, khuôn mặt, màu lông, pattern lông, tai, mắt, mũi, thân hình và đuôi.
+
+Yêu cầu quan trọng:
+BẮT BUỘC thay đổi pose hiện tại của con vật trong Ảnh 2 để giống pose/dáng của nhân vật trong Ảnh 1. Không giữ pose cũ của con vật trong Ảnh 2.
+
+Con vật phải bắt chước:
+- hướng cơ thể
+- góc đầu
+- hướng nhìn
+- trọng tâm cơ thể
+- độ nghiêng thân
+- vị trí chân trước/chân sau
+- cảm giác biểu cảm
+- framing trong khung hình
+
+Cho phép nhân hoá nhẹ để pose giống hơn, nhưng vẫn phải giữ giải phẫu động vật tự nhiên, không biến thành người hoàn toàn.
+
+Con vật vẫn phải hòa tự nhiên với bối cảnh của Ảnh 2:
+- bóng đổ đúng hướng
+- tỷ lệ cơ thể hợp lý
+- tiếp xúc mặt đất tự nhiên
+- ánh sáng đồng bộ
+- lông rõ nét
+- không cảm giác cắt ghép
+
+Kết quả cuối cùng:
+Giữ nguyên bối cảnh của Ảnh 2 nhưng con vật có pose mới giống rõ ràng với pose của nhân vật trong Ảnh 1.
+
+Negative:
+không giữ pose cũ của Ảnh 2, không lấy bối cảnh Ảnh 1, không đổi loài, không đổi màu lông, không sai pattern lông, không thừa chân, không thiếu chân, không méo mặt, không méo thân, không giải phẫu lỗi, không biến thành người hoàn toàn, không lai người-thú quá mức, không chữ, logo, watermark.
+
+============================================================
+BƯỚC 3 — KLING MOTION 3.0 (KHÔNG CẦN PROMPT)
+============================================================
+
+Workflow chỉ cần 2 input:
+- Ảnh đầu vào: Ảnh ghép 1 hoặc Ảnh ghép 2
+- Video tham chiếu: Video motion gốc
+
+→ Upload 2 input → Kling Motion tự generate Video.
+
+Tips chọn motion video cho pet content:
+✅ Đi đứng nhẹ, ngồi nói chuyện, tạo dáng
+❌ Tránh dance / action fast (pet không tự nhiên)
+❌ Tránh tay vẫy nhiều (pet không có tay người)
+
+============================================================
+TIPS FIX LỖI (KHÔNG CẦN PROMPT)
+============================================================
+
+1. Pet over-humanized (đi 2 chân, vẫy tay người)
+   → Chọn motion video nhẹ hơn (ngồi, đứng, xoay đầu)
+   → Tạo lại Ảnh ghép với prompt nhấn mạnh giải phẫu tự nhiên
+
+2. Identity con vật drift (mặt/lông sai)
+   → Tạo lại Ảnh ghép chất lượng cao hơn
+   → Đảm bảo Ảnh 2 có pet rõ ràng, đủ sáng
+   → Chọn loài đơn giản (chó, mèo) — tránh exotic species
+
+3. Pet thừa/thiếu chân
+   → Chọn motion video khung rộng (thấy đủ 4 chân)
+   → Tránh motion crop close-up tight
+
+4. Background bị méo (Dạng 2)
+   → Chọn motion video background đơn giản
+   → Tránh motion có camera movement mạnh
+
+5. Sai loài (chó → sói, mèo → báo)
+   → Tạo lại Ảnh ghép với prompt loài specific
+   → Đảm bảo Ảnh 2 không blur
+
+============================================================
+COST ACTUAL ƯỚC TÍNH (Day 30 — 2 dạng song song)
+============================================================
+
+- Ảnh ghép Dạng 1 (Image 2 / NBN2): ~5-15K VND
+- Ảnh ghép Dạng 2 (Image 2 / NBN2): ~5-15K VND
+- Video 1 Kling Motion (Dạng 1): ~25-50K VND
+- Video 2 Kling Motion (Dạng 2): ~25-50K VND
+- CapCut edit: 0K (free tool)
+- TỔNG: ~60-130K VND cho 2 videos pet content
+
+→ Nếu chỉ làm 1 dạng, cost = ~30-65K (giống Day 29).
+
+============================================================
+END OF DAY 30 PROMPTS LIBRARY
+============================================================
