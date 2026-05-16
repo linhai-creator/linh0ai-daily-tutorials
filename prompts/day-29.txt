@@ -1,0 +1,88 @@
+============================================================
+DAY 29 — PROMPTS LIBRARY
+"Kling Motion 3.0 — Thay nhân vật + sao chép chuyển động"
+============================================================
+
+Total: 1 prompt
+- 1 image prompt VN cho Bước 1 (tạo Ảnh 3)
+
+Note: Kling Motion 3.0 KHÔNG cần prompt — chỉ upload Ảnh 3 +
+Video motion gốc, model tự động sao chép motion.
+
+Stack:
+- Image AI: GPT Image 2 hoặc Nano Banana 2 (trên 0ai.vn)
+- Video AI motion: Kling Motion 3.0 (trên 0ai.vn)
+- Edit: CapCut
+
+============================================================
+BƯỚC 1 — TẠO ẢNH NHÂN VẬT MỚI (Image Prompt VN)
+============================================================
+Model: GPT Image 2 hoặc Nano Banana 2
+Refs: @image_1 = Ảnh 1 (bối cảnh) + @image_2 = Ảnh 2 (nhân vật)
+
+Dùng Ảnh 1 làm bối cảnh chính, giữ nguyên background, ánh sáng, góc máy, màu sắc và bố cục. Dùng nhân vật ở Ảnh 2 để thay vào vị trí nhân vật trong Ảnh 1.
+
+Giữ đúng khuôn mặt, tóc, thần thái, đặc điểm nhận dạng và trang phục gốc của nhân vật Ảnh 2. Không thay đổi kiểu quần áo, màu sắc chính, phụ kiện hoặc phong cách trang phục của nhân vật Ảnh 2.
+
+Cho nhân vật Ảnh 2 bắt chước đúng tư thế nhân vật trong Ảnh 1: dáng đứng/ngồi, hướng mặt, vị trí tay chân, trọng tâm cơ thể, hướng nhìn và tỷ lệ trong khung hình.
+
+Hòa trộn nhân vật thật tự nhiên với bối cảnh Ảnh 1: ánh sáng, bóng đổ, màu da, độ nét và phối cảnh phải đồng bộ. Chỉ điều chỉnh ánh sáng và màu tổng thể trên trang phục để phù hợp môi trường, không đổi thiết kế trang phục.
+
+Kết quả giống ảnh thật chụp cùng lúc, cùng địa điểm, không có cảm giác cắt ghép.
+
+Negative: không đổi background, không thêm người lạ, không đổi mặt, không đổi trang phục nhân vật Ảnh 2, không đổi phụ kiện, không méo tay, không méo mặt, không sai tỷ lệ, không viền cắt ghép, không ánh sáng lệch, không chữ, không logo, không watermark.
+
+============================================================
+BƯỚC 3 — KLING MOTION 3.0 (KHÔNG CẦN PROMPT)
+============================================================
+
+Workflow chỉ cần 2 input:
+- Ảnh đầu vào: Ảnh 3 vừa tạo từ Bước 1
+- Video tham chiếu: Video 1 có motion gốc
+
+→ Upload 2 input → Kling Motion 3.0 tự generate Video 2.
+
+Đây là điểm khác biệt lớn so với Seedance Omni 2.0:
+- Seedance: cần prompt CN/EN chi tiết 200-400 từ
+- Kling Motion 3.0: chỉ cần 2 input (image + video reference)
+
+============================================================
+BƯỚC 4 — TIPS KHI VIDEO BỊ LỖI (KHÔNG CẦN PROMPT)
+============================================================
+
+Vì Kling Motion 3.0 không có ô prompt, khi output lỗi thì cách fix
+là CHỌN LẠI INPUT chứ không phải tinh chỉnh text:
+
+1. Mặt méo / không giống
+   → Tạo lại Ảnh 3 sharp hơn
+   → Chọn motion video nhẹ (ít nghiêng đầu)
+   → Ảnh 2 phải có mặt rõ, đủ sáng, góc thẳng
+
+2. Chuyển động quá mạnh
+   → Chọn motion video nhẹ, chậm
+   → Tránh video dance / action
+
+3. Trang phục bị đổi
+   → Tạo lại Ảnh 3 với outfit rõ ràng hơn
+   → Tránh motion video nhân vật mặc trang phục quá khác Ảnh 3
+
+4. Tay bị lỗi
+   → Chọn motion video có tay đơn giản
+   → Tránh gesture nhanh, vẫy tay phức tạp
+
+5. Camera bị lệch
+   → Chọn motion video có composition giống Ảnh 3
+   → Tránh motion video có camera movement mạnh
+
+============================================================
+COST ACTUAL ƯỚC TÍNH (Day 29)
+============================================================
+
+- Ảnh 3 generate (GPT Image 2 / NBN2): ~5-15K VND (1 + 1-2 regen)
+- Video Kling Motion 3.0: ~25-50K VND (1 + 1-2 regen)
+- CapCut edit: 0K (free tool)
+- TỔNG: ~30-65K VND cho 1 video character-replace 5-10s
+
+============================================================
+END OF DAY 29 PROMPTS LIBRARY
+============================================================
