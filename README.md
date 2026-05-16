@@ -1,8 +1,8 @@
-# 🎨 0ai.vn Daily Tutorials — 28 Ngày Làm Chủ AI Tạo Ảnh & Video
+# 🎨 0ai.vn Daily Tutorials — 30 Ngày Làm Chủ AI Tạo Ảnh & Video
 
-[![Banner](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/assets/images/banner.png)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/assets/images/banner.png)
+[![Banner](https://github.com/linhai-creator/raw/main/assets/images/banner.png)](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/assets/images/banner.png)
 
-> Hành trình 28 ngày học cách dùng **0ai.vn** để tạo ảnh trên nhiều model khác nhau, làm video bằng **Seedance 2.0**, và sản xuất quảng cáo commercial AI — từ con số 0 đến tự tin sản xuất nội dung.
+> Hành trình 30 ngày học cách dùng **0ai.vn** để tạo ảnh trên nhiều model khác nhau, làm video bằng **Seedance 2.0 + Kling Motion 3.0**, và sản xuất quảng cáo commercial AI — từ con số 0 đến tự tin sản xuất nội dung.
 >
 > 💡 **Bạn không cần biết code.** Chỉ cần đọc bài, copy prompt và thực hành trực tiếp trên 0ai.vn.
 
@@ -16,12 +16,12 @@ Tuần 2: ███████ 7/7 ✅ Master Skills
 Tuần 3: ███████ 7/7 ✅ Practical Production (2 short films + 128+ visuals)
 Tuần 4: ███████ 7/7 ✅ Commercial Production + Cinema Narrative
 
-████████████████████████████  28/28 ngày (100%)
+████████████████████████████  30/30 ngày (100%)
 ```
 
 > 🏆 **Tuần 3 COMPLETE** — 2 short films production: xianxia "Đôi Kiếm Tiên" 60s + comedy "Chef vs Cockroach" 41s.
 >
-> 🎬 **Tuần 4 COMPLETE** — Commercial production pipeline: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Pipeline cà phê 15s) → Day 25 (Practice 3 ngành + Risk Matrix verified) → Day 26 (Cinema trailer 30s pháp phục lam) → Day 27 (Cinema narrative 70s "Cậu và Bơ") → Day 28 (Tổng kết + Mini Challenge "Video VN").
+> 🎬 **Tuần 4 COMPLETE** — Commercial + Cinema Narrative + Character Replace + Pet Content: Day 22 (Brief + Kịch bản 15s) → Day 23 (5 craft knowledge) → Day 24 (Pipeline cà phê 15s) → Day 25 (Practice 3 ngành + Risk Matrix verified) → Day 26 (Cinema trailer 30s pháp phục lam) → Day 27 (Cinema narrative 70s "Cậu và Bơ") → Day 28 (Tổng kết + Mini Challenge "Video VN") → Day 29 (Kling Motion 3.0 Character Replace) → Day 30 (Kling Motion 3.0 Pet Content — 2 dạng).
 
 ---
 
@@ -29,7 +29,7 @@ Tuần 4: ███████ 7/7 ✅ Commercial Production + Cinema Narrative
 
 ---
 
-## 📌 Quyển sách này dành cho ai?
+## 📌 Repo này dành cho ai?
 
 | Level | Bạn sẽ học được |
 | --- | --- |
@@ -39,7 +39,7 @@ Tuần 4: ███████ 7/7 ✅ Commercial Production + Cinema Narrative
 
 ## 🎯 Học xong bạn sẽ làm được gì?
 
-Sau 28 ngày, bạn sẽ biết:
+Sau 30 ngày, bạn sẽ biết:
 
 - 🎨 Tạo ảnh AI bằng nhiều model trên 0ai.vn (**Nano Banana 2, GPT Image 2, Seedream 4.5** và các model khác)
 - ✍️ Viết prompt rõ ràng, dễ kiểm soát kết quả — không còn "đoán mò"
@@ -51,7 +51,7 @@ Sau 28 ngày, bạn sẽ biết:
 - 🎯 **Chọn đúng model theo từng nhu cầu** — xem [📖 Models Cheatsheet](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md)
 - 💰 Tối ưu chi phí — biết khi nào nạp Credit, khi nào dùng Subscription
 
-→ **Tóm lại:** Sau 28 ngày, bạn có thể **kiếm tiền từ kỹ năng AI tạo ảnh/video** — làm cho khách, build content shop online, làm freelance creator, hoặc nhận job commercial ad cho brand nhỏ.
+→ **Tóm lại:** Sau 30 ngày, bạn có thể **kiếm tiền từ kỹ năng AI tạo ảnh/video** — làm cho khách, build content shop online, làm freelance creator, hoặc nhận job commercial ad cho brand nhỏ.
 
 Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào thì đọc kỹ phần đó, lướt nhanh phần khác.
 
@@ -97,7 +97,7 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 20** | Pipeline 1 Session Pixar Comedy — "Chef vs Cockroach" 41s | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-20.md) |
 | **Day 21** | Tổng kết Tuần 3 + Master cheatsheet + Mini Challenge | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-21.md) |
 
-### Tuần 4 — Commercial Production + Cinema Narrative (Day 22-28) ✅
+### Tuần 4 — Commercial + Cinema Narrative + Character Replace + Pet Content (Day 22-30) ✅
 
 | Ngày | Chủ đề | Level | Link |
 | --- | --- | --- | --- |
@@ -108,6 +108,8 @@ Mỗi bài đều có **gắn nhãn level** ở đầu — bạn ở level nào 
 | **Day 26** | Cinema-Style 30s Trailer — Pháp Phục Lam Phật Tử Việt Nam | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-26.md) |
 | **Day 27** ⭐ | Cinema-Style 70s Narrative: "Cậu và Bơ — 30 năm Sài Gòn" | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-27.md) |
 | **Day 28** | Tổng kết Tuần 4 + Mini Challenge #3 "Video Việt Nam" | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-28.md) |
+| **Day 29** | Kling Motion 3.0 — Thay nhân vật + Sao chép chuyển động | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-29.md) |
+| **Day 30** 🎉 | Kling Motion 3.0 — Ghép động vật vào bối cảnh + Đổi dáng động vật (2 dạng) | 🟣 | [📖 Đọc](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/days/day-30.md) |
 
 📊 [Pricing Guide](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/PRICING.md) · 📖 [Models Cheatsheet](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/MODELS-CHEATSHEET.md) · 📚 [Curriculum đầy đủ](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CURRICULUM.md) · 📝 [Changelog](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/CHANGELOG.md) · 💬 [Nhóm Zalo](https://zalo.me/g/umthmp096)
 
@@ -182,7 +184,27 @@ Sau khi master short film pipeline (Tuần 3), Tuần 4 chuyển sang **commerci
 - 7 themes gợi ý + specs (30-60s · 9:16 · 1+ cry-trigger · VN authenticity)
 - Top 3 work mention spotlight + Best emotional moment + Best cost-efficiency
 
-→ Học viên sau Tuần 4 có thể **nhận job freelance commercial ad** cho brand nhỏ (cà phê / serum / F&B / street food / **branded fashion / pháp phục tâm linh / gift hiếu thảo high-emotion**), cost production ~75-150K VND/ad. Và **sản xuất phim ngắn cinema narrative** cho personal brand hoặc client niche emotional storytelling.
+### Day 29 — Kling Motion 3.0: Thay nhân vật + Sao chép chuyển động
+
+- **Workflow character replace** với 2 ảnh input (bối cảnh + nhân vật) → Ảnh 3 ghép → Video Kling Motion
+- **Kling Motion 3.0 KHÔNG cần prompt** — chỉ upload Ảnh 3 + Video motion gốc, model tự sao chép motion + lipsync
+- 5 tips fix lỗi không cần prompt (chọn lại Ảnh 3 / motion video / composition match)
+- 3 bài tập 3 levels (🟢 Newbie 1 ảnh / 🔵 Trung cấp full workflow / 🟣 Pro batch 3 nhân vật)
+- Cost actual: ~30-65K VND cho 1 video character-replace 5-10s
+- Use cases: UGC content · KOL AI · fashion · cosplay · viral re-creation
+
+### Day 30 🎉 — Kling Motion 3.0: Ghép động vật vào bối cảnh + Đổi dáng động vật (BÀI CUỐI KHÓA)
+
+- **2 dạng workflow song song** cho pet content viral:
+  - **Dạng 1 — Giữ nguyên bối cảnh, thay động vật giống dáng người:** Thay nhân vật mẫu bằng pet vào đúng bối cảnh người (use case: pet shop ad · meme "chó đi làm")
+  - **Dạng 2 — Giữ nguyên bối cảnh động vật, đổi dáng theo người:** Pet vẫn ở bối cảnh của nó, chỉ đổi pose theo người (use case: pet meme · pet portrait fashion)
+- Cùng stack Image 2 + Kling Motion 3.0 nhưng output khác hoàn toàn Day 29
+- 5 demo ảnh + 2 demo video verified với pug case study
+- 5 insights pet content: anatomy trade-off · pose nhân hóa · pattern lông · motion theo loài
+- Cost actual: ~60-130K VND cho cả 2 dạng (~30-65K nếu chỉ 1 dạng)
+- **Course wrap-up khóa 30 ngày** + chấm Mini Challenge "Video VN" + roadmap khóa 31+
+
+→ Học viên sau Tuần 4 có thể **nhận job freelance commercial ad** cho brand nhỏ (cà phê / serum / F&B / street food / **branded fashion / pháp phục tâm linh / gift hiếu thảo high-emotion**), cost production ~75-150K VND/ad. Và **sản xuất phim ngắn cinema narrative** cho personal brand hoặc client niche emotional storytelling. Đặc biệt với Day 29-30 workflow Kling Motion 3.0, **làm UGC content thay nhân vật + pet content viral** trở thành kỹ năng quan trọng cho KOL AI, fashion creators, pet shop owners và viral meme makers.
 
 ---
 
@@ -248,10 +270,10 @@ Sẵn sàng tạo ảnh/video AI đầu tiên của bạn? Làm theo 4 bước:
 📍 **Bắt đầu học:** [START-HERE.md](https://github.com/linhai-creator/linh0ai-daily-tutorials/blob/main/START-HERE.md)
 💬 **Cộng đồng hỗ trợ:** [Nhóm Zalo](https://zalo.me/g/umthmp096)
 
-> 💡 **Bí kíp thành công:** Đừng chỉ đọc — hãy **làm theo từng ngày**. Mỗi bài chỉ mất 30-60 phút thực hành. Sau 28 ngày, bạn sẽ ngạc nhiên về những gì mình tạo ra được.
+> 💡 **Bí kíp thành công:** Đừng chỉ đọc — hãy **làm theo từng ngày**. Mỗi bài chỉ mất 30-60 phút thực hành. Sau 30 ngày, bạn sẽ ngạc nhiên về những gì mình tạo ra được.
 
 ---
 
 **Tác giả:** Linh0AI — [Facebook](https://facebook.com/daclinh.tran) | [TikTok](https://www.tiktok.com/@linh0ai) | [YouTube](https://www.youtube.com/@daclinh0ai)
 
-**Cập nhật lần cuối:** Day 28 hoàn thành — 15/05/2026 (Tuần 4 Day 7 — Tổng kết Tuần 4 + Mini Challenge "Video Việt Nam")
+**Cập nhật lần cuối:** Day 30 hoàn thành — 16/05/2026 (Tuần 4 Day 9 — Kling Motion 3.0 Pet Content 2 dạng · Bài cuối khóa 30 ngày 🎉)
